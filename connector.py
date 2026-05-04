@@ -198,31 +198,67 @@ def generate_playlist_data(search_field):
         if os.path.exists(temp_filename):
             os.remove(temp_filename)
 
+QUEUE_FILE = "requested_genres.txt"
+
+def load_queue():
+    if not os.path.exists(QUEUE_FILE):
+        return []
+    with open(QUEUE_FILE, "r", encoding="utf-8") as f:
+        return [line.strip() for line in f if line.strip()]
+
+def clear_queue():
+    """Empties the queue file after successful nightly processing."""
+    with open(QUEUE_FILE, "w", encoding="utf-8") as f:
+        f.write("")
+
 if __name__ == "__main__":
     locked_genres = load_locked_genres()
     custom_genre = os.environ.get("CUSTOM_GENRE")
     
     if custom_genre:
-        print(f"\n--- ON-DEMAND REQUEST DETECTED: {custom_genre} ---")
+        # THE WAITER: Fast mode. Just log the request and exit! (Takes 5 seconds)
+        print(f"\n--- ON-DEMAND REQUEST LOGGED: {custom_genre} ---")
         
-        # Check if the human locked it before we try to generate it!
-        if custom_genre.lower() in locked_genres:
-            print(f"  [!] Aborting. '{custom_genre}' is protected in {LOCKED_FILE}.")
+        # Check if we already have it in the queue or main list
+        existing_genres = load_genres()
+        queued_genres = load_queue()
+        all_known = [g.lower() for g in existing_genres + queued_genres]
+        
+        if custom_genre.lower() not in all_known:
+            with open(QUEUE_FILE, "a", encoding="utf-8") as f:
+                f.write(custom_genre + "\n")
+            print(f"  [+] Successfully added to {QUEUE_FILE}. Waiting for nightly run.")
         else:
-            generate_playlist_data(custom_genre)
-            add_genre_to_file(custom_genre)
+            print(f"  [-] Genre already exists in database or queue. Skipping.")
             
     else:
-        print("\n--- MONTHLY BATCH UPDATE STARTED ---")
+        # THE CHEF: Nightly/Monthly Batch Processing
+        print("\n--- BATCH UPDATE STARTED ---")
+        
+        # 1. Process the Queue first!
+        queued_genres = load_queue()
+        if queued_genres:
+            print(f"Found {len(queued_genres)} new requests in {QUEUE_FILE}!")
+            for genre in queued_genres:
+                do_update, reason = should_update_genre(genre, locked_genres)
+                if do_update:
+                    generate_playlist_data(genre)
+                    # Move to the permanent list so we update it next month
+                    add_genre_to_file(genre) 
+                    time.sleep(5)
+            
+            # Wipe the queue clean now that we are done!
+            clear_queue()
+            print("Queue cleared.")
+            
+        # 2. Process the regular Monthly Updates
         genres_to_process = load_genres()
-        print(f"Loaded {len(genres_to_process)} genres from {GENRES_FILE}")
+        print(f"\nChecking {len(genres_to_process)} existing genres from {GENRES_FILE}")
         
         for genre in genres_to_process:
-            # THE SMART CACHE CHECK
             do_update, reason = should_update_genre(genre, locked_genres)
-            
             if do_update:
                 generate_playlist_data(genre)
                 time.sleep(5) 
             else:
-                print(f"\n⏭️ SKIPPING '{genre}': {reason}")
+                print(f"⏭️ SKIPPING '{genre}': {reason}")
