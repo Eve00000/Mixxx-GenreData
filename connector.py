@@ -13,7 +13,8 @@ if not GEMINI_API_KEY:
 
 genai.configure(api_key=GEMINI_API_KEY)
 
-musicbrainzngs.set_useragent("MixxxGenreDataConnector", "1.0", "your_email@example.com")
+# Replace YOUR_USERNAME with your actual GitHub username
+musicbrainzngs.set_useragent("MixxxGenreDataConnector", "1.0", "https://github.com/Eve00000/Mixxx-GenreData")
 
 def get_artists_from_gemini(search_field, num_artists=30):
     print(f"Asking Gemini for {num_artists} artists defining: '{search_field}'...")
