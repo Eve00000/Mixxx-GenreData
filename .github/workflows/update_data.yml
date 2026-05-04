@@ -10,9 +10,9 @@ on:
         required: false
         type: string
 
-concurrency:
-  group: playlist-generator
-  cancel-in-progress: false
+##concurrency:
+#group: playlist-generator
+#  cancel-in-progress: false
   
 jobs:
   update-playlists:
