@@ -1,6 +1,7 @@
 import os
 import json
 import time
+from datetime import datetime, timezone
 import musicbrainzngs
 from google import genai
 from google.genai import types
@@ -11,37 +12,80 @@ if not GEMINI_API_KEY:
     raise ValueError("GEMINI_API_KEY environment variable not found!")
 
 client = genai.Client(api_key=GEMINI_API_KEY)
-musicbrainzngs.set_useragent("MixxxGenreDataConnector", "3.0", "https://github.com/Eve00000/Mixxx-GenreData")
+musicbrainzngs.set_useragent("MixxxGenreDataConnector", "4.0", "https://github.com/YOUR_USERNAME/Mixxx-GenreData")
 
 GENRES_FILE = "genres.txt"
+LOCKED_FILE = "locked_genres.txt"
+
+def load_locked_genres():
+    """Loads the list of genres that should NEVER be updated by the bot."""
+    if not os.path.exists(LOCKED_FILE):
+        with open(LOCKED_FILE, "w", encoding="utf-8") as f:
+            f.write("# Add genres here (one per line) that you NEVER want the bot to update.\n")
+            f.write("# (e.g. because you manually curated them or they never change)\n")
+            f.write("60s Soul\n")
+            f.write("80s New Wave\n")
+        return ["60s soul", "80s new wave"]
+        
+    with open(LOCKED_FILE, "r", encoding="utf-8") as f:
+        # Ignore empty lines and comments, return lowercase for easy matching
+        return [line.strip().lower() for line in f if line.strip() and not line.startswith("#")]
 
 def load_genres():
-    """Loads genres from the text file. Creates it with defaults if missing."""
     if not os.path.exists(GENRES_FILE):
-        default_genres = [
-            "New Wave", "80s New Wave", "Punk", "70s Punk", "80s Punk",
-            "Postpunk", "Pop", "60s Pop", "70s Pop", "80s Pop", "90s Pop"
-        ]
+        default_genres = ["Synthwave", "90s Eurodance"]
         with open(GENRES_FILE, "w", encoding="utf-8") as f:
             f.write("\n".join(default_genres) + "\n")
         return default_genres
         
     with open(GENRES_FILE, "r", encoding="utf-8") as f:
-        # Strip whitespace and ignore empty lines
         return [line.strip() for line in f if line.strip()]
 
 def add_genre_to_file(new_genre):
-    """Appends a new genre to the text file if it doesn't already exist."""
     existing_genres = load_genres()
-    # Case-insensitive check to avoid duplicates (e.g. "Pop" vs "pop")
     if new_genre.lower() not in [g.lower() for g in existing_genres]:
         with open(GENRES_FILE, "a", encoding="utf-8") as f:
             f.write(new_genre + "\n")
-        print(f"  [+] Added '{new_genre}' to {GENRES_FILE} for future monthly updates.")
+        print(f"  [+] Added '{new_genre}' to {GENRES_FILE}.")
 
-def get_tracks_from_gemini(search_field, category_prompt, num_tracks=100):
-    print(f"  -> Asking Gemini for {num_tracks} tracks: '{category_prompt}'...")
+def should_update_genre(search_field, locked_genres):
+    """The Smart Cache: Decides if we actually need to spend time generating this genre."""
     
+    # 1. Is it manually locked by the human?
+    if search_field.lower() in locked_genres:
+        return False, f"Locked by human in {LOCKED_FILE}"
+        
+    filename = f"{search_field.replace(' ', '_').lower()}.json"
+    
+    # 2. Does the file even exist yet?
+    if not os.path.exists(filename):
+        return True, "File does not exist yet."
+        
+    # 3. Check the age and track count of the existing file
+    try:
+        with open(filename, 'r', encoding='utf-8') as f:
+            data = json.load(f)
+            
+        total_tracks = data.get("TotalTracks", 0)
+        timestamp_str = data.get("Timestamp", "")
+        
+        if timestamp_str:
+            # Parse the time from the JSON and compare to right now
+            last_update = datetime.strptime(timestamp_str, "%Y-%m-%dT%H:%M:%SZ").replace(tzinfo=timezone.utc)
+            now = datetime.now(timezone.utc)
+            age_in_days = (now - last_update).days
+            
+            # The rule: < 20 days old AND > 350 tracks = Skip it!
+            if age_in_days < 20 and total_tracks > 350:
+                return False, f"Recently updated ({age_in_days} days ago) and has {total_tracks} tracks."
+                
+    except Exception as e:
+        return True, f"Error reading existing file, forcing update."
+        
+    return True, f"Needs update. (Older than 20 days or has < 350 tracks)."
+
+def get_tracks_from_gemini(search_field, category_prompt, num_tracks=50):
+    print(f"  -> Asking Gemini for {num_tracks} tracks: '{category_prompt}'...")
     prompt = f"""
     You are an expert music historian and club DJ. 
     Provide exactly {num_tracks} tracks for the genre/theme: "{search_field}".
@@ -49,7 +93,6 @@ def get_tracks_from_gemini(search_field, category_prompt, num_tracks=100):
     Output ONLY a valid JSON array of objects. Each object must have keys "TrackArtist" and "TrackTitle".
     Example: [{{"TrackArtist": "Joy Division", "TrackTitle": "Love Will Tear Us Apart"}}]
     """
-    
     try:
         response = client.models.generate_content(
             model='gemini-2.5-flash',
@@ -79,8 +122,6 @@ def generate_playlist_data(search_field):
     
     all_tracks = []
     
-    # 14 Highly specific DJ categories x 50 tracks = 700 tracks
-    # Smaller batches prevent the AI from getting "lazy" and stopping early.
     categories = [
         "The absolute biggest mainstream pop/radio hits of this genre",
         "Iconic One-Hit Wonders and viral sensations",
@@ -99,7 +140,6 @@ def generate_playlist_data(search_field):
     ]
     
     for category in categories:
-        # Ask for 50 at a time!
         gemini_tracks = get_tracks_from_gemini(search_field, category, num_tracks=50)
         for t in gemini_tracks:
             t['Category'] = category 
@@ -110,10 +150,10 @@ def generate_playlist_data(search_field):
         print(f"[!] No tracks returned for {search_field}. Aborting.")
         return
 
-    print(f"  -> Verifying {len(all_tracks)} tracks against MusicBrainz... (This takes a few minutes)")
+    print(f"  -> Verifying tracks against MusicBrainz... (This takes a few minutes)")
     
     final_tracks = []
-    seen_mbids = set() # This is our Deduplicator!
+    seen_mbids = set() 
     
     for track in all_tracks:
         raw_artist = track.get("TrackArtist", "")
@@ -121,7 +161,6 @@ def generate_playlist_data(search_field):
         
         mbid, clean_artist, clean_title = get_recording_mbid(raw_artist, raw_title)
         
-        # If we found it, AND we haven't already added this exact MBID to our list
         if mbid and mbid not in seen_mbids:
             seen_mbids.add(mbid)
             final_tracks.append({
@@ -130,8 +169,7 @@ def generate_playlist_data(search_field):
                 "MBID": mbid,
                 "Category": track['Category']
             })
-            
-        time.sleep(1) # Respect MusicBrainz rate limit
+        time.sleep(1) 
         
     print(f"  -> Successfully verified and deduplicated {len(final_tracks)} unique tracks!")
         
@@ -154,28 +192,37 @@ def generate_playlist_data(search_field):
         with open(temp_filename, 'w', encoding='utf-8') as f:
             json.dump(final_playlist, f, indent=4)
         os.replace(temp_filename, target_filename)
-        print(f"SUCCESS! Saved {len(final_tracks)} canonical tracks to {target_filename}")
+        print(f"SUCCESS! Saved {len(final_tracks)} tracks to {target_filename}")
     except Exception as e:
         print(f"[!] File save error: {e}")
         if os.path.exists(temp_filename):
             os.remove(temp_filename)
 
 if __name__ == "__main__":
+    locked_genres = load_locked_genres()
     custom_genre = os.environ.get("CUSTOM_GENRE")
     
     if custom_genre:
-        print(f"\n--- ON-DEMAND REQUEST DETECTED ---")
-        # 1. Generate the JSON for this specific request
-        generate_playlist_data(custom_genre)
-        # 2. Add it to our master list so it gets updated every month!
-        add_genre_to_file(custom_genre)
+        print(f"\n--- ON-DEMAND REQUEST DETECTED: {custom_genre} ---")
         
+        # Check if the human locked it before we try to generate it!
+        if custom_genre.lower() in locked_genres:
+            print(f"  [!] Aborting. '{custom_genre}' is protected in {LOCKED_FILE}.")
+        else:
+            generate_playlist_data(custom_genre)
+            add_genre_to_file(custom_genre)
+            
     else:
         print("\n--- MONTHLY BATCH UPDATE STARTED ---")
-        # 1. Load the dynamic list from the text file
         genres_to_process = load_genres()
         print(f"Loaded {len(genres_to_process)} genres from {GENRES_FILE}")
         
         for genre in genres_to_process:
-            generate_playlist_data(genre)
-            time.sleep(5) 
+            # THE SMART CACHE CHECK
+            do_update, reason = should_update_genre(genre, locked_genres)
+            
+            if do_update:
+                generate_playlist_data(genre)
+                time.sleep(5) 
+            else:
+                print(f"\n⏭️ SKIPPING '{genre}': {reason}")
