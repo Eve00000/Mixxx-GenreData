@@ -11,7 +11,7 @@ if not GEMINI_API_KEY:
     raise ValueError("GEMINI_API_KEY environment variable not found!")
 
 client = genai.Client(api_key=GEMINI_API_KEY)
-musicbrainzngs.set_useragent("MixxxGenreDataConnector", "3.0", "https://github.com/YOUR_USERNAME/Mixxx-GenreData")
+musicbrainzngs.set_useragent("MixxxGenreDataConnector", "3.0", "https://github.com/Eve00000/Mixxx-GenreData")
 
 GENRES_FILE = "genres.txt"
 
