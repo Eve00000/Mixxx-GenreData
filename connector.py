@@ -79,28 +79,41 @@ def generate_playlist_data(search_field):
     
     all_tracks = []
     
-    # 5 Categories x 100 tracks = 500 tracks total
+    # 14 Highly specific DJ categories x 50 tracks = 700 tracks
+    # Smaller batches prevent the AI from getting "lazy" and stopping early.
     categories = [
-        "Massive mainstream hits and absolute floor-fillers",
+        "The absolute biggest mainstream pop/radio hits of this genre",
         "Iconic One-Hit Wonders and viral sensations",
         "Underground, deep cuts, and cult club classics",
-        "Essential remixes, alternative versions, and DJ favorites",
-        "Hidden gems, B-sides, and influential album tracks"
+        "Essential 12-inch remixes and extended DJ versions",
+        "Hidden gems, B-sides, and influential album tracks",
+        "High-energy peak-time floor fillers",
+        "Warm-up tracks, early evening grooves, and mid-tempo hits",
+        "Late-night anthems and closing tracks",
+        "Crossover hits that also charted in other genres",
+        "Critically acclaimed masterpieces and award-winning tracks",
+        "Songs occuring most on playlists on youtube for this genre",
+        "Songs occuring most on playlists on spotify for this genre",
+        "Songs occuring most on playlists on deezer for this genre",
+        "Songs occuring most on playlists on soundcloud for this genre"        
     ]
     
     for category in categories:
-        gemini_tracks = get_tracks_from_gemini(search_field, category, num_tracks=100)
+        # Ask for 50 at a time!
+        gemini_tracks = get_tracks_from_gemini(search_field, category, num_tracks=50)
         for t in gemini_tracks:
             t['Category'] = category 
             all_tracks.append(t)
-        time.sleep(3) # Give Gemini a breather
+        time.sleep(3) 
         
     if not all_tracks:
         print(f"[!] No tracks returned for {search_field}. Aborting.")
         return
 
-    print(f"  -> Verifying {len(all_tracks)} tracks against MusicBrainz... (This takes about 8 minutes)")
+    print(f"  -> Verifying {len(all_tracks)} tracks against MusicBrainz... (This takes a few minutes)")
+    
     final_tracks = []
+    seen_mbids = set() # This is our Deduplicator!
     
     for track in all_tracks:
         raw_artist = track.get("TrackArtist", "")
@@ -108,7 +121,9 @@ def generate_playlist_data(search_field):
         
         mbid, clean_artist, clean_title = get_recording_mbid(raw_artist, raw_title)
         
-        if mbid:
+        # If we found it, AND we haven't already added this exact MBID to our list
+        if mbid and mbid not in seen_mbids:
+            seen_mbids.add(mbid)
             final_tracks.append({
                 "TrackArtist": clean_artist, 
                 "TrackTitle": clean_title,   
@@ -117,6 +132,8 @@ def generate_playlist_data(search_field):
             })
             
         time.sleep(1) # Respect MusicBrainz rate limit
+        
+    print(f"  -> Successfully verified and deduplicated {len(final_tracks)} unique tracks!")
         
     if len(final_tracks) < 50:
         print(f"[!] Only verified {len(final_tracks)} tracks. Aborting to protect existing file.")
