@@ -239,6 +239,8 @@ if __name__ == "__main__":
         queued_genres = load_queue()
         if queued_genres:
             print(f"Found {len(queued_genres)} new requests in {QUEUE_FILE}!")
+            # Remove any exact duplicates just in case!
+            queued_genres = list(set(queued_genres))
             for genre in queued_genres:
                 do_update, reason = should_update_genre(genre, locked_genres)
                 if do_update:
