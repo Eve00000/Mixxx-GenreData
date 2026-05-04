@@ -1,108 +1,127 @@
 import os
 import json
 import time
-import requests
 import musicbrainzngs
 from google import genai
 from google.genai import types
 
 # --- Configuration ---
-# This safely pulls the API key from GitHub Secrets
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY")
 if not GEMINI_API_KEY:
     raise ValueError("GEMINI_API_KEY environment variable not found!")
 
-# Initialize the new Gemini Client
 client = genai.Client(api_key=GEMINI_API_KEY)
+musicbrainzngs.set_useragent("MixxxGenreDataConnector", "3.0", "https://github.com/YOUR_USERNAME/Mixxx-GenreData")
 
-# Using your GitHub repo as the User Agent
-musicbrainzngs.set_useragent("MixxxGenreDataConnector", "1.0", "https://github.com/Eve00000/Mixxx-GenreData")
+GENRES_FILE = "genres.txt"
 
-def get_artists_from_gemini(search_field, num_artists=30):
-    print(f"Asking Gemini for {num_artists} artists defining: '{search_field}'...")
+def load_genres():
+    """Loads genres from the text file. Creates it with defaults if missing."""
+    if not os.path.exists(GENRES_FILE):
+        default_genres = [
+            "New Wave", "80s New Wave", "Punk", "70s Punk", "80s Punk",
+            "Postpunk", "Pop", "60s Pop", "70s Pop", "80s Pop", "90s Pop"
+        ]
+        with open(GENRES_FILE, "w", encoding="utf-8") as f:
+            f.write("\n".join(default_genres) + "\n")
+        return default_genres
+        
+    with open(GENRES_FILE, "r", encoding="utf-8") as f:
+        # Strip whitespace and ignore empty lines
+        return [line.strip() for line in f if line.strip()]
+
+def add_genre_to_file(new_genre):
+    """Appends a new genre to the text file if it doesn't already exist."""
+    existing_genres = load_genres()
+    # Case-insensitive check to avoid duplicates (e.g. "Pop" vs "pop")
+    if new_genre.lower() not in [g.lower() for g in existing_genres]:
+        with open(GENRES_FILE, "a", encoding="utf-8") as f:
+            f.write(new_genre + "\n")
+        print(f"  [+] Added '{new_genre}' to {GENRES_FILE} for future monthly updates.")
+
+def get_tracks_from_gemini(search_field, category_prompt, num_tracks=100):
+    print(f"  -> Asking Gemini for {num_tracks} tracks: '{category_prompt}'...")
     
     prompt = f"""
-    You are an expert music historian and DJ. 
-    Provide the {num_artists} most definitive and popular musical artists for the category: "{search_field}".
-    Output ONLY a valid JSON array of strings containing the artist names.
-    Example: ["Joy Division", "The Cure", "Depeche Mode"]
+    You are an expert music historian and club DJ. 
+    Provide exactly {num_tracks} tracks for the genre/theme: "{search_field}".
+    Specifically, these tracks must fit this vibe: {category_prompt}.
+    Output ONLY a valid JSON array of objects. Each object must have keys "TrackArtist" and "TrackTitle".
+    Example: [{{"TrackArtist": "Joy Division", "TrackTitle": "Love Will Tear Us Apart"}}]
     """
     
     try:
-        # The new v2 Gemini SDK format
         response = client.models.generate_content(
             model='gemini-2.5-flash',
             contents=prompt,
-            config=types.GenerateContentConfig(
-                response_mime_type="application/json",
-            )
+            config=types.GenerateContentConfig(response_mime_type="application/json")
         )
         return json.loads(response.text)
     except Exception as e:
-        print(f"Error communicating with Gemini: {e}")
+        print(f"  [!] Error communicating with Gemini: {e}")
         return []
 
-def get_artist_mbid(artist_name):
+def get_recording_mbid(artist, title):
     try:
-        result = musicbrainzngs.search_artists(query=f'artist:"{artist_name}"', limit=1)
-        if result.get('artist-list'):
-            return result['artist-list'][0]['id']
+        query = f'artist:"{artist}" AND recording:"{title}"'
+        result = musicbrainzngs.search_recordings(query=query, limit=1)
+        if result.get('recording-list'):
+            rec = result['recording-list'][0]
+            return rec['id'], rec.get('artist-credit-phrase', artist), rec.get('title', title)
     except Exception as e:
-        print(f"MusicBrainz API error for {artist_name}: {e}")
-    return None
+        pass
+    return None, artist, title
 
-def get_top_tracks_from_listenbrainz(artist_mbid):
-    url = f"https://api.listenbrainz.org/1/popularity/top-recordings-for-artist/{artist_mbid}"
-    headers = {"User-Agent": "MixxxGenreDataConnector/1.0"}
-    try:
-        response = requests.get(url, headers=headers)
-        if response.status_code == 200:
-            data = response.json()
-            return data.get('payload', data) if isinstance(data, dict) else data
-    except Exception as e:
-        print(f"ListenBrainz request error: {e}")
-    return []
-
-def generate_playlist_data(search_field, num_artists=50, tracks_per_artist=10):
-    artists = get_artists_from_gemini(search_field, num_artists)
-    if not artists:
-        print(f"  [!] No artists returned for {search_field}. Aborting update.")
-        return
-
+def generate_playlist_data(search_field):
+    print(f"\n========================================")
+    print(f" CRATE DIGGING: {search_field} (Target: 500 Tracks)")
+    print(f"========================================")
+    
     all_tracks = []
-    print(f"Resolving {len(artists)} artists against MusicBrainz & ListenBrainz...")
     
-    for artist in artists:
-        mbid = get_artist_mbid(artist)
-        if not mbid:
-            continue
-            
-        lb_data = get_top_tracks_from_listenbrainz(mbid)
-        if isinstance(lb_data, list):
-            for track in lb_data[:tracks_per_artist]:
-                all_tracks.append({
-                    "TrackArtist": track.get("artist_name", artist),
-                    "TrackTitle": track.get("recording_name", "Unknown Title"),
-                    "MBID": track.get("recording_mbid"),
-                    "ListenCount": track.get("total_listen_count", 0)
-                })
-        time.sleep(1) # Be polite to APIs
+    # 5 Categories x 100 tracks = 500 tracks total
+    categories = [
+        "Massive mainstream hits and absolute floor-fillers",
+        "Iconic One-Hit Wonders and viral sensations",
+        "Underground, deep cuts, and cult club classics",
+        "Essential remixes, alternative versions, and DJ favorites",
+        "Hidden gems, B-sides, and influential album tracks"
+    ]
+    
+    for category in categories:
+        gemini_tracks = get_tracks_from_gemini(search_field, category, num_tracks=100)
+        for t in gemini_tracks:
+            t['Category'] = category 
+            all_tracks.append(t)
+        time.sleep(3) # Give Gemini a breather
         
-    # Sort by popularity
-    all_tracks.sort(key=lambda x: x["ListenCount"], reverse=True)
-    final_tracks = all_tracks[:500]
-    
-    # ==========================================
-    # SECURITY & DATA INTEGRITY CHECKS
-    # ==========================================
-    
-    # 1. Sanity check: Did we actually get tracks?
-    # If the APIs failed, we might have 0. Let's demand at least 10 tracks to consider it a "success".
-    if len(final_tracks) < 10:
-        print(f"  [!] Warning: Only found {len(final_tracks)} tracks for {search_field}.")
-        print("  [!] Aborting save to protect existing playlist data.")
+    if not all_tracks:
+        print(f"[!] No tracks returned for {search_field}. Aborting.")
         return
+
+    print(f"  -> Verifying {len(all_tracks)} tracks against MusicBrainz... (This takes about 8 minutes)")
+    final_tracks = []
     
+    for track in all_tracks:
+        raw_artist = track.get("TrackArtist", "")
+        raw_title = track.get("TrackTitle", "")
+        
+        mbid, clean_artist, clean_title = get_recording_mbid(raw_artist, raw_title)
+        
+        if mbid:
+            final_tracks.append({
+                "TrackArtist": clean_artist, 
+                "TrackTitle": clean_title,   
+                "MBID": mbid,
+                "Category": track['Category']
+            })
+            
+        time.sleep(1) # Respect MusicBrainz rate limit
+        
+    if len(final_tracks) < 50:
+        print(f"[!] Only verified {len(final_tracks)} tracks. Aborting to protect existing file.")
+        return
+        
     final_playlist = {
         "SearchField": search_field,
         "Timestamp": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()),
@@ -110,37 +129,36 @@ def generate_playlist_data(search_field, num_artists=50, tracks_per_artist=10):
         "Tracks": final_tracks
     }
     
-    # 2. Set up filenames
     base_filename = f"{search_field.replace(' ', '_').lower()}"
     target_filename = f"{base_filename}.json"
     temp_filename = f"{base_filename}_new.json"
     
     try:
-        # 3. Write to the temporary file first
         with open(temp_filename, 'w', encoding='utf-8') as f:
             json.dump(final_playlist, f, indent=4)
-            
-        # 4. Swap files (Atomic replace)
-        # This deletes the old target_filename and renames temp_filename to target_filename instantly.
         os.replace(temp_filename, target_filename)
-        
-        print(f"Success! Updated {target_filename} with {len(final_tracks)} tracks.")
-        
+        print(f"SUCCESS! Saved {len(final_tracks)} canonical tracks to {target_filename}")
     except Exception as e:
-        print(f"  [!] File save error for {search_field}: {e}")
-        # Clean up the leftover temp file if something crashed during the write
+        print(f"[!] File save error: {e}")
         if os.path.exists(temp_filename):
             os.remove(temp_filename)
 
 if __name__ == "__main__":
-    # Add or remove genres here!
-    GENRES_TO_PROCESS = [
-        "New Wave", "80s New Wave", 
-        "Punk", "70s Punk", "80s Punk", "Postpunk",
-        "Pop", "60s Pop", "70s Pop", "80s Pop", "90s Pop"
-    ]
+    custom_genre = os.environ.get("CUSTOM_GENRE")
     
-    for genre in GENRES_TO_PROCESS:
-        print(f"\n--- Starting: {genre} ---")
-        generate_playlist_data(genre, num_artists=250, tracks_per_artist=2)
-        time.sleep(5) # Pause between genres
+    if custom_genre:
+        print(f"\n--- ON-DEMAND REQUEST DETECTED ---")
+        # 1. Generate the JSON for this specific request
+        generate_playlist_data(custom_genre)
+        # 2. Add it to our master list so it gets updated every month!
+        add_genre_to_file(custom_genre)
+        
+    else:
+        print("\n--- MONTHLY BATCH UPDATE STARTED ---")
+        # 1. Load the dynamic list from the text file
+        genres_to_process = load_genres()
+        print(f"Loaded {len(genres_to_process)} genres from {GENRES_FILE}")
+        
+        for genre in genres_to_process:
+            generate_playlist_data(genre)
+            time.sleep(5) 
