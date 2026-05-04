@@ -45,6 +45,6 @@ jobs:
           git config --global user.email "action@github.com"
           git add *.json genres.txt locked_genres.txt
           git commit -m "Auto-update playlist data" || echo "No changes to commit"
-          # Union strategy  = if a conflict happens!
-          git pull --rebase origin main --strategy-option=union
+          # Standard merge (no-rebase) with Union to keep both human and robot edits!
+          git pull origin main --no-rebase -X union
           git push
