@@ -37,7 +37,7 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           # THIS IS THE BRIDGE: It takes the input from your app and gives it to Python!
           CUSTOM_GENRE: ${{ inputs.custom_genre }}
-        run: python connector.py
+        run: python -u connector.py
 
       - name: Commit and Push the new JSON files
         run: |
