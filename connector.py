@@ -66,6 +66,7 @@ def get_top_tracks_from_listenbrainz(artist_mbid):
 def generate_playlist_data(search_field, num_artists=50, tracks_per_artist=10):
     artists = get_artists_from_gemini(search_field, num_artists)
     if not artists:
+        print(f"  [!] No artists returned for {search_field}. Aborting update.")
         return
 
     all_tracks = []
@@ -91,6 +92,17 @@ def generate_playlist_data(search_field, num_artists=50, tracks_per_artist=10):
     all_tracks.sort(key=lambda x: x["ListenCount"], reverse=True)
     final_tracks = all_tracks[:500]
     
+    # ==========================================
+    # SECURITY & DATA INTEGRITY CHECKS
+    # ==========================================
+    
+    # 1. Sanity check: Did we actually get tracks?
+    # If the APIs failed, we might have 0. Let's demand at least 10 tracks to consider it a "success".
+    if len(final_tracks) < 10:
+        print(f"  [!] Warning: Only found {len(final_tracks)} tracks for {search_field}.")
+        print("  [!] Aborting save to protect existing playlist data.")
+        return
+    
     final_playlist = {
         "SearchField": search_field,
         "Timestamp": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()),
@@ -98,12 +110,27 @@ def generate_playlist_data(search_field, num_artists=50, tracks_per_artist=10):
         "Tracks": final_tracks
     }
     
-    # Save file with a clean name (e.g., "80s_new_wave.json")
-    filename = f"{search_field.replace(' ', '_').lower()}.json"
-    with open(filename, 'w', encoding='utf-8') as f:
-        json.dump(final_playlist, f, indent=4)
+    # 2. Set up filenames
+    base_filename = f"{search_field.replace(' ', '_').lower()}"
+    target_filename = f"{base_filename}.json"
+    temp_filename = f"{base_filename}_new.json"
+    
+    try:
+        # 3. Write to the temporary file first
+        with open(temp_filename, 'w', encoding='utf-8') as f:
+            json.dump(final_playlist, f, indent=4)
+            
+        # 4. Swap files (Atomic replace)
+        # This deletes the old target_filename and renames temp_filename to target_filename instantly.
+        os.replace(temp_filename, target_filename)
         
-    print(f"Success! Saved {len(final_tracks)} tracks to {filename}")
+        print(f"Success! Updated {target_filename} with {len(final_tracks)} tracks.")
+        
+    except Exception as e:
+        print(f"  [!] File save error for {search_field}: {e}")
+        # Clean up the leftover temp file if something crashed during the write
+        if os.path.exists(temp_filename):
+            os.remove(temp_filename)
 
 if __name__ == "__main__":
     # Add or remove genres here!
