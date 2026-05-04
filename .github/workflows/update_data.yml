@@ -1,9 +1,13 @@
 name: Monthly Playlist Data Updater
-
 on:
   schedule:
     - cron: '0 0 1 * *'
   workflow_dispatch:
+    inputs:
+      custom_genre:
+        description: 'Create a specific genre on-demand'
+        required: false
+        type: string
 
 jobs:
   update-playlists:
