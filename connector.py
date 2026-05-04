@@ -142,5 +142,5 @@ if __name__ == "__main__":
     
     for genre in GENRES_TO_PROCESS:
         print(f"\n--- Starting: {genre} ---")
-        generate_playlist_data(genre, num_artists=50, tracks_per_artist=10)
+        generate_playlist_data(genre, num_artists=250, tracks_per_artist=2)
         time.sleep(5) # Pause between genres
