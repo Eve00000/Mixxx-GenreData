@@ -44,6 +44,7 @@ jobs:
           git config --global user.name "GitHub Action Bot"
           git config --global user.email "action@github.com"
           git add *.json genres.txt locked_genres.txt requested_genres.txt
+          git add -A
           git commit -m "Auto-update playlist data" || echo "No changes to commit"
           # Standard merge (no-rebase) with Union to keep both human and robot edits!
           git pull origin main --no-rebase -X union
