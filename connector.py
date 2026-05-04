@@ -2,8 +2,9 @@ import os
 import json
 import time
 import requests
-import google.generativeai as genai
 import musicbrainzngs
+from google import genai
+from google.genai import types
 
 # --- Configuration ---
 # This safely pulls the API key from GitHub Secrets
@@ -11,28 +12,34 @@ GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY")
 if not GEMINI_API_KEY:
     raise ValueError("GEMINI_API_KEY environment variable not found!")
 
-genai.configure(api_key=GEMINI_API_KEY)
+# Initialize the new Gemini Client
+client = genai.Client(api_key=GEMINI_API_KEY)
 
-# Replace YOUR_USERNAME with your actual GitHub username
+# Using your GitHub repo as the User Agent
 musicbrainzngs.set_useragent("MixxxGenreDataConnector", "1.0", "https://github.com/Eve00000/Mixxx-GenreData")
 
 def get_artists_from_gemini(search_field, num_artists=30):
     print(f"Asking Gemini for {num_artists} artists defining: '{search_field}'...")
-    model = genai.GenerativeModel(
-        model_name="gemini-2.5-flash",
-        generation_config={"response_mime_type": "application/json"}
-    )
+    
     prompt = f"""
     You are an expert music historian and DJ. 
     Provide the {num_artists} most definitive and popular musical artists for the category: "{search_field}".
     Output ONLY a valid JSON array of strings containing the artist names.
     Example: ["Joy Division", "The Cure", "Depeche Mode"]
     """
-    response = model.generate_content(prompt)
+    
     try:
+        # The new v2 Gemini SDK format
+        response = client.models.generate_content(
+            model='gemini-2.5-flash',
+            contents=prompt,
+            config=types.GenerateContentConfig(
+                response_mime_type="application/json",
+            )
+        )
         return json.loads(response.text)
-    except json.JSONDecodeError:
-        print("Error: Gemini did not return valid JSON.")
+    except Exception as e:
+        print(f"Error communicating with Gemini: {e}")
         return []
 
 def get_artist_mbid(artist_name):
