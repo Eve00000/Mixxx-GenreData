@@ -32,7 +32,7 @@ jobs:
         run: |
           git config --global user.name "GitHub Action Bot"
           git config --global user.email "action@github.com"
-          git add *.json
+          git add *.json genres.txt locked_genres.txt
           git commit -m "Auto-update playlist data and genres" || echo "No changes to commit"
           git pull --rebase origin main
           git push
