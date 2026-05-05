@@ -263,7 +263,6 @@ def get_all_tracks_from_gemini(search_field, categories, max_retries=4):
   The keys of the JSON object must be the exact category strings provided above.
   The value for each key must be an array of objects.
   Each object must have keys "TrackArtist" and "TrackTitle".
-  """
   
   Example structure:
   {{
