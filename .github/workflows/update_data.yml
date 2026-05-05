@@ -44,5 +44,5 @@ jobs:
           CUSTOM_GENRE: ${{ inputs.custom_genre }}
         run: python -u connector.py
 
-          git pull origin main --no-rebase -X union
-          git push
+          # git pull origin main --no-rebase -X union
+          # git push
