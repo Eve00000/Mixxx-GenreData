@@ -232,6 +232,20 @@ def should_update_genre(search_field, locked_genres):
 def get_all_tracks_from_gemini(search_field, categories, max_retries=4):
   print(f" -> Asking Gemini to build the ENTIRE crate in ONE request... (Saving 13 API calls!)")
   
+  # prompt = f"""
+  # You are an expert music historian and club DJ. 
+  # Provide a massive playlist for the genre/theme: "{search_field}".
+  
+  # You must categorize the tracks into the exact following vibes:
+  # {json.dumps(categories, indent=2)}
+  
+  # For EACH category, provide exactly 30 tracks.
+  
+  # Output ONLY a single valid JSON object. Do not use markdown blocks.
+  # The keys of the JSON object must be the exact category strings provided above.
+  # The value for each key must be an array of objects.
+  # Each object must have keys "TrackArtist" and "TrackTitle".
+
   prompt = f"""
   You are an expert music historian and club DJ. 
   Provide a massive playlist for the genre/theme: "{search_field}".
@@ -239,12 +253,17 @@ def get_all_tracks_from_gemini(search_field, categories, max_retries=4):
   You must categorize the tracks into the exact following vibes:
   {json.dumps(categories, indent=2)}
   
-  For EACH category, provide exactly 30 tracks.
+  CRITICAL RULES:
+  1. DO NOT REPEAT TRACKS. Every single track across the entire JSON must be 100% unique.
+  2. DO NOT INVENT REMIXES. If a genre (like Opera, Jazz, or Classical) does not typically have "12-inch remixes" or "club floor fillers", provide the most essential, famous standard recordings for those categories instead. Real tracks only.
+  
+  For EACH category, provide exactly 40 tracks.
   
   Output ONLY a single valid JSON object. Do not use markdown blocks.
   The keys of the JSON object must be the exact category strings provided above.
   The value for each key must be an array of objects.
   Each object must have keys "TrackArtist" and "TrackTitle".
+  """
   
   Example structure:
   {{
@@ -304,16 +323,38 @@ def get_all_tracks_from_gemini(search_field, categories, max_retries=4):
   print(f"    [!] Failed to get tracks after {max_retries} attempts.")
   return []
 
+# def get_recording_mbid(artist, title):
+#     try:
+#         query = f'artist:"{artist}" AND recording:"{title}"'
+#         result = musicbrainzngs.search_recordings(query=query, limit=1)
+#         if result.get('recording-list'):
+#             rec = result['recording-list'][0]
+#             return rec['id'], rec.get('artist-credit-phrase', artist), rec.get('title', title)
+#     except Exception as e:
+#         pass
+#     return None, artist, title
+
 def get_recording_mbid(artist, title):
-    try:
-        query = f'artist:"{artist}" AND recording:"{title}"'
-        result = musicbrainzngs.search_recordings(query=query, limit=1)
-        if result.get('recording-list'):
-            rec = result['recording-list'][0]
-            return rec['id'], rec.get('artist-credit-phrase', artist), rec.get('title', title)
-    except Exception as e:
-        pass
-    return None, artist, title
+  try:
+    # Attempt 1: Strict Exact Match
+    query = f'artist:"{artist}" AND recording:"{title}"'
+    result = musicbrainzngs.search_recordings(query=query, limit=1)
+    
+    # Attempt 2: Loose/Fuzzy Match (If strict fails)
+    if not result.get('recording-list'):
+      # Just search the words together like a normal search engine
+      loose_query = f'{artist} {title}'
+      result = musicbrainzngs.search_recordings(query=loose_query, limit=1)
+
+    if result.get('recording-list'):
+      rec = result['recording-list'][0]
+      # Make sure MusicBrainz is at least 50% confident it's a real track
+      if int(rec.get('ext:score', 0)) > 50:
+        return rec['id'], rec.get('artist-credit-phrase', artist), rec.get('title', title)
+  except Exception as e:
+    pass
+    
+  return None, artist, title
 
 # def generate_playlist_data(search_field):
 #     print(f"\n========================================")
