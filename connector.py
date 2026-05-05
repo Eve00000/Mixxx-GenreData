@@ -158,24 +158,32 @@ def get_all_tracks_from_gemini(search_field, categories, max_retries=4):
 
 def get_recording_mbid(artist, title):
     try:
+        # Clean the text so special characters don't break the MusicBrainz search engine
+        safe_artist = artist.replace('"', '').replace(':', '').replace('-', ' ')
+        safe_title = title.replace('"', '').replace(':', '').replace('-', ' ')
+
         # Attempt 1: Strict Exact Match
-        query = f'artist:"{artist}" AND recording:"{title}"'
+        query = f'artist:"{safe_artist}" AND recording:"{safe_title}"'
         result = musicbrainzngs.search_recordings(query=query, limit=1)
 
         # Attempt 2: Loose/Fuzzy Match (If strict fails)
         if not result.get('recording-list'):
-            loose_query = f'{artist} {title}'
+            loose_query = f'{safe_artist} {safe_title}'
             result = musicbrainzngs.search_recordings(query=loose_query, limit=1)
 
         if result.get('recording-list'):
-            rec = result['recording-list']
+            rec = result['recording-list'][0]  # <--- THE MISSING [0] HAS BEEN ADDED!
+            
+            # Make sure MusicBrainz is at least 50% confident it's the right track
             if int(rec.get('ext:score', 0)) > 50:
                 return rec['id'], rec.get('artist-credit-phrase', artist), rec.get('title', title)
+                
     except Exception as e:
+        # If MusicBrainz throws an error, we ignore it and return None
         pass
 
     return None, artist, title
-
+    
 def generate_playlist_data(search_field):
     print(f"\n========================================")
     print(f" CRATE DIGGING: {search_field} (Target: 560 Tracks)")
