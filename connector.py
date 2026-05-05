@@ -199,7 +199,7 @@ def generate_playlist_data(search_field):
         for t in gemini_tracks:
             t['Category'] = category 
             all_tracks.append(t)
-        time.sleep(3) 
+        time.sleep(5) 
 
     print(f"\n========================================")
     print(f" [i] AI Generation Complete: {len(all_tracks)} total raw tracks collected.")
