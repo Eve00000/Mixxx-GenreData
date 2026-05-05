@@ -141,35 +141,89 @@ def should_update_genre(search_field, locked_genres):
 #   print(f"    [!] Failed to get tracks after {max_retries} attempts.")
 #   return []
 
-def get_tracks_from_gemini(search_field, category_prompt, num_tracks=50, max_retries=3):
+# def get_tracks_from_gemini(search_field, category_prompt, num_tracks=50, max_retries=3):
+#   print(f" -> Asking Gemini for {num_tracks} tracks: '{category_prompt}'...")
+#   prompt = f"""
+#   You are an expert music historian and club DJ. 
+#   Provide exactly {num_tracks} tracks for the genre/theme: "{search_field}".
+#   Specifically, these tracks must fit this vibe: {category_prompt}.
+#   Output ONLY a valid JSON array of objects. Each object must have keys "TrackArtist" and "TrackTitle".
+#   Example: [{{"TrackArtist": "Joy Division", "TrackTitle": "Love Will Tear Us Apart"}}]
+#   """
+  
+#   for attempt in range(max_retries):
+#     try:
+#       response = client.models.generate_content(
+#         model='gemini-2.5-flash-lite',  # <--- THE MAGIC FIX: Switched to Lite for huge quotas!
+#         contents=prompt,
+#         config=types.GenerateContentConfig(response_mime_type="application/json")
+#       )
+#       return json.loads(response.text)
+      
+#     except Exception as e:
+#       error_msg = str(e)
+      
+#       if any(err in error_msg for err in ["429", "RESOURCE_EXHAUSTED", "503", "UNAVAILABLE"]):
+#         # NEW: Print the EXACT error so we can read Google's warnings in the GitHub logs!
+#         print(f"    [!] Error caught: {error_msg}")
+#         print(f"    [!] API Busy. Resting for 20 seconds... (Attempt {attempt + 1} of {max_retries})")
+#         time.sleep(20)
+#       else:
+#         print(f"    [!] Formatting Error: {e}")
+#         return []
+        
+#   print(f"    [!] Failed to get tracks after {max_retries} attempts.")
+#   return []
+
+def get_tracks_from_gemini(search_field, category_prompt, num_tracks=50, max_retries=4):
   print(f" -> Asking Gemini for {num_tracks} tracks: '{category_prompt}'...")
   prompt = f"""
   You are an expert music historian and club DJ. 
   Provide exactly {num_tracks} tracks for the genre/theme: "{search_field}".
   Specifically, these tracks must fit this vibe: {category_prompt}.
-  Output ONLY a valid JSON array of objects. Each object must have keys "TrackArtist" and "TrackTitle".
+  Output ONLY a valid JSON array of objects. Do not use markdown blocks. Each object must have keys "TrackArtist" and "TrackTitle".
   Example: [{{"TrackArtist": "Joy Division", "TrackTitle": "Love Will Tear Us Apart"}}]
   """
   
   for attempt in range(max_retries):
     try:
       response = client.models.generate_content(
-        model='gemini-2.5-flash-lite',  # <--- THE MAGIC FIX: Switched to Lite for huge quotas!
+        model='gemini-2.5-flash-lite',
         contents=prompt,
         config=types.GenerateContentConfig(response_mime_type="application/json")
       )
-      return json.loads(response.text)
+      
+      # --- NEW: Markdown Stripper ---
+      # Sometimes the AI ignores the rules and wraps the JSON in ```json
+      raw_text = response.text.strip()
+      if raw_text.startswith("```"):
+        lines = raw_text.split('\n')
+        # Remove the first line (```json) and the last line (```)
+        if lines.startswith("```"): lines = lines[1:]
+        if lines and lines[-1].startswith("```"): lines = lines[:-1]
+        raw_text = "\n".join(lines).strip()
+      # ------------------------------
+
+      return json.loads(raw_text)
       
     except Exception as e:
       error_msg = str(e)
       
+      # 1. Catch Google Server Overloads & Rate Limits
       if any(err in error_msg for err in ["429", "RESOURCE_EXHAUSTED", "503", "UNAVAILABLE"]):
-        # NEW: Print the EXACT error so we can read Google's warnings in the GitHub logs!
+        wait_time = 20 * (attempt + 1) # Wait 20s, then 40s, then 60s...
         print(f"    [!] Error caught: {error_msg}")
-        print(f"    [!] API Busy. Resting for 20 seconds... (Attempt {attempt + 1} of {max_retries})")
-        time.sleep(20)
+        print(f"    [!] API Busy. Resting for {wait_time} seconds... (Attempt {attempt + 1} of {max_retries})")
+        time.sleep(wait_time)
+        
+      # 2. Catch JSON Formatting Errors from the AI
+      elif "Extra data" in error_msg or "Expecting value" in error_msg or "JSON" in str(type(e)):
+        print(f"    [!] AI sent badly formatted JSON. Retrying... (Attempt {attempt + 1} of {max_retries})")
+        time.sleep(5)
+        
+      # 3. Any other weird errors
       else:
-        print(f"    [!] Formatting Error: {e}")
+        print(f"    [!] Unknown Error: {e}")
         return []
         
   print(f"    [!] Failed to get tracks after {max_retries} attempts.")
