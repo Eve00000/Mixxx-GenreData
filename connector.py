@@ -143,13 +143,35 @@ def generate_playlist_data(search_field):
         "Songs occuring most on playlists on soundcloud for this genre"        
     ]
     
+  #  for category in categories:
+  #       gemini_tracks = get_tracks_from_gemini(search_field, category, num_tracks=50)
+  #       for t in gemini_tracks:
+  #           t['Category'] = category 
+  #           all_tracks.append(t)
+  #       time.sleep(3) 
+        
+  #   if not all_tracks:
+  #       print(f"[!] No tracks returned for {search_field}. Aborting.")
+  #       return False
+
     for category in categories:
         gemini_tracks = get_tracks_from_gemini(search_field, category, num_tracks=50)
+    
+        track_count = len(gemini_tracks)
+        if track_count == 0:
+            print(f"    [WARNING] 0 tracks returned for category: '{category}'")
+        else:
+            print(f"    [+] {track_count} tracks returned for: '{category}'")
+
         for t in gemini_tracks:
             t['Category'] = category 
             all_tracks.append(t)
         time.sleep(3) 
-        
+
+    print(f"\n========================================")
+    print(f" [i] AI Generation Complete: {len(all_tracks)} total raw tracks collected.")
+    print(f"========================================\n")
+
     if not all_tracks:
         print(f"[!] No tracks returned for {search_field}. Aborting.")
         return False
