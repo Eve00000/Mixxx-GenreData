@@ -154,7 +154,7 @@ def get_tracks_from_gemini(search_field, category_prompt, num_tracks=50, max_ret
   for attempt in range(max_retries):
     try:
       response = client.models.generate_content(
-        model='gemini-2.5-flash',  # <--- WE ARE BACK ON 2.5-FLASH!
+        model='gemini-2.5-flash-lite',  # <--- THE MAGIC FIX: Switched to Lite for huge quotas!
         contents=prompt,
         config=types.GenerateContentConfig(response_mime_type="application/json")
       )
@@ -162,13 +162,14 @@ def get_tracks_from_gemini(search_field, category_prompt, num_tracks=50, max_ret
       
     except Exception as e:
       error_msg = str(e)
-      # Catch BOTH 429 Rate Limits AND 503 Server Overloads
+      
       if any(err in error_msg for err in ["429", "RESOURCE_EXHAUSTED", "503", "UNAVAILABLE"]):
-        print(f"    [!] API Busy/Rate Limit. Resting for 20 seconds... (Attempt {attempt + 1} of {max_retries})")
+        # NEW: Print the EXACT error so we can read Google's warnings in the GitHub logs!
+        print(f"    [!] Error caught: {error_msg}")
+        print(f"    [!] API Busy. Resting for 20 seconds... (Attempt {attempt + 1} of {max_retries})")
         time.sleep(20)
       else:
-        # If it's a different error, just print it and skip
-        print(f"    [!] Error communicating with Gemini: {e}")
+        print(f"    [!] Formatting Error: {e}")
         return []
         
   print(f"    [!] Failed to get tracks after {max_retries} attempts.")
