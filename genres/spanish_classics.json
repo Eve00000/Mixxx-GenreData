@@ -1,0 +1,487 @@
+{
+    "SearchField": "Spanish classics",
+    "Timestamp": "2026-05-05T12:18:54Z",
+    "TotalTracks": 80,
+    "Tracks": [
+        {
+            "TrackArtist": "Los del R\u00edo",
+            "TrackTitle": "Macarena",
+            "MBID": "a122382e-e27b-477d-8e53-5a262bfaf02e",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Las Ketchup",
+            "TrackTitle": "Asereje (The Ketchup Song)",
+            "MBID": "4baffeb2-26ca-43c5-b099-7949405c202a",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Ritchie Valens",
+            "TrackTitle": "La Bamba (La Bamba)",
+            "MBID": "86ed1cc6-c0ef-4b27-b026-16d8009d2976",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Luis Fonsi ft. Daddy Yankee",
+            "TrackTitle": "Despacito",
+            "MBID": "1109d8da-ce4a-4739-9414-242dc3e9b81c",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Daddy Yankee",
+            "TrackTitle": "Gasolina",
+            "MBID": "f4fbe3bc-d421-4d88-a9ce-0ad689f15199",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Aventura",
+            "TrackTitle": "Obsesi\u00f3n",
+            "MBID": "dcf13b6a-b9c8-4fa6-b39d-04f1726773da",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Elvis Crespo",
+            "TrackTitle": "Suavemente",
+            "MBID": "bd3d2af7-81c6-4510-84aa-e10f45036a1d",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Ricky Martin",
+            "TrackTitle": "Livin' la Vida Loca",
+            "MBID": "86cd4f85-677a-4893-ad83-a40ddb996d67",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Juanes",
+            "TrackTitle": "La Camisa Negra",
+            "MBID": "84899338-5750-48e0-b04b-b30ac757f1d7",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Nicky Jam & Enrique Iglesias",
+            "TrackTitle": "El perd\u00f3n",
+            "MBID": "a5420580-a30f-412f-ac56-e383b862481d",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "J Balvin & Willy William",
+            "TrackTitle": "Mi Gente",
+            "MBID": "7245f80d-8f41-4aff-95e0-64531b4ab773",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Carlos Vives & Shakira",
+            "TrackTitle": "La bicicleta",
+            "MBID": "54850055-5152-445d-b4d3-27529f92a4dd",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "\u00c1lvaro Soler",
+            "TrackTitle": "El mismo sol",
+            "MBID": "0ba0f410-e8ef-4bc1-981a-a556a4f3ce59",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "\u00c1lvaro Soler",
+            "TrackTitle": "Sofia",
+            "MBID": "c8206d55-2a2d-4c3f-9c74-0db9c9303678",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Gipsy Kings",
+            "TrackTitle": "Bamboleo",
+            "MBID": "b243bd5c-3e6d-4967-9f9c-66488ea70a50",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Romeo Santos",
+            "TrackTitle": "Propuesta indecente",
+            "MBID": "9fca0b8c-3fbc-4074-9655-efa305d3bbc7",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Jarabe de Palo",
+            "TrackTitle": "La flaca",
+            "MBID": "7a080de7-efdf-4f2f-8f86-bc692c5d88f1",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Manu Chao",
+            "TrackTitle": "Clandestino",
+            "MBID": "3d9eb0c6-2184-47cf-a0aa-eeb87264796f",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Manu Chao",
+            "TrackTitle": "Me Gustas Tu",
+            "MBID": "415de345-ea70-4d7d-bbfb-0d29305aa563",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Bomba Est\u00e9reo",
+            "TrackTitle": "Soy Yo",
+            "MBID": "ef133a3b-ddc1-464e-828d-02a11507189c",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Becky G & Natti Natasha",
+            "TrackTitle": "Sin Pijama",
+            "MBID": "42c3a5fa-e03d-4d94-b40e-6b74edce6f03",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Pedro Cap\u00f3 & Farruko",
+            "TrackTitle": "Calma (remix)",
+            "MBID": "fdbb777c-ad0d-4e66-9ec2-71cca739f5b6",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Daddy Yankee",
+            "TrackTitle": "Dura",
+            "MBID": "597bcbea-8251-42dd-bb02-a5659f940fa4",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Marc Anthony",
+            "TrackTitle": "Vivir mi vida",
+            "MBID": "76c722da-1da8-4931-90a3-c846de8c2fac",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Jennifer Lopez & Marc Anthony",
+            "TrackTitle": "No Me Ames",
+            "MBID": "9a6a3751-d25c-4ce5-b7da-8fb758c1926d",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Daddy Yankee",
+            "TrackTitle": "Limbo",
+            "MBID": "2053e26e-3951-4aee-9d04-5e18048e9ab9",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Maluma",
+            "TrackTitle": "Felices los 4",
+            "MBID": "15010726-6fc0-43c1-8e54-d67125b24eb5",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Maluma",
+            "TrackTitle": "Haw\u00e1i",
+            "MBID": "8b4f7e85-af3d-402b-aa7b-eb1f5460bab6",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Nicky Jam",
+            "TrackTitle": "El Amante",
+            "MBID": "8b2929cf-3fb0-49ce-955f-1d4d4e4d5e64",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "J Balvin",
+            "TrackTitle": "Ay vamos",
+            "MBID": "4e53e50e-0dae-4f43-a068-e979d496153f",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "J Balvin",
+            "TrackTitle": "Ginza",
+            "MBID": "f77b8b08-e0b7-46e5-9d6e-1e8b8c452437",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Aitana & Ana Guerra",
+            "TrackTitle": "Lo malo",
+            "MBID": "6cabfa73-d0ec-4cc7-840c-ba64b90e2dc1",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "M\u00f3nica Naranjo",
+            "TrackTitle": "Desatame",
+            "MBID": "86bdc04b-4498-4e88-ba12-2b0f79a0c18e",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Proyecto Uno",
+            "TrackTitle": "El Tiburon",
+            "MBID": "5c6b38e1-df9e-419a-a233-1eaeadd6254a",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Julio Iglesias",
+            "TrackTitle": "Me olvid\u00e9 de vivir",
+            "MBID": "5547a950-f5f2-4f15-8f2f-55e21a7158b1",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Roc\u00edo D\u00farcal",
+            "TrackTitle": "Amor eterno",
+            "MBID": "bc1222cb-2394-44f4-8b05-2b65d2af432f",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Camilo Sesto",
+            "TrackTitle": "Perd\u00f3name",
+            "MBID": "2cb77f57-8cf9-4dad-95ed-42a08c83dd5d",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Raphael",
+            "TrackTitle": "Mi gran noche",
+            "MBID": "fdfd1523-c91f-49e7-8ff6-9346cd4a2141",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Isabel Pantoja",
+            "TrackTitle": "Se me enamora el alma",
+            "MBID": "5452abd4-aa3f-4cd2-ab6e-09906504fca8",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Ni\u00f1a Pastori",
+            "TrackTitle": "Cai",
+            "MBID": "a1ef09d6-9088-4c49-889f-fc317f086b96",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Manolo Escobar",
+            "TrackTitle": "Mi carro",
+            "MBID": "db9291eb-71d0-4df1-87cb-339f6f666ed1",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Lola Flores",
+            "TrackTitle": "Pena, penita, pena",
+            "MBID": "0e256614-c464-44dd-8abf-660431fa1f0d",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Jos\u00e9 Luis Perales",
+            "TrackTitle": "Un velero llamado Libertad",
+            "MBID": "97e7bb7a-fdca-4948-a180-496924288481",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Ana Bel\u00e9n & V\u00edctor Manuel",
+            "TrackTitle": "Contam\u00edname",
+            "MBID": "59b43d49-164b-40c5-ac78-8246d7bceecc",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Joan Manuel Serrat",
+            "TrackTitle": "Mediterr\u00e1neo",
+            "MBID": "9f3c7b81-38c0-4c38-8f7a-a269bc1c0c62",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Mocedades",
+            "TrackTitle": "Eres t\u00fa",
+            "MBID": "37a5f2dc-1d31-47de-aa56-d4402be7fe46",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Jeanette",
+            "TrackTitle": "Soy rebelde",
+            "MBID": "ee417618-f80e-42fe-adac-7ce4f9a0b07e",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Miguel Bos\u00e9",
+            "TrackTitle": "Amante bandido",
+            "MBID": "a399681f-76f6-42ee-9554-983095e13e13",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Alaska y Dinarama",
+            "TrackTitle": "A quien le importa",
+            "MBID": "05c1db1f-a5cb-4e5c-b6df-1861f8e521a2",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Hombres G",
+            "TrackTitle": "Devu\u00e9lveme a mi chica",
+            "MBID": "f520397f-6254-40ca-af6f-83c67e7b342d",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Duncan Dhu",
+            "TrackTitle": "En alg\u00fan lugar",
+            "MBID": "d6d6773e-83a7-413e-b79c-7d680356211c",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Los Secretos",
+            "TrackTitle": "D\u00e9jame",
+            "MBID": "6d782064-9c76-402f-9337-056e547847ba",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Estopa",
+            "TrackTitle": "Como Camar\u00f3n",
+            "MBID": "16fb2073-8f64-4025-a85c-45d1bc4ffe62",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Antonio Flores",
+            "TrackTitle": "No dudar\u00eda",
+            "MBID": "53713e00-11f3-4dcb-b07c-047017100b09",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Ketama",
+            "TrackTitle": "Vente pa' Madrid",
+            "MBID": "729b59a3-0efc-4547-a0c4-fe36912f2d69",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Paco de Luc\u00eda",
+            "TrackTitle": "Entre dos aguas",
+            "MBID": "9f430ce7-a23e-4243-a7cf-f4d5d422c091",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Chambao",
+            "TrackTitle": "Pokito a Poko",
+            "MBID": "d672f7a4-26b5-4c1d-ba03-7a0258142481",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "La Oreja de Van Gogh",
+            "TrackTitle": "La playa",
+            "MBID": "d863f576-0d3c-4567-b193-9e69b31a6c71",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Alejandro Sanz",
+            "TrackTitle": "Coraz\u00f3n part\u00edo",
+            "MBID": "1156fc8e-84aa-4e9e-94cb-859396eeff0b",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Enrique Iglesias",
+            "TrackTitle": "H\u00e9roe",
+            "MBID": "ba47b83d-c2af-49f1-b76e-25a6653af84b",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Mecano",
+            "TrackTitle": "Hijo de la luna",
+            "MBID": "18dd8816-4136-483a-aa68-f4fd8df145a7",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Radio Futura",
+            "TrackTitle": "Veneno en la piel",
+            "MBID": "f80cd88f-c6c3-46c9-aa54-1c5255e46bfd",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Loquillo y Los Trogloditas",
+            "TrackTitle": "Cadillac solitario",
+            "MBID": "412c1039-8f3e-43a3-85fa-54cb2bf49271",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Joaqu\u00edn Sabina",
+            "TrackTitle": "19 d\u00edas y 500 noches",
+            "MBID": "5e6c6261-497f-4a92-860b-0f69e4029129",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Rosana",
+            "TrackTitle": "El talism\u00e1n",
+            "MBID": "661ca758-e422-4de1-9417-4f715d6d6cf8",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Man\u00e1",
+            "TrackTitle": "Clavado en un bar",
+            "MBID": "8a2b4427-b8cd-429d-89cb-9b14f6d9759b",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "La Uni\u00f3n",
+            "TrackTitle": "Lobo-hombre en Par\u00eds",
+            "MBID": "92229db4-08ee-4e05-b251-5be35e4a29fd",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Gabinete Caligari",
+            "TrackTitle": "Cuatro rosas",
+            "MBID": "c49808de-00da-482b-a399-ecb395c5368c",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Presuntos Implicados",
+            "TrackTitle": "C\u00f3mo hemos cambiado",
+            "MBID": "bc12106a-501c-4bf2-a460-98d982b46fa8",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Amaral",
+            "TrackTitle": "Sin ti no soy nada",
+            "MBID": "85001365-b538-4c3b-982a-01ea2e23de6d",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Antonio Vega",
+            "TrackTitle": "El sitio de mi recreo",
+            "MBID": "0b112fd5-9878-4666-8cea-2db79c98e452",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Los Ronaldos",
+            "TrackTitle": "Adi\u00f3s pap\u00e1",
+            "MBID": "298f7433-6be0-4687-bf85-70659d0a3c34",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Alaska y los Pegamoides",
+            "TrackTitle": "Bailando",
+            "MBID": "ec32b437-31ea-4a74-aa47-e166af85c57e",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Los Chunguitos",
+            "TrackTitle": "Me Quedo Contigo",
+            "MBID": "42e4151d-a5af-46de-ada5-84a866b5be37",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Peret",
+            "TrackTitle": "Borriquito",
+            "MBID": "4872a70e-853c-4b14-a97a-f09be3a22615",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Mar\u00eda Jim\u00e9nez",
+            "TrackTitle": "Se acab\u00f3",
+            "MBID": "ac6ca8ba-ee88-48c8-8104-a21b22cae81f",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Rumba Tres",
+            "TrackTitle": "No s\u00e9 no s\u00e9",
+            "MBID": "13c62d6f-e07e-49bc-a265-0478e80c9c5f",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Dyango",
+            "TrackTitle": "Coraz\u00f3n m\u00e1gico",
+            "MBID": "f2e3b250-d7d9-4707-9081-a442ee122c96",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Luis Miguel",
+            "TrackTitle": "La barca",
+            "MBID": "30775843-ca95-4681-81c8-0b84c7f0f83f",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Paloma San Basilio",
+            "TrackTitle": "Nadie como t\u00fa",
+            "MBID": "189e43e5-ad96-41f3-bb96-ac3fba332883",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        }
+    ]
+}
