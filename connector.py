@@ -422,7 +422,6 @@ def get_recording_mbid(artist, title):
 #             os.remove(temp_filename)
 #         return False 
 
-
 def generate_playlist_data(search_field):
   print(f"\n========================================")
   print(f" CRATE DIGGING: {search_field} (Target: 400 Tracks)")
@@ -442,7 +441,7 @@ def generate_playlist_data(search_field):
     "Songs occuring most on playlists on youtube for this genre",
     "Songs occuring most on playlists on spotify for this genre",
     "Songs occuring most on playlists on deezer for this genre",
-    "Songs occuring most on playlists on soundcloud for this genre"     
+    "Songs occuring most on playlists on soundcloud for this genre"   
   ]
 
   # THE MAGIC: We send all the categories to Gemini in ONE single request!
@@ -457,54 +456,57 @@ def generate_playlist_data(search_field):
     return False
 
   print(f" -> Verifying tracks against MusicBrainz... (This takes a few minutes)")
-    
-    final_tracks = []
-    seen_mbids = set() 
-    
-    for track in all_tracks:
-        raw_artist = track.get("TrackArtist", "")
-        raw_title = track.get("TrackTitle", "")
-        
-        mbid, clean_artist, clean_title = get_recording_mbid(raw_artist, raw_title)
-        
-        if mbid and mbid not in seen_mbids:
-            seen_mbids.add(mbid)
-            final_tracks.append({
-                "TrackArtist": clean_artist, 
-                "TrackTitle": clean_title,   
-                "MBID": mbid,
-                "Category": track['Category']
-            })
-        time.sleep(1) 
-        
-    print(f"  -> Successfully verified and deduplicated {len(final_tracks)} unique tracks!")
-        
-    if len(final_tracks) < 50:
-        print(f"[!] Only verified {len(final_tracks)} tracks. Aborting to protect existing file.")
-        return False
-        
-    final_playlist = {
-        "SearchField": search_field,
-        "Timestamp": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()),
-        "TotalTracks": len(final_tracks),
-        "Tracks": final_tracks
-    }
-    
-    base_filename = f"{search_field.replace(' ', '_').lower()}"
-    target_filename = os.path.join(GENRES_DIR, f"{base_filename}.json")
-    temp_filename = os.path.join(GENRES_DIR, f"{base_filename}_new.json")
-    
-    try:
-        with open(temp_filename, 'w', encoding='utf-8') as f:
-            json.dump(final_playlist, f, indent=4)
-        os.replace(temp_filename, target_filename)
-        print(f"SUCCESS! Saved {len(final_tracks)} tracks to {target_filename}")
-        return True 
-    except Exception as e:
-        print(f"[!] File save error: {e}")
-        if os.path.exists(temp_filename):
-            os.remove(temp_filename)
-        return False 
+
+  final_tracks = []
+  seen_mbids = set() 
+
+  for track in all_tracks:
+    raw_artist = track.get("TrackArtist", "")
+    raw_title = track.get("TrackTitle", "")
+
+    mbid, clean_artist, clean_title = get_recording_mbid(raw_artist, raw_title)
+
+    if mbid and mbid not in seen_mbids:
+      seen_mbids.add(mbid)
+      final_tracks.append({
+        "TrackArtist": clean_artist, 
+        "TrackTitle": clean_title,  
+        "MBID": mbid,
+        "Category": track.get('Category', 'Unknown')
+      })
+    time.sleep(1) 
+
+  print(f" -> Successfully verified and deduplicated {len(final_tracks)} unique tracks!")
+
+  if len(final_tracks) < 50:
+    print(f"[!] Only verified {len(final_tracks)} tracks. Aborting to protect existing file.")
+    return False
+
+  final_playlist = {
+    "SearchField": search_field,
+    "Timestamp": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()),
+    "TotalTracks": len(final_tracks),
+    "Tracks": final_tracks
+  }
+
+  # Creates the subfolders and files safely (e.g. genres/pop/70s_pop.json)
+  safe_path = search_field.replace(' ', '_').lower()
+  target_filename = os.path.join(GENRES_DIR, f"{safe_path}.json")
+  temp_filename = os.path.join(GENRES_DIR, f"{safe_path}_new.json")
+
+  os.makedirs(os.path.dirname(target_filename), exist_ok=True)
+
+  try:
+    with open(temp_filename, 'w', encoding='utf-8') as f:
+      json.dump(final_playlist, f, indent=4)
+    os.replace(temp_filename, target_filename)
+    print(f"SUCCESS! Saved {len(final_tracks)} tracks to {target_filename}")
+    return True 
+  except Exception as e:
+    print(f"[!] File save error: {e}")
+    if os.path.exists(temp_filename):
+      os.remove(temp_filename)
+    return False 
 
 QUEUE_FILE = "requested_genres.txt"
 
