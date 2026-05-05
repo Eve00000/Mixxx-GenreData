@@ -243,7 +243,7 @@ def git_save_and_push(commit_message):
         subprocess.run(["git", "commit", "-m", commit_message], check=True, capture_output=True)
         
         # 4. Pull to prevent conflicts (in case a user requested a genre while we were processing)
-        subprocess.run(["git", "pull", "origin", "main", "--no-rebase", "-X", "union"], check=True, capture_output=True)
+        subprocess.run(["git", "pull", "origin", "main", "--no-rebase"], check=True, capture_output=True)
         
         # 5. Push!
         subprocess.run(["git", "push"], check=True, capture_output=True)
