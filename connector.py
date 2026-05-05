@@ -175,53 +175,128 @@ def should_update_genre(search_field, locked_genres):
 #   print(f"    [!] Failed to get tracks after {max_retries} attempts.")
 #   return []
 
-def get_tracks_from_gemini(search_field, category_prompt, num_tracks=50, max_retries=4):
-  print(f" -> Asking Gemini for {num_tracks} tracks: '{category_prompt}'...")
+# def get_tracks_from_gemini(search_field, category_prompt, num_tracks=50, max_retries=4):
+#   print(f" -> Asking Gemini for {num_tracks} tracks: '{category_prompt}'...")
+#   prompt = f"""
+#   You are an expert music historian and club DJ. 
+#   Provide exactly {num_tracks} tracks for the genre/theme: "{search_field}".
+#   Specifically, these tracks must fit this vibe: {category_prompt}.
+#   Output ONLY a valid JSON array of objects. Do not use markdown blocks. Each object must have keys "TrackArtist" and "TrackTitle".
+#   Example: [{{"TrackArtist": "Joy Division", "TrackTitle": "Love Will Tear Us Apart"}}]
+#   """
+  
+#   for attempt in range(max_retries):
+#     try:
+#       response = client.models.generate_content(
+#         model='gemini-2.5-flash-lite',
+#         contents=prompt,
+#         config=types.GenerateContentConfig(response_mime_type="application/json")
+#       )
+      
+#       # --- NEW: Markdown Stripper ---
+#       # Sometimes the AI ignores the rules and wraps the JSON in ```json
+#       raw_text = response.text.strip()
+#       if raw_text.startswith("```"):
+#         lines = raw_text.split('\n')
+#         # Remove the first line (```json) and the last line (```)
+#         if lines.startswith("```"): lines = lines[1:]
+#         if lines and lines[-1].startswith("```"): lines = lines[:-1]
+#         raw_text = "\n".join(lines).strip()
+#       # ------------------------------
+
+#       return json.loads(raw_text)
+      
+#     except Exception as e:
+#       error_msg = str(e)
+      
+#       # 1. Catch Google Server Overloads & Rate Limits
+#       if any(err in error_msg for err in ["429", "RESOURCE_EXHAUSTED", "503", "UNAVAILABLE"]):
+#         wait_time = 20 * (attempt + 1) # Wait 20s, then 40s, then 60s...
+#         print(f"    [!] Error caught: {error_msg}")
+#         print(f"    [!] API Busy. Resting for {wait_time} seconds... (Attempt {attempt + 1} of {max_retries})")
+#         time.sleep(wait_time)
+        
+#       # 2. Catch JSON Formatting Errors from the AI
+#       elif "Extra data" in error_msg or "Expecting value" in error_msg or "JSON" in str(type(e)):
+#         print(f"    [!] AI sent badly formatted JSON. Retrying... (Attempt {attempt + 1} of {max_retries})")
+#         time.sleep(5)
+        
+#       # 3. Any other weird errors
+#       else:
+#         print(f"    [!] Unknown Error: {e}")
+#         return []
+        
+#   print(f"    [!] Failed to get tracks after {max_retries} attempts.")
+#   return []
+
+def get_all_tracks_from_gemini(search_field, categories, max_retries=4):
+  print(f" -> Asking Gemini to build the ENTIRE crate in ONE request... (Saving 13 API calls!)")
+  
   prompt = f"""
   You are an expert music historian and club DJ. 
-  Provide exactly {num_tracks} tracks for the genre/theme: "{search_field}".
-  Specifically, these tracks must fit this vibe: {category_prompt}.
-  Output ONLY a valid JSON array of objects. Do not use markdown blocks. Each object must have keys "TrackArtist" and "TrackTitle".
-  Example: [{{"TrackArtist": "Joy Division", "TrackTitle": "Love Will Tear Us Apart"}}]
+  Provide a massive playlist for the genre/theme: "{search_field}".
+  
+  You must categorize the tracks into the exact following vibes:
+  {json.dumps(categories, indent=2)}
+  
+  For EACH category, provide exactly 30 tracks.
+  
+  Output ONLY a single valid JSON object. Do not use markdown blocks.
+  The keys of the JSON object must be the exact category strings provided above.
+  The value for each key must be an array of objects.
+  Each object must have keys "TrackArtist" and "TrackTitle".
+  
+  Example structure:
+  {{
+    "{categories[0]}": [
+      {{"TrackArtist": "Artist 1", "TrackTitle": "Title 1"}},
+      {{"TrackArtist": "Artist 2", "TrackTitle": "Title 2"}}
+    ],
+    "{categories[1]}": [
+      {{"TrackArtist": "Artist 3", "TrackTitle": "Title 3"}}
+    ]
+  }}
   """
   
   for attempt in range(max_retries):
     try:
       response = client.models.generate_content(
-        model='gemini-2.5-flash-lite',
+        model='gemini-2.5-flash', # We are back to the smartest model!
         contents=prompt,
         config=types.GenerateContentConfig(response_mime_type="application/json")
       )
       
-      # --- NEW: Markdown Stripper ---
-      # Sometimes the AI ignores the rules and wraps the JSON in ```json
       raw_text = response.text.strip()
       if raw_text.startswith("```"):
         lines = raw_text.split('\n')
-        # Remove the first line (```json) and the last line (```)
         if lines.startswith("```"): lines = lines[1:]
         if lines and lines[-1].startswith("```"): lines = lines[:-1]
         raw_text = "\n".join(lines).strip()
-      # ------------------------------
 
-      return json.loads(raw_text)
+      parsed_json = json.loads(raw_text)
+      
+      # Transform the mega JSON object back into a flat list for MusicBrainz
+      flat_tracks = []
+      for cat, tracks in parsed_json.items():
+        if isinstance(tracks, list):
+          print(f"    [+] {len(tracks)} tracks returned for: '{cat}'")
+          for t in tracks:
+            if "TrackArtist" in t and "TrackTitle" in t:
+              t['Category'] = cat
+              flat_tracks.append(t)
+              
+      return flat_tracks
       
     except Exception as e:
       error_msg = str(e)
-      
-      # 1. Catch Google Server Overloads & Rate Limits
       if any(err in error_msg for err in ["429", "RESOURCE_EXHAUSTED", "503", "UNAVAILABLE"]):
-        wait_time = 20 * (attempt + 1) # Wait 20s, then 40s, then 60s...
+        wait_time = 30 * (attempt + 1)
         print(f"    [!] Error caught: {error_msg}")
         print(f"    [!] API Busy. Resting for {wait_time} seconds... (Attempt {attempt + 1} of {max_retries})")
         time.sleep(wait_time)
-        
-      # 2. Catch JSON Formatting Errors from the AI
       elif "Extra data" in error_msg or "Expecting value" in error_msg or "JSON" in str(type(e)):
         print(f"    [!] AI sent badly formatted JSON. Retrying... (Attempt {attempt + 1} of {max_retries})")
         time.sleep(5)
-        
-      # 3. Any other weird errors
       else:
         print(f"    [!] Unknown Error: {e}")
         return []
@@ -240,64 +315,148 @@ def get_recording_mbid(artist, title):
         pass
     return None, artist, title
 
-def generate_playlist_data(search_field):
-    print(f"\n========================================")
-    print(f" CRATE DIGGING: {search_field} (Target: 500 Tracks)")
-    print(f"========================================")
+# def generate_playlist_data(search_field):
+#     print(f"\n========================================")
+#     print(f" CRATE DIGGING: {search_field} (Target: 500 Tracks)")
+#     print(f"========================================")
     
-    all_tracks = []
+#     all_tracks = []
     
-    categories = [
-        "The absolute biggest mainstream pop/radio hits of this genre",
-        "Iconic One-Hit Wonders and viral sensations",
-        "Underground, deep cuts, and cult club classics",
-        "Essential 12-inch remixes and extended DJ versions",
-        "Hidden gems, B-sides, and influential album tracks",
-        "High-energy peak-time floor fillers",
-        "Warm-up tracks, early evening grooves, and mid-tempo hits",
-        "Late-night anthems and closing tracks",
-        "Crossover hits that also charted in other genres",
-        "Critically acclaimed masterpieces and award-winning tracks",
-        "Songs occuring most on playlists on youtube for this genre",
-        "Songs occuring most on playlists on spotify for this genre",
-        "Songs occuring most on playlists on deezer for this genre",
-        "Songs occuring most on playlists on soundcloud for this genre"        
-    ]
+#     categories = [
+#         "The absolute biggest mainstream pop/radio hits of this genre",
+#         "Iconic One-Hit Wonders and viral sensations",
+#         "Underground, deep cuts, and cult club classics",
+#         "Essential 12-inch remixes and extended DJ versions",
+#         "Hidden gems, B-sides, and influential album tracks",
+#         "High-energy peak-time floor fillers",
+#         "Warm-up tracks, early evening grooves, and mid-tempo hits",
+#         "Late-night anthems and closing tracks",
+#         "Crossover hits that also charted in other genres",
+#         "Critically acclaimed masterpieces and award-winning tracks",
+#         "Songs occuring most on playlists on youtube for this genre",
+#         "Songs occuring most on playlists on spotify for this genre",
+#         "Songs occuring most on playlists on deezer for this genre",
+#         "Songs occuring most on playlists on soundcloud for this genre"        
+#     ]
     
-  #  for category in categories:
-  #       gemini_tracks = get_tracks_from_gemini(search_field, category, num_tracks=50)
-  #       for t in gemini_tracks:
-  #           t['Category'] = category 
-  #           all_tracks.append(t)
-  #       time.sleep(3) 
+#   #  for category in categories:
+#   #       gemini_tracks = get_tracks_from_gemini(search_field, category, num_tracks=50)
+#   #       for t in gemini_tracks:
+#   #           t['Category'] = category 
+#   #           all_tracks.append(t)
+#   #       time.sleep(3) 
         
-  #   if not all_tracks:
-  #       print(f"[!] No tracks returned for {search_field}. Aborting.")
-  #       return False
+#   #   if not all_tracks:
+#   #       print(f"[!] No tracks returned for {search_field}. Aborting.")
+#   #       return False
 
-    for category in categories:
-        gemini_tracks = get_tracks_from_gemini(search_field, category, num_tracks=50)
+#     for category in categories:
+#         gemini_tracks = get_tracks_from_gemini(search_field, category, num_tracks=50)
     
-        track_count = len(gemini_tracks)
-        if track_count == 0:
-            print(f"    [WARNING] 0 tracks returned for category: '{category}'")
-        else:
-            print(f"    [+] {track_count} tracks returned for: '{category}'")
+#         track_count = len(gemini_tracks)
+#         if track_count == 0:
+#             print(f"    [WARNING] 0 tracks returned for category: '{category}'")
+#         else:
+#             print(f"    [+] {track_count} tracks returned for: '{category}'")
 
-        for t in gemini_tracks:
-            t['Category'] = category 
-            all_tracks.append(t)
-        time.sleep(10) 
+#         for t in gemini_tracks:
+#             t['Category'] = category 
+#             all_tracks.append(t)
+#         time.sleep(10) 
 
-    print(f"\n========================================")
-    print(f" [i] AI Generation Complete: {len(all_tracks)} total raw tracks collected.")
-    print(f"========================================\n")
+#     print(f"\n========================================")
+#     print(f" [i] AI Generation Complete: {len(all_tracks)} total raw tracks collected.")
+#     print(f"========================================\n")
 
-    if not all_tracks:
-        print(f"[!] No tracks returned for {search_field}. Aborting.")
-        return False
+#     if not all_tracks:
+#         print(f"[!] No tracks returned for {search_field}. Aborting.")
+#         return False
 
-    print(f"  -> Verifying tracks against MusicBrainz... (This takes a few minutes)")
+#     print(f"  -> Verifying tracks against MusicBrainz... (This takes a few minutes)")
+    
+#     final_tracks = []
+#     seen_mbids = set() 
+    
+#     for track in all_tracks:
+#         raw_artist = track.get("TrackArtist", "")
+#         raw_title = track.get("TrackTitle", "")
+        
+#         mbid, clean_artist, clean_title = get_recording_mbid(raw_artist, raw_title)
+        
+#         if mbid and mbid not in seen_mbids:
+#             seen_mbids.add(mbid)
+#             final_tracks.append({
+#                 "TrackArtist": clean_artist, 
+#                 "TrackTitle": clean_title,   
+#                 "MBID": mbid,
+#                 "Category": track['Category']
+#             })
+#         time.sleep(1) 
+        
+#     print(f"  -> Successfully verified and deduplicated {len(final_tracks)} unique tracks!")
+        
+#     if len(final_tracks) < 50:
+#         print(f"[!] Only verified {len(final_tracks)} tracks. Aborting to protect existing file.")
+#         return False
+        
+#     final_playlist = {
+#         "SearchField": search_field,
+#         "Timestamp": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()),
+#         "TotalTracks": len(final_tracks),
+#         "Tracks": final_tracks
+#     }
+    
+#     base_filename = f"{search_field.replace(' ', '_').lower()}"
+#     target_filename = os.path.join(GENRES_DIR, f"{base_filename}.json")
+#     temp_filename = os.path.join(GENRES_DIR, f"{base_filename}_new.json")
+    
+#     try:
+#         with open(temp_filename, 'w', encoding='utf-8') as f:
+#             json.dump(final_playlist, f, indent=4)
+#         os.replace(temp_filename, target_filename)
+#         print(f"SUCCESS! Saved {len(final_tracks)} tracks to {target_filename}")
+#         return True 
+#     except Exception as e:
+#         print(f"[!] File save error: {e}")
+#         if os.path.exists(temp_filename):
+#             os.remove(temp_filename)
+#         return False 
+
+
+def generate_playlist_data(search_field):
+  print(f"\n========================================")
+  print(f" CRATE DIGGING: {search_field} (Target: 400 Tracks)")
+  print(f"========================================")
+
+  categories = [
+    "The absolute biggest mainstream pop/radio hits of this genre",
+    "Iconic One-Hit Wonders and viral sensations",
+    "Underground, deep cuts, and cult club classics",
+    "Essential 12-inch remixes and extended DJ versions",
+    "Hidden gems, B-sides, and influential album tracks",
+    "High-energy peak-time floor fillers",
+    "Warm-up tracks, early evening grooves, and mid-tempo hits",
+    "Late-night anthems and closing tracks",
+    "Crossover hits that also charted in other genres",
+    "Critically acclaimed masterpieces and award-winning tracks",
+    "Songs occuring most on playlists on youtube for this genre",
+    "Songs occuring most on playlists on spotify for this genre",
+    "Songs occuring most on playlists on deezer for this genre",
+    "Songs occuring most on playlists on soundcloud for this genre"     
+  ]
+
+  # THE MAGIC: We send all the categories to Gemini in ONE single request!
+  all_tracks = get_all_tracks_from_gemini(search_field, categories)
+
+  print(f"\n========================================")
+  print(f" [i] AI Generation Complete: {len(all_tracks)} total raw tracks collected.")
+  print(f"========================================\n")
+
+  if not all_tracks:
+    print(f"[!] No tracks returned for {search_field}. Aborting.")
+    return False
+
+  print(f" -> Verifying tracks against MusicBrainz... (This takes a few minutes)")
     
     final_tracks = []
     seen_mbids = set() 
