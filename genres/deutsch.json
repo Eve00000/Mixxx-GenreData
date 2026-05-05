@@ -1,7 +1,7 @@
 {
     "SearchField": "Deutsch",
     "Timestamp": "2026-05-04T15:16:14Z",
-    "TotalTracks": 126,
+    "TotalTracks": 121,
     "Tracks": [
         {
             "TrackArtist": "Falco",
@@ -184,12 +184,6 @@
             "Category": "Essential 12-inch remixes and extended DJ versions"
         },
         {
-            "TrackArtist": "Alphaville",
-            "TrackTitle": "Big in Japan",
-            "MBID": "16a4bc17-4b0e-471e-9bd4-86ba6dc64f72",
-            "Category": "Essential 12-inch remixes and extended DJ versions"
-        },
-        {
             "TrackArtist": "Kraftwerk",
             "TrackTitle": "Das Model",
             "MBID": "9cfcc2a8-115e-44ce-aca9-7150a7b8693f",
@@ -307,12 +301,6 @@
             "TrackArtist": "Herman van Veen",
             "TrackTitle": "Ich hab\u2019 ein z\u00e4rtliches Gef\u00fchl",
             "MBID": "e10ae7f2-2218-4455-aa71-2c2eb4708f1f",
-            "Category": "Late-night anthems and closing tracks"
-        },
-        {
-            "TrackArtist": "Jacques Brel",
-            "TrackTitle": "Ne me quitte pas",
-            "MBID": "83f8ac3d-3260-47bc-885f-d4fcfcd6bde9",
             "Category": "Late-night anthems and closing tracks"
         },
         {
@@ -445,12 +433,6 @@
             "TrackArtist": "Hannes Wader",
             "TrackTitle": "Sag mir, wo die Blumen sind",
             "MBID": "44e3a893-b084-41ea-a339-0396aff9957a",
-            "Category": "Late-night anthems and closing tracks"
-        },
-        {
-            "TrackArtist": "Jacques Brel",
-            "TrackTitle": "Amsterdam",
-            "MBID": "8c065050-0d11-4fb5-aed4-2feaf59ec4a5",
             "Category": "Late-night anthems and closing tracks"
         },
         {
@@ -682,12 +664,6 @@
             "Category": "Songs occuring most on playlists on spotify for this genre"
         },
         {
-            "TrackArtist": "Eurythmics",
-            "TrackTitle": "Sweet Dreams (Are Made of This)",
-            "MBID": "c8c89264-20cf-4f3d-9c06-77a3eb6f9453",
-            "Category": "Songs occuring most on playlists on spotify for this genre"
-        },
-        {
             "TrackArtist": "Gerhard Gundermann",
             "TrackTitle": "Hier bin ich geboren",
             "MBID": "d1405bfe-26da-42a2-b007-1f0a9ed77bc1",
@@ -739,12 +715,6 @@
             "TrackArtist": "Rosenstolz",
             "TrackTitle": "Die Liebe ist tot",
             "MBID": "86a7031b-d0be-4622-a741-1aa2452038c5",
-            "Category": "Songs occuring most on playlists on spotify for this genre"
-        },
-        {
-            "TrackArtist": "Tom Waits",
-            "TrackTitle": "Ol\u2019 \u201955",
-            "MBID": "9ac92912-2e3f-4130-b3b1-fdd2a6a51ffe",
             "Category": "Songs occuring most on playlists on spotify for this genre"
         },
         {
