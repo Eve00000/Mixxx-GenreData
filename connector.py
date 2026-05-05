@@ -152,7 +152,7 @@ def generate_playlist_data(search_field):
         
     if not all_tracks:
         print(f"[!] No tracks returned for {search_field}. Aborting.")
-        return
+        return False
 
     print(f"  -> Verifying tracks against MusicBrainz... (This takes a few minutes)")
     
@@ -179,7 +179,7 @@ def generate_playlist_data(search_field):
         
     if len(final_tracks) < 50:
         print(f"[!] Only verified {len(final_tracks)} tracks. Aborting to protect existing file.")
-        return
+        return False
         
     final_playlist = {
         "SearchField": search_field,
@@ -197,10 +197,12 @@ def generate_playlist_data(search_field):
             json.dump(final_playlist, f, indent=4)
         os.replace(temp_filename, target_filename)
         print(f"SUCCESS! Saved {len(final_tracks)} tracks to {target_filename}")
+        return True 
     except Exception as e:
         print(f"[!] File save error: {e}")
         if os.path.exists(temp_filename):
             os.remove(temp_filename)
+        return False 
 
 QUEUE_FILE = "requested_genres.txt"
 
@@ -282,36 +284,37 @@ if __name__ == "__main__":
       queued_genres = list(set(queued_genres)) # Remove exact duplicates
       print(f"Found {len(queued_genres)} new requests in queue!")
 
-      for genre in queued_genres:
+    for genre in queued_genres:
         do_update, reason = should_update_genre(genre, locked_genres)
         if do_update:
-          generate_playlist_data(genre)
-          add_genre_to_file(genre)
+          success = generate_playlist_data(genre)
           
-          # NEW: Remove ONLY this genre from queue so we don't lose the others on failure
-          remove_from_queue(genre) 
-          
-          # NEW: Commit and push this specific genre immediately!
-          git_save_and_push(f"Generated playlist for: {genre}")
+          if success:
+            add_genre_to_file(genre)
+            remove_from_queue(genre) 
+            git_save_and_push(f"Generated playlist for: {genre}")
+          else:
+            print(f" [!] Generation failed for '{genre}'. Keeping in queue for next run.")
           
           print("\n[API PROTECTION] Waiting 60 seconds before the next genre...")
           time.sleep(60) 
         else:
-          # Even if skipped, we should clear it from the queue
           remove_from_queue(genre)
 
     # 2. Process Routine Maintenance
     genres_to_process = load_genres()
     print(f"\nChecking {len(genres_to_process)} existing genres for maintenance...")
-
+    
     for genre in genres_to_process:
       do_update, reason = should_update_genre(genre, locked_genres)
       if do_update:
         print(f"Routine Maintenance: Updating '{genre}'")
-        generate_playlist_data(genre)
+        success = generate_playlist_data(genre)
         
-        # NEW: Commit the routine maintenance immediately!
-        git_save_and_push(f"Routine maintenance update: {genre}")
+        if success:
+          git_save_and_push(f"Routine maintenance update: {genre}")
+        else:
+          print(f" [!] Maintenance failed for '{genre}'. Original file untouched.")
         
         print("\n[API PROTECTION] Waiting 60 seconds before the next genre...")
         time.sleep(60)
