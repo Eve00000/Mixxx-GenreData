@@ -154,7 +154,7 @@ def get_tracks_from_gemini(search_field, category_prompt, num_tracks=50, max_ret
   for attempt in range(max_retries):
     try:
       response = client.models.generate_content(
-        model='gemini-1.5-flash',  # <--- CHANGED TO 1.5-FLASH FOR 1500 DAILY LIMIT!
+        model='gemini-2.5-flash',  # <--- WE ARE BACK ON 2.5-FLASH!
         contents=prompt,
         config=types.GenerateContentConfig(response_mime_type="application/json")
       )
@@ -167,7 +167,7 @@ def get_tracks_from_gemini(search_field, category_prompt, num_tracks=50, max_ret
         print(f"    [!] API Busy/Rate Limit. Resting for 20 seconds... (Attempt {attempt + 1} of {max_retries})")
         time.sleep(20)
       else:
-        # If it's a JSON formatting error, skip
+        # If it's a different error, just print it and skip
         print(f"    [!] Error communicating with Gemini: {e}")
         return []
         
