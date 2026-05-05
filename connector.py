@@ -15,6 +15,9 @@ if not GEMINI_API_KEY:
 client = genai.Client(api_key=GEMINI_API_KEY)
 musicbrainzngs.set_useragent("MixxxGenreDataConnector", "4.0", "https://github.com/YOUR_USERNAME/Mixxx-GenreData")
 
+GENRES_DIR = "genres"
+os.makedirs(GENRES_DIR, exist_ok=True)
+
 GENRES_FILE = "genres.txt"
 LOCKED_FILE = "locked_genres.txt"
 
@@ -56,7 +59,7 @@ def should_update_genre(search_field, locked_genres):
     if search_field.lower() in locked_genres:
         return False, f"Locked by human in {LOCKED_FILE}"
         
-    filename = f"{search_field.replace(' ', '_').lower()}.json"
+    filename = os.path.join(GENRES_DIR, f"{search_field.replace(' ', '_').lower()}.json")
     
     # 2. Does the file even exist yet?
     if not os.path.exists(filename):
@@ -186,8 +189,8 @@ def generate_playlist_data(search_field):
     }
     
     base_filename = f"{search_field.replace(' ', '_').lower()}"
-    target_filename = f"{base_filename}.json"
-    temp_filename = f"{base_filename}_new.json"
+    target_filename = os.path.join(GENRES_DIR, f"{base_filename}.json")
+    temp_filename = os.path.join(GENRES_DIR, f"{base_filename}_new.json")
     
     try:
         with open(temp_filename, 'w', encoding='utf-8') as f:
