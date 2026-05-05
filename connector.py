@@ -1,6 +1,7 @@
 import os
 import json
 import time
+import subprocess
 from datetime import datetime, timezone
 import musicbrainzngs
 from google import genai
@@ -211,58 +212,105 @@ def clear_queue():
     with open(QUEUE_FILE, "w", encoding="utf-8") as f:
         f.write("")
 
+def remove_from_queue(completed_genre):
+    """Removes a single genre from the queue immediately after processing."""
+    if not os.path.exists(QUEUE_FILE): return
+    
+    genres = load_queue()
+    # Keep everything except the one we just finished
+    remaining = [g for g in genres if g.lower() != completed_genre.lower()]
+    
+    with open(QUEUE_FILE, "w", encoding="utf-8") as f:
+        f.write("\n".join(remaining) + ("\n" if remaining else ""))
+
+def git_save_and_push(commit_message):
+    """Pulls the latest changes, commits the current state, and pushes to GitHub."""
+    print(" -> Saving progress to GitHub...")
+    try:
+        # 1. Add all changed files (json files, text lists)
+        subprocess.run(["git", "add", "-A"], check=True, capture_output=True)
+        
+        # 2. Check if there's actually anything to commit
+        status = subprocess.run(["git", "status", "--porcelain"], capture_output=True, text=True)
+        if not status.stdout.strip():
+            print(" -> No changes to commit.")
+            return
+
+        # 3. Commit the changes
+        subprocess.run(["git", "commit", "-m", commit_message], check=True, capture_output=True)
+        
+        # 4. Pull to prevent conflicts (in case a user requested a genre while we were processing)
+        subprocess.run(["git", "pull", "origin", "main", "--no-rebase", "-X", "union"], check=True, capture_output=True)
+        
+        # 5. Push!
+        subprocess.run(["git", "push"], check=True, capture_output=True)
+        print(f" [+] Successfully saved! ({commit_message})")
+        
+    except subprocess.CalledProcessError as e:
+        print(f" [!] Git Error: {e.stderr if e.stderr else e}")        
+
 if __name__ == "__main__":
-    locked_genres = load_locked_genres()
-    custom_genre = os.environ.get("CUSTOM_GENRE")
-    
-    if custom_genre:
-        # THE WAITER: Log the request and exit (5 seconds)
-        print(f"\n--- ON-DEMAND REQUEST LOGGED: {custom_genre} ---")
-        existing_genres = load_genres()
-        queued_genres = load_queue()
-        all_known = [g.lower() for g in existing_genres + queued_genres]
-        
-        if custom_genre.lower() not in all_known:
-            with open(QUEUE_FILE, "a", encoding="utf-8") as f:
-                f.write(custom_genre + "\n")
-            print(f"  [+] Successfully added to {QUEUE_FILE}. Waiting for batch run.")
-        else:
-            print(f"  [-] Genre already exists in database or queue. Skipping.")
-            
+  locked_genres = load_locked_genres()
+  custom_genre = os.environ.get("CUSTOM_GENRE")
+
+  if custom_genre:
+    # THE WAITER: Log the request and exit
+    print(f"\n--- ON-DEMAND REQUEST LOGGED: {custom_genre} ---")
+    existing_genres = load_genres()
+    queued_genres = load_queue()
+    all_known = [g.lower() for g in existing_genres + queued_genres]
+
+    if custom_genre.lower() not in all_known:
+      with open(QUEUE_FILE, "a", encoding="utf-8") as f:
+        f.write(custom_genre + "\n")
+      print(f" [+] Successfully added to {QUEUE_FILE}. Waiting for batch run.")
+      # NEW: The Waiter saves its request immediately
+      git_save_and_push(f"User requested new genre: {custom_genre}")
     else:
-        # THE CHEF: Nightly Batch with 60-second API protection
-        print("\n--- BATCH PROCESSING STARTED ---")
+      print(f" [-] Genre already exists in database or queue. Skipping.")
+
+  else:
+    # THE CHEF: Nightly Batch with 60-second API protection
+    print("\n--- BATCH PROCESSING STARTED ---")
+
+    # 1. Process the Queue
+    queued_genres = load_queue()
+    if queued_genres:
+      queued_genres = list(set(queued_genres)) # Remove exact duplicates
+      print(f"Found {len(queued_genres)} new requests in queue!")
+
+      for genre in queued_genres:
+        do_update, reason = should_update_genre(genre, locked_genres)
+        if do_update:
+          generate_playlist_data(genre)
+          add_genre_to_file(genre)
+          
+          # NEW: Remove ONLY this genre from queue so we don't lose the others on failure
+          remove_from_queue(genre) 
+          
+          # NEW: Commit and push this specific genre immediately!
+          git_save_and_push(f"Generated playlist for: {genre}")
+          
+          print("\n[API PROTECTION] Waiting 60 seconds before the next genre...")
+          time.sleep(60) 
+        else:
+          # Even if skipped, we should clear it from the queue
+          remove_from_queue(genre)
+
+    # 2. Process Routine Maintenance
+    genres_to_process = load_genres()
+    print(f"\nChecking {len(genres_to_process)} existing genres for maintenance...")
+
+    for genre in genres_to_process:
+      do_update, reason = should_update_genre(genre, locked_genres)
+      if do_update:
+        print(f"Routine Maintenance: Updating '{genre}'")
+        generate_playlist_data(genre)
         
-        # 1. Process the Queue
-        queued_genres = load_queue()
-        if queued_genres:
-            # Remove exact duplicates from the queue
-            queued_genres = list(set(queued_genres))
-            print(f"Found {len(queued_genres)} new requests in queue!")
-            
-            for genre in queued_genres:
-                do_update, reason = should_update_genre(genre, locked_genres)
-                if do_update:
-                    generate_playlist_data(genre)
-                    add_genre_to_file(genre)
-                    print("\n[API PROTECTION] Waiting 60 seconds before the next genre...")
-                    time.sleep(60) 
-            
-            # Wipe the queue clean
-            clear_queue()
-            print("Queue processed and cleared.")
-            
-        # 2. Process Routine Maintenance
-        genres_to_process = load_genres()
-        print(f"\nChecking {len(genres_to_process)} existing genres for maintenance...")
+        # NEW: Commit the routine maintenance immediately!
+        git_save_and_push(f"Routine maintenance update: {genre}")
         
-        for genre in genres_to_process:
-            do_update, reason = should_update_genre(genre, locked_genres)
-            if do_update:
-                print(f"Routine Maintenance: Updating '{genre}'")
-                generate_playlist_data(genre)
-                print("\n[API PROTECTION] Waiting 60 seconds before the next genre...")
-                time.sleep(60)
-            else:
-                print(f"⏭️ SKIPPING '{genre}': {reason}")
-    
+        print("\n[API PROTECTION] Waiting 60 seconds before the next genre...")
+        time.sleep(60)
+      else:
+        print(f"⏭️ SKIPPING '{genre}': {reason}")
