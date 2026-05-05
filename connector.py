@@ -88,25 +88,58 @@ def should_update_genre(search_field, locked_genres):
         
     return True, f"Needs update. (Older than 20 days or has < 350 tracks)."
 
-def get_tracks_from_gemini(search_field, category_prompt, num_tracks=50):
-    print(f"  -> Asking Gemini for {num_tracks} tracks: '{category_prompt}'...")
-    prompt = f"""
-    You are an expert music historian and club DJ. 
-    Provide exactly {num_tracks} tracks for the genre/theme: "{search_field}".
-    Specifically, these tracks must fit this vibe: {category_prompt}.
-    Output ONLY a valid JSON array of objects. Each object must have keys "TrackArtist" and "TrackTitle".
-    Example: [{{"TrackArtist": "Joy Division", "TrackTitle": "Love Will Tear Us Apart"}}]
-    """
+# def get_tracks_from_gemini(search_field, category_prompt, num_tracks=50):
+#     print(f"  -> Asking Gemini for {num_tracks} tracks: '{category_prompt}'...")
+#     prompt = f"""
+#     You are an expert music historian and club DJ. 
+#     Provide exactly {num_tracks} tracks for the genre/theme: "{search_field}".
+#     Specifically, these tracks must fit this vibe: {category_prompt}.
+#     Output ONLY a valid JSON array of objects. Each object must have keys "TrackArtist" and "TrackTitle".
+#     Example: [{{"TrackArtist": "Joy Division", "TrackTitle": "Love Will Tear Us Apart"}}]
+#     """
+#     try:
+#         response = client.models.generate_content(
+#             model='gemini-2.5-flash',
+#             contents=prompt,
+#             config=types.GenerateContentConfig(response_mime_type="application/json")
+#         )
+#         return json.loads(response.text)
+#     except Exception as e:
+#         print(f"  [!] Error communicating with Gemini: {e}")
+#         return []
+
+def get_tracks_from_gemini(search_field, category_prompt, num_tracks=50, max_retries=3):
+  print(f" -> Asking Gemini for {num_tracks} tracks: '{category_prompt}'...")
+  prompt = f"""
+  You are an expert music historian and club DJ. 
+  Provide exactly {num_tracks} tracks for the genre/theme: "{search_field}".
+  Specifically, these tracks must fit this vibe: {category_prompt}.
+  Output ONLY a valid JSON array of objects. Each object must have keys "TrackArtist" and "TrackTitle".
+  Example: [{{"TrackArtist": "Joy Division", "TrackTitle": "Love Will Tear Us Apart"}}]
+  """
+  
+  for attempt in range(max_retries):
     try:
-        response = client.models.generate_content(
-            model='gemini-2.5-flash',
-            contents=prompt,
-            config=types.GenerateContentConfig(response_mime_type="application/json")
-        )
-        return json.loads(response.text)
+      response = client.models.generate_content(
+        model='gemini-2.5-flash',
+        contents=prompt,
+        config=types.GenerateContentConfig(response_mime_type="application/json")
+      )
+      return json.loads(response.text)
+      
     except Exception as e:
-        print(f"  [!] Error communicating with Gemini: {e}")
+      error_msg = str(e)
+      # If we hit the rate limit, wait and try again!
+      if "429" in error_msg or "RESOURCE_EXHAUSTED" in error_msg:
+        print(f"    [!] API Rate Limit hit. Resting for 15 seconds... (Attempt {attempt + 1} of {max_retries})")
+        time.sleep(15)
+      else:
+        # If it's a different error (like a JSON formatting error), just print it and skip
+        print(f"    [!] Error communicating with Gemini: {e}")
         return []
+        
+  print(f"    [!] Failed to get tracks after {max_retries} attempts.")
+  return []
 
 def get_recording_mbid(artist, title):
     try:
@@ -143,13 +176,35 @@ def generate_playlist_data(search_field):
         "Songs occuring most on playlists on soundcloud for this genre"        
     ]
     
+  #  for category in categories:
+  #       gemini_tracks = get_tracks_from_gemini(search_field, category, num_tracks=50)
+  #       for t in gemini_tracks:
+  #           t['Category'] = category 
+  #           all_tracks.append(t)
+  #       time.sleep(3) 
+        
+  #   if not all_tracks:
+  #       print(f"[!] No tracks returned for {search_field}. Aborting.")
+  #       return False
+
     for category in categories:
         gemini_tracks = get_tracks_from_gemini(search_field, category, num_tracks=50)
+    
+        track_count = len(gemini_tracks)
+        if track_count == 0:
+            print(f"    [WARNING] 0 tracks returned for category: '{category}'")
+        else:
+            print(f"    [+] {track_count} tracks returned for: '{category}'")
+
         for t in gemini_tracks:
             t['Category'] = category 
             all_tracks.append(t)
         time.sleep(3) 
-        
+
+    print(f"\n========================================")
+    print(f" [i] AI Generation Complete: {len(all_tracks)} total raw tracks collected.")
+    print(f"========================================\n")
+
     if not all_tracks:
         print(f"[!] No tracks returned for {search_field}. Aborting.")
         return False
