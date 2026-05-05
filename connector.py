@@ -278,52 +278,52 @@ def generate_playlist_data(search_field):
 QUEUE_FILE = "requested_genres.txt"
 
 def load_queue():
-    if not os.path.exists(QUEUE_FILE):
-        return []
-    with open(QUEUE_FILE, "r", encoding="utf-8") as f:
-        return [line.strip() for line in f if line.strip()]
+  if not os.path.exists(QUEUE_FILE):
+    return []
+  with open(QUEUE_FILE, "r", encoding="utf-8") as f:
+    return [line.strip() for line in f if line.strip()]
 
 def clear_queue():
-    """Empties the queue file after successful nightly processing."""
-    with open(QUEUE_FILE, "w", encoding="utf-8") as f:
-        f.write("")
+  # Empties the queue file after successful nightly processing.
+  with open(QUEUE_FILE, "w", encoding="utf-8") as f:
+    f.write("")
 
 def remove_from_queue(completed_genre):
-    """Removes a single genre from the queue immediately after processing."""
-    if not os.path.exists(QUEUE_FILE): return
-    
-    genres = load_queue()
-    # Keep everything except the one we just finished
-    remaining = [g for g in genres if g.lower() != completed_genre.lower()]
-    
-    with open(QUEUE_FILE, "w", encoding="utf-8") as f:
-        f.write("\n".join(remaining) + ("\n" if remaining else ""))
+  # Removes a single genre from the queue immediately after processing.
+  if not os.path.exists(QUEUE_FILE): return
+
+  genres = load_queue()
+  # Keep everything except the one we just finished
+  remaining = [g for g in genres if g.lower() != completed_genre.lower()]
+
+  with open(QUEUE_FILE, "w", encoding="utf-8") as f:
+    f.write("\n".join(remaining) + ("\n" if remaining else ""))
 
 def git_save_and_push(commit_message):
-    """Pulls the latest changes, commits the current state, and pushes to GitHub."""
-    print(" -> Saving progress to GitHub...")
-    try:
-        # 1. Add all changed files (json files, text lists)
-        subprocess.run(["git", "add", "-A"], check=True, capture_output=True)
-        
-        # 2. Check if there's actually anything to commit
-        status = subprocess.run(["git", "status", "--porcelain"], capture_output=True, text=True)
-        if not status.stdout.strip():
-            print(" -> No changes to commit.")
-            return
+  # Pulls the latest changes, commits the current state, and pushes to GitHub.
+  print(" -> Saving progress to GitHub...")
+  try:
+    # 1. Add all changed files (json files, text lists)
+    subprocess.run(["git", "add", "-A"], check=True, capture_output=True)
 
-        # 3. Commit the changes
-        subprocess.run(["git", "commit", "-m", commit_message], check=True, capture_output=True)
-        
-        # 4. Pull to prevent conflicts (in case a user requested a genre while we were processing)
-        subprocess.run(["git", "pull", "origin", "main", "--no-rebase"], check=True, capture_output=True)
-        
-        # 5. Push!
-        subprocess.run(["git", "push"], check=True, capture_output=True)
-        print(f" [+] Successfully saved! ({commit_message})")
-        
-    except subprocess.CalledProcessError as e:
-        print(f" [!] Git Error: {e.stderr if e.stderr else e}")        
+    # 2. Check if there's actually anything to commit
+    status = subprocess.run(["git", "status", "--porcelain"], capture_output=True, text=True)
+    if not status.stdout.strip():
+      print(" -> No changes to commit.")
+      return
+
+    # 3. Commit the changes
+    subprocess.run(["git", "commit", "-m", commit_message], check=True, capture_output=True)
+
+    # 4. Pull to prevent conflicts 
+    subprocess.run(["git", "pull", "origin", "main", "--no-rebase"], check=True, capture_output=True)
+
+    # 5. Push!
+    subprocess.run(["git", "push"], check=True, capture_output=True)
+    print(f" [+] Successfully saved! ({commit_message})")
+
+  except subprocess.CalledProcessError as e:
+    print(f" [!] Git Error: {e.stderr if e.stderr else e}")     
 
 if __name__ == "__main__":
   locked_genres = load_locked_genres()
@@ -340,7 +340,7 @@ if __name__ == "__main__":
       with open(QUEUE_FILE, "a", encoding="utf-8") as f:
         f.write(custom_genre + "\n")
       print(f" [+] Successfully added to {QUEUE_FILE}. Waiting for batch run.")
-      # NEW: The Waiter saves its request immediately
+      # The Waiter saves its request immediately
       git_save_and_push(f"User requested new genre: {custom_genre}")
     else:
       print(f" [-] Genre already exists in database or queue. Skipping.")
@@ -355,18 +355,18 @@ if __name__ == "__main__":
       queued_genres = list(set(queued_genres)) # Remove exact duplicates
       print(f"Found {len(queued_genres)} new requests in queue!")
 
-    for genre in queued_genres:
+      for genre in queued_genres:
         do_update, reason = should_update_genre(genre, locked_genres)
         if do_update:
           success = generate_playlist_data(genre)
-          
+
           if success:
             add_genre_to_file(genre)
             remove_from_queue(genre) 
             git_save_and_push(f"Generated playlist for: {genre}")
           else:
             print(f" [!] Generation failed for '{genre}'. Keeping in queue for next run.")
-          
+
           print("\n[API PROTECTION] Waiting 60 seconds before the next genre...")
           time.sleep(60) 
         else:
@@ -375,18 +375,18 @@ if __name__ == "__main__":
     # 2. Process Routine Maintenance
     genres_to_process = load_genres()
     print(f"\nChecking {len(genres_to_process)} existing genres for maintenance...")
-    
+
     for genre in genres_to_process:
       do_update, reason = should_update_genre(genre, locked_genres)
       if do_update:
         print(f"Routine Maintenance: Updating '{genre}'")
         success = generate_playlist_data(genre)
-        
+
         if success:
           git_save_and_push(f"Routine maintenance update: {genre}")
         else:
           print(f" [!] Maintenance failed for '{genre}'. Original file untouched.")
-        
+
         print("\n[API PROTECTION] Waiting 60 seconds before the next genre...")
         time.sleep(60)
       else:
