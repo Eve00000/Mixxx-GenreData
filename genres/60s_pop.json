@@ -1,0 +1,307 @@
+{
+    "SearchField": "60s Pop",
+    "Timestamp": "2026-05-05T09:00:51Z",
+    "TotalTracks": 50,
+    "Tracks": [
+        {
+            "TrackArtist": "The Beatles",
+            "TrackTitle": "Hey Jude",
+            "MBID": "eb321b6a-241d-4460-a858-68f847cc8b50",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "The Rolling Stones",
+            "TrackTitle": "(I Can\u2019t Get No) Satisfaction",
+            "MBID": "6062c2ac-677b-4a2b-a0aa-5f993cab8aa6",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "The Beach Boys",
+            "TrackTitle": "Good Vibrations",
+            "MBID": "d6e63016-32d9-401a-a726-248ad03d87b4",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "The Supremes",
+            "TrackTitle": "Stop! In the Name of Love",
+            "MBID": "abc9c301-6777-4709-b6fc-24387f371bf8",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Marvin Gaye",
+            "TrackTitle": "I Heard It Through the Grapevine",
+            "MBID": "77f751e4-4df8-437c-b840-76cef2e7ecbb",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "The Temptations",
+            "TrackTitle": "My Girl - MY GIRL",
+            "MBID": "74135a02-c041-4776-b277-fad1acf373c0",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Aretha Franklin",
+            "TrackTitle": "Respect",
+            "MBID": "9335e334-0c95-46e7-8b40-09aaf01c3814",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "The Monkees",
+            "TrackTitle": "I\u2019m a Believer",
+            "MBID": "4206842c-030a-4fc1-865b-f0d436eb5a4e",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "The Mamas & the Papas",
+            "TrackTitle": "California Dreamin' (California Dreamin')",
+            "MBID": "05f5e924-5bd2-43fb-a687-d148f04af24f",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Simon & Garfunkel",
+            "TrackTitle": "Mrs. Robinson",
+            "MBID": "cc2252de-479a-4ab6-aa1c-7bf7fce80c47",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "The Kinks",
+            "TrackTitle": "You Really Got Me",
+            "MBID": "1eb71c0c-1efe-47b5-b83a-57415998d32d",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "The Who",
+            "TrackTitle": "My Generation",
+            "MBID": "03c26863-7e3b-4002-b142-d6958d02e221",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Dusty Springfield",
+            "TrackTitle": "Son of a Preacher Man",
+            "MBID": "a88b2cf1-4edd-4b03-b689-0dc5a2b872ce",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Otis Redding",
+            "TrackTitle": "(Sittin on\u2019) The Dock of the Bay",
+            "MBID": "a82e5c89-de4c-446d-878d-66d2a56bc676",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Creedence Clearwater Revival",
+            "TrackTitle": "Proud Mary",
+            "MBID": "2b9ded00-355c-4653-b21c-49cf3c905875",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Elvis Presley",
+            "TrackTitle": "Suspicious Minds",
+            "MBID": "dc8525a1-f3f3-4ae2-84bd-b17d60e04f07",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "The Zombies",
+            "TrackTitle": "Time of the Season",
+            "MBID": "bfb1877f-3c1d-48d1-b5ae-39eb5459388c",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Van Morrison",
+            "TrackTitle": "Brown Eyed Girl",
+            "MBID": "9396aa53-b5fa-4bd8-933d-6777cb4f2885",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "The Animals",
+            "TrackTitle": "House of the Rising Sun",
+            "MBID": "701f07d5-e351-4f53-a6c8-a8694a061e30",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "The Byrds",
+            "TrackTitle": "Mr. Tambourine Man",
+            "MBID": "94c7cacb-0073-4668-9913-55038bf50888",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Roy Orbison",
+            "TrackTitle": "Oh Pretty Woman (Oh Pretty Woman)",
+            "MBID": "7ab30427-20ee-47c7-ba05-e870f8f0fd2e",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Sam Cooke",
+            "TrackTitle": "Wonderful World",
+            "MBID": "f64860ad-de7f-457a-847a-d8e4b971baa2",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "The Four Tops",
+            "TrackTitle": "Reach Out I'll Be There",
+            "MBID": "175153cc-cdd3-49ea-bbb8-f8bfbe922512",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Jefferson Airplane",
+            "TrackTitle": "Somebody to Love",
+            "MBID": "8dd14a8f-c4fa-41ce-b0fa-3053ddc30fd9",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "The Turtles",
+            "TrackTitle": "Happy Together",
+            "MBID": "051c252d-7a25-4a88-9de5-c6cc0d64ce46",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Wilson Pickett",
+            "TrackTitle": "Mustang Sally",
+            "MBID": "3711fbbf-c450-4588-a401-7cbdf1850a05",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "James Brown",
+            "TrackTitle": "I Got You (I Feel Good)",
+            "MBID": "1b355786-d601-4185-b369-a25b72a2169a",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Nancy Sinatra",
+            "TrackTitle": "These Boots Are Made for Walkin'",
+            "MBID": "422a32a8-42f8-4df0-8ac3-865b36ff1578",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Procol Harum",
+            "TrackTitle": "A Whiter Shade of Pale",
+            "MBID": "58822be5-edad-4cc9-b2a2-85145dc83ebd",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "The Archies",
+            "TrackTitle": "Sugar, Sugar",
+            "MBID": "e30abb8e-fbb6-4093-9720-fa9de00089ff",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Jackie Wilson",
+            "TrackTitle": "(Your Love Keeps Lifting Me) Higher and Higher",
+            "MBID": "c9098b00-c36b-4fb9-98aa-b49868ecbacf",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Dionne Warwick",
+            "TrackTitle": "Walk On By",
+            "MBID": "24a2c819-c3f1-438a-a217-97df11419e1d",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "The Drifters",
+            "TrackTitle": "Under the Boardwalk",
+            "MBID": "af36bbe9-f980-4c68-abb5-c395900cace4",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Chubby Checker",
+            "TrackTitle": "The Twist",
+            "MBID": "237a2c0e-915c-4a8a-8856-0e445a1e67f8",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Little Eva",
+            "TrackTitle": "The Locomotion",
+            "MBID": "88736422-83ea-4d31-9c10-425bbfa419c7",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "The Beatles",
+            "TrackTitle": "Twist and Shout",
+            "MBID": "355170e0-c865-4336-84b4-5bea2c26d7ab",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "The Rolling Stones",
+            "TrackTitle": "Paint It Black",
+            "MBID": "e06e7167-8e27-49f1-841a-e02bc13cdfd1",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "The Beach Boys",
+            "TrackTitle": "Wouldn't It Be Nice",
+            "MBID": "9e726d7d-8da0-4e00-84f3-dfb1aea05e80",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "The Supremes",
+            "TrackTitle": "You Can\u2019t Hurry Love",
+            "MBID": "42acfef0-2daa-43a5-9a0c-fba202d92bc5",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Marvin Gaye & Tammi Terrell",
+            "TrackTitle": "Ain\u2019t No Mountain High Enough",
+            "MBID": "a565aae0-1704-41d2-b6d0-9e7449b94020",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "The Temptations",
+            "TrackTitle": "Ain\u2019t Too Proud to Beg",
+            "MBID": "1cd4e69a-b35c-4887-b9da-fcde9e26a0c5",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Aretha Franklin",
+            "TrackTitle": "You Make Me Feel Like a Natural Woman",
+            "MBID": "5a19dc5c-739f-4568-aa96-7a47915ecbf9",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "The Monkees",
+            "TrackTitle": "Daydream Believer",
+            "MBID": "28181f29-271e-46d4-8a39-d388153fe07b",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "The Mamas & the Papas",
+            "TrackTitle": "Monday, Monday, Monday",
+            "MBID": "a6e700be-0f9b-4831-a6a7-6e7f9634f2ab",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Simon & Garfunkel",
+            "TrackTitle": "The Sound of Silence",
+            "MBID": "f04be886-a3ee-4299-800a-2f81e13c5fdd",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Bob Dylan",
+            "TrackTitle": "Like a Rolling Stone",
+            "MBID": "6771b3b0-6d5a-4b2f-9249-91994f975d51",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Frankie Valli & The Four Seasons",
+            "TrackTitle": "Sherry",
+            "MBID": "f4435b9a-e4c6-4a8d-89d2-b67996db411e",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Tommy James & the Shondells",
+            "TrackTitle": "Crimson & Clover",
+            "MBID": "d7e1b546-3fc5-4bd0-9fbc-774156de12d4",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Steppenwolf",
+            "TrackTitle": "Born to Be Wild",
+            "MBID": "a12a2ebc-f80f-4628-ad2b-bfe5b8f5e2f2",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Louis Armstrong",
+            "TrackTitle": "What a Wonderful World",
+            "MBID": "9903e2bf-559e-4b5d-8e03-deeb22e0f3ca",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        }
+    ]
+}
