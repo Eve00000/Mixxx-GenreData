@@ -82,79 +82,76 @@ def should_update_genre(search_field, locked_genres):
     return True, f"Needs update. (Older than 20 days or has < 350 tracks)."
 
 def get_all_tracks_from_gemini(search_field, categories, max_retries=4):
-    print(f" -> Asking Gemini to build the ENTIRE crate in ONE request... (Saving 13 API calls!)")
-    
-    prompt = f"""
-    You are an expert music historian and club DJ. 
-    Provide a massive playlist for the genre/theme: "{search_field}".
+    # THE FIX: Split the 14 categories into 2 batches of 7 so Google doesn't time out!
+    chunks = [categories[i:i + 7] for i in range(0, len(categories), 7)]
+    all_flat_tracks = []
 
-    You must categorize the tracks into the exact following vibes:
-    {json.dumps(categories, indent=2)}
+    for i, chunk in enumerate(chunks):
+        print(f" -> Asking Gemini to build Crate Part {i+1} of {len(chunks)} (7 categories)...")
+        
+        prompt = f"""
+        You are an expert music historian and club DJ. 
+        Provide a massive playlist for the genre/theme: "{search_field}".
 
-    CRITICAL RULES:
-    1. DO NOT REPEAT TRACKS. Every single track across the entire JSON must be 100% unique.
-    2. DO NOT INVENT REMIXES. If a genre (like Opera, Jazz, or Classical) does not typically have "12-inch remixes" or "club floor fillers", provide the most essential, famous standard recordings for those categories instead. Real tracks only.
+        You must categorize the tracks into the exact following vibes:
+        {json.dumps(chunk, indent=2)}
 
-    For EACH category, provide exactly 40 tracks.
+        CRITICAL RULES:
+        1. DO NOT REPEAT TRACKS. Every single track across the entire JSON must be 100% unique.
+        2. DO NOT INVENT REMIXES. If a genre (like Opera, Jazz, or Classical) does not typically have "12-inch remixes" or "club floor fillers", provide the most essential, famous standard recordings for those categories instead. Real tracks only.
 
-    Output ONLY a single valid JSON object. Do not use markdown blocks.
-    The keys of the JSON object must be the exact category strings provided above.
-    The value for each key must be an array of objects.
-    Each object must have keys "TrackArtist" and "TrackTitle".
+        For EACH category, provide exactly 40 tracks.
 
-    Example structure:
-    {{
-      "{categories[0]}": [
-        {{"TrackArtist": "Artist 1", "TrackTitle": "Title 1"}},
-        {{"TrackArtist": "Artist 2", "TrackTitle": "Title 2"}}
-      ]
-    }}
-    """
+        Output ONLY a single valid JSON object. Do not use markdown blocks.
+        The keys of the JSON object must be the exact category strings provided above.
+        The value for each key must be an array of objects.
+        Each object must have keys "TrackArtist" and "TrackTitle".
+        """
 
-    for attempt in range(max_retries):
-        try:
-            response = client.models.generate_content(
-                model='gemini-2.5-flash', 
-                contents=prompt,
-                config=types.GenerateContentConfig(response_mime_type="application/json")
-            )
+        for attempt in range(max_retries):
+            try:
+                response = client.models.generate_content(
+                    model='gemini-2.5-flash', 
+                    contents=prompt,
+                    config=types.GenerateContentConfig(response_mime_type="application/json")
+                )
 
-            raw_text = response.text.strip()
-            if raw_text.startswith("```"):
-                lines = raw_text.split('\n')
-                if lines.startswith("```"): lines = lines[1:]
-                if lines and lines[-1].startswith("```"): lines = lines[:-1]
-                raw_text = "\n".join(lines).strip()
+                raw_text = response.text.strip()
+                if raw_text.startswith("```"):
+                    lines = raw_text.split('\n')
+                    if len(lines) > 0 and lines.startswith("```"): lines = lines[1:]
+                    if len(lines) > 0 and lines[-1].startswith("```"): lines = lines[:-1]
+                    raw_text = "\n".join(lines).strip()
 
-            parsed_json = json.loads(raw_text)
+                parsed_json = json.loads(raw_text)
 
-            flat_tracks = []
-            for cat, tracks in parsed_json.items():
-                if isinstance(tracks, list):
-                    print(f"  [+] {len(tracks)} tracks returned for: '{cat}'")
-                    for t in tracks:
-                        if "TrackArtist" in t and "TrackTitle" in t:
-                            t['Category'] = cat
-                            flat_tracks.append(t)
+                for cat, tracks in parsed_json.items():
+                    if isinstance(tracks, list):
+                        print(f"  [+] {len(tracks)} tracks returned for: '{cat}'")
+                        for t in tracks:
+                            if "TrackArtist" in t and "TrackTitle" in t:
+                                t['Category'] = cat
+                                all_flat_tracks.append(t)
+                
+                # Success! Break out of the retry loop and move to the next chunk
+                break 
 
-            return flat_tracks
+            except Exception as e:
+                error_msg = str(e)
+                # Catch normal rate limits AND the "Server disconnected" timeout error
+                if any(err in error_msg for err in ["429", "503", "UNAVAILABLE", "disconnected", "Connection"]):
+                    wait_time = 30 * (attempt + 1)
+                    print(f"  [!] Server hiccup: {error_msg}")
+                    print(f"  [!] Resting for {wait_time} seconds... (Attempt {attempt + 1} of {max_retries})")
+                    time.sleep(wait_time)
+                else:
+                    print(f"  [!] JSON format error (AI hit output limit). Retrying... (Attempt {attempt + 1})")
+                    time.sleep(5)
+        
+        # Rest 10 seconds before asking for Part 2
+        time.sleep(10)
 
-        except Exception as e:
-            error_msg = str(e)
-            if any(err in error_msg for err in ["429", "RESOURCE_EXHAUSTED", "503", "UNAVAILABLE"]):
-                wait_time = 30 * (attempt + 1)
-                print(f"  [!] Error caught: {error_msg}")
-                print(f"  [!] API Busy. Resting for {wait_time} seconds... (Attempt {attempt + 1} of {max_retries})")
-                time.sleep(wait_time)
-            elif "Extra data" in error_msg or "Expecting value" in error_msg or "JSON" in str(type(e)):
-                print(f"  [!] AI sent badly formatted JSON. Retrying... (Attempt {attempt + 1} of {max_retries})")
-                time.sleep(5)
-            else:
-                print(f"  [!] Unknown Error: {e}")
-                return []
-
-    print(f"  [!] Failed to get tracks after {max_retries} attempts.")
-    return []
+    return all_flat_tracks
 
 def get_recording_mbid(artist, title):
     try:
