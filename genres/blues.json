@@ -1,0 +1,1677 @@
+{
+    "SearchField": "blues",
+    "RefreshRate": 28,
+    "AppendMode": "append",
+    "Timestamp": "2026-05-06T21:48:49Z",
+    "TotalTracks": 278,
+    "Tracks": [
+        {
+            "TrackArtist": "B.B. King",
+            "TrackTitle": "The Thrill Is Gone",
+            "MBID": "b97ab110-f1f5-44d4-b4ba-b1c6c4a88c54",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Etta James",
+            "TrackTitle": "I'd Rather Go Blind",
+            "MBID": "2949920f-123e-4a54-a67f-50013ed20d1e",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Albert King",
+            "TrackTitle": "Born Under A Bad Sign",
+            "MBID": "739e03ad-54cc-48cf-bf4d-4d5e707f72c5",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "T\u2010Bone Walker",
+            "TrackTitle": "Call It Stormy Monday",
+            "MBID": "09a767ac-00b0-4109-b2f8-450b3af24bb6",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Muddy Waters",
+            "TrackTitle": "Mannish Boy",
+            "MBID": "8b54d20c-3ee8-4642-8c11-ca98c77744c1",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "John Lee Hooker",
+            "TrackTitle": "One Bourbon, One Scotch, One Beer",
+            "MBID": "e75dde12-afce-4c6a-82d2-342a74bb9def",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Howlin\u2019 Wolf",
+            "TrackTitle": "Smokestack Lightnin\u2019",
+            "MBID": "61d81453-0df0-476b-b0c2-57431f49c621",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Otis Rush",
+            "TrackTitle": "I Can\u2019t Quit You Baby",
+            "MBID": "25eaefd8-452b-42df-9fcf-77e27b1763ce",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Little Walter",
+            "TrackTitle": "My Babe",
+            "MBID": "46a32687-b535-4d45-8be9-8247810e5f87",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Bobby Bland",
+            "TrackTitle": "I Pity the Fool",
+            "MBID": "9e9ea179-e041-4244-b1f8-de4db37ce17c",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Lowell Fulson",
+            "TrackTitle": "Reconsider Baby",
+            "MBID": "2177310a-86a8-486e-8f6e-55cbee937225",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Charles Brown",
+            "TrackTitle": "Trouble Blues",
+            "MBID": "1f14e964-7b30-4303-ad58-b163ebddd17e",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Percy Mayfield",
+            "TrackTitle": "Please Send Me Someone To Love",
+            "MBID": "1e9531d9-8e6f-4a8f-b71b-971c193ad0cd",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Lightnin\u2019 Hopkins",
+            "TrackTitle": "Bring Me My Shotgun",
+            "MBID": "6669e66a-af71-47e0-ad4b-123130e8339c",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Big Mama Thornton",
+            "TrackTitle": "Ball \u2019n\u2019 Chain",
+            "MBID": "07781570-87c9-43cd-bc9b-d6a75226f708",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Koko Taylor",
+            "TrackTitle": "Wang Dang Doodle",
+            "MBID": "c224f8ec-8294-4e0c-a5cb-68d420d7c794",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Son House",
+            "TrackTitle": "Death Letter Blues",
+            "MBID": "90da6f7c-92e3-4a1a-96bb-c136d4706776",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Robert Johnson",
+            "TrackTitle": "Hellhound on My Trail",
+            "MBID": "bfbfed9b-66d3-422e-96a4-baee76895a38",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Mississippi John Hurt",
+            "TrackTitle": "Avalon Blues",
+            "MBID": "39417d01-d5ee-4da2-b4f7-eb6647a958f4",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Skip James",
+            "TrackTitle": "I'm So Glad",
+            "MBID": "90ba5fbb-eac8-48e2-8950-6032d7c4a7c2",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Junior Wells",
+            "TrackTitle": "Hoodoo Man Blues",
+            "MBID": "94629d7e-2b4d-466f-b18e-f458382df332",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Buddy Guy",
+            "TrackTitle": "Stone Crazy",
+            "MBID": "12ba8651-8aaa-4617-a030-f7845422fca4",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Freddie King",
+            "TrackTitle": "Have You Ever Loved a Woman",
+            "MBID": "b248d5b6-d5ac-4d07-88e6-ba5fdd63c6e4",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Elmore James",
+            "TrackTitle": "The Sky Is Crying",
+            "MBID": "bd542670-e690-42a1-a8ee-81cf3b6b557a",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "John Mayall & the Bluesbreakers",
+            "TrackTitle": "Room to Move",
+            "MBID": "e538bc50-ed7b-485b-81d9-d75629feab25",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Stu Hamm / Jonathan Mover / Larry Mitchell",
+            "TrackTitle": "Fleetwood Mac",
+            "MBID": "fb52f95e-91f1-43cd-baaf-ed2ba6e313eb",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Stevie Ray Vaughan",
+            "TrackTitle": "Riviera Paradise",
+            "MBID": "83c4de22-2fa5-4872-829f-35fd20ce3abb",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Gary Moore",
+            "TrackTitle": "Still Got the Blues",
+            "MBID": "9ef04f4f-6868-499d-8f9e-ba85fa393e63",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Jeff Beck",
+            "TrackTitle": "Cause We\u2019ve Ended as Lovers",
+            "MBID": "4e2848f8-a847-49dd-9a18-9401942ec9cd",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Joe Bonamassa",
+            "TrackTitle": "Sloe Gin",
+            "MBID": "50ef8ecf-3350-4d13-94de-cd66815b7a6a",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "King Canyon",
+            "TrackTitle": "Mulholland (feat. Derek Trucks)",
+            "MBID": "b4299b0c-cef7-49d3-b16a-9cdef2342b87",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Susan Tedeschi",
+            "TrackTitle": "It Hurt So Bad",
+            "MBID": "7c78908d-13a2-49d0-a97b-293c213d793d",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Christone \u201cKingfish\u201d Ingram",
+            "TrackTitle": "Outside of This Town",
+            "MBID": "8b1eade7-52d6-4f0a-a0e2-8db2695dd284",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Eric Clapton",
+            "TrackTitle": "Before You Accuse Me",
+            "MBID": "228d179b-28cd-4c9d-a3f5-93b0339265a9",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "John Lee Hooker",
+            "TrackTitle": "I'm in the Mood",
+            "MBID": "a7af1efa-e30c-46c7-b557-7e491aa16d4f",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Magic Sam",
+            "TrackTitle": "All Your Love",
+            "MBID": "6f031b12-24fb-4a4d-af4e-e19759111d3d",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Jimmy Reed",
+            "TrackTitle": "Bright Lights, Big City",
+            "MBID": "3e6874b5-a7ad-417d-87a6-9ba6b0222bb0",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Champion Jack Dupree",
+            "TrackTitle": "Junker Blues",
+            "MBID": "72267515-816e-476d-a329-ae64a45fc44d",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Robert Cray",
+            "TrackTitle": "Smoking Gun",
+            "MBID": "d749c0e2-d10b-473f-9933-e54170507cf5",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Taj Mahal",
+            "TrackTitle": "Statesboro Blues",
+            "MBID": "aa97b27d-a937-4734-96e2-1d1d4e7d7062",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Muddy Waters",
+            "TrackTitle": "Hoochie Coochie Man",
+            "MBID": "4ac73ddc-5673-4229-b14f-4149eb93beb3",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "John Lee Hooker",
+            "TrackTitle": "Boom, Boom, Boom, Boom",
+            "MBID": "ef7c7451-941a-4471-8005-110c20bae7e9",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Bo Diddley",
+            "TrackTitle": "Who Do You Love?",
+            "MBID": "adf59364-25fb-4ef2-bb0b-e214a5e217e1",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Jimmy Reed",
+            "TrackTitle": "Big Boss Man",
+            "MBID": "9080578c-2cd4-46f8-8020-19509d99eb9d",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Elmore James",
+            "TrackTitle": "Dust My Broom",
+            "MBID": "32fa9fa6-8898-4f9b-a844-4d5bad0cb3f3",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Howlin\u2019 Wolf",
+            "TrackTitle": "Little Red Rooster",
+            "MBID": "b0181891-ee24-4404-ab65-8fab4f9e574a",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Little Walter",
+            "TrackTitle": "Juke",
+            "MBID": "91b19980-6069-4dbd-bd08-a9a2372aae88",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Fats Domino",
+            "TrackTitle": "Ain't That a Shame",
+            "MBID": "2a6a3fc4-63d9-48ea-8169-53fe7f61a3ec",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "B.B. King",
+            "TrackTitle": "Everyday I Have the Blues",
+            "MBID": "4329be66-866c-4c76-815c-3cfe3688d9f0",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Chuck Berry",
+            "TrackTitle": "Maybellene",
+            "MBID": "c4bb8b9c-f5a4-4edc-b417-13bb440cae06",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Etta James",
+            "TrackTitle": "At Last",
+            "MBID": "ef54b01d-3f6f-4c1b-9f0f-d08f2d6897a6",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Big Joe Turner",
+            "TrackTitle": "Shake Rattle and Roll",
+            "MBID": "5c8a4ca8-f157-4179-9484-9700c441253b",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Ray Charles",
+            "TrackTitle": "I Got a Woman",
+            "MBID": "a6ed4412-50a7-436d-8953-74a0f1a4e152",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Bill Haley and His Comets",
+            "TrackTitle": "Rock Around the Clock",
+            "MBID": "ba36a03b-9819-4535-8133-94054e0565dc",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Sam Cooke",
+            "TrackTitle": "Bring It On Home to Me",
+            "MBID": "0d1c6168-a98f-4f87-9444-5b50f673253d",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Wilson Pickett",
+            "TrackTitle": "Mustang Sally",
+            "MBID": "0c4204c7-7660-4128-816b-f250c37d1d4d",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Otis Redding",
+            "TrackTitle": "(Sittin\u2019 on) The Dock of the Bay",
+            "MBID": "83a3be32-e19f-4008-b488-f63fec52310c",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Led Zeppelin",
+            "TrackTitle": "Whole Lotta Love",
+            "MBID": "6d1979a8-434c-4457-9bca-26d4d3adc332",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Willie Dixon",
+            "TrackTitle": "I Just Want To Make Love To You",
+            "MBID": "604c85c2-36f9-4adb-8129-30561f259127",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Howlin\u2019 Wolf",
+            "TrackTitle": "Spoonful",
+            "MBID": "119fe2cf-3b87-43c4-801e-1c0cc387df34",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Stevie Ray Vaughan",
+            "TrackTitle": "Pride and Joy",
+            "MBID": "10bfba4d-8782-4a68-a4c2-85e5b44c030c",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "George Thorogood & the Destroyers",
+            "TrackTitle": "Bad to the Bone",
+            "MBID": "868f9f33-57a7-4576-8168-206a200f586f",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "ZZ Top",
+            "TrackTitle": "La Grange",
+            "MBID": "2f65b893-7489-4daa-b178-bbd713a20186",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Robert Cray",
+            "TrackTitle": "Right Next Door (Because of Me)",
+            "MBID": "cdd37869-28c7-4d0c-bcf7-986fc36ae984",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Joe Cocker",
+            "TrackTitle": "With a Little Help From My Friends",
+            "MBID": "acd7c948-dde3-4aa5-86b0-c684bbc6f8cd",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "The Animals",
+            "TrackTitle": "House Of The Rising Sun",
+            "MBID": "e3936f32-e2c5-44b7-afca-8611a5491f67",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Canned Heat",
+            "TrackTitle": "On the Road Again",
+            "MBID": "47fc7f48-c0ae-47f7-b37e-ceb9f5ccc68b",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "John Mayall & the Bluesbreakers",
+            "TrackTitle": "Hideaway",
+            "MBID": "82b3e62c-af17-4ee0-8902-3423111b3b60",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Paul Butterfield Blues Band",
+            "TrackTitle": "Born in Chicago",
+            "MBID": "7ac2007b-efa3-4b0a-b882-b57636fe905f",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Johnny Winter",
+            "TrackTitle": "Rock and Roll Hoochie Koo",
+            "MBID": "185dfa10-4a09-4420-b0b8-8ac61db71da0",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Jimi Hendrix",
+            "TrackTitle": "Red House",
+            "MBID": "d9753f15-f429-406d-9824-433ef1737f72",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Gary Clark Jr.",
+            "TrackTitle": "Numb",
+            "MBID": "05388a7d-c32a-49c7-ac51-5d1e997113e0",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "The Black Keys",
+            "TrackTitle": "Little Black Submarines",
+            "MBID": "ef2a5a74-ad89-46ca-8d82-4a959c3ccc7c",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Seasick Steve",
+            "TrackTitle": "Dog House Boogie",
+            "MBID": "ea95a002-5bbe-4af9-9333-1d19c845f65f",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "The Blues Brothers",
+            "TrackTitle": "Sweet Home Chicago",
+            "MBID": "d50d5615-f5d9-4f76-9455-be3344c5f55f",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Peter Green\u2019s Fleetwood Mac",
+            "TrackTitle": "Oh Well",
+            "MBID": "7db3620b-6d24-41b7-a7a5-a49068e1d4ab",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "John Lee Hooker",
+            "TrackTitle": "Boogie Chillen",
+            "MBID": "63a41468-85d0-4b0c-8119-af83fc661226",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Ike & Tina Turner",
+            "TrackTitle": "Proud Mary",
+            "MBID": "61bcca67-1dc5-4f9e-b388-5c3a6eafd98d",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Koko Taylor",
+            "TrackTitle": "I\u2019m a Woman",
+            "MBID": "e1070adb-87a7-4fa0-ac0b-ec107ce67c3d",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Robert Johnson",
+            "TrackTitle": "Cross Road Blues",
+            "MBID": "f5a44f9c-2f56-4bf2-a893-cf101e1ff289",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Bessie Smith",
+            "TrackTitle": "St. Louis Blues: St. Louis Blues",
+            "MBID": "2e24b441-5e4b-4e29-b5ca-c67af1161e45",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Son House",
+            "TrackTitle": "Preachin\u2019 the Blues",
+            "MBID": "604d7097-594a-4ebc-beef-9c51aa575f66",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Charley Patton",
+            "TrackTitle": "Pony Blues",
+            "MBID": "818c6502-8c7d-4ca1-aac4-3a1a3805a6f2",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Blind Lemon Jefferson",
+            "TrackTitle": "Black Snake Moan",
+            "MBID": "33cb09a7-a52b-45cc-bcaf-fbe35d0a26ea",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Ma Rainey",
+            "TrackTitle": "See See Rider Blues",
+            "MBID": "b28ccb4d-d8d8-4166-9637-bd97bfb124ff",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Blind Willie McTell",
+            "TrackTitle": "Statesboro' Blues",
+            "MBID": "a16b90f9-8ea3-4dee-848f-62bb43bf86d5",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Mississippi John Hurt",
+            "TrackTitle": "Frankie and Albert",
+            "MBID": "461e32f3-1ee3-482c-9e71-826357304c86",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Lead Belly",
+            "TrackTitle": "Midnight Special",
+            "MBID": "c9b59e3b-11a9-4225-92f2-7ff8ee2e7805",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "T\u2010Bone Walker",
+            "TrackTitle": "Mean Old World",
+            "MBID": "133cc9b5-d5a9-4b14-9f6b-1ef131154f92",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Howlin\u2019 Wolf",
+            "TrackTitle": "Moanin' at Midnight",
+            "MBID": "a85d523a-97c2-4705-a3ef-32b19946cc9f",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Muddy Waters",
+            "TrackTitle": "I\u2019m Ready",
+            "MBID": "fd697438-99fa-43e6-9308-5e3a00efef31",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "B.B. King",
+            "TrackTitle": "Three O\u2019Clock Blues",
+            "MBID": "3946a323-7422-4a19-92dd-db632c89c1f2",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Albert King",
+            "TrackTitle": "Crosscut Saw",
+            "MBID": "e6c0ffbc-63d6-4604-bc07-c98d01305e3c",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Freddie King",
+            "TrackTitle": "The Stumble",
+            "MBID": "89d5d599-8302-4eb9-bbc7-5d885bcf1d82",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "John Lee Hooker",
+            "TrackTitle": "Crawlin' King Snake",
+            "MBID": "731d0cef-a6f7-4775-9541-cff573c1c33e",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Jimmy Reed",
+            "TrackTitle": "Honest I Do",
+            "MBID": "252db5dc-b692-4822-b1f5-4ab69c081e2f",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Little Walter",
+            "TrackTitle": "You're So Fine",
+            "MBID": "433e25b1-917a-4aa6-9a22-502789dc6e9f",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Elmore James",
+            "TrackTitle": "Rollin and Tumblin",
+            "MBID": "90b0f63f-c8d0-41a1-8dda-b8a70f62d78a",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Otis Rush",
+            "TrackTitle": "Double Trouble",
+            "MBID": "25c1705d-75f7-4e5a-ac08-185125c87cd6",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Buddy Guy",
+            "TrackTitle": "First Time I Met the Blues",
+            "MBID": "885030e4-da1f-4f78-9cc3-26aaa933020a",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Otis Spann",
+            "TrackTitle": "It Must Have Been the Devil",
+            "MBID": "4df0c58a-d8d9-4348-bed9-ff126d29e731",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Magic Sam",
+            "TrackTitle": "Sweet Home Chicago",
+            "MBID": "fe0db0ca-835d-43b1-912c-6e4ec7d5cb64",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Junior Wells",
+            "TrackTitle": "Messin' With the Kid",
+            "MBID": "a94caa81-98e1-4acc-ae72-e914a226d351",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Koko Taylor",
+            "TrackTitle": "Insane Asylum",
+            "MBID": "7d43a746-13c0-451f-a1f8-5700de3afa03",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Willie Dixon",
+            "TrackTitle": "Spoonful",
+            "MBID": "ddb500d9-508c-46e2-9cf7-342a38ab7412",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Etta James",
+            "TrackTitle": "I Just Want to Make Love to You",
+            "MBID": "6a4b65c4-47cd-4aac-affa-1df5077cb958",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Muddy Waters",
+            "TrackTitle": "Got My Mojo Working",
+            "MBID": "0c0cf0bd-26fd-468e-adff-34975ae970c9",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Lightnin\u2019 Hopkins",
+            "TrackTitle": "Katie Mae Blues",
+            "MBID": "1d87ac8b-ebc1-4b05-b11e-5938b0e910ef",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Skip James",
+            "TrackTitle": "Devil Got My Woman",
+            "MBID": "3876fd26-880d-4302-8092-218c42a31355",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Son House",
+            "TrackTitle": "Grinnin' in Your Face",
+            "MBID": "ff22f32e-c8ff-41d9-b29e-9b03bffd1ad1",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Robert Johnson",
+            "TrackTitle": "Terraplane Blues",
+            "MBID": "dd9f0d4f-c74b-4339-8438-974ccb428653",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Blind Willie Johnson",
+            "TrackTitle": "Dark Was the Night, Cold Was the Ground",
+            "MBID": "f76b433e-757c-4a77-a758-69540de082ac",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Memphis Minnie",
+            "TrackTitle": "When The Levee Breaks",
+            "MBID": "3ed3f564-86ae-4544-9f50-8d670c8f72f4",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Sister Rosetta Tharpe",
+            "TrackTitle": "Strange Things Happening Every Day",
+            "MBID": "cdbb4c93-d684-466c-abc8-0da3a7c75774",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Guitar Slim",
+            "TrackTitle": "The Things That I Used to Do",
+            "MBID": "5d1d8de7-5b3d-4b74-bf08-2cbbf52d2aaf",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Lowell Fulson",
+            "TrackTitle": "Blue Shadows",
+            "MBID": "8d35632d-af8d-426b-aaab-7a6a8479a1d0",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Johnny \u201cGuitar\u201d Watson",
+            "TrackTitle": "Gangster of Love",
+            "MBID": "e07169d3-838c-445d-84be-961fe01a140b",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Clarence \u201cGatemouth\u201d Brown",
+            "TrackTitle": "Okie Dokie Stomp",
+            "MBID": "0dddeed7-a6be-4cb6-91d8-bd1df98aa15a",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Jack Dupree Trio",
+            "TrackTitle": "Mean Old Frisco",
+            "MBID": "6f1727ef-69dd-49e4-8cac-e380a4f799d1",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Stevie Ray Vaughan",
+            "TrackTitle": "Texas Flood",
+            "MBID": "8e5c21fa-beea-4b9f-a1b3-075ce2c1aac2",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Gary Clark, Jr.",
+            "TrackTitle": "When My Train Pulls In",
+            "MBID": "3b38f7e0-b508-42db-b02e-bbe45302cfbf",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Joe Bonamassa",
+            "TrackTitle": "The Ballad of John Henry",
+            "MBID": "48c0ceb4-fbf5-46f6-8885-31a792a52739",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "B.B. King",
+            "TrackTitle": "Why I Sing the Blues",
+            "MBID": "c2adfe11-2cc0-46b0-9974-ec6b02090f4f",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Buddy Guy",
+            "TrackTitle": "Damn Right, I\u2019ve Got the Blues",
+            "MBID": "1bc3eb53-4236-45a8-bd22-5002e2987380",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "John Mayer",
+            "TrackTitle": "Gravity",
+            "MBID": "57946e61-c47d-46df-8227-8e2ff16d09db",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Kenny Wayne Shepherd",
+            "TrackTitle": "Blue on Black",
+            "MBID": "a2cb35fe-3c22-4b03-b223-75343c65c444",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Jonny Lang",
+            "TrackTitle": "Lie to Me",
+            "MBID": "398ce0a6-a4ad-49c4-aeeb-4238379ff492",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "The Robert Cray Band",
+            "TrackTitle": "Phone Booth",
+            "MBID": "7f451150-4053-47db-9023-4dcb35cea94e",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Susan Tedeschi",
+            "TrackTitle": "Gonna Move",
+            "MBID": "47510f59-4c28-4826-a99a-56cf456b0184",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Larkin Poe",
+            "TrackTitle": "She\u2019s a Self Made Man",
+            "MBID": "44f4deca-e1bc-4a43-b7ac-6ee545b81e35",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Christone \u201cKingfish\u201d Ingram",
+            "TrackTitle": "662",
+            "MBID": "eb2b1234-5fb9-480c-a251-a02015a44f7e",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "The Jimi Hendrix Experience",
+            "TrackTitle": "Voodoo Child (slight return)",
+            "MBID": "8a6e4a95-4844-4db0-abcd-976516585f35",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Led Zeppelin",
+            "TrackTitle": "Since I've Been Loving You",
+            "MBID": "24e1eb27-593e-4028-a556-af6c04fd51bb",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Eric Clapton",
+            "TrackTitle": "Motherless Children",
+            "MBID": "188b312f-eec7-4c8b-bbfe-87a687ea361c",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Cream",
+            "TrackTitle": "Sunshine of Your Love",
+            "MBID": "46dacc09-b299-4909-a148-503d31281c79",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Albert King",
+            "TrackTitle": "I\u2019ll Play the Blues for You",
+            "MBID": "4e056f56-f3f1-4108-b7f5-917d893e0c98",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Freddie King",
+            "TrackTitle": "Going Down",
+            "MBID": "176303cb-3f39-403e-a011-fa7c6e237f39",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "T\u2010Bone Walker",
+            "TrackTitle": "T\u2010Bone Shuffle",
+            "MBID": "a70943e0-88a8-4d92-bcff-c845bd23a8d3",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Howlin\u2019 Wolf",
+            "TrackTitle": "Forty Four",
+            "MBID": "2883d183-5e09-4389-9433-703f63793300",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Muddy Waters",
+            "TrackTitle": "Trouble No More",
+            "MBID": "275ee648-5b9f-4173-889a-42fb73bec58f",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "John Lee Hooker",
+            "TrackTitle": "Tupelo Blues",
+            "MBID": "2e318cf7-7b59-4806-94e0-6260c8f05142",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Lightnin\u2019 Hopkins",
+            "TrackTitle": "Mojo Hand",
+            "MBID": "b504d81e-9567-49ba-b076-c7f4e857c5d3",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Etta James",
+            "TrackTitle": "Stormy Weather",
+            "MBID": "c62c2a70-599b-4c88-8ae7-2ccdd15d3b48",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Ruth Brown",
+            "TrackTitle": "Teardrops From My Eyes",
+            "MBID": "ee6d6c5c-530d-490a-9cce-6a7abe71e4d6",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Big Mama Thornton",
+            "TrackTitle": "Hound Dog",
+            "MBID": "268c72c2-c154-4aca-8ac6-d18805abec06",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Memphis Slim",
+            "TrackTitle": "Beer Drinking Woman",
+            "MBID": "f8dee36e-56b3-4250-8443-f367b08c2707",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Junior Kimbrough",
+            "TrackTitle": "All Night Long",
+            "MBID": "a8fd3db5-78ce-4607-be7b-b67dd66edaad",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "R.L. Burnside",
+            "TrackTitle": "Goin' Down South",
+            "MBID": "76e1c27f-9656-4f83-874b-84fb1f0960c1",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Son House",
+            "TrackTitle": "Walking Blues",
+            "MBID": "a1a3c380-0e2d-426a-97ac-e2c0bdf34dc3",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Robert Johnson",
+            "TrackTitle": "Sweet Home Chicago",
+            "MBID": "640020bb-1c45-4c5f-96af-fa0ca182a49b",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "John Mayall & the Bluesbreakers",
+            "TrackTitle": "A Hard Road",
+            "MBID": "35198df7-c78b-4a72-90ff-6f33bf3dc962",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Fleetwood Mac",
+            "TrackTitle": "Green Manalishi",
+            "MBID": "86138bcd-d7e3-4fa9-86e7-af03780154ca",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Canned Heat",
+            "TrackTitle": "Goin\u2019 Up the Country",
+            "MBID": "0119bb58-6996-430a-ae71-ba97391011af",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "George Thorogood & the Destroyers",
+            "TrackTitle": "One Bourbon, One Scotch, One Beer",
+            "MBID": "275ecfc5-1cbb-444c-a050-d8efb3c00da2",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Buddy Guy",
+            "TrackTitle": "Leave My Little Girl Alone",
+            "MBID": "75f0ab75-4317-4712-95f2-2cba2a178a6a",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "The Paul Butterfield Blues Band",
+            "TrackTitle": "Mary, Mary",
+            "MBID": "982b37a8-cd3f-4091-8753-07308fd71766",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Albert King",
+            "TrackTitle": "Oh, Pretty Woman",
+            "MBID": "c9c945a9-b83a-41ef-87f2-45f281e6f95f",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Taj Mahal",
+            "TrackTitle": "Corinna",
+            "MBID": "2a916c96-d534-4770-ab4d-439ebb084bab",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Stevie Ray Vaughan",
+            "TrackTitle": "Lenny",
+            "MBID": "0aeac980-f8c7-4d0f-8f4f-4b7c8d99abfe",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Gary Clark, Jr.",
+            "TrackTitle": "Bright Lights",
+            "MBID": "d9bc718c-10e8-4d29-8d91-11e13c743721",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Joe Bonamassa",
+            "TrackTitle": "Driving Towards the Daylight",
+            "MBID": "4b8cf0e4-becc-4375-b2e0-4890753494cc",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "B.B. King",
+            "TrackTitle": "Rock Me Baby",
+            "MBID": "46642e97-39d0-4fca-9e7c-4254e3b8d204",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Muddy Waters",
+            "TrackTitle": "Rollin' Stone",
+            "MBID": "43381e83-34fe-44dc-88ca-cf3d3c2cc74d",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "John Lee Hooker",
+            "TrackTitle": "Hobo Blues",
+            "MBID": "81cd0bb7-7883-4b22-9e71-979ae75052d6",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Howlin\u2019 Wolf",
+            "TrackTitle": "Who's Been Talkin'",
+            "MBID": "07b26473-90ad-4f5b-b53a-968a20126ecb",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Albert King",
+            "TrackTitle": "Laundromat Blues",
+            "MBID": "19640c23-fc61-47ec-a2d9-949bdf8bbb5c",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Freddie King",
+            "TrackTitle": "San-Ho-Zay",
+            "MBID": "78aeab8c-00c8-41d0-bf24-9c09fd2c0a3e",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Eric Clapton",
+            "TrackTitle": "Nobody Knows You When You\u2019re Down and Out",
+            "MBID": "70bf69b2-f1b8-4397-a810-72198fbe0505",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "The Allman Brothers Band",
+            "TrackTitle": "Stormy Monday",
+            "MBID": "84d4b018-99a8-446f-9742-4301af150376",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "The Derek Trucks Band",
+            "TrackTitle": "Down in the Flood",
+            "MBID": "9c690b62-6dba-4772-bda4-32e999721406",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "John Mayer Trio",
+            "TrackTitle": "Vultures",
+            "MBID": "9150d00f-1e6b-4c99-9d8c-cf5d5ace95bb",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Philip Sayce",
+            "TrackTitle": "Steamroller",
+            "MBID": "b75c23c2-dcb1-4bd6-b3ac-88380f9d13a8",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Larkin Poe",
+            "TrackTitle": "Holy Ghost Fire",
+            "MBID": "24fbc679-5010-4269-a2e5-1695f318da20",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Beth Hart",
+            "TrackTitle": "Leave the Light On",
+            "MBID": "9ad23375-4cd1-477f-8466-45e786b96f1e",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Joanne Shaw Taylor",
+            "TrackTitle": "Mud, Honey",
+            "MBID": "9cb660b1-b20e-4670-8e2c-828409d92eb5",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Keb\u2019 Mo\u2019",
+            "TrackTitle": "Am I Wrong",
+            "MBID": "08db5fb0-58f1-48b0-858b-ace5337db2a5",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Taj Mahal",
+            "TrackTitle": "Fishin' Blues",
+            "MBID": "b7bd3fdc-7973-4d65-a953-517559bd878f",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Ry Cooder",
+            "TrackTitle": "Dark End of the Street",
+            "MBID": "19ca8386-4047-4bfb-82ab-5c89b4fdd46b",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Bernie Marsden",
+            "TrackTitle": "Don't Start Me to Talking (Sonny Boy Williamson)",
+            "MBID": "de2888b6-9ce5-4634-9a04-7f2de037b6d9",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Junior Wells",
+            "TrackTitle": "Little by Little",
+            "MBID": "4dcf2575-4dac-4652-8497-a74f492795b2",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Buddy Guy",
+            "TrackTitle": "Feels Like Rain",
+            "MBID": "0b7abc81-d95b-44fb-896d-04605dad8baa",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Muddy Waters",
+            "TrackTitle": "Don\u2019t Go No Farther",
+            "MBID": "3460dc54-bfbf-46a8-b3c4-225ca51d15c1",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "John Mayall & the Bluesbreakers",
+            "TrackTitle": "Parchman Farm",
+            "MBID": "4cb613b9-bebb-45eb-aa2a-cf13fdb3af1d",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "The Paul Butterfield Blues Band",
+            "TrackTitle": "East West",
+            "MBID": "3232ae4d-a9ae-43c2-b029-50ed79d34cb1",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Canned Heat",
+            "TrackTitle": "Let\u2019s Work Together",
+            "MBID": "153df24a-b57f-4b4b-b49c-ab76bbe8be6c",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Ten Years After",
+            "TrackTitle": "I\u2019m Going Home",
+            "MBID": "b751ee32-3529-4bf2-9530-0a496cbb4a07",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Jeff Beck",
+            "TrackTitle": "Going Down",
+            "MBID": "549f9821-902d-4c41-a856-1be81f5be06f",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "ZZ Top",
+            "TrackTitle": "Jesus Just Left Chicago",
+            "MBID": "d90b2c52-1c4b-460c-8dbc-db7db3e5342f",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "The Black Crowes",
+            "TrackTitle": "Hard to Handle",
+            "MBID": "a5342e41-167e-4dc7-8f92-5f5203318b38",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Tedeschi Trucks Band",
+            "TrackTitle": "Bound for Glory",
+            "MBID": "258c2812-e554-4905-8118-ffdf123fd405",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Chris Stapleton",
+            "TrackTitle": "Tennessee Whiskey",
+            "MBID": "ebae4020-a8b4-47c7-885c-2ee07214f008",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Gary Moore",
+            "TrackTitle": "Parisienne Walkways",
+            "MBID": "cc793453-e788-49eb-b78a-141e45854098",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Johnny Winter",
+            "TrackTitle": "Be Careful With a Fool",
+            "MBID": "ce889ad8-1f31-459b-88ba-e702752896de",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "George Thorogood & the Destroyers",
+            "TrackTitle": "Get a Haircut",
+            "MBID": "0848ede2-8af5-4690-8d21-e7ae008ae70f",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Robert Johnson",
+            "TrackTitle": "Kind Hearted Woman Blues",
+            "MBID": "163f2e4e-3713-4dc7-840b-c0d27b4dc533",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Blind Willie Johnson",
+            "TrackTitle": "John the Revelator",
+            "MBID": "63115fcf-8565-441b-8a7a-f67a100ad1f4",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Reverend Gary Davis",
+            "TrackTitle": "Death Don't Have No Mercy",
+            "MBID": "4976a454-ba24-437d-a00d-2c76cdfb42e2",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Mississippi Fred McDowell",
+            "TrackTitle": "You Gotta Move",
+            "MBID": "167e3420-4fd1-4cd2-9273-a4fb3f639b76",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Eric Clapton",
+            "TrackTitle": "Old Love",
+            "MBID": "eceb5702-c92d-451a-8ca5-3eb7b59a8ab5",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "B.B. King",
+            "TrackTitle": "Woke Up This Morning",
+            "MBID": "6ef0e8d5-60e8-4d4a-bf22-0f66b2ede4d9",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Muddy Waters",
+            "TrackTitle": "Long Distance Call",
+            "MBID": "d570fef2-2cb2-4939-bf97-25228afa0be6",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "John Lee Hooker",
+            "TrackTitle": "Mr. Lucky",
+            "MBID": "ab3d2abf-3763-42c5-a5fe-3edb2589a561",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Howlin\u2019 Wolf",
+            "TrackTitle": "Down in the Bottom",
+            "MBID": "d470d53d-8eb4-432d-a788-a1671293e48b",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Albert King",
+            "TrackTitle": "Cadillac Assembly Line",
+            "MBID": "2ba81565-adc5-4551-ad29-3dcfddc45c98",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Freddie King",
+            "TrackTitle": "Yonder Wall",
+            "MBID": "1e96af1c-afc5-40f9-8291-d84d4d96a280",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Buddy Guy",
+            "TrackTitle": "Five Long Years",
+            "MBID": "a8239a2b-8ffb-4584-9317-13a6fdb65e0a",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Lars-Luis Linek",
+            "TrackTitle": "Strong Persuader",
+            "MBID": "491f3026-2a51-476e-800b-4e85d002ae23",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "John Mayall & the Bluesbreakers",
+            "TrackTitle": "Steppin\u2019 Out",
+            "MBID": "5edaa1d7-d322-4456-b2df-510a63bc804f",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Joe Bonamassa",
+            "TrackTitle": "Dust Bowl",
+            "MBID": "84e0ca20-166b-46a6-9bac-7924f6de4151",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Gary Moore",
+            "TrackTitle": "Empty Rooms",
+            "MBID": "99f70fa5-0d10-441c-8f8c-06577b2a52d3",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "London Rock Orchestra",
+            "TrackTitle": "Man of the World (Fleetwood Mac)",
+            "MBID": "51e05d7f-93b2-4236-a473-84ff88f7ecb3",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Rory Gallagher",
+            "TrackTitle": "Messin' With the Kid",
+            "MBID": "67f495a5-ca83-46f8-b602-807d47c6ec64",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "The Jeff Healey Band",
+            "TrackTitle": "While My Guitar Gently Weeps",
+            "MBID": "b24165a6-183b-43e9-bde8-0c64f338058c",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Susan Tedeschi",
+            "TrackTitle": "Back to the River",
+            "MBID": "11671571-4dfb-48b7-863d-ca14d6e533e3",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Keb\u2019 Mo\u2019",
+            "TrackTitle": "Every Morning",
+            "MBID": "0d972951-584d-4190-99d9-968b4aa4b320",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Taj Mahal",
+            "TrackTitle": "Leaving Trunk",
+            "MBID": "367b106b-c493-4026-a497-c11891941963",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Seasick Steve",
+            "TrackTitle": "Walkin\u2019 Man",
+            "MBID": "5c7ebd96-ce37-484d-b35f-277df67541c1",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Beth Hart & Joe Bonamassa",
+            "TrackTitle": "Sinner\u2019s Prayer",
+            "MBID": "8fa39106-3b02-4509-89b1-0c1bc3d1ab8d",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Sonny Terry & Brownie McGhee",
+            "TrackTitle": "Key to the Highway",
+            "MBID": "7d544353-e9bd-4cfc-ae9a-c43fdf7f1bed",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Lightnin\u2019 Slim",
+            "TrackTitle": "Rooster Blues",
+            "MBID": "84086100-939d-4f24-93b5-b0c122c99489",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Slim Harpo",
+            "TrackTitle": "I'm a King Bee",
+            "MBID": "95cb2009-6c2b-431f-9a37-f07316d35b79",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Jimmy Rogers",
+            "TrackTitle": "That\u2019s All Right",
+            "MBID": "a627947c-aa11-4606-b7ec-6f22db1a8e13",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "B.B. King",
+            "TrackTitle": "Please Love Me",
+            "MBID": "e1506554-5262-44b5-a1ea-bfffe7eb3aca",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "T\u2010Bone Walker",
+            "TrackTitle": "Bobby Sox Blues",
+            "MBID": "126ebff1-1f6f-4746-97a2-cce35a1024af",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Bessie Smith",
+            "TrackTitle": "Empty Bed Blues",
+            "MBID": "ee1fd0af-1de6-4fca-a0ac-686a5e474dbf",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Robert Johnson",
+            "TrackTitle": "Drunken Hearted Man",
+            "MBID": "49cc9a2a-dabc-4fd4-9f94-e61ebe3c0625",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Son House",
+            "TrackTitle": "The Jinx Blues",
+            "MBID": "0f806d9d-89b3-4668-abe6-75f480601f3d",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Skip James",
+            "TrackTitle": "Hard Time Killin' Floor Blues",
+            "MBID": "6a33e6bf-f563-46ba-9aaf-39899a01eb95",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Mississippi John Hurt",
+            "TrackTitle": "Stack O\u2019Lee Blues",
+            "MBID": "f3dce365-9c4a-4357-ac84-c4468625da15",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Lead Belly",
+            "TrackTitle": "Where Did You Sleep Last Night? (In the Pines)",
+            "MBID": "c31298d2-80f8-4176-a284-ad6ecfcf81dc",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "DJ Khaled feat. Kanye West & Rick Ross",
+            "TrackTitle": "I Wish You Would",
+            "MBID": "c7d4cbfc-a1fd-4389-8196-0d9882a8f72a",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Charlie Musselwhite",
+            "TrackTitle": "Christo Redentor",
+            "MBID": "4eb3dfce-b41a-42c5-8597-0c6aab65ce98",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Pinetop Perkins",
+            "TrackTitle": "Blues After Hours",
+            "MBID": "fddefec1-ed7c-4ba2-9744-59d20b172f68",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "James Cotton",
+            "TrackTitle": "The Creeper",
+            "MBID": "0204a537-19a6-4198-bfec-256617d1c8db",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Lurrie Bell",
+            "TrackTitle": "I Feel So Good",
+            "MBID": "08d297d7-5a5c-44aa-8d2b-2003e24bf394",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Artie Lange",
+            "TrackTitle": "Jimmy Johnson's Johnson",
+            "MBID": "44297b92-3193-4ae8-b2d1-be9bf6e79656",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Otis Rush",
+            "TrackTitle": "So Many Roads, So Many Trains",
+            "MBID": "8918207f-3690-436b-977a-c6bd22d72166",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Big Walter Horton",
+            "TrackTitle": "Easy",
+            "MBID": "f2b03320-26c7-4647-8fe4-ad335ae0e52c",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Stevie Ray Vaughan",
+            "TrackTitle": "Rude Mood",
+            "MBID": "0d1ca9b4-49e7-4232-8b12-e526c3033ad5",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Gary Clark, Jr.",
+            "TrackTitle": "Blak And Blu",
+            "MBID": "4f309b17-4314-4164-bc43-09a1c312c17b",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Joe Bonamassa",
+            "TrackTitle": "Woke Up Dreaming",
+            "MBID": "8c60f8d2-0586-4858-8eb4-ed5214c5e0e8",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "B.B. King",
+            "TrackTitle": "Don't Answer The Door",
+            "MBID": "607f936b-bf89-406e-b51e-6224c8a50c16",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Muddy Waters",
+            "TrackTitle": "The Blues Had a Baby and They Named It Rock and Roll",
+            "MBID": "99be2c74-f49d-467f-a5f0-0fb15ee5bbd6",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "John Lee Hooker",
+            "TrackTitle": "Sugar Mama",
+            "MBID": "32346c37-e47b-4827-b875-fb1fd2181fca",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Howlin\u2019 Wolf",
+            "TrackTitle": "Evil Is Going On",
+            "MBID": "f89ebff5-9cb7-4187-bfee-5e773f8f72ee",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Sergio Bap",
+            "TrackTitle": "King Albert",
+            "MBID": "b84ad36f-36c9-4cf6-8472-ac79de94e1a3",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Freddie King",
+            "TrackTitle": "The Welfare",
+            "MBID": "729c8c5b-92da-4688-80b1-cceb7225c81e",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Robert Cray",
+            "TrackTitle": "The Forecast (Calls for Pain)",
+            "MBID": "e286798c-7cf1-4863-b7ec-d18ba36ccdb3",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "John Mayall & the Bluesbreakers",
+            "TrackTitle": "Crocodile Walk",
+            "MBID": "de98baec-f8a9-4790-9a5d-e5a221557709",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "T\u2010Bone Walker",
+            "TrackTitle": "Glamour Girl",
+            "MBID": "3dacb6c2-4188-4ea8-afbf-9a9ded91178f",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Buddy Guy",
+            "TrackTitle": "A Man and the Blues",
+            "MBID": "6b96faab-cbad-4c1f-8801-fcdbce01443a",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Lightnin\u2019 Hopkins",
+            "TrackTitle": "Death Bells",
+            "MBID": "541e495f-f966-42b7-824e-68e78ebd5b9d",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Mississippi John Hurt",
+            "TrackTitle": "Candy Man Blues",
+            "MBID": "9ce0c750-89dd-41f6-9704-4780765cbf19",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "R.L. Burnside",
+            "TrackTitle": "Poor Black Mattie",
+            "MBID": "4904af2f-a294-40ab-a1b1-4f5bd40f4980",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Junior Kimbrough",
+            "TrackTitle": "Meet Me in the City",
+            "MBID": "ef238551-4ac4-42ac-b9ef-96dc3de06a5a",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Son House",
+            "TrackTitle": "Empire State Express",
+            "MBID": "1a5b7ea3-951c-4e52-8417-c206168333a7",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Robert Johnson",
+            "TrackTitle": "Stop Breakin\u2019 Down Blues",
+            "MBID": "795f54c3-08be-47f6-8960-44860f2ef272",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Blind Willie McTell",
+            "TrackTitle": "Broke Down Engine Blues",
+            "MBID": "ea09c28b-4cca-462c-a9da-d19fe32b550a",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Charley Patton",
+            "TrackTitle": "High Water Everywhere, Pt. 1",
+            "MBID": "7ec000d6-1d48-4acc-9e8b-0cf1eb877fcf",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Skip James",
+            "TrackTitle": "Cherry Ball Blues",
+            "MBID": "768b8b9e-30d1-4c76-a5ee-a20363bfa9a3",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Furry Lewis",
+            "TrackTitle": "Kassie Jones",
+            "MBID": "747e2fb7-8b0a-4d12-82af-3b42433f3c04",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Lead Belly",
+            "TrackTitle": "Good Morning Blues",
+            "MBID": "e8d73ff8-8606-40e5-a953-45a0dd444d2e",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Bessie Smith",
+            "TrackTitle": "Gimme a Pigfoot and a Bottle of Beer",
+            "MBID": "a821109a-6702-4264-ac76-3e3f502d280f",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Big Bill Broonzy",
+            "TrackTitle": "Just a Dream (On My Mind)",
+            "MBID": "d1a9d4a9-9e25-479b-8765-eadfdba991d3",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Jimmy Reed",
+            "TrackTitle": "You Don't Have to Go",
+            "MBID": "5d5be278-376e-4187-ac43-92775d9f1c6b",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Little Walter",
+            "TrackTitle": "Mellow Down Easy",
+            "MBID": "bde51483-37c4-42d3-933e-ba862e227fac",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Elmore James",
+            "TrackTitle": "Standing at the Crossroads",
+            "MBID": "5d578513-c126-4b45-afee-438b565ad100",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Otis Rush",
+            "TrackTitle": "Homework",
+            "MBID": "fc471ac3-8928-44cd-bd59-3e10866c6575",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Magic Sam",
+            "TrackTitle": "Out Of Bad Luck",
+            "MBID": "6605e009-f0d2-4f5b-8cbd-a72590acd13e",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Junior Wells",
+            "TrackTitle": "Snatch It Back and Hold It",
+            "MBID": "d5ab9955-93b5-4b3f-ae6b-882995fca2f9",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Koko Taylor",
+            "TrackTitle": "Let the Good Times Roll",
+            "MBID": "62ca00c6-fc37-4676-9673-7d4ab4e6d3a5",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Willie Dixon",
+            "TrackTitle": "Built for Comfort",
+            "MBID": "2126f456-bbaa-4002-95b0-fb55a4c839b4",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Screamin\u2019 Jay Hawkins",
+            "TrackTitle": "I Put a Spell on You",
+            "MBID": "5546f59a-c607-4c17-8763-40b427ea62f6",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Howlin\u2019 Wolf",
+            "TrackTitle": "Back Door Man",
+            "MBID": "f1f72bfb-76d4-412e-b494-280ba8e80205",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Muddy Waters",
+            "TrackTitle": "I Feel Like Going Home",
+            "MBID": "7589976c-8733-4066-bb84-6b0f5956007c",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "B.B. King",
+            "TrackTitle": "Sweet Sixteen",
+            "MBID": "3b0c2e8c-4030-4035-876c-9567948edadf",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Albert Collins",
+            "TrackTitle": "Frosty",
+            "MBID": "e8ac967a-13db-4d14-9f4c-0d5f48b6f415",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "John Lee Hooker",
+            "TrackTitle": "The Healer",
+            "MBID": "5c238fbf-862e-4dd3-9e81-f1f31254a1f3",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        }
+    ]
+}
