@@ -40,7 +40,7 @@ jobs:
       - name: Run Gemini-MusicBrainz Connector
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-          # THIS IS THE BRIDGE: It takes the input from your app and gives it to Python!
+          GITHUB_TOKEN: ${{ secrets.MY_GITHUB_PAT }}
           CUSTOM_GENRE: ${{ inputs.custom_genre }}
         run: python -u connector.py
 
