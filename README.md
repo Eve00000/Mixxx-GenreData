@@ -13,6 +13,7 @@ This project is built on a highly resilient, two-part serverless ecosystem:
 ---
 
 ## 🖥️ Part 1: The Frontend Web App (Vercel Edge)
+see https://github.com/Eve00000/Mixxx-EI-Playlist-Creator-
 The user-facing application is built for extreme privacy, speed, and resilience against API rate limits.
 
 ### Key Features:
