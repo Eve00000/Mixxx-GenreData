@@ -61,12 +61,11 @@ def should_update_genre(search_field, locked_genres):
     if not os.path.exists(filename):
         return True, "File does not exist yet."
 
-    # 3. Check the age and track count of the existing file
+    # 3. Check the age of the existing file (No track limit anymore!)
     try:
         with open(filename, 'r', encoding='utf-8') as f:
             data = json.load(f)
 
-        total_tracks = data.get("TotalTracks", 0)
         timestamp_str = data.get("Timestamp", "")
 
         if timestamp_str:
@@ -74,13 +73,15 @@ def should_update_genre(search_field, locked_genres):
             now = datetime.now(timezone.utc)
             age_in_days = (now - last_update).days
 
-            if age_in_days < 20 and total_tracks > 350:
-                return False, f"Recently updated ({age_in_days} days ago) and has {total_tracks} tracks."
+            # The new rule: Only look at the age! < 20 days old = Skip it!
+            if age_in_days < 20:
+                return False, f"Recently updated ({age_in_days} days ago)."
+                
     except Exception as e:
         return True, f"Error reading existing file, forcing update."
 
-    return True, f"Needs update. (Older than 20 days or has < 350 tracks)."
-
+    return True, f"Needs update (Older than 20 days)."
+    
 def get_all_tracks_from_gemini(search_field, categories, max_retries=4):
     # THE FIX: Split the 14 categories into 2 batches of 7 so Google doesn't time out!
     chunks = [categories[i:i + 7] for i in range(0, len(categories), 7)]
@@ -183,9 +184,37 @@ def get_recording_mbid(artist, title):
     
 def generate_playlist_data(search_field):
     print(f"\n========================================")
-    print(f" CRATE DIGGING: {search_field} (Target: 560 Tracks)")
+    print(f" CRATE DIGGING: {search_field}")
     print(f"========================================")
 
+    safe_path = search_field.replace(' ', '_').lower()
+    target_filename = os.path.join(GENRES_DIR, f"{safe_path}.json")
+    temp_filename = os.path.join(GENRES_DIR, f"{safe_path}_new.json")
+
+    # --- 1. LOAD EXISTING DATA (APPENDER LOGIC) ---
+    existing_tracks = []
+    seen_mbids = set()
+    seen_strings = set()  # Used for fast text-matching
+
+    if os.path.exists(target_filename):
+        try:
+            with open(target_filename, 'r', encoding='utf-8') as f:
+                data = json.load(f)
+                existing_tracks = data.get("Tracks", [])
+                
+            for t in existing_tracks:
+                if "MBID" in t:
+                    seen_mbids.add(t["MBID"])
+                # Create a simple string "artist||title" to prevent duplicate API calls
+                artist_str = str(t.get("TrackArtist", "")).lower().strip()
+                title_str = str(t.get("TrackTitle", "")).lower().strip()
+                seen_strings.add(f"{artist_str}||{title_str}")
+                
+            print(f" [i] Found existing file. Operating in APPEND mode ({len(existing_tracks)} current tracks).")
+        except Exception as e:
+            print(f" [!] Error loading existing file, starting fresh. {e}")
+
+    # --- 2. GET NEW TRACKS FROM GEMINI ---
     categories = [
         "The absolute biggest mainstream pop/radio hits of this genre",
         "Iconic One-Hit Wonders and viral sensations",
@@ -206,27 +235,35 @@ def generate_playlist_data(search_field):
     all_tracks = get_all_tracks_from_gemini(search_field, categories)
 
     print(f"\n========================================")
-    print(f" [i] AI Generation Complete: {len(all_tracks)} total raw tracks collected.")
+    print(f" [i] AI Generation Complete: {len(all_tracks)} raw tracks collected.")
     print(f"========================================\n")
 
     if not all_tracks:
         print(f"[!] No tracks returned for {search_field}. Aborting.")
         return False
 
-    print(f" -> Verifying tracks against MusicBrainz... (This takes a few minutes)")
+    print(f" -> Cross-checking against existing database and MusicBrainz...")
 
-    final_tracks = []
-    seen_mbids = set() 
+    # --- 3. FILTER AND VERIFY ---
+    new_verified_tracks = []
 
     for track in all_tracks:
         raw_artist = track.get("TrackArtist", "")
         raw_title = track.get("TrackTitle", "")
 
+        # PRE-FILTER: Does this string already exist in the JSON? Skip it instantly!
+        match_str = f"{str(raw_artist).lower().strip()}||{str(raw_title).lower().strip()}"
+        if match_str in seen_strings:
+            continue 
+
+        # If it's completely new, ask MusicBrainz to verify it
         mbid, clean_artist, clean_title = get_recording_mbid(raw_artist, raw_title)
 
+        # POST-FILTER: Double check that MusicBrainz didn't map it to an MBID we already have
         if mbid and mbid not in seen_mbids:
             seen_mbids.add(mbid)
-            final_tracks.append({
+            seen_strings.add(f"{clean_artist.lower().strip()}||{clean_title.lower().strip()}")
+            new_verified_tracks.append({
                 "TrackArtist": clean_artist, 
                 "TrackTitle": clean_title,  
                 "MBID": mbid,
@@ -234,10 +271,14 @@ def generate_playlist_data(search_field):
             })
         time.sleep(1) 
 
-    print(f" -> Successfully verified and deduplicated {len(final_tracks)} unique tracks!")
+    print(f" -> Discovered and verified {len(new_verified_tracks)} BRAND NEW tracks!")
 
-    if len(final_tracks) < 50:
-        print(f"[!] Only verified {len(final_tracks)} tracks. Aborting to protect existing file.")
+    # --- 4. MERGE AND SAVE ---
+    final_tracks = existing_tracks + new_verified_tracks
+
+    # Safety Check: If it's a completely new list, ensure it's not a garbage response
+    if len(existing_tracks) == 0 and len(final_tracks) < 50:
+        print(f"[!] Only verified {len(final_tracks)} tracks on a fresh run. Aborting.")
         return False
 
     final_playlist = {
@@ -247,23 +288,24 @@ def generate_playlist_data(search_field):
         "Tracks": final_tracks
     }
 
-    safe_path = search_field.replace(' ', '_').lower()
-    target_filename = os.path.join(GENRES_DIR, f"{safe_path}.json")
-    temp_filename = os.path.join(GENRES_DIR, f"{safe_path}_new.json")
-
     os.makedirs(os.path.dirname(target_filename), exist_ok=True)
 
     try:
         with open(temp_filename, 'w', encoding='utf-8') as f:
             json.dump(final_playlist, f, indent=4)
         os.replace(temp_filename, target_filename)
-        print(f"SUCCESS! Saved {len(final_tracks)} tracks to {target_filename}")
+        
+        if len(existing_tracks) > 0:
+            print(f"SUCCESS! Appended {len(new_verified_tracks)} tracks. New Total: {len(final_tracks)}")
+        else:
+            print(f"SUCCESS! Created new list with {len(final_tracks)} tracks.")
+            
         return True 
     except Exception as e:
         print(f"[!] File save error: {e}")
         if os.path.exists(temp_filename):
             os.remove(temp_filename)
-        return False 
+        return False
 
 QUEUE_FILE = "requested_genres.txt"
 
