@@ -1,4 +1,4 @@
-name: Monthly Playlist Data Updater
+name: Playlist Data Updater
 
 on:
   schedule:
