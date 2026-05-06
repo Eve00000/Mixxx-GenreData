@@ -13,8 +13,7 @@ This project is built on a highly resilient, two-part serverless ecosystem:
 ---
 
 ## 🖥️ Part 1: The Frontend Web App (Vercel Edge)
-see https://github.com/Eve00000/Mixxx-EI-Playlist-Creator-
-The user-facing application is built for extreme privacy, speed, and resilience against API rate limits.
+The user-facing application is built for extreme privacy, speed, and resilience against API rate limits. (see https://github.com/Eve00000/Mixxx-EI-Playlist-Creator-)
 
 ### Key Features:
 * **🔒 100% Private Local Parsing (`sql.js`):** The user's `mixxxdb.sqlite` file is **never uploaded to the internet**. It is parsed entirely inside the browser using a WebAssembly CDN fallback. This guarantees user privacy and bypasses server upload limits.
