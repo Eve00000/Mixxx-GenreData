@@ -41,18 +41,15 @@ def add_genre_to_file(new_genre):
 
 def migrate_database_schema():
     """One-time migration: Standardizes all JSON headers and archives locked_genres.txt."""
-    # Only run this if the old locked_genres.txt still exists
     if not os.path.exists(LOCKED_FILE):
         return
 
     print(f"\n[i] MIGRATION STARTED: Upgrading all JSON files to the new schema...")
     
-    # 1. Load the manually locked genres one last time
     locked = []
     with open(LOCKED_FILE, "r", encoding="utf-8") as f:
         locked = [line.strip().lower() for line in f if line.strip() and not line.startswith("#")]
 
-    # 2. Iterate through EVERY json file in the genres folder
     if os.path.exists(GENRES_DIR):
         for filename in os.listdir(GENRES_DIR):
             if filename.endswith(".json"):
@@ -61,11 +58,9 @@ def migrate_database_schema():
                     with open(filepath, 'r', encoding='utf-8') as jf:
                         data = json.load(jf)
 
-                    # Figure out what genre this file is
                     search_field = data.get("SearchField", filename.replace('.json', '').replace('_', ' '))
                     search_lower = search_field.lower()
 
-                    # --- APPLY THE SMART LOGIC ---
                     if search_lower in locked:
                         refresh_rate = 0
                         append_mode = "append"
@@ -80,24 +75,27 @@ def migrate_database_schema():
                             refresh_rate = 28
                             append_mode = "append"
 
-                    # Inject the fields (only if they don't already exist!)
-                    data["RefreshRate"] = data.get("RefreshRate", refresh_rate)
-                    data["AppendMode"] = data.get("AppendMode", append_mode)
+                    # --- THE FIX: Rebuild the dictionary in the exact order we want! ---
+                    new_data = {
+                        "SearchField": data.get("SearchField", search_field),
+                        "RefreshRate": refresh_rate,  # Force our new logic
+                        "AppendMode": append_mode,    # Force our new logic
+                        "Timestamp": data.get("Timestamp", ""),
+                        "TotalTracks": data.get("TotalTracks", len(data.get("Tracks", []))),
+                        "Tracks": data.get("Tracks", [])
+                    }
 
-                    # Save the upgraded file
                     with open(filepath, 'w', encoding='utf-8') as jf:
-                        json.dump(data, jf, indent=4)
+                        json.dump(new_data, jf, indent=4)
                     
-                    print(f"     -> Upgraded {filename} (Refresh: {data['RefreshRate']}, Mode: {data['AppendMode']})")
+                    print(f"     -> Upgraded {filename} (Refresh: {new_data['RefreshRate']}, Mode: {new_data['AppendMode']})")
                 except Exception as e:
                     print(f"     [!] Failed to upgrade {filename}: {e}")
 
-    # 3. Archive the text file
     os.rename(LOCKED_FILE, LOCKED_FILE + ".migrated")
     print(f"[i] MIGRATION COMPLETE! {LOCKED_FILE} has been archived.")
     
-    # 4. Push to GitHub instantly
-    git_save_and_push("System: Upgraded all JSON files to new schema with RefreshRates")
+    git_save_and_push("System: Re-ordered JSON headers to the top")
     print("\n")
     
 def should_update_genre(search_field):
