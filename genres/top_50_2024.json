@@ -1,5 +1,7 @@
 {
     "SearchField": "Top 50 2024",
+    "RefreshRate": 0,
+    "AppendMode": "append",
     "Timestamp": "2026-05-05T00:00:00Z",
     "TotalTracks": 49,
     "Tracks": [
@@ -297,7 +299,5 @@
             "MBID": "",
             "Category": "2024"
         }
-    ],
-    "RefreshRate": 0,
-    "AppendMode": "append"
+    ]
 }

@@ -1,5 +1,7 @@
 {
     "SearchField": "German Pop",
+    "RefreshRate": 28,
+    "AppendMode": "append",
     "Timestamp": "2026-05-04T15:16:14Z",
     "TotalTracks": 121,
     "Tracks": [
@@ -729,7 +731,5 @@
             "MBID": "9dda05f9-634a-4a1a-8590-4171a8fa4dcd",
             "Category": "Songs occuring most on playlists on spotify for this genre"
         }
-    ],
-    "RefreshRate": 28,
-    "AppendMode": "append"
+    ]
 }

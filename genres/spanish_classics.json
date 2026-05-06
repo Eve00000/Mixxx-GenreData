@@ -1,5 +1,7 @@
 {
     "SearchField": "Spanish classics",
+    "RefreshRate": 28,
+    "AppendMode": "append",
     "Timestamp": "2026-05-05T12:18:54Z",
     "TotalTracks": 80,
     "Tracks": [
@@ -483,7 +485,5 @@
             "MBID": "189e43e5-ad96-41f3-bb96-ac3fba332883",
             "Category": "Songs occuring most on playlists on deezer for this genre"
         }
-    ],
-    "RefreshRate": 28,
-    "AppendMode": "append"
+    ]
 }

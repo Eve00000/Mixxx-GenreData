@@ -1,5 +1,7 @@
 {
     "SearchField": "Lounge Music",
+    "RefreshRate": 28,
+    "AppendMode": "append",
     "Timestamp": "2026-05-04T14:59:21Z",
     "TotalTracks": 246,
     "Tracks": [
@@ -1479,7 +1481,5 @@
             "MBID": "229f1154-3059-43be-8072-9f6889e31012",
             "Category": "Songs occuring most on playlists on soundcloud for this genre"
         }
-    ],
-    "RefreshRate": 28,
-    "AppendMode": "append"
+    ]
 }

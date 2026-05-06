@@ -1,5 +1,7 @@
 {
     "SearchField": "Stadium Rock",
+    "RefreshRate": 28,
+    "AppendMode": "append",
     "Timestamp": "2026-05-05T06:45:02Z",
     "TotalTracks": 177,
     "Tracks": [
@@ -1065,7 +1067,5 @@
             "MBID": "82e3b7ce-b349-4bb7-944f-4bb9c5e39766",
             "Category": "Songs occuring most on playlists on deezer for this genre"
         }
-    ],
-    "RefreshRate": 28,
-    "AppendMode": "append"
+    ]
 }

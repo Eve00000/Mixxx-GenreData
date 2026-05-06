@@ -1,5 +1,7 @@
 {
     "SearchField": "Caf\u00e9 Del Mar Originals",
+    "RefreshRate": 28,
+    "AppendMode": "append",
     "Timestamp": "2026-05-05T00:00:00Z",
     "TotalTracks": 0,
     "Tracks": [
@@ -3549,7 +3551,5 @@
             "MBID": "",
             "Category": ""
         }
-    ],
-    "RefreshRate": 28,
-    "AppendMode": "append"
+    ]
 }

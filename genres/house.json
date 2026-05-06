@@ -1,5 +1,7 @@
 {
     "SearchField": "House",
+    "RefreshRate": 28,
+    "AppendMode": "append",
     "Timestamp": "2026-05-05T17:13:22Z",
     "TotalTracks": 105,
     "Tracks": [
@@ -633,7 +635,5 @@
             "MBID": "f84a31dd-470d-4783-917d-add9f657b85d",
             "Category": "Songs occuring most on playlists on soundcloud for this genre"
         }
-    ],
-    "RefreshRate": 28,
-    "AppendMode": "append"
+    ]
 }

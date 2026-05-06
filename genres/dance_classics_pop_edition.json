@@ -1,5 +1,7 @@
 {
     "SearchField": "Dance Classics Pop Edition",
+    "RefreshRate": 0,
+    "AppendMode": "append",
     "Timestamp": "2026-05-05T00:00:00Z",
     "TotalTracks": 270,
     "Tracks": [
@@ -1659,7 +1661,5 @@
             "MBID": "",
             "Category": ""
         }
-    ],
-    "RefreshRate": 0,
-    "AppendMode": "append"
+    ]
 }

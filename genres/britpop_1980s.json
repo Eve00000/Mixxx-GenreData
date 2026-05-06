@@ -1,5 +1,7 @@
 {
     "SearchField": "Britpop 1980s",
+    "RefreshRate": 28,
+    "AppendMode": "append",
     "Timestamp": "2026-05-05T08:22:19Z",
     "TotalTracks": 80,
     "Tracks": [
@@ -483,7 +485,5 @@
             "MBID": "5863f8e1-fa79-4818-8834-54101704eb2d",
             "Category": "Critically acclaimed masterpieces and award-winning tracks"
         }
-    ],
-    "RefreshRate": 28,
-    "AppendMode": "append"
+    ]
 }

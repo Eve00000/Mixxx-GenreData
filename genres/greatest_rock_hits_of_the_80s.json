@@ -1,5 +1,7 @@
 {
     "SearchField": "Greatest Rock hits of the 80s",
+    "RefreshRate": 28,
+    "AppendMode": "append",
     "Timestamp": "2026-05-06T07:12:21Z",
     "TotalTracks": 563,
     "Tracks": [
@@ -3381,7 +3383,5 @@
             "MBID": "39d65461-0e9c-4666-a68b-236dcd89ff60",
             "Category": "Songs occuring most on playlists on soundcloud for this genre"
         }
-    ],
-    "RefreshRate": 28,
-    "AppendMode": "append"
+    ]
 }

@@ -1,5 +1,7 @@
 {
     "SearchField": "Dance Classics - New Jack Swing",
+    "RefreshRate": 28,
+    "AppendMode": "append",
     "Timestamp": "2026-05-05T00:00:00Z",
     "TotalTracks": 212,
     "Tracks": [
@@ -945,7 +947,5 @@
             "MBID": "",
             "Category": ""
         }
-    ],
-    "RefreshRate": 28,
-    "AppendMode": "append"
+    ]
 }

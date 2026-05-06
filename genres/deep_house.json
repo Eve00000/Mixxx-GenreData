@@ -1,5 +1,7 @@
 {
     "SearchField": "Deep House",
+    "RefreshRate": 28,
+    "AppendMode": "append",
     "Timestamp": "2026-05-05T19:27:03Z",
     "TotalTracks": 181,
     "Tracks": [
@@ -1089,7 +1091,5 @@
             "MBID": "246e8e16-c455-4499-841a-a0c154f2697d",
             "Category": "Songs occurring most on playlists on soundcloud for this genre"
         }
-    ],
-    "RefreshRate": 28,
-    "AppendMode": "append"
+    ]
 }

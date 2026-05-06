@@ -1,5 +1,7 @@
 {
     "SearchField": "Pop 1960s",
+    "RefreshRate": 28,
+    "AppendMode": "append",
     "Timestamp": "2026-05-05T11:18:08Z",
     "TotalTracks": 97,
     "Tracks": [
@@ -585,7 +587,5 @@
             "MBID": "23e0e46d-9afb-4c6f-b3d9-a0411b0211ac",
             "Category": "Songs occuring most on playlists on spotify for this genre"
         }
-    ],
-    "RefreshRate": 28,
-    "AppendMode": "append"
+    ]
 }

@@ -1,5 +1,7 @@
 {
     "SearchField": "EuroBeat",
+    "RefreshRate": 28,
+    "AppendMode": "append",
     "Timestamp": "2026-05-05T18:08:16Z",
     "TotalTracks": 288,
     "Tracks": [
@@ -1731,7 +1733,5 @@
             "MBID": "8204fd60-1b80-4f9c-a879-d1ec750e3fd1",
             "Category": "Songs occuring most on playlists on deezer for this genre"
         }
-    ],
-    "RefreshRate": 28,
-    "AppendMode": "append"
+    ]
 }

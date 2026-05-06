@@ -1,5 +1,7 @@
 {
     "SearchField": "60s Soul",
+    "RefreshRate": 28,
+    "AppendMode": "append",
     "Timestamp": "2026-05-05T09:59:08Z",
     "TotalTracks": 50,
     "Tracks": [
@@ -303,7 +305,5 @@
             "MBID": "0742043c-cd1e-4ba2-a137-0cee5d883be3",
             "Category": "Iconic One-Hit Wonders and viral sensations"
         }
-    ],
-    "RefreshRate": 28,
-    "AppendMode": "append"
+    ]
 }

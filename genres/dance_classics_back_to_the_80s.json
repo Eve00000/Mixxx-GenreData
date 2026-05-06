@@ -1,5 +1,7 @@
 {
     "SearchField": "Dance Classics Back To The 80s",
+    "RefreshRate": 0,
+    "AppendMode": "append",
     "Timestamp": "2026-05-05T00:00:00Z",
     "TotalTracks": 40,
     "Tracks": [
@@ -237,7 +239,5 @@
             "MBID": "",
             "Category": ""
         }
-    ],
-    "RefreshRate": 0,
-    "AppendMode": "append"
+    ]
 }

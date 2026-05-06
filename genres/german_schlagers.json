@@ -1,5 +1,7 @@
 {
     "SearchField": "German Schlagers",
+    "RefreshRate": 28,
+    "AppendMode": "append",
     "Timestamp": "2026-05-06T03:31:46Z",
     "TotalTracks": 449,
     "Tracks": [
@@ -2697,7 +2699,5 @@
             "MBID": "096c076d-cb8b-4375-b78e-0580da88b86c",
             "Category": "Songs occuring most on playlists on soundcloud for this genre"
         }
-    ],
-    "RefreshRate": 28,
-    "AppendMode": "append"
+    ]
 }

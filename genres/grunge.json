@@ -1,5 +1,7 @@
 {
     "SearchField": "Grunge",
+    "RefreshRate": 28,
+    "AppendMode": "append",
     "Timestamp": "2026-05-05T10:59:13Z",
     "TotalTracks": 69,
     "Tracks": [
@@ -417,7 +419,5 @@
             "MBID": "e73d0a25-a65f-423a-ac64-aaf76e05533d",
             "Category": "Critically acclaimed masterpieces and award-winning tracks"
         }
-    ],
-    "RefreshRate": 28,
-    "AppendMode": "append"
+    ]
 }

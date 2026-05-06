@@ -1,5 +1,7 @@
 {
     "SearchField": "Neue Deutsche Welle",
+    "RefreshRate": 28,
+    "AppendMode": "append",
     "Timestamp": "2026-05-05T08:53:48Z",
     "TotalTracks": 55,
     "Tracks": [
@@ -333,7 +335,5 @@
             "MBID": "a36f8f2c-bd95-4949-b524-b2ce354d32e1",
             "Category": "Songs occuring most on playlists on soundcloud for this genre"
         }
-    ],
-    "RefreshRate": 28,
-    "AppendMode": "append"
+    ]
 }

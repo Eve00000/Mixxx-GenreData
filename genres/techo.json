@@ -1,5 +1,7 @@
 {
     "SearchField": "Techo",
+    "RefreshRate": 28,
+    "AppendMode": "append",
     "Timestamp": "2026-05-06T03:10:59Z",
     "TotalTracks": 538,
     "Tracks": [
@@ -3231,7 +3233,5 @@
             "MBID": "8fb17bf1-ee75-45d4-83c3-2554cd3bbc47",
             "Category": "Songs occuring most on playlists on soundcloud for this genre"
         }
-    ],
-    "RefreshRate": 28,
-    "AppendMode": "append"
+    ]
 }

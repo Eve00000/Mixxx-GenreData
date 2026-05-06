@@ -1,5 +1,7 @@
 {
     "SearchField": "Britpop 1990s",
+    "RefreshRate": 28,
+    "AppendMode": "append",
     "Timestamp": "2026-05-05T12:47:37Z",
     "TotalTracks": 205,
     "Tracks": [
@@ -1233,7 +1235,5 @@
             "MBID": "6f86c25c-8a18-44e5-b67a-9f63e27d0992",
             "Category": "Songs occuring most on playlists on soundcloud for this genre"
         }
-    ],
-    "RefreshRate": 28,
-    "AppendMode": "append"
+    ]
 }

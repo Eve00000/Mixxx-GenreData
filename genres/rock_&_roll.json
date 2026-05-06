@@ -1,5 +1,7 @@
 {
     "SearchField": "Rock & Roll",
+    "RefreshRate": 28,
+    "AppendMode": "append",
     "Timestamp": "2026-05-05T07:13:45Z",
     "TotalTracks": 261,
     "Tracks": [
@@ -1569,7 +1571,5 @@
             "MBID": "10c670a2-997f-4e8a-bd72-804e36c360e9",
             "Category": "Songs occuring most on playlists on deezer for this genre"
         }
-    ],
-    "RefreshRate": 28,
-    "AppendMode": "append"
+    ]
 }

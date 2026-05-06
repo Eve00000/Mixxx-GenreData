@@ -1,5 +1,7 @@
 {
     "SearchField": "Disco 1990s",
+    "RefreshRate": 0,
+    "AppendMode": "append",
     "Timestamp": "2026-05-04T11:39:50Z",
     "TotalTracks": 354,
     "Tracks": [
@@ -2127,7 +2129,5 @@
             "MBID": "29b703fe-d673-4d65-b34f-46eb0211fa9e",
             "Category": "Songs occuring most on playlists on soundcloud for this genre"
         }
-    ],
-    "RefreshRate": 0,
-    "AppendMode": "append"
+    ]
 }

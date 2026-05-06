@@ -1,5 +1,7 @@
 {
     "SearchField": "Disco Top 100",
+    "RefreshRate": 7,
+    "AppendMode": "clear",
     "Timestamp": "2026-05-05T00:00:00Z",
     "TotalTracks": 0,
     "Tracks": [
@@ -1803,7 +1805,5 @@
             "MBID": "",
             "Category": ""
         }
-    ],
-    "RefreshRate": 7,
-    "AppendMode": "clear"
+    ]
 }

@@ -1,5 +1,7 @@
 {
     "SearchField": "Dutch Classics",
+    "RefreshRate": 28,
+    "AppendMode": "append",
     "Timestamp": "2026-05-05T11:58:45Z",
     "TotalTracks": 300,
     "Tracks": [
@@ -1803,7 +1805,5 @@
             "MBID": "5fc29ca7-4b0d-41b7-8611-87525f85188b",
             "Category": "Songs occuring most on playlists on soundcloud for this genre"
         }
-    ],
-    "RefreshRate": 28,
-    "AppendMode": "append"
+    ]
 }

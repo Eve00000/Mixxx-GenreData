@@ -1,5 +1,7 @@
 {
     "SearchField": "Greatest Pop Hits of the 70s",
+    "RefreshRate": 28,
+    "AppendMode": "append",
     "Timestamp": "2026-05-06T04:57:05Z",
     "TotalTracks": 560,
     "Tracks": [
@@ -3363,7 +3365,5 @@
             "MBID": "29a2dd5f-0bf3-42f3-b7ae-42c2bf36d059",
             "Category": "Songs occuring most on playlists on soundcloud for this genre"
         }
-    ],
-    "RefreshRate": 28,
-    "AppendMode": "append"
+    ]
 }

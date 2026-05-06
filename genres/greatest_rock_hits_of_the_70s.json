@@ -1,5 +1,7 @@
 {
     "SearchField": "Greatest Rock hits of the 70s",
+    "RefreshRate": 28,
+    "AppendMode": "append",
     "Timestamp": "2026-05-06T02:47:36Z",
     "TotalTracks": 523,
     "Tracks": [
@@ -3141,7 +3143,5 @@
             "MBID": "9bf128f8-8d20-437d-a977-bf1c67e2edd1",
             "Category": "Songs occurring most on playlists on soundcloud for this genre"
         }
-    ],
-    "RefreshRate": 28,
-    "AppendMode": "append"
+    ]
 }

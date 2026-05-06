@@ -1,5 +1,7 @@
 {
     "SearchField": "Italian Rock",
+    "RefreshRate": 28,
+    "AppendMode": "append",
     "Timestamp": "2026-05-06T04:14:13Z",
     "TotalTracks": 374,
     "Tracks": [
@@ -2247,7 +2249,5 @@
             "MBID": "1bffaa01-afdc-42f2-bf0a-f07b3d2de7ac",
             "Category": "Songs occurring most on playlists on soundcloud for this genre"
         }
-    ],
-    "RefreshRate": 28,
-    "AppendMode": "append"
+    ]
 }

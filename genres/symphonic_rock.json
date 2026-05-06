@@ -1,5 +1,7 @@
 {
     "SearchField": "Symphonic Rock",
+    "RefreshRate": 28,
+    "AppendMode": "append",
     "Timestamp": "2026-05-06T05:17:13Z",
     "TotalTracks": 555,
     "Tracks": [
@@ -3333,7 +3335,5 @@
             "MBID": "a058df35-6a1b-4d15-a618-50649090b535",
             "Category": "Songs occuring most on playlists on soundcloud for this genre"
         }
-    ],
-    "RefreshRate": 28,
-    "AppendMode": "append"
+    ]
 }

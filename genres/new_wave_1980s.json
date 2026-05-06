@@ -1,5 +1,7 @@
 {
     "SearchField": "New Wave 1980s",
+    "RefreshRate": 0,
+    "AppendMode": "append",
     "Timestamp": "2026-05-04T08:56:27Z",
     "TotalTracks": 51,
     "Tracks": [
@@ -1521,7 +1523,5 @@
             "MBID": "",
             "Category": ""
         }
-    ],
-    "RefreshRate": 0,
-    "AppendMode": "append"
+    ]
 }

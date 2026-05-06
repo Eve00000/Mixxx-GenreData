@@ -1,5 +1,7 @@
 {
     "SearchField": "Dance Classics Originals",
+    "RefreshRate": 0,
+    "AppendMode": "append",
     "Timestamp": "2026-05-05T00:00:00Z",
     "TotalTracks": 969,
     "Tracks": [
@@ -4749,7 +4751,5 @@
             "MBID": "",
             "Category": ""
         }
-    ],
-    "RefreshRate": 0,
-    "AppendMode": "append"
+    ]
 }

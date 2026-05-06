@@ -1,5 +1,7 @@
 {
     "SearchField": "BelPop Classics",
+    "RefreshRate": 28,
+    "AppendMode": "append",
     "Timestamp": "2026-05-05T00:00:00Z",
     "TotalTracks": 699,
     "Tracks": [
@@ -4197,7 +4199,5 @@
             "MBID": "",
             "Category": ""
         }
-    ],
-    "RefreshRate": 28,
-    "AppendMode": "append"
+    ]
 }

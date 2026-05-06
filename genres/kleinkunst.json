@@ -1,5 +1,7 @@
 {
     "SearchField": "Kleinkunst",
+    "RefreshRate": 0,
+    "AppendMode": "append",
     "Timestamp": "2026-05-04T15:16:14Z",
     "TotalTracks": 222,
     "Tracks": [
@@ -1335,7 +1337,5 @@
             "MBID": "",
             "Category": ""
         }
-    ],
-    "RefreshRate": 0,
-    "AppendMode": "append"
+    ]
 }

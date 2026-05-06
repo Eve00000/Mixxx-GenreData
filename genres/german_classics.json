@@ -1,5 +1,7 @@
 {
     "SearchField": "German Classics",
+    "RefreshRate": 28,
+    "AppendMode": "append",
     "Timestamp": "2026-05-05T12:31:20Z",
     "TotalTracks": 171,
     "Tracks": [
@@ -1029,7 +1031,5 @@
             "MBID": "132909fa-9d55-47e5-8896-2656050b0fd4",
             "Category": "Songs occuring most on playlists on youtube for this genre"
         }
-    ],
-    "RefreshRate": 28,
-    "AppendMode": "append"
+    ]
 }

@@ -1,5 +1,7 @@
 {
     "SearchField": "Soul 1980s",
+    "RefreshRate": 28,
+    "AppendMode": "append",
     "Timestamp": "2026-05-06T03:52:02Z",
     "TotalTracks": 555,
     "Tracks": [
@@ -3333,7 +3335,5 @@
             "MBID": "2bff76c1-0b98-4643-9ed3-063511ef9383",
             "Category": "Songs occuring most on playlists on soundcloud for this genre"
         }
-    ],
-    "RefreshRate": 28,
-    "AppendMode": "append"
+    ]
 }

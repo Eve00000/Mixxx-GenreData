@@ -1,5 +1,7 @@
 {
     "SearchField": "Tango",
+    "RefreshRate": 28,
+    "AppendMode": "append",
     "Timestamp": "2026-05-06T04:38:53Z",
     "TotalTracks": 460,
     "Tracks": [
@@ -2763,7 +2765,5 @@
             "MBID": "60d4b1e1-d19e-4e94-8147-2cc8dd3960e2",
             "Category": "Songs occurring most on playlists on soundcloud for this genre"
         }
-    ],
-    "RefreshRate": 28,
-    "AppendMode": "append"
+    ]
 }

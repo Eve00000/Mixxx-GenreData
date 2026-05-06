@@ -1,5 +1,7 @@
 {
     "SearchField": "DnB",
+    "RefreshRate": 28,
+    "AppendMode": "append",
     "Timestamp": "2026-05-05T15:55:20Z",
     "TotalTracks": 308,
     "Tracks": [
@@ -1851,7 +1853,5 @@
             "MBID": "609364f7-7bb3-4456-8b37-70d0b41dcab5",
             "Category": "Songs occuring most on playlists on soundcloud for this genre"
         }
-    ],
-    "RefreshRate": 28,
-    "AppendMode": "append"
+    ]
 }

@@ -1,5 +1,7 @@
 {
     "SearchField": "French Rock",
+    "RefreshRate": 28,
+    "AppendMode": "append",
     "Timestamp": "2026-05-05T08:27:50Z",
     "TotalTracks": 73,
     "Tracks": [
@@ -441,7 +443,5 @@
             "MBID": "04cd6f5a-0c91-4878-bf0e-2f77b5d9a7d5",
             "Category": "Songs occuring most on playlists on soundcloud for this genre"
         }
-    ],
-    "RefreshRate": 28,
-    "AppendMode": "append"
+    ]
 }

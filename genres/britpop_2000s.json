@@ -1,5 +1,7 @@
 {
     "SearchField": "Britpop 2000s",
+    "RefreshRate": 28,
+    "AppendMode": "append",
     "Timestamp": "2026-05-05T12:57:56Z",
     "TotalTracks": 82,
     "Tracks": [
@@ -495,7 +497,5 @@
             "MBID": "1b44e7b6-e13b-479f-a9e6-eb628abbadb8",
             "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
         }
-    ],
-    "RefreshRate": 28,
-    "AppendMode": "append"
+    ]
 }

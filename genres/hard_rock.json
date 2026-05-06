@@ -1,5 +1,7 @@
 {
     "SearchField": "Hard Rock",
+    "RefreshRate": 28,
+    "AppendMode": "append",
     "Timestamp": "2026-05-05T16:30:11Z",
     "TotalTracks": 436,
     "Tracks": [
@@ -2619,7 +2621,5 @@
             "MBID": "2dc6a1f1-e692-4138-aa44-72ca4aab5ac1",
             "Category": "Songs occuring most on playlists on soundcloud for this genre"
         }
-    ],
-    "RefreshRate": 28,
-    "AppendMode": "append"
+    ]
 }

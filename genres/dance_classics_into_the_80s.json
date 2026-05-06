@@ -1,5 +1,7 @@
 {
     "SearchField": "Dance Classics Into The 80's",
+    "RefreshRate": 28,
+    "AppendMode": "append",
     "Timestamp": "2026-05-05T00:00:00Z",
     "TotalTracks": 32,
     "Tracks": [
@@ -195,7 +197,5 @@
             "MBID": "",
             "Category": ""
         }
-    ],
-    "RefreshRate": 28,
-    "AppendMode": "append"
+    ]
 }

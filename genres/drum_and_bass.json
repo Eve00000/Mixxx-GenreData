@@ -1,5 +1,7 @@
 {
     "SearchField": "Drum and bass",
+    "RefreshRate": 28,
+    "AppendMode": "append",
     "Timestamp": "2026-05-05T16:47:01Z",
     "TotalTracks": 213,
     "Tracks": [
@@ -1281,7 +1283,5 @@
             "MBID": "43e18dbb-f5a2-402d-8f19-75313611c93c",
             "Category": "Songs occuring most on playlists on soundcloud for this genre"
         }
-    ],
-    "RefreshRate": 28,
-    "AppendMode": "append"
+    ]
 }
