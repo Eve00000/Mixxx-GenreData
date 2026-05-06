@@ -263,7 +263,7 @@
         },
         {
             "TrackArtist": "Olivia Rodrigo",
-            "TrackTitle": "Déjà Vu",
+            "TrackTitle": "D\u00e9j\u00e0 Vu",
             "MBID": "",
             "Category": "2021"
         },
@@ -297,5 +297,7 @@
             "MBID": "",
             "Category": "2021"
         }
-    ]
+    ],
+    "RefreshRate": 0,
+    "AppendMode": "append"
 }

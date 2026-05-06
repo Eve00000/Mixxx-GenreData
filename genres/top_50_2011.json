@@ -40,7 +40,7 @@
             "Category": "2011"
         },
         {
-            "TrackArtist": "Fun. & Janelle Monáe",
+            "TrackArtist": "Fun. & Janelle Mon\u00e1e",
             "TrackTitle": "We Are Young",
             "MBID": "",
             "Category": "2011"
@@ -268,7 +268,7 @@
             "Category": "2011"
         },
         {
-            "TrackArtist": "Michel Teló",
+            "TrackArtist": "Michel Tel\u00f3",
             "TrackTitle": "Ai Se Eu Te Pego",
             "MBID": "",
             "Category": "2011"
@@ -286,7 +286,7 @@
             "Category": "2011"
         },
         {
-            "TrackArtist": "Beyoncé",
+            "TrackArtist": "Beyonc\u00e9",
             "TrackTitle": "Love on Top",
             "MBID": "",
             "Category": "2011"
@@ -303,5 +303,7 @@
             "MBID": "",
             "Category": "2011"
         }
-    ]
+    ],
+    "RefreshRate": 0,
+    "AppendMode": "append"
 }

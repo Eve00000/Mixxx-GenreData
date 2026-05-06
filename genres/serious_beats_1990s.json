@@ -233,7 +233,7 @@
         },
         {
             "TrackArtist": "Pleasure Game",
-            "TrackTitle": "Le Seigneur des Ténèbres",
+            "TrackTitle": "Le Seigneur des T\u00e9n\u00e8bres",
             "MBID": "",
             "Category": ""
         },
@@ -1618,8 +1618,8 @@
             "Category": ""
         },
         {
-            "TrackArtist": "René & Gaston",
-            "TrackTitle": "Conte De Fées",
+            "TrackArtist": "Ren\u00e9 & Gaston",
+            "TrackTitle": "Conte De F\u00e9es",
             "MBID": "",
             "Category": ""
         },
@@ -2081,7 +2081,7 @@
         },
         {
             "TrackArtist": "Marmion",
-            "TrackTitle": "Schöneberg",
+            "TrackTitle": "Sch\u00f6neberg",
             "MBID": "",
             "Category": ""
         },
@@ -2128,7 +2128,7 @@
             "Category": ""
         },
         {
-            "TrackArtist": "The Jeyênne",
+            "TrackArtist": "The Jey\u00eanne",
             "TrackTitle": "XPQ-21",
             "MBID": "",
             "Category": ""
@@ -2159,7 +2159,7 @@
         },
         {
             "TrackArtist": "NAD",
-            "TrackTitle": "Habibi Haïlu",
+            "TrackTitle": "Habibi Ha\u00eflu",
             "MBID": "",
             "Category": ""
         },
@@ -2387,7 +2387,7 @@
         },
         {
             "TrackArtist": "Marmion",
-            "TrackTitle": "Schöneberg",
+            "TrackTitle": "Sch\u00f6neberg",
             "MBID": "",
             "Category": ""
         },
@@ -2477,7 +2477,7 @@
         },
         {
             "TrackArtist": "Marmion",
-            "TrackTitle": "Schöneberg (Marmion Mix)",
+            "TrackTitle": "Sch\u00f6neberg (Marmion Mix)",
             "MBID": "",
             "Category": ""
         },
@@ -3227,7 +3227,7 @@
         },
         {
             "TrackArtist": "Armand Van Helden",
-            "TrackTitle": "Witch Doctor (The Oriëntalist Mix)",
+            "TrackTitle": "Witch Doctor (The Ori\u00ebntalist Mix)",
             "MBID": "",
             "Category": ""
         },
@@ -3496,7 +3496,7 @@
             "Category": ""
         },
         {
-            "TrackArtist": "ß",
+            "TrackArtist": "\u00df",
             "TrackTitle": "Passion",
             "MBID": "",
             "Category": ""
@@ -3605,7 +3605,7 @@
         },
         {
             "TrackArtist": "Hybrid 55",
-            "TrackTitle": "Tribü Atitüde (Express Trip)",
+            "TrackTitle": "Trib\u00fc Atit\u00fcde (Express Trip)",
             "MBID": "",
             "Category": ""
         },
@@ -3856,7 +3856,7 @@
             "Category": ""
         },
         {
-            "TrackArtist": "Aïda",
+            "TrackArtist": "A\u00efda",
             "TrackTitle": "Fear Of Love (Quadran Mix)",
             "MBID": "",
             "Category": ""
@@ -5734,7 +5734,7 @@
             "Category": ""
         },
         {
-            "TrackArtist": "André Michelle",
+            "TrackArtist": "Andr\u00e9 Michelle",
             "TrackTitle": "A2 (Eric Vee's Fresh R-Mix)",
             "MBID": "",
             "Category": ""
@@ -5764,7 +5764,7 @@
             "Category": ""
         },
         {
-            "TrackArtist": "DJ Tiësto & Montana & Storm",
+            "TrackArtist": "DJ Ti\u00ebsto & Montana & Storm",
             "TrackTitle": "Bleckentrommel",
             "MBID": "",
             "Category": ""
@@ -5908,7 +5908,7 @@
             "Category": ""
         },
         {
-            "TrackArtist": "DJ Tiësto",
+            "TrackArtist": "DJ Ti\u00ebsto",
             "TrackTitle": "Theme From Norefjell (DJ Jan & Christophe Chantzis Mix)",
             "MBID": "",
             "Category": ""
@@ -5981,7 +5981,7 @@
         },
         {
             "TrackArtist": "Niels Van Gogh",
-            "TrackTitle": "Doppelgänger",
+            "TrackTitle": "Doppelg\u00e4nger",
             "MBID": "",
             "Category": ""
         },
@@ -6082,7 +6082,7 @@
             "Category": ""
         },
         {
-            "TrackArtist": "Privilège",
+            "TrackArtist": "Privil\u00e8ge",
             "TrackTitle": "The Coke Man (Cocalero's Jump Mix)",
             "MBID": "",
             "Category": ""
@@ -6159,5 +6159,7 @@
             "MBID": "",
             "Category": ""
         }
-    ]
-} 
+    ],
+    "RefreshRate": 0,
+    "AppendMode": "append"
+}

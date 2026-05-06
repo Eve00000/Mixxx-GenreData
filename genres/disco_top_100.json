@@ -1228,7 +1228,7 @@
             "Category": ""
         },
         {
-            "TrackArtist": "Pino D'Angiò",
+            "TrackArtist": "Pino D'Angi\u00f2",
             "TrackTitle": "Ma Quala Idea",
             "MBID": "",
             "Category": ""
@@ -1360,7 +1360,7 @@
             "Category": ""
         },
         {
-            "TrackArtist": "Raffaella Carrà",
+            "TrackArtist": "Raffaella Carr\u00e0",
             "TrackTitle": "A Far L'amore Comincia Tu",
             "MBID": "",
             "Category": ""
@@ -1372,7 +1372,7 @@
             "Category": ""
         },
         {
-            "TrackArtist": "Renée",
+            "TrackArtist": "Ren\u00e9e",
             "TrackTitle": "High Time He Went",
             "MBID": "",
             "Category": ""
@@ -1803,5 +1803,7 @@
             "MBID": "",
             "Category": ""
         }
-    ]
+    ],
+    "RefreshRate": 7,
+    "AppendMode": "clear"
 }

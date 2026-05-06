@@ -1720,7 +1720,7 @@
             "Category": ""
         },
         {
-            "TrackArtist": "René & Angela",
+            "TrackArtist": "Ren\u00e9 & Angela",
             "TrackTitle": "Save Your Love",
             "MBID": "",
             "Category": ""
@@ -1834,7 +1834,7 @@
             "Category": ""
         },
         {
-            "TrackArtist": "René & Angela",
+            "TrackArtist": "Ren\u00e9 & Angela",
             "TrackTitle": "I'll Be Good",
             "MBID": "",
             "Category": ""
@@ -3436,7 +3436,7 @@
             "Category": ""
         },
         {
-            "TrackArtist": "Déjà",
+            "TrackArtist": "D\u00e9j\u00e0",
             "TrackTitle": "You And Me Tonight (12 Inch Mix)",
             "MBID": "",
             "Category": ""
@@ -3748,7 +3748,7 @@
             "Category": ""
         },
         {
-            "TrackArtist": "Déjà",
+            "TrackArtist": "D\u00e9j\u00e0",
             "TrackTitle": "Serious (Extended Version)",
             "MBID": "",
             "Category": ""
@@ -4054,7 +4054,7 @@
             "Category": ""
         },
         {
-            "TrackArtist": "Willie Colón",
+            "TrackArtist": "Willie Col\u00f3n",
             "TrackTitle": "Set Fire To Me (Extended)",
             "MBID": "",
             "Category": ""
@@ -4749,5 +4749,7 @@
             "MBID": "",
             "Category": ""
         }
-    ]
+    ],
+    "RefreshRate": 0,
+    "AppendMode": "append"
 }

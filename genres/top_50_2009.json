@@ -70,7 +70,7 @@
             "Category": "2009"
         },
         {
-            "TrackArtist": "Lady Gaga & Beyoncé",
+            "TrackArtist": "Lady Gaga & Beyonc\u00e9",
             "TrackTitle": "Telephone",
             "MBID": "",
             "Category": "2009"
@@ -202,7 +202,7 @@
             "Category": "2009"
         },
         {
-            "TrackArtist": "Michael Bublé",
+            "TrackArtist": "Michael Bubl\u00e9",
             "TrackTitle": "Haven't Met You Yet",
             "MBID": "",
             "Category": "2009"
@@ -297,5 +297,7 @@
             "MBID": "",
             "Category": "2009"
         }
-    ]
+    ],
+    "RefreshRate": 0,
+    "AppendMode": "append"
 }

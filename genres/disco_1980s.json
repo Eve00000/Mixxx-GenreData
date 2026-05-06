@@ -1479,5 +1479,7 @@
             "MBID": "6a5a1dea-6b0c-435c-b29e-b929f591fb11",
             "Category": "Late-night anthems and closing tracks"
         }
-    ]
+    ],
+    "RefreshRate": 0,
+    "AppendMode": "append"
 }

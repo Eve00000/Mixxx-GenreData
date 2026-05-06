@@ -303,5 +303,7 @@
             "MBID": "",
             "Category": "2025"
         }
-    ]
+    ],
+    "RefreshRate": 0,
+    "AppendMode": "append"
 }

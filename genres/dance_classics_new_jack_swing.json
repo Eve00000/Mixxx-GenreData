@@ -52,7 +52,7 @@
             "Category": ""
         },
         {
-            "TrackArtist": "Déjà",
+            "TrackArtist": "D\u00e9j\u00e0",
             "TrackTitle": "Made To Be Together (12'' Mix)",
             "MBID": "",
             "Category": ""
@@ -945,5 +945,7 @@
             "MBID": "",
             "Category": ""
         }
-    ]
+    ],
+    "RefreshRate": 28,
+    "AppendMode": "append"
 }

@@ -178,7 +178,7 @@
             "Category": "2023"
         },
         {
-            "TrackArtist": "Victoria Monét",
+            "TrackArtist": "Victoria Mon\u00e9t",
             "TrackTitle": "On My Mama",
             "MBID": "",
             "Category": "2023"
@@ -303,5 +303,7 @@
             "MBID": "",
             "Category": "2023"
         }
-    ]
+    ],
+    "RefreshRate": 0,
+    "AppendMode": "append"
 }

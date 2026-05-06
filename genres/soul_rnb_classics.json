@@ -603,5 +603,7 @@
             "MBID": "",
             "Category": "1990"
         }
-    ]
+    ],
+    "RefreshRate": 28,
+    "AppendMode": "append"
 }

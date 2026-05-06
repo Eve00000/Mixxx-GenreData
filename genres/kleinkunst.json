@@ -473,7 +473,7 @@
         },
         {
             "TrackArtist": "Dimitri van Toren",
-            "TrackTitle": "Hé komaan",
+            "TrackTitle": "H\u00e9 komaan",
             "MBID": "",
             "Category": ""
         },
@@ -820,7 +820,7 @@
             "Category": ""
         },
         {
-            "TrackArtist": "André van den Heuvel & Leen Jongewaard",
+            "TrackArtist": "Andr\u00e9 van den Heuvel & Leen Jongewaard",
             "TrackTitle": "Op een mooie Pinksterdag",
             "MBID": "",
             "Category": ""
@@ -899,7 +899,7 @@
         },
         {
             "TrackArtist": "Toon Hermans",
-            "TrackTitle": "Café biljart",
+            "TrackTitle": "Caf\u00e9 biljart",
             "MBID": "",
             "Category": ""
         },
@@ -1335,5 +1335,7 @@
             "MBID": "",
             "Category": ""
         }
-    ]
+    ],
+    "RefreshRate": 0,
+    "AppendMode": "append"
 }

@@ -53,7 +53,7 @@
         },
         {
             "TrackArtist": "Jawsh 685 & Jason Derulo",
-            "TrackTitle": "Savage Love (Laxed – Siren Beat)",
+            "TrackTitle": "Savage Love (Laxed \u2013 Siren Beat)",
             "MBID": "",
             "Category": "2020"
         },
@@ -76,7 +76,7 @@
             "Category": "2020"
         },
         {
-            "TrackArtist": "Megan Thee Stallion & Beyoncé",
+            "TrackArtist": "Megan Thee Stallion & Beyonc\u00e9",
             "TrackTitle": "Savage",
             "MBID": "",
             "Category": "2020"
@@ -286,7 +286,7 @@
             "Category": "2020"
         },
         {
-            "TrackArtist": "Beyoncé",
+            "TrackArtist": "Beyonc\u00e9",
             "TrackTitle": "Black Parade",
             "MBID": "",
             "Category": "2020"
@@ -303,5 +303,7 @@
             "MBID": "",
             "Category": "2020"
         }
-    ]
+    ],
+    "RefreshRate": 0,
+    "AppendMode": "append"
 }

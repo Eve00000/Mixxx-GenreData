@@ -250,7 +250,7 @@
             "Category": "2012"
         },
         {
-            "TrackArtist": "Emeli Sandé",
+            "TrackArtist": "Emeli Sand\u00e9",
             "TrackTitle": "Next to Me",
             "MBID": "",
             "Category": "2012"
@@ -303,5 +303,7 @@
             "MBID": "",
             "Category": "2012"
         }
-    ]
+    ],
+    "RefreshRate": 0,
+    "AppendMode": "append"
 }

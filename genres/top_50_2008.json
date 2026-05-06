@@ -4,7 +4,7 @@
     "TotalTracks": 51,
     "Tracks": [
         {
-            "TrackArtist": "Beyoncé",
+            "TrackArtist": "Beyonc\u00e9",
             "TrackTitle": "Single Ladies (Put a Ring on It)",
             "MBID": "",
             "Category": "2008"
@@ -106,7 +106,7 @@
             "Category": "2008"
         },
         {
-            "TrackArtist": "Beyoncé",
+            "TrackArtist": "Beyonc\u00e9",
             "TrackTitle": "Halo",
             "MBID": "",
             "Category": "2008"
@@ -124,7 +124,7 @@
             "Category": "2008"
         },
         {
-            "TrackArtist": "Beyoncé",
+            "TrackArtist": "Beyonc\u00e9",
             "TrackTitle": "If I Were a Boy",
             "MBID": "",
             "Category": "2008"
@@ -309,5 +309,7 @@
             "MBID": "",
             "Category": "2008"
         }
-    ]
+    ],
+    "RefreshRate": 0,
+    "AppendMode": "append"
 }

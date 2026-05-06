@@ -303,5 +303,7 @@
             "MBID": "0742043c-cd1e-4ba2-a137-0cee5d883be3",
             "Category": "Iconic One-Hit Wonders and viral sensations"
         }
-    ]
+    ],
+    "RefreshRate": 28,
+    "AppendMode": "append"
 }

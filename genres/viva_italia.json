@@ -819,5 +819,7 @@
             "MBID": "e9927866-625d-49cc-81ce-66e6e1714f28",
             "Category": "Essential 12-inch remixes and extended DJ versions"
         }
-    ]
+    ],
+    "RefreshRate": 28,
+    "AppendMode": "append"
 }

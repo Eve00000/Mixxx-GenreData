@@ -443,7 +443,7 @@
         },
         {
             "TrackArtist": "Grauzone",
-            "TrackTitle": "Eisbär",
+            "TrackTitle": "Eisb\u00e4r",
             "MBID": "",
             "Category": ""
         },
@@ -496,7 +496,7 @@
             "Category": ""
         },
         {
-            "TrackArtist": "Poésie Noire",
+            "TrackArtist": "Po\u00e9sie Noire",
             "TrackTitle": "Gioconda Smile",
             "MBID": "",
             "Category": ""
@@ -881,13 +881,13 @@
         },
         {
             "TrackArtist": "DAF (Deutsch Amerikanische Freundschaft)",
-            "TrackTitle": "Der Räuber und der Prinz",
+            "TrackTitle": "Der R\u00e4uber und der Prinz",
             "MBID": "",
             "Category": ""
         },
         {
-            "TrackArtist": "Einstürzende Neubauten",
-            "TrackTitle": "Yü-Gung",
+            "TrackArtist": "Einst\u00fcrzende Neubauten",
+            "TrackTitle": "Y\u00fc-Gung",
             "MBID": "",
             "Category": ""
         },
@@ -1037,7 +1037,7 @@
         },
         {
             "TrackArtist": "Taxi Girl",
-            "TrackTitle": "Cherchez Le Garçon",
+            "TrackTitle": "Cherchez Le Gar\u00e7on",
             "MBID": "",
             "Category": ""
         },
@@ -1061,7 +1061,7 @@
         },
         {
             "TrackArtist": "Liaisons Dangereuses",
-            "TrackTitle": "Los niños del parque",
+            "TrackTitle": "Los ni\u00f1os del parque",
             "MBID": "",
             "Category": ""
         },
@@ -1520,6 +1520,8 @@
             "TrackTitle": "Silver (Tidal Wave)",
             "MBID": "",
             "Category": ""
-        }        
-    ]
+        }
+    ],
+    "RefreshRate": 0,
+    "AppendMode": "append"
 }

@@ -58,7 +58,7 @@
             "Category": "2024"
         },
         {
-            "TrackArtist": "Beyoncé",
+            "TrackArtist": "Beyonc\u00e9",
             "TrackTitle": "Texas Hold 'Em",
             "MBID": "",
             "Category": "2024"
@@ -70,7 +70,7 @@
             "Category": "2024"
         },
         {
-            "TrackArtist": "Rosé & Bruno Mars",
+            "TrackArtist": "Ros\u00e9 & Bruno Mars",
             "TrackTitle": "Apt.",
             "MBID": "",
             "Category": "2024"
@@ -297,5 +297,7 @@
             "MBID": "",
             "Category": "2024"
         }
-    ]
+    ],
+    "RefreshRate": 0,
+    "AppendMode": "append"
 }

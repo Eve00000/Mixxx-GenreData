@@ -106,7 +106,7 @@
             "Category": ""
         },
         {
-            "TrackArtist": "Pino D'Angiò",
+            "TrackArtist": "Pino D'Angi\u00f2",
             "TrackTitle": "Ma Quale Idea (12'' Version)",
             "MBID": "",
             "Category": ""
@@ -214,7 +214,7 @@
             "Category": ""
         },
         {
-            "TrackArtist": "Valérie Dore",
+            "TrackArtist": "Val\u00e9rie Dore",
             "TrackTitle": "Get Closer (12'' Vocal Version)",
             "MBID": "",
             "Category": ""
@@ -490,7 +490,7 @@
             "Category": ""
         },
         {
-            "TrackArtist": "Pino D'Angiò",
+            "TrackArtist": "Pino D'Angi\u00f2",
             "TrackTitle": "Ma Quale Idea",
             "MBID": "",
             "Category": ""
@@ -544,7 +544,7 @@
             "Category": ""
         },
         {
-            "TrackArtist": "Valérie Dore",
+            "TrackArtist": "Val\u00e9rie Dore",
             "TrackTitle": "The Night",
             "MBID": "",
             "Category": ""
@@ -615,5 +615,7 @@
             "MBID": "",
             "Category": ""
         }
-    ]
+    ],
+    "RefreshRate": 0,
+    "AppendMode": "append"
 }

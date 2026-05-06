@@ -172,7 +172,7 @@
             "Category": "2007"
         },
         {
-            "TrackArtist": "Beyoncé & Shakira",
+            "TrackArtist": "Beyonc\u00e9 & Shakira",
             "TrackTitle": "Beautiful Liar",
             "MBID": "",
             "Category": "2007"
@@ -208,7 +208,7 @@
             "Category": "2007"
         },
         {
-            "TrackArtist": "Michael Bublé",
+            "TrackArtist": "Michael Bubl\u00e9",
             "TrackTitle": "Everything",
             "MBID": "",
             "Category": "2007"
@@ -303,5 +303,7 @@
             "MBID": "",
             "Category": "2007"
         }
-    ]
+    ],
+    "RefreshRate": 0,
+    "AppendMode": "append"
 }

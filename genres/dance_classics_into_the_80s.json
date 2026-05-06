@@ -154,7 +154,7 @@
             "Category": ""
         },
         {
-            "TrackArtist": "René & Angela",
+            "TrackArtist": "Ren\u00e9 & Angela",
             "TrackTitle": "Save Your Love (For #1)",
             "MBID": "",
             "Category": ""
@@ -195,5 +195,7 @@
             "MBID": "",
             "Category": ""
         }
-    ]
+    ],
+    "RefreshRate": 28,
+    "AppendMode": "append"
 }

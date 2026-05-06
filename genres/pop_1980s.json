@@ -537,5 +537,7 @@
             "MBID": "0a93833e-6ab9-4560-8181-d331aaa6efe4",
             "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
         }
-    ]
+    ],
+    "RefreshRate": 28,
+    "AppendMode": "append"
 }

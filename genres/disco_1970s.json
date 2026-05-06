@@ -981,5 +981,7 @@
             "MBID": "80bcee30-d6a4-4ad9-90ea-399c7c89bbbd",
             "Category": "Essential remixes, alternative versions, and DJ favorites"
         }
-    ]
+    ],
+    "RefreshRate": 0,
+    "AppendMode": "append"
 }

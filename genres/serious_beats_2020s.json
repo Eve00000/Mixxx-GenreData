@@ -70,13 +70,13 @@
             "Category": ""
         },
         {
-            "TrackArtist": "Dimitri Vegas & Afro Bros & Sebastián Yatra & Camilo & Emilia",
+            "TrackArtist": "Dimitri Vegas & Afro Bros & Sebasti\u00e1n Yatra & Camilo & Emilia",
             "TrackTitle": "Boomshakalaka (Dimitri Vegas & Like Mike Vs Afro Bros Mix)",
             "MBID": "",
             "Category": ""
         },
         {
-            "TrackArtist": "DJ Tiësto & Mabel",
+            "TrackArtist": "DJ Ti\u00ebsto & Mabel",
             "TrackTitle": "God Is a Dancer (James Hype RMX)",
             "MBID": "",
             "Category": ""
@@ -100,7 +100,7 @@
             "Category": ""
         },
         {
-            "TrackArtist": "Smack & Amy Miyú",
+            "TrackArtist": "Smack & Amy Miy\u00fa",
             "TrackTitle": "Like This (Carta Edit)",
             "MBID": "",
             "Category": ""
@@ -2175,5 +2175,7 @@
             "MBID": "",
             "Category": ""
         }
-    ]
+    ],
+    "RefreshRate": 0,
+    "AppendMode": "append"
 }

@@ -315,5 +315,7 @@
             "MBID": "",
             "Category": ""
         }
-    ]
+    ],
+    "RefreshRate": 0,
+    "AppendMode": "append"
 }

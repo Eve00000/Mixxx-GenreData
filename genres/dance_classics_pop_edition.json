@@ -772,7 +772,7 @@
             "Category": ""
         },
         {
-            "TrackArtist": "Mory Kanté",
+            "TrackArtist": "Mory Kant\u00e9",
             "TrackTitle": "Yeke Yeke (Original 12'' RMX)",
             "MBID": "",
             "Category": ""
@@ -1060,7 +1060,7 @@
             "Category": ""
         },
         {
-            "TrackArtist": "Exposé",
+            "TrackArtist": "Expos\u00e9",
             "TrackTitle": "Point Of No Return (Extended Mix)",
             "MBID": "",
             "Category": ""
@@ -1372,7 +1372,7 @@
             "Category": ""
         },
         {
-            "TrackArtist": "Exposé",
+            "TrackArtist": "Expos\u00e9",
             "TrackTitle": "Let Me Be The One (12 Inch Version)",
             "MBID": "",
             "Category": ""
@@ -1636,7 +1636,7 @@
             "Category": ""
         },
         {
-            "TrackArtist": "Exposé",
+            "TrackArtist": "Expos\u00e9",
             "TrackTitle": "What You Don't Know (Bass Mix)",
             "MBID": "",
             "Category": ""
@@ -1659,5 +1659,7 @@
             "MBID": "",
             "Category": ""
         }
-    ]
+    ],
+    "RefreshRate": 0,
+    "AppendMode": "append"
 }

@@ -118,7 +118,7 @@
             "Category": "2013"
         },
         {
-            "TrackArtist": "Beyoncé & Jay-Z",
+            "TrackArtist": "Beyonc\u00e9 & Jay-Z",
             "TrackTitle": "Drunk in Love",
             "MBID": "",
             "Category": "2013"
@@ -303,5 +303,7 @@
             "MBID": "",
             "Category": "2013"
         }
-    ]
+    ],
+    "RefreshRate": 0,
+    "AppendMode": "append"
 }

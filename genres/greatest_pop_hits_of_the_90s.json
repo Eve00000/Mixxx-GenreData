@@ -3357,5 +3357,7 @@
             "MBID": "c0303851-2c16-41ce-ba3a-bb607253d07b",
             "Category": "Songs occurring most on playlists on soundcloud for this genre"
         }
-    ]
+    ],
+    "RefreshRate": 28,
+    "AppendMode": "append"
 }

@@ -303,5 +303,7 @@
             "MBID": "67280f02-248b-4924-8e06-e6ff8f58f7be",
             "Category": "Songs occuring most on playlists on youtube for this genre"
         }
-    ]
+    ],
+    "RefreshRate": 28,
+    "AppendMode": "append"
 }

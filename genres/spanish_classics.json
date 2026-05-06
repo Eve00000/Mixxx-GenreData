@@ -483,5 +483,7 @@
             "MBID": "189e43e5-ad96-41f3-bb96-ac3fba332883",
             "Category": "Songs occuring most on playlists on deezer for this genre"
         }
-    ]
+    ],
+    "RefreshRate": 28,
+    "AppendMode": "append"
 }

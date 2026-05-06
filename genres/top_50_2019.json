@@ -17,7 +17,7 @@
         },
         {
             "TrackArtist": "Shawn Mendes & Camila Cabello",
-            "TrackTitle": "Señorita",
+            "TrackTitle": "Se\u00f1orita",
             "MBID": "",
             "Category": "2019"
         },
@@ -309,5 +309,7 @@
             "MBID": "",
             "Category": "2019"
         }
-    ]
+    ],
+    "RefreshRate": 0,
+    "AppendMode": "append"
 }

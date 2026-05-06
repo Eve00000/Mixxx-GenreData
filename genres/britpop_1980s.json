@@ -483,5 +483,7 @@
             "MBID": "5863f8e1-fa79-4818-8834-54101704eb2d",
             "Category": "Critically acclaimed masterpieces and award-winning tracks"
         }
-    ]
+    ],
+    "RefreshRate": 28,
+    "AppendMode": "append"
 }

@@ -268,7 +268,7 @@
             "Category": "2010"
         },
         {
-            "TrackArtist": "Janelle Monáe with Big Boi",
+            "TrackArtist": "Janelle Mon\u00e1e with Big Boi",
             "TrackTitle": "Tightrope",
             "MBID": "",
             "Category": "2010"
@@ -303,5 +303,7 @@
             "MBID": "",
             "Category": "2010"
         }
-    ]
+    ],
+    "RefreshRate": 0,
+    "AppendMode": "append"
 }

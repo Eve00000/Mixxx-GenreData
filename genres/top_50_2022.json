@@ -40,7 +40,7 @@
             "Category": "2022"
         },
         {
-            "TrackArtist": "Beyoncé",
+            "TrackArtist": "Beyonc\u00e9",
             "TrackTitle": "Break My Soul",
             "MBID": "",
             "Category": "2022"
@@ -95,7 +95,7 @@
         },
         {
             "TrackArtist": "Bad Bunny",
-            "TrackTitle": "Tití Me Preguntó",
+            "TrackTitle": "Tit\u00ed Me Pregunt\u00f3",
             "MBID": "",
             "Category": "2022"
         },
@@ -124,7 +124,7 @@
             "Category": "2022"
         },
         {
-            "TrackArtist": "Beyoncé",
+            "TrackArtist": "Beyonc\u00e9",
             "TrackTitle": "Cuff It",
             "MBID": "",
             "Category": "2022"
@@ -303,5 +303,7 @@
             "MBID": "",
             "Category": "2022"
         }
-    ]
+    ],
+    "RefreshRate": 0,
+    "AppendMode": "append"
 }

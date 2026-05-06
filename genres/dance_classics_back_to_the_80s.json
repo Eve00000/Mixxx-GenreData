@@ -202,7 +202,7 @@
             "Category": ""
         },
         {
-            "TrackArtist": "René & Angela",
+            "TrackArtist": "Ren\u00e9 & Angela",
             "TrackTitle": "I'll Be Good",
             "MBID": "",
             "Category": ""
@@ -237,5 +237,7 @@
             "MBID": "",
             "Category": ""
         }
-    ]
+    ],
+    "RefreshRate": 0,
+    "AppendMode": "append"
 }
