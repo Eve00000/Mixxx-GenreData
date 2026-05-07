@@ -37,6 +37,7 @@
         "Country",
         "Flamenco",
         "Folk",
+        "Gospel",
         "Indian Traditionals",
         "World"
       ]
@@ -76,6 +77,7 @@
     {
       "name": "Jazz",
       "genres": [
+        "Fusion Jazz",
         "Jazz",
         "Swing Jazz"
       ]
@@ -120,6 +122,19 @@
       ]
     },
     {
+      "name": "Reggae",
+      "genres": [
+        "Dancehall",
+        "Dub",
+        "Dubstep",
+        "Reggae",
+        "Rocksteady",
+        "Ska",
+        "Soca",
+        "Zouk"
+      ]  
+    },
+    {
       "name": "Rock",
       "genres": [
         "Greatest Rock hits of the 70s",
@@ -132,6 +147,7 @@
         "Grunge",
         "Heavy Metal",
         "Power Rock",
+        "Punk",
         "Stadium Rock",
         "Symphonic Rock"
       ]
@@ -213,9 +229,9 @@
     {
       "name": "New Arrivals",
       "genres": [
-        "Cumbia Latin",
+        "Cumbia",
         "Pop Ballads",
-        "Tropicalia",
+        "Brazilian Tropicalia",
         "Reggae",
         "Fusion Jazz",
         "Gospel",
