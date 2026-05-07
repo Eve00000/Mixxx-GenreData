@@ -1,0 +1,40 @@
+name: "Waiter: Log Genre Request"
+
+on:
+  workflow_dispatch:
+    inputs:
+      custom_genre:
+        description: 'The genre requested by the user'
+        required: true
+        type: string
+
+jobs:
+  log-request:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Configure Git
+        run: |
+          git config --global user.name "GitHub Action Bot"
+          git config --global user.email "action@github.com"        
+
+      - name: Log Request
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GITHUB_TOKEN: ${{ secrets.MY_GITHUB_PAT }}
+          CUSTOM_GENRE: ${{ inputs.custom_genre }}
+        # The script is smart enough to see CUSTOM_GENRE is set and only run the log logic
+        run: python -u connector.py
