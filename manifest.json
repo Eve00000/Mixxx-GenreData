@@ -212,7 +212,15 @@
     },
     {
       "name": "New Arrivals",
-      "genres": []
+      "genres": [
+        "Cumbia Latin",
+        "Pop Ballads",
+        "Tropicalia",
+        "Reggae",
+        "Fusion Jazz",
+        "Gospel",
+        "Ska"
+      ]  
     }
   ]
 }
