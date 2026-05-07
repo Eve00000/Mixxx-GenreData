@@ -1,0 +1,218 @@
+{
+  "categories": [
+    {
+      "name": "Blues",
+      "genres": [
+        "Blues",
+        "Chicago Blues"
+      ]
+    },
+    {
+      "name": "Classical",
+      "genres": [
+        "Opera"
+      ]
+    },
+    {
+      "name": "Electronic",
+      "genres": [
+        "Deep House",
+        "DnB",
+        "Drum and bass",
+        "Electro",
+        "EuroBeat",
+        "Hithouse",
+        "House",
+        "Serious Beats 1990s",
+        "Serious Beats 2000s",
+        "Serious Beats 2010s",
+        "Serious Beats 2020s",
+        "Techo"
+      ]
+    },
+    {
+      "name": "Folk, World & Country",
+      "genres": [
+        "African",
+        "Country",
+        "Flamenco",
+        "Folk",
+        "Indian Traditionals",
+        "World"
+      ]
+    },
+    {
+      "name": "Funk / Soul, Disco",
+      "genres": [
+        "Soul Classics",
+        "Soul 1960s",
+        "Soul 1970s",
+        "Soul 1980s",
+        "Soul 1990s",
+        "Soul RnB Classics",
+        "Disco 1970s",
+        "Disco 1980s",
+        "Disco 1990s",
+        "Disco Top 100",
+        "Dance Classics Into The 80s",
+        "Dance Classics Back To The 80s",
+        "Dance Classics Italo Edition",
+        "Dance Classics New Jack Swing",
+        "Dance Classics Originals",
+        "Dance Classics Pop Edition",
+        "Dance Classics The Remixes",
+        "RnB"
+      ]
+    },
+    {
+      "name": "Hip Hop",
+      "genres": [
+        "Rap",
+        "Dutch Rap",
+        "French Rap",
+        "Italian Rap"
+      ]
+    },
+    {
+      "name": "Jazz",
+      "genres": [
+        "Jazz",
+        "Swing Jazz"
+      ]
+    },
+    {
+      "name": "Latin",
+      "genres": [
+        "Brazilian Bossa Nova",
+        "Brazilian Samba",
+        "Brazilian Tropicalia",
+        "Cumbia",
+        "Mambo",
+        "Merengue",
+        "Salsa",
+        "Tango"
+      ]
+    },
+    {
+      "name": "Lounge & Easy listening",
+      "genres": [
+        "Lounge Music",
+        "Café Del Mar Originals"
+      ]
+    },
+    {
+      "name": "Pop",
+      "genres": [
+        "BelPop Classics",
+        "Britpop 1980s",
+        "Britpop 1990s",
+        "Britpop 2000s",
+        "Greatest Pop Hits of the 70s",
+        "Greatest Pop Hits of the 80s",
+        "Greatest Pop Hits of the 90s",
+        "K-Pop",
+        "Manchester",
+        "Neue Deutsche Welle",
+        "New Wave 1980s",
+        "Pop 1960s",
+        "Pop 1980s",
+        "Pop Ballads"
+      ]
+    },
+    {
+      "name": "Rock",
+      "genres": [
+        "Greatest Rock hits of the 70s",
+        "Greatest Rock hits of the 80s",
+        "Greatest Rock hits of the 90s",
+        "Rock 1970s",
+        "Rock 1990s",
+        "Rock & Roll",
+        "Hard Rock",
+        "Grunge",
+        "Heavy Metal",
+        "Power Rock",
+        "Stadium Rock",
+        "Symphonic Rock"
+      ]
+    },
+    {
+      "name": "Dutch / Nederlands",
+      "genres": [
+        "Dutch Classics",
+        "Dutch Schlagers",
+        "Dutch Traditionals",
+        "Kleinkunst"
+      ]
+    },
+    {
+      "name": "French / Français",
+      "genres": [
+        "French Chanson",
+        "French Pop",
+        "French Rock",
+        "Fench Traditionals"
+      ]
+    },
+    {
+      "name": "German / Deutsch",
+      "genres": [
+        "German Classics",
+        "German Pop",
+        "German Schlagers"
+      ]
+    },
+    {
+      "name": "Irish",
+      "genres": [
+        "Irish Traditionals"
+      ]
+    },
+    {
+      "name": "Italian / Italiano",
+      "genres": [
+        "Italian Pop",
+        "Italian Rap",
+        "Italian Rock",
+        "Radio Italiana",
+        "Viva Italia"
+      ]
+    },
+    {
+      "name": "Spanish / Espagnol",
+      "genres": [
+        "Spanish Classics"
+      ]
+    },
+    {
+      "name": "Hitlists",
+      "genres": [
+        "Billboard 100",
+        "Top 50 2006",
+        "Top 50 2007",
+        "Top 50 2008",
+        "Top 50 2009",
+        "Top 50 2010",
+        "Top 50 2011",
+        "Top 50 2012",
+        "Top 50 2013",
+        "Top 50 2014",
+        "Top 50 2015",
+        "Top 50 2016",
+        "Top 50 2017",
+        "Top 50 2018",
+        "Top 50 2019",
+        "Top 50 2020",
+        "Top 50 2021",
+        "Top 50 2022",
+        "Top 50 2023",
+        "Top 50 2024",
+        "Top 50 2025"
+      ]
+    },
+    {
+      "name": "New Arrivals",
+      "genres": []
+    }
+  ]
+}
