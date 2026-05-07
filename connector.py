@@ -24,13 +24,17 @@ LOCKED_FILE = "locked_genres.txt"
 QUEUE_FILE = "requested_genres.txt"
 
 def load_genres():
-    if not os.path.exists(GENRES_FILE):
-        default_genres = ["Synthwave", "90s Eurodance"]
-        with open(GENRES_FILE, "w", encoding="utf-8") as f:
-            f.write("\n".join(default_genres) + "\n")
-        return default_genres
-    with open(GENRES_FILE, "r", encoding="utf-8") as f:
-        return [line.strip() for line in f if line.strip()]
+    MANIFEST_FILE = "manifest.json"
+    if os.path.exists(MANIFEST_FILE):
+        with open(MANIFEST_FILE, "r", encoding="utf-8") as f:
+            data = json.load(f)
+            # Flatten all genres from all categories into one list
+            return [genre for cat in data.get("categories", []) for genre in cat.get("genres", [])]
+    
+    # Fallback to old flat file if manifest is missing
+    if os.path.exists(GENRES_FILE):
+        return [line.strip() for line in open(GENRES_FILE) if line.strip()]
+    return []
 
 def add_genre_to_file(new_genre):
     existing_genres = load_genres()
@@ -350,6 +354,33 @@ def generate_playlist_data(search_field):
             os.remove(temp_filename)
         return False
 
+def add_genre_to_manifest(genre_name):
+    MANIFEST_FILE = "manifest.json"
+    if not os.path.exists(MANIFEST_FILE):
+        print(f" [!] Manifest not found, skipping manifest update for {genre_name}")
+        return
+
+    try:
+        with open(MANIFEST_FILE, "r", encoding="utf-8") as f:
+            manifest = json.load(f)
+
+        updated = False
+        for category in manifest.get("categories", []):
+            if category.get("name") == "New Arrivals":
+                # Ensure we don't add duplicates
+                if genre_name not in category["genres"]:
+                    category["genres"].append(genre_name)
+                    updated = True
+                break
+        
+        if updated:
+            with open(MANIFEST_FILE, "w", encoding="utf-8") as f:
+                json.dump(manifest, f, indent=4)
+            print(f" [+] Added '{genre_name}' to 'New Arrivals' in manifest.json")
+    except Exception as e:
+        print(f" [!] Error updating manifest: {e}")
+        
+
 def load_queue():
     if not os.path.exists(QUEUE_FILE): return []
     with open(QUEUE_FILE, "r", encoding="utf-8") as f:
@@ -413,26 +444,10 @@ if __name__ == "__main__":
                 if do_update:
                     success = generate_playlist_data(genre)
                     if success:
-                        add_genre_to_file(genre)
+                        add_genre_to_file(genre)       # Keep your flat genres.txt in sync
+                        add_genre_to_manifest(genre)   # Put it in the App Menu
                         remove_from_queue(genre) 
                         git_save_and_push(f"Generated playlist for: {genre}")
-                    else:
-                        print(f" [!] Generation failed for '{genre}'. Keeping in queue.")
-                    print("\n[API PROTECTION] Waiting 60 seconds before next genre...")
-                    time.sleep(60) 
-                else:
-                    remove_from_queue(genre)
-
-        genres_to_process = load_genres()
-        print(f"\nChecking {len(genres_to_process)} existing genres for maintenance...")
-
-        for genre in genres_to_process:
-            do_update, reason = should_update_genre(genre)
-            if do_update:
-                print(f"Routine Maintenance: Updating '{genre}'")
-                success = generate_playlist_data(genre)
-                if success:
-                    git_save_and_push(f"Routine maintenance update: {genre}")
                 else:
                     print(f" [!] Maintenance failed for '{genre}'.")
                 print("\n[API PROTECTION] Waiting 60 seconds before next genre...")
