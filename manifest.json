@@ -85,6 +85,7 @@
     {
       "name": "Latin",
       "genres": [
+        "Brazilian",        
         "Brazilian Bossa Nova",
         "Brazilian Samba",
         "Brazilian Tropicalia",
@@ -92,7 +93,8 @@
         "Mambo",
         "Merengue",
         "Salsa",
-        "Tango"
+        "Tango",
+        "Tropical"
       ]
     },
     {
