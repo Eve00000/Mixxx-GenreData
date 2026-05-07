@@ -23,6 +23,7 @@
                 "EuroBeat",
                 "Hithouse",
                 "House",
+                "Nu-disco",
                 "Serious Beats 1990s",
                 "Serious Beats 2000s",
                 "Serious Beats 2010s",
@@ -74,7 +75,8 @@
                 "Dutch Rap",
                 "French Rap",
                 "Hip Hop",
-                "Italian Rap"
+                "Italian Rap",
+                "Jazzy Hip Hop",
             ]
         },
         {
@@ -103,6 +105,7 @@
         {
             "name": "Lounge & Easy listening",
             "genres": [
+                "Easy Listening",
                 "Lounge Music",
                 "Caf\u00e9 Del Mar Originals"
             ]
@@ -154,6 +157,7 @@
                 "Heavy Metal",
                 "Power Rock",
                 "Punk",
+                "Rockabilly",
                 "Stadium Rock",
                 "Surf",
                 "Symphonic Rock"
