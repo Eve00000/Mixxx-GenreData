@@ -434,6 +434,7 @@ if __name__ == "__main__":
     else:
         print("\n--- BATCH PROCESSING STARTED ---")
 
+        # 1. PROCESS QUEUE (USER REQUESTS)
         queued_genres = load_queue()
         if queued_genres:
             queued_genres = list(set(queued_genres))
@@ -444,13 +445,31 @@ if __name__ == "__main__":
                 if do_update:
                     success = generate_playlist_data(genre)
                     if success:
-                        add_genre_to_file(genre)       # Keep your flat genres.txt in sync
-                        add_genre_to_manifest(genre)   # Put it in the App Menu
+                        add_genre_to_file(genre)       
+                        add_genre_to_manifest(genre) # Add to "New Arrivals"
                         remove_from_queue(genre) 
                         git_save_and_push(f"Generated playlist for: {genre}")
+                    else:
+                        print(f" [!] Generation failed for '{genre}'. Keeping in queue.")
+                    
+                    print("\n[API PROTECTION] Waiting 60 seconds...")
+                    time.sleep(60)
+
+        # 2. ROUTINE MAINTENANCE (EXISTING GENRES)
+        genres_to_process = load_genres()
+        print(f"\nChecking {len(genres_to_process)} existing genres for maintenance...")
+
+        for genre in genres_to_process:
+            do_update, reason = should_update_genre(genre)
+            if do_update:
+                print(f"Routine Maintenance: Updating '{genre}'")
+                success = generate_playlist_data(genre)
+                if success:
+                    git_save_and_push(f"Routine maintenance update: {genre}")
                 else:
                     print(f" [!] Maintenance failed for '{genre}'.")
-                print("\n[API PROTECTION] Waiting 60 seconds before next genre...")
+                
+                print("\n[API PROTECTION] Waiting 60 seconds...")
                 time.sleep(60)
             else:
                 print(f"⏭️ SKIPPING '{genre}': {reason}")
