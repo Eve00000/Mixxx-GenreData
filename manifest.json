@@ -158,6 +158,7 @@
       "name": "Dutch / Nederlands",
       "genres": [
         "Dutch Classics",
+        "Dutch Rap",
         "Dutch Schlagers",
         "Dutch Traditionals",
         "Kleinkunst"
@@ -168,6 +169,7 @@
       "genres": [
         "French Chanson",
         "French Pop",
+        "French Rap",
         "French Rock",
         "Fench Traditionals"
       ]
@@ -199,7 +201,8 @@
     {
       "name": "Spanish / Espagnol",
       "genres": [
-        "Spanish Classics"
+        "Spanish Classics",
+        "Spanish Rap"
       ]
     },
     {
