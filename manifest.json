@@ -27,7 +27,8 @@
         "Serious Beats 2000s",
         "Serious Beats 2010s",
         "Serious Beats 2020s",
-        "Techo"
+        "Techo",
+        "Tribal House"
       ]
     },
     {
@@ -38,6 +39,7 @@
         "Flamenco",
         "Folk",
         "Gospel",
+        "Hindi",
         "Indian Traditionals",
         "World"
       ]
@@ -71,6 +73,7 @@
         "Rap",
         "Dutch Rap",
         "French Rap",
+        "Hip Hop",
         "Italian Rap"
       ]
     },
@@ -79,7 +82,7 @@
       "genres": [
         "Fusion Jazz",
         "Jazz",
-        "Swing Jazz"
+        "Swing"
       ]
     },
     {
@@ -120,7 +123,8 @@
         "New Wave 1980s",
         "Pop 1960s",
         "Pop 1980s",
-        "Pop Ballads"
+        "Pop Ballads",
+        "Power Pop",
       ]
     },
     {
@@ -242,7 +246,13 @@
         "Fusion Jazz",
         "Gospel",
         "Ska",
-        "Punk"
+        "Punk",
+        "Tribal House",
+        "Hindi",
+        "Brazilian Bossa Nova",
+        "Hip Hop",
+        "Power Pop",
+        "Swing"
       ]  
     }
   ]
