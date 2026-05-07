@@ -1,19 +1,17 @@
-name: Playlist Data Updater
+name: "Chef: Playlist Data Updater"
 
 on:
   schedule:
+    # Runs every 6 hours
     - cron: '0 */6 * * *'
+  # Allows you to manually force a batch run if needed
   workflow_dispatch:
-    inputs:
-      custom_genre:
-        description: 'Create a specific genre on-demand'
-        required: false
-        type: string
 
-##concurrency:
-#group: playlist-generator
-#  cancel-in-progress: false
-  
+# CRITICAL: This prevents multiple batch updaters from running at once
+concurrency:
+  group: playlist-batch-processor
+  cancel-in-progress: false
+
 jobs:
   update-playlists:
     runs-on: ubuntu-latest
@@ -37,12 +35,9 @@ jobs:
           git config --global user.name "GitHub Action Bot"
           git config --global user.email "action@github.com"        
 
-      - name: Run Gemini-MusicBrainz Connector
+      - name: Run Batch Update
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           GITHUB_TOKEN: ${{ secrets.MY_GITHUB_PAT }}
-          CUSTOM_GENRE: ${{ inputs.custom_genre }}
+          # We explicitly DO NOT pass CUSTOM_GENRE here so it triggers the batch logic
         run: python -u connector.py
-
-          # git pull origin main --no-rebase -X union
-          # git push
