@@ -1,6 +1,6 @@
 # 🎧 Mixxx EI Playlist Generator & Community Explorer
 
-**Current Version:** MIXXX AGENT v3.50  
+**Current Version:** MIXXX AGENT v5.60  
 **Status:** Production / Fully Operational  
 
 Welcome to the **Mixxx EI Playlist Generator** (where EI stands for **Eve's Intelligence**)! This project is an advanced, custom-built music curation engine designed specifically for DJs using Mixxx. It analyzes your local Mixxx database and uses Google's Gemini models to build, verify, and maintain intelligent DJ crates and genre playlists.
@@ -25,6 +25,7 @@ The user-facing application is built for extreme privacy, speed, and resilience 
   * Forced routing to **Washington D.C. (`iad1`)** to avoid high-latency bottlenecks and `503` errors in European Google data centers.
   * Uses `gemini-2.5-flash-lite` for absolute maximum speed and quota reliability.
 
+live app: https://mixxx-ei-playlist-creator.vercel.app/
 ---
 
 ## ⚙️ Part 2: The Backend Data Engine (GitHub Actions)
@@ -44,6 +45,8 @@ The backend acts as a self-healing, automated database administrator that builds
 Every JSON file governs its own update schedule using smart headers. 
 * `RefreshRate`: `0` (Locked forever, e.g. "Top 50 2006"), `7` (Weekly), or `28` (Monthly).
 * `AppendMode`: `"append"` (add new tracks) or `"clear"` (wipe and refresh, e.g. "Current Top 50").
+* Genres are listed and stuctured with categories in the manifest.json.
+* User requests from frontend are saved in requested_genres.txt by the waiter.
 
 **Example JSON Structure:**
 ```json
