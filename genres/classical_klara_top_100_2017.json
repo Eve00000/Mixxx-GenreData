@@ -1,0 +1,720 @@
+{
+    "SearchField": "Classical Klara Top 100 2017",
+    "Category": "Classical",
+    "Focus": "composer",
+    "RefreshRate": 0,
+    "AppendMode": "append",
+    "Timestamp": "2026-05-08T06:05:20Z",
+    "TotalTracks": 100,
+    "Tracks": [
+        {
+            "TrackArtist": "Giovanni Battista Pergolesi",
+            "TrackTitle": "Stabat Mater",
+            "MBID": "",
+            "Category": "",
+            "TrackComposer": "Pergolesi, Giovanni Battista"
+        },
+        {
+            "TrackArtist": "Johann Sebastian Bach",
+            "TrackTitle": "Mattheuspassie: Erbarme Dich",
+            "MBID": "",
+            "Category": "",
+            "TrackComposer": "Bach, Johann Sebastian"
+        },
+        {
+            "TrackArtist": "Damien Pardoen, Stéphane De May",
+            "TrackTitle": "Spiegel im Spiegel",
+            "MBID": "",
+            "Category": "",
+            "TrackComposer": "Pärt, Arvo"
+        },
+        {
+            "TrackArtist": "De Filharmonie o.l.v. Philippe Herreweghe",
+            "TrackTitle": "Symfonie nr.6 in F op.68 Pastorale: 1.Erwachen heiterer Empfindungen bei der Ankunft auf dem Lande. Allegro ma non troppo",
+            "MBID": "",
+            "Category": "",
+            "TrackComposer": "Beethoven, Ludwig van"
+        },
+        {
+            "TrackArtist": "Johann Sebastian Bach",
+            "TrackTitle": "Mattheuspassie: Wir setzen uns mit Tränen nieder",
+            "MBID": "",
+            "Category": "",
+            "TrackComposer": "Bach, Johann Sebastian"
+        },
+        {
+            "TrackArtist": "Johann Sebastian Bach",
+            "TrackTitle": "Weihnachtsoratorium: Jauchzet, frohlocket",
+            "MBID": "",
+            "Category": "",
+            "TrackComposer": "Bach, Johann Sebastian"
+        },
+        {
+            "TrackArtist": "Wolfgang Amadeus Mozart",
+            "TrackTitle": "Requiem: Lacrimosa",
+            "MBID": "",
+            "Category": "",
+            "TrackComposer": "Mozart, Wolfgang Amadeus"
+        },
+        {
+            "TrackArtist": "Berliner Philharmoniker o.l.v. Herbert von Karajan",
+            "TrackTitle": "Mijn Vaderland: 2.De Moldau",
+            "MBID": "",
+            "Category": "",
+            "TrackComposer": "Smetana, Bedřich"
+        },
+        {
+            "TrackArtist": "Giuseppe Verdi",
+            "TrackTitle": "Nabucco: Va, pensiero",
+            "MBID": "",
+            "Category": "",
+            "TrackComposer": "Verdi, Giuseppe"
+        },
+        {
+            "TrackArtist": "Philharmonia Chorus and Orchestra o.l.v. Riccardo Muti",
+            "TrackTitle": "Carmina Burana: O fortuna",
+            "MBID": "",
+            "Category": "",
+            "TrackComposer": "Orff, Carl"
+        },
+        {
+            "TrackArtist": "Antonio Vivaldi",
+            "TrackTitle": "De vier seizoenen: De lente",
+            "MBID": "",
+            "Category": "",
+            "TrackComposer": "Vivaldi, Antonio"
+        },
+        {
+            "TrackArtist": "Christoph Willibald von Gluck",
+            "TrackTitle": "Orfeo ed Euridice: Che farò senza Euridice",
+            "MBID": "",
+            "Category": "",
+            "TrackComposer": "Gluck, Christoph Willibald von"
+        },
+        {
+            "TrackArtist": "Sergei Rachmaninoff",
+            "TrackTitle": "Pianoconcerto nr.3: Allegro ma non tanto",
+            "MBID": "",
+            "Category": "",
+            "TrackComposer": "Rachmaninoff, Sergei"
+        },
+        {
+            "TrackArtist": "Vladimir Ashkenazy & London Symphony Orchestra o.l.v. André Previn",
+            "TrackTitle": "Concerto nr.2 in c voor piano en orkest op.18: 1.Moderato",
+            "MBID": "",
+            "Category": "",
+            "TrackComposer": "Rachmaninoff, Sergei"
+        },
+        {
+            "TrackArtist": "Gli Incogniti o.l.v. Amandine Beyer",
+            "TrackTitle": "Canon en gigue",
+            "MBID": "",
+            "Category": "",
+            "TrackComposer": "Pachelbel, Johann"
+        },
+        {
+            "TrackArtist": "Johann Sebastian Bach",
+            "TrackTitle": "Toccata en Fuga in d",
+            "MBID": "",
+            "Category": "",
+            "TrackComposer": "Bach, Johann Sebastian"
+        },
+        {
+            "TrackArtist": "Alexis Weissenberg & Berliner Philharmoniker o.l.v. Seiji Ozawa",
+            "TrackTitle": "Rhapsody in blue",
+            "MBID": "",
+            "Category": "",
+            "TrackComposer": "Gershwin, George"
+        },
+        {
+            "TrackArtist": "George Frideric Handel",
+            "TrackTitle": "Messiah: Allelujah",
+            "MBID": "",
+            "Category": "",
+            "TrackComposer": "Handel, George Frideric"
+        },
+        {
+            "TrackArtist": "Gregorio Allegri",
+            "TrackTitle": "Miserere",
+            "MBID": "",
+            "Category": "",
+            "TrackComposer": "Allegri, Gregorio"
+        },
+        {
+            "TrackArtist": "Sabine Devieilhe, Marianne Crebassa & Les Siècles o.l.v. François-Xavier Roth",
+            "TrackTitle": "Lakmé: Bloemenduet",
+            "MBID": "",
+            "Category": "",
+            "TrackComposer": "Delibes, Léo"
+        },
+        {
+            "TrackArtist": "Edvard Grieg",
+            "TrackTitle": "Peer Gynt suite: Ochtendstemming",
+            "MBID": "",
+            "Category": "",
+            "TrackComposer": "Grieg, Edvard"
+        },
+        {
+            "TrackArtist": "Ludwig van Beethoven",
+            "TrackTitle": "Symfonie Nr. 9 Slotkoor Alle Menschen werden Brüder",
+            "MBID": "",
+            "Category": "",
+            "TrackComposer": "Beethoven, Ludwig van"
+        },
+        {
+            "TrackArtist": "Maurice Ravel",
+            "TrackTitle": "Bolero",
+            "MBID": "",
+            "Category": "",
+            "TrackComposer": "Ravel, Maurice"
+        },
+        {
+            "TrackArtist": "Wolfgang Amadeus Mozart",
+            "TrackTitle": "Die Zauberflöte: Der hölle Rache",
+            "MBID": "",
+            "Category": "",
+            "TrackComposer": "Mozart, Wolfgang Amadeus"
+        },
+        {
+            "TrackArtist": "Johann Sebastian Bach",
+            "TrackTitle": "Magnificat",
+            "MBID": "",
+            "Category": "",
+            "TrackComposer": "Bach, Johann Sebastian"
+        },
+        {
+            "TrackArtist": "Ndr Elbphilharmonie Orchester o.l.v. Krzysztof Urbanski",
+            "TrackTitle": "Symfonie nr.9 in e op.95 Uit de Nieuwe Wereld: 3.Scherzo. Molto vivace",
+            "MBID": "",
+            "Category": "",
+            "TrackComposer": "Dvořák, Antonín"
+        },
+        {
+            "TrackArtist": "Dorothee Mields & Lautten Compagney o.l.v. Wolfgang Katschner",
+            "TrackTitle": "Dido and Aeneas: When I am laid in earth",
+            "MBID": "",
+            "Category": "",
+            "TrackComposer": "Purcell, Henry"
+        },
+        {
+            "TrackArtist": "Ludwig van Beethoven",
+            "TrackTitle": "Pianoconcerto nr.5 Keizersconcerto: Rondo",
+            "MBID": "",
+            "Category": "",
+            "TrackComposer": "Beethoven, Ludwig van"
+        },
+        {
+            "TrackArtist": "Dmitri Shostakovich",
+            "TrackTitle": "Jazzsuite: Wals nr.2",
+            "MBID": "",
+            "Category": "",
+            "TrackComposer": "Shostakovich, Dmitri"
+        },
+        {
+            "TrackArtist": "Benjamin Appl & Concerto Köln",
+            "TrackTitle": "Bist du bei mir BWV508",
+            "MBID": "",
+            "Category": "",
+            "TrackComposer": "Bach, Johann Sebastian"
+        },
+        {
+            "TrackArtist": "Igor Levit",
+            "TrackTitle": "Goldbergvariaties BWV988: Aria",
+            "MBID": "",
+            "Category": "",
+            "TrackComposer": "Bach, Johann Sebastian"
+        },
+        {
+            "TrackArtist": "Staatskapelle Dresden o.l.v. Herbert Blomstedt",
+            "TrackTitle": "Concerto in A voor klarinet en orkest KV622: 2.Adagio",
+            "MBID": "",
+            "Category": "",
+            "TrackComposer": "Mozart, Wolfgang Amadeus"
+        },
+        {
+            "TrackArtist": "Pyotr Tchaikovsky",
+            "TrackTitle": "Het zwanenmeer: Thema",
+            "MBID": "",
+            "Category": "",
+            "TrackComposer": "Tchaikovsky, Pyotr"
+        },
+        {
+            "TrackArtist": "Johann Sebastian Bach",
+            "TrackTitle": "Brandenburgs concerto nr.4",
+            "MBID": "",
+            "Category": "",
+            "TrackComposer": "Bach, Johann Sebastian"
+        },
+        {
+            "TrackArtist": "Franz Schubert",
+            "TrackTitle": "Strijkkwartet der Tod und das Mädchen: Andante con moto",
+            "MBID": "",
+            "Category": "",
+            "TrackComposer": "Schubert, Franz"
+        },
+        {
+            "TrackArtist": "Jules Massenet",
+            "TrackTitle": "Thaïs: Méditation",
+            "MBID": "",
+            "Category": "",
+            "TrackComposer": "Massenet, Jules"
+        },
+        {
+            "TrackArtist": "Sarah Brightman, Paul Miles-Kingston & English Chamber Orchestra o.l.v. Lorin Maazel",
+            "TrackTitle": "Requiem: Pie Jesu",
+            "MBID": "",
+            "Category": "",
+            "TrackComposer": "Lloyd Webber, Andrew"
+        },
+        {
+            "TrackArtist": "Max Bruch",
+            "TrackTitle": "Vioolconcerto nr.1: Finale",
+            "MBID": "",
+            "Category": "",
+            "TrackComposer": "Bruch, Max"
+        },
+        {
+            "TrackArtist": "Antonín Dvořák",
+            "TrackTitle": "Rusalka: Lied aan de maan",
+            "MBID": "",
+            "Category": "",
+            "TrackComposer": "Dvořák, Antonín"
+        },
+        {
+            "TrackArtist": "Koninklijk Filharmonisch Orkest van Vlaanderen o.l.v. Philippe Herreweghe",
+            "TrackTitle": "Symfonie nr.7 in A op.92: 2.Allegretto",
+            "MBID": "",
+            "Category": "",
+            "TrackComposer": "Beethoven, Ludwig van"
+        },
+        {
+            "TrackArtist": "Johann Sebastian Bach",
+            "TrackTitle": "Cellosuite nr.1 BWV1007: Prelude",
+            "MBID": "",
+            "Category": "",
+            "TrackComposer": "Bach, Johann Sebastian"
+        },
+        {
+            "TrackArtist": "Peter Benoit",
+            "TrackTitle": "Fantasie nr.3",
+            "MBID": "",
+            "Category": "",
+            "TrackComposer": "Benoit, Peter"
+        },
+        {
+            "TrackArtist": "Antonio Vivaldi",
+            "TrackTitle": "Mandolineconcerto",
+            "MBID": "",
+            "Category": "",
+            "TrackComposer": "Vivaldi, Antonio"
+        },
+        {
+            "TrackArtist": "John Williams & Philharmonia Orchestra o.l.v. Louis Frémaux",
+            "TrackTitle": "Concierto de Aranjuez: 2.Adagio",
+            "MBID": "",
+            "Category": "",
+            "TrackComposer": "Rodrigo, Joaquín"
+        },
+        {
+            "TrackArtist": "Wolfgang Amadeus Mozart",
+            "TrackTitle": "Le nozze di Figaro: Voi che sapete",
+            "MBID": "",
+            "Category": "",
+            "TrackComposer": "Mozart, Wolfgang Amadeus"
+        },
+        {
+            "TrackArtist": "BBC Symphony Orchestra o.l.v. Sir Andrew Davis",
+            "TrackTitle": "Enigmavariaties op.36: 10.Nimrod",
+            "MBID": "",
+            "Category": "",
+            "TrackComposer": "Elgar, Edward"
+        },
+        {
+            "TrackArtist": "Francisco Tárrega",
+            "TrackTitle": "Recuerdos de la Alhambra",
+            "MBID": "",
+            "Category": "",
+            "TrackComposer": "Tárrega, Francisco"
+        },
+        {
+            "TrackArtist": "Itzhak Perlman & Boston Pops Orchestra o.l.v. John Williams",
+            "TrackTitle": "Schindler's List: Thema",
+            "MBID": "",
+            "Category": "",
+            "TrackComposer": "Williams, John"
+        },
+        {
+            "TrackArtist": "Hilary Hahn & London Symphony Orchestra o.l.v. Sir Colin Davis",
+            "TrackTitle": "The Lark Ascending",
+            "MBID": "",
+            "Category": "",
+            "TrackComposer": "Vaughan Williams, Ralph"
+        },
+        {
+            "TrackArtist": "Georges Bizet",
+            "TrackTitle": "Carmen: L' amour est un oiseau rebelle",
+            "MBID": "",
+            "Category": "",
+            "TrackComposer": "Bizet, Georges"
+        },
+{
+    "SearchField": "Classical Klara Top 100 2017",
+    "Category": "Classical",
+    "Focus": "composer",
+    "RefreshRate": 0,
+    "AppendMode": "append",
+    "Timestamp": "2026-05-08T06:05:20Z",
+    "TotalTracks": 100,
+    "Tracks": [
+        {
+            "TrackArtist": "Claudio Monteverdi",
+            "TrackTitle": "Mariavespers: Nisi Dominus",
+            "MBID": "",
+            "Category": "",
+            "TrackComposer": "Monteverdi, Claudio"
+        },
+        {
+            "TrackArtist": "Andreas Scholl & Akademie für Alte Musik Berlin",
+            "TrackTitle": "Serse HWV40: Ombra mai fu",
+            "MBID": "",
+            "Category": "",
+            "TrackComposer": "Handel, George Frideric"
+        },
+        {
+            "TrackArtist": "Igor Stravinsky",
+            "TrackTitle": "Le sacre du printemps",
+            "MBID": "",
+            "Category": "",
+            "TrackComposer": "Stravinsky, Igor"
+        },
+        {
+            "TrackArtist": "Orchestre Symphonique de Montréal o.l.v. Kent Nagano",
+            "TrackTitle": "Danse macabre op.40",
+            "MBID": "",
+            "Category": "",
+            "TrackComposer": "Saint-Saëns, Camille"
+        },
+        {
+            "TrackArtist": "Claudio Monteverdi",
+            "TrackTitle": "L'incoronazione di Poppea: Pur ti miro",
+            "MBID": "",
+            "Category": "",
+            "TrackComposer": "Monteverdi, Claudio"
+        },
+        {
+            "TrackArtist": "Anne Queffélec",
+            "TrackTitle": "Gymnopédie nr.1",
+            "MBID": "",
+            "Category": "",
+            "TrackComposer": "Satie, Erik"
+        },
+        {
+            "TrackArtist": "Agnès Mellon & La Chapelle Royale o.l.v. Philippe Herreweghe",
+            "TrackTitle": "Requiem op.48: 4.Pie Jesu",
+            "MBID": "",
+            "Category": "",
+            "TrackComposer": "Fauré, Gabriel"
+        },
+        {
+            "TrackArtist": "Marie-Elisabeth Hecker & Antwerp Symphony Orchestra o.l.v. Edo de Waart",
+            "TrackTitle": "Concerto in e voor cello en orkest op.85: 1.Adagio-Moderato-2.Lento-Allegro molto",
+            "MBID": "",
+            "Category": "",
+            "TrackComposer": "Elgar, Edward"
+        },
+        {
+            "TrackArtist": "Antonio Vivaldi",
+            "TrackTitle": "Gloria",
+            "MBID": "",
+            "Category": "",
+            "TrackComposer": "Vivaldi, Antonio"
+        },
+        {
+            "TrackArtist": "Saint Louis Symphony Orchestra o.l.v. Leonard Slatkin",
+            "TrackTitle": "Adagio voor strijkers op.11",
+            "MBID": "",
+            "Category": "",
+            "TrackComposer": "Barber, Samuel"
+        },
+        {
+            "TrackArtist": "Jean Sibelius",
+            "TrackTitle": "Finlandia",
+            "MBID": "",
+            "Category": "",
+            "TrackComposer": "Sibelius, Jean"
+        },
+        {
+            "TrackArtist": "Richard Wagner",
+            "TrackTitle": "Die Walküre: Walkürenrit",
+            "MBID": "",
+            "Category": "",
+            "TrackComposer": "Wagner, Richard"
+        },
+        {
+            "TrackArtist": "The London Philharmonic Orchestra o.l.v. Ennio Morricone",
+            "TrackTitle": "The Mission: Gabriel's Oboe",
+            "MBID": "",
+            "Category": "",
+            "TrackComposer": "Morricone, Ennio"
+        },
+        {
+            "TrackArtist": "Ludwig van Beethoven",
+            "TrackTitle": "Für Elise",
+            "MBID": "",
+            "Category": "",
+            "TrackComposer": "Beethoven, Ludwig van"
+        },
+        {
+            "TrackArtist": "Johann Sebastian Bach",
+            "TrackTitle": "Johannespassie: Ich folge dir gleichfalls",
+            "MBID": "",
+            "Category": "",
+            "TrackComposer": "Bach, Johann Sebastian"
+        },
+        {
+            "TrackArtist": "Johann Sebastian Bach",
+            "TrackTitle": "Cantate BWV82 Ich habe genug: Schlummert ein, ihr matten Augen",
+            "MBID": "",
+            "Category": "",
+            "TrackComposer": "Bach, Johann Sebastian"
+        },
+        {
+            "TrackArtist": "Astor Piazzolla",
+            "TrackTitle": "Soledad",
+            "MBID": "",
+            "Category": "",
+            "TrackComposer": "Piazzolla, Astor"
+        },
+        {
+            "TrackArtist": "Gustav Mahler",
+            "TrackTitle": "Symfonie nr.5: Adagietto",
+            "MBID": "",
+            "Category": "",
+            "TrackComposer": "Mahler, Gustav"
+        },
+        {
+            "TrackArtist": "Richard Wagner",
+            "TrackTitle": "Tristan und Isolde: Mild und leise",
+            "MBID": "",
+            "Category": "",
+            "TrackComposer": "Wagner, Richard"
+        },
+        {
+            "TrackArtist": "Heinrich Schiff & Wiener Philharmoniker o.l.v. André Previn",
+            "TrackTitle": "Concerto in b voor cello en orkest op.104: 3.Finale. Allegro moderato",
+            "MBID": "",
+            "Category": "",
+            "TrackComposer": "Dvořák, Antonín"
+        },
+        {
+            "TrackArtist": "Wolfgang Amadeus Mozart",
+            "TrackTitle": "Ave Verum Corpus KV618",
+            "MBID": "",
+            "Category": "",
+            "TrackComposer": "Mozart, Wolfgang Amadeus"
+        },
+        {
+            "TrackArtist": "Ludwig van Beethoven",
+            "TrackTitle": "Mondschein sonate: Adagio sostenuto",
+            "MBID": "",
+            "Category": "",
+            "TrackComposer": "Beethoven, Ludwig van"
+        },
+        {
+            "TrackArtist": "Vincenzo Bellini",
+            "TrackTitle": "Norma: Casta Diva",
+            "MBID": "",
+            "Category": "",
+            "TrackComposer": "Bellini, Vincenzo"
+        },
+        {
+            "TrackArtist": "Peter Vanhove",
+            "TrackTitle": "Het wielewaalt en leeuwerkt",
+            "MBID": "",
+            "Category": "",
+            "TrackComposer": "Mortelmans, Lodewijk"
+        },
+        {
+            "TrackArtist": "Tomaso Albinoni",
+            "TrackTitle": "Adagio",
+            "MBID": "",
+            "Category": "",
+            "TrackComposer": "Albinoni, Tomaso"
+        },
+        {
+            "TrackArtist": "Franz Schubert",
+            "TrackTitle": "Pianotrio nr.2: Andante con moto",
+            "MBID": "",
+            "Category": "",
+            "TrackComposer": "Schubert, Franz"
+        },
+        {
+            "TrackArtist": "George Gershwin",
+            "TrackTitle": "Porgy And Bess: Summertime",
+            "MBID": "",
+            "Category": "",
+            "TrackComposer": "Gershwin, George"
+        },
+        {
+            "TrackArtist": "Efrat Ben-Nun & Concerto Vocale o.l.v. René Jacobs",
+            "TrackTitle": "Orfeo: 1.Toccata-2.Ritornello-La Musica",
+            "MBID": "",
+            "Category": "",
+            "TrackComposer": "Monteverdi, Claudio"
+        },
+        {
+            "TrackArtist": "Dietrich Buxtehude",
+            "TrackTitle": "Jesu, meines Lebens Leben",
+            "MBID": "",
+            "Category": "",
+            "TrackComposer": "Buxtehude, Dietrich"
+        },
+        {
+            "TrackArtist": "Ludwig van Beethoven",
+            "TrackTitle": "Vioolconcerto: Rondo",
+            "MBID": "",
+            "Category": "",
+            "TrackComposer": "Beethoven, Ludwig van"
+        },
+        {
+            "TrackArtist": "Max Bruch",
+            "TrackTitle": "Kol Nidrei",
+            "MBID": "",
+            "Category": "",
+            "TrackComposer": "Bruch, Max"
+        },
+        {
+            "TrackArtist": "Jean Sibelius",
+            "TrackTitle": "Vioolconcerto: Allegro Ma Non Tanto",
+            "MBID": "",
+            "Category": "",
+            "TrackComposer": "Sibelius, Jean"
+        },
+        {
+            "TrackArtist": "George Frideric Handel",
+            "TrackTitle": "Music For The Royal Fireworks: Ouverture",
+            "MBID": "",
+            "Category": "",
+            "TrackComposer": "Handel, George Frideric"
+        },
+        {
+            "TrackArtist": "Simone Kermes & Amici Veneziani",
+            "TrackTitle": "Rinaldo HWV7: Lascia ch'io pianga",
+            "MBID": "",
+            "Category": "",
+            "TrackComposer": "Handel, George Frideric"
+        },
+        {
+            "TrackArtist": "Isaac Albéniz",
+            "TrackTitle": "Asturias",
+            "MBID": "",
+            "Category": "",
+            "TrackComposer": "Albéniz, Isaac"
+        },
+        {
+            "TrackArtist": "Ludwig van Beethoven",
+            "TrackTitle": "Symfonie nr.5: Allegro con brio",
+            "MBID": "",
+            "Category": "",
+            "TrackComposer": "Beethoven, Ludwig van"
+        },
+        {
+            "TrackArtist": "Leonard Bernstein",
+            "TrackTitle": "West Side Story: America",
+            "MBID": "",
+            "Category": "",
+            "TrackComposer": "Bernstein, Leonard"
+        },
+        {
+            "TrackArtist": "Frédéric Chopin",
+            "TrackTitle": "Pianoconcerto nr.2: Larghetto",
+            "MBID": "",
+            "Category": "",
+            "TrackComposer": "Chopin, Frédéric"
+        },
+        {
+            "TrackArtist": "Roberto Alagna & Orchestra of the Royal Opera House Covent Garden o.l.v. Sir Mark Elder",
+            "TrackTitle": "Turandot: Nessun dorma",
+            "MBID": "",
+            "Category": "",
+            "TrackComposer": "Puccini, Giacomo"
+        },
+        {
+            "TrackArtist": "Antonio Vivaldi",
+            "TrackTitle": "Stabat Mater",
+            "MBID": "",
+            "Category": "",
+            "TrackComposer": "Vivaldi, Antonio"
+        },
+        {
+            "TrackArtist": "Alexander Borodin",
+            "TrackTitle": "In de steppen van Midden-Azië",
+            "MBID": "",
+            "Category": "",
+            "TrackComposer": "Borodin, Alexander"
+        },
+        {
+            "TrackArtist": "Franz Schubert",
+            "TrackTitle": "Erlkönig",
+            "MBID": "",
+            "Category": "",
+            "TrackComposer": "Schubert, Franz"
+        },
+        {
+            "TrackArtist": "Wolfgang Amadeus Mozart",
+            "TrackTitle": "Eine kleine Nachtmusik: Allegro",
+            "MBID": "",
+            "Category": "",
+            "TrackComposer": "Mozart, Wolfgang Amadeus"
+        },
+        {
+            "TrackArtist": "Sabine Devieilhe, Aiméry Lefèvre & Les Ambassadeurs o.l.v. Alexis Kossenko",
+            "TrackTitle": "Les Indes Galantes: Forêts paisibles (Les Sauvages)",
+            "MBID": "",
+            "Category": "",
+            "TrackComposer": "Rameau, Jean-Philippe"
+        },
+        {
+            "TrackArtist": "Wolfgang Amadeus Mozart",
+            "TrackTitle": "Don Giovanni: La ci darem la mano",
+            "MBID": "",
+            "Category": "",
+            "TrackComposer": "Mozart, Wolfgang Amadeus"
+        },
+        {
+            "TrackArtist": "Gustav Mahler",
+            "TrackTitle": "Symfonie nr.4: Das himmlische Leben",
+            "MBID": "",
+            "Category": "",
+            "TrackComposer": "Mahler, Gustav"
+        },
+        {
+            "TrackArtist": "Anoniem",
+            "TrackTitle": "Greensleeves",
+            "MBID": "",
+            "Category": "",
+            "TrackComposer": "Anonymous"
+        },
+        {
+            "TrackArtist": "Pyotr Tchaikovsky",
+            "TrackTitle": "Pianoconcerto nr.1: Allegro",
+            "MBID": "",
+            "Category": "",
+            "TrackComposer": "Tchaikovsky, Pyotr"
+        },
+        {
+            "TrackArtist": "Pascal Rogé",
+            "TrackTitle": "Gnossienne nr.1",
+            "MBID": "",
+            "Category": "",
+            "TrackComposer": "Satie, Erik"
+        },
+        {
+            "TrackArtist": "Guy Johnston & National Youth Choir of Great Britain o.l.v. Karl Jenkins",
+            "TrackTitle": "The Armed Man. A Mass For Peace: 12.Benedictus",
+            "MBID": "",
+            "Category": "",
+            "TrackComposer": "Jenkins, Karl"
+        }
+    ]
+}      
