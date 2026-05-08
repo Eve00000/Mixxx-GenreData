@@ -122,11 +122,12 @@ def should_update_genre(search_field):
 
 def get_all_tracks_from_gemini(search_field, category, categories_list, max_retries=4):
     is_classical = (category == "Classical")
+    # Using gemini-2.5-flash which is the current stable workhorse
+    active_model = 'gemini-2.5-flash' 
+    
     chunks = [categories_list[i:i + 7] for i in range(0, len(categories_list), 7)]
     all_flat_tracks = []
 
-    # Define the schema so Gemini CANNOT fail the format
-    # This is a list of categories, each containing a list of tracks
     for i, chunk in enumerate(chunks):
         print(f" -> Asking Gemini to build Crate Part {i+1} of {len(chunks)} (7 categories)...")
         
@@ -141,7 +142,7 @@ def get_all_tracks_from_gemini(search_field, category, categories_list, max_retr
         Provide a massive playlist for the genre/theme: "{search_field}".
 
         You must categorize the tracks into the exact following vibes:
-        {json.dumps(chunk)}
+        {json.dumps(chunk, indent=2)}
 
         CRITICAL RULES:
         1. DO NOT REPEAT TRACKS. Every single track across the entire JSON must be 100% unique.
@@ -149,46 +150,48 @@ def get_all_tracks_from_gemini(search_field, category, categories_list, max_retr
         {composer_instruction}
 
         For EACH category, provide exactly 40 tracks.
+
+        Output ONLY a single valid JSON object. Do not use markdown blocks.
+        The keys of the JSON object must be the exact category strings provided above.
+        The value for each key must be an array of objects.
+        Each object must have keys "TrackArtist", "TrackTitle", and "TrackComposer".
         """
 
         for attempt in range(max_retries):
             try:
                 # Use the new config structure for guaranteed JSON
                 response = client.models.generate_content(
-                    model='gemini-2.0-flash', 
+                    model=active_model, 
                     contents=prompt,
                     config=types.GenerateContentConfig(
                         response_mime_type="application/json"
                     )
                 )
 
-                # The SDK's JSON mode is much cleaner now
-                parsed_json = json.loads(response.text)
+                # The new SDK provides the text directly. If it includes markdown, we clean it.
+                raw_text = response.text.strip()
+                if raw_text.startswith("```"):
+                    raw_text = re.sub(r'^```json\s*|```$', '', raw_text, flags=re.MULTILINE).strip()
 
-                for cat in chunk:
-                    tracks = parsed_json.get(cat, [])
+                parsed_json = json.loads(raw_text)
+
+                for cat, tracks in parsed_json.items():
                     if isinstance(tracks, list):
                         print(f"  [+] {len(tracks)} tracks returned for: '{cat}'")
                         for t in tracks:
-                            # Standardize keys just in case Gemini uses slightly different casing
-                            artist = t.get("TrackArtist") or t.get("artist") or ""
-                            title = t.get("TrackTitle") or t.get("title") or ""
-                            composer = t.get("TrackComposer") or t.get("composer") or ""
-                            
-                            if artist and title:
-                                all_flat_tracks.append({
-                                    "TrackArtist": artist,
-                                    "TrackTitle": title,
-                                    "TrackComposer": composer,
-                                    "Category": cat
-                                })
-                break # Success, move to next chunk
+                            if "TrackArtist" in t and "TrackTitle" in t:
+                                t['Category'] = cat
+                                if "TrackComposer" not in t: t["TrackComposer"] = ""
+                                all_flat_tracks.append(t)
+                break 
 
             except Exception as e:
-                print(f"  [!] JSON format error on attempt {attempt + 1}: {e}")
-                time.sleep(5)
+                print(f"  [!] Attempt {attempt + 1} failed for {search_field}: {e}")
+                if "404" in str(e):
+                    print("  [!] Critical: Model not found. Check active_model string.")
+                time.sleep(10)
         
-        time.sleep(5)
+        time.sleep(10)
 
     return all_flat_tracks
 
