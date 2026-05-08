@@ -4,13 +4,9 @@
     "Focus": "artist",
     "RefreshRate": 28,
     "AppendMode": "append",
-<<<<<<< HEAD
     "Timestamp": "2026-05-08T16:51:55Z",
-    "TotalTracks": 468,
-=======
     "Timestamp": "2026-05-08T13:45:30Z",
     "TotalTracks": 497,
->>>>>>> 068608f4c5d37a6fbe83b7e4f2c0557c046b1039
     "Tracks": [
         {
             "TrackArtist": "Enya",
@@ -20,12 +16,13 @@
             "Category": "The absolute biggest mainstream pop/radio hits of this genre"
         },
         {
-<<<<<<< HEAD
             "TrackArtist": "Vangelis",
             "TrackTitle": "Chariots of Fire -Chariots of Fire",
             "TrackComposer": "Vangelis",
             "MBID": "b08bd1a3-0749-4c78-bcd5-666a5c919015",
-=======
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+        },
+        {           
             "TrackArtist": "Enya",
             "TrackTitle": "Caribbean Blue",
             "TrackComposer": "Enya, Roma Ryan",
@@ -44,7 +41,6 @@
             "TrackTitle": "A Day Without Rain",
             "TrackComposer": "Enya, Roma Ryan",
             "MBID": "2f9de9a3-02ef-47e2-a54d-e958313f11ea",
->>>>>>> 068608f4c5d37a6fbe83b7e4f2c0557c046b1039
             "Category": "The absolute biggest mainstream pop/radio hits of this genre"
         },
         {
@@ -55,7 +51,6 @@
             "Category": "The absolute biggest mainstream pop/radio hits of this genre"
         },
         {
-<<<<<<< HEAD
             "TrackArtist": "Kitaro",
             "TrackTitle": "Matsuri",
             "TrackComposer": "Kitaro",
@@ -112,8 +107,6 @@
             "Category": "The absolute biggest mainstream pop/radio hits of this genre"
         },
         {
-=======
->>>>>>> 068608f4c5d37a6fbe83b7e4f2c0557c046b1039
             "TrackArtist": "Yanni",
             "TrackTitle": "Nightingale",
             "TrackComposer": "Yanni",
@@ -121,8 +114,6 @@
             "Category": "The absolute biggest mainstream pop/radio hits of this genre"
         },
         {
-<<<<<<< HEAD
-=======
             "TrackArtist": "Yanni",
             "TrackTitle": "One Man's Dream",
             "TrackComposer": "Yanni",
@@ -144,7 +135,6 @@
             "Category": "The absolute biggest mainstream pop/radio hits of this genre"
         },
         {
->>>>>>> 068608f4c5d37a6fbe83b7e4f2c0557c046b1039
             "TrackArtist": "Kitaro",
             "TrackTitle": "Silk Road",
             "TrackComposer": "Kitaro",
@@ -152,7 +142,6 @@
             "Category": "The absolute biggest mainstream pop/radio hits of this genre"
         },
         {
-<<<<<<< HEAD
             "TrackArtist": "Deep Forest",
             "TrackTitle": "Marta\u2019s Song",
             "TrackComposer": "Eric Mouquet, Michel Sanchez",
@@ -206,17 +195,17 @@
             "TrackTitle": "Only Time",
             "TrackComposer": "Enya, Roma Ryan",
             "MBID": "c13026e5-9e54-45f9-955f-c80195e2e178",
-=======
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre"            
+        },
+        {
             "TrackArtist": "Vangelis",
             "TrackTitle": "Chariots of Fire -Chariots of Fire",
             "TrackComposer": "Vangelis",
             "MBID": "b08bd1a3-0749-4c78-bcd5-666a5c919015",
->>>>>>> 068608f4c5d37a6fbe83b7e4f2c0557c046b1039
             "Category": "The absolute biggest mainstream pop/radio hits of this genre"
         },
         {
             "TrackArtist": "Vangelis",
-<<<<<<< HEAD
             "TrackTitle": "Alpha",
             "TrackComposer": "Vangelis",
             "MBID": "3fddc3d0-a250-4f75-87ff-5698f7489c39",
@@ -227,20 +216,24 @@
             "TrackTitle": "One Man's Dream",
             "TrackComposer": "Yanni",
             "MBID": "4a4c2055-bfe3-4b16-b84f-f3940b22110b",
-=======
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+        },
+        {
+            "TrackArtist": "Vangelis",            
             "TrackTitle": "Conquest of Paradise",
             "TrackComposer": "Vangelis",
             "MBID": "9dfaa136-d468-473e-b6fd-16596ded69f8",
->>>>>>> 068608f4c5d37a6fbe83b7e4f2c0557c046b1039
             "Category": "The absolute biggest mainstream pop/radio hits of this genre"
         },
         {
             "TrackArtist": "Deep Forest",
-<<<<<<< HEAD
             "TrackTitle": "Bohemian Ballet",
             "TrackComposer": "Eric Mouquet, Michel Sanchez",
             "MBID": "340684c9-9ab9-47cc-9706-ea392f9536f9",
-=======
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+        },
+        {
+            "TrackArtist": "Deep Forest",            
             "TrackTitle": "Sweet Lullaby",
             "TrackComposer": "Eric Mouquet, Michel Sanchez",
             "MBID": "48ab1e13-8947-43c2-8a6a-35a0bff423c5",
@@ -251,12 +244,10 @@
             "TrackTitle": "Marta's Song",
             "TrackComposer": "Eric Mouquet, Michel Sanchez",
             "MBID": "d30a3c51-ebbb-47ce-9e11-0c0d5ce6cd0e",
->>>>>>> 068608f4c5d37a6fbe83b7e4f2c0557c046b1039
             "Category": "The absolute biggest mainstream pop/radio hits of this genre"
         },
         {
             "TrackArtist": "Enigma",
-<<<<<<< HEAD
             "TrackTitle": "Gravity of Love",
             "TrackComposer": "Michael Cretu",
             "MBID": "4e423ddf-731c-43bf-a433-6fd66497d2f6",
@@ -267,7 +258,10 @@
             "TrackTitle": "Autumn Moon",
             "TrackComposer": "George Winston",
             "MBID": "8630e83f-3acb-485e-af3a-740c42d3d957",
-=======
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre"            
+        },
+        {
+            "TrackArtist": "Enigma",
             "TrackTitle": "Sadeness Part I",
             "TrackComposer": "Michael Cretu, Frank Peterson, David Fairstein",
             "MBID": "d891f19a-4b6b-4463-9ac9-ac4ff22e102e",
@@ -278,14 +272,12 @@
             "TrackTitle": "Return to Innocence",
             "TrackComposer": "Michael Cretu",
             "MBID": "50669d70-95ea-43f9-90cb-bece66ea43de",
->>>>>>> 068608f4c5d37a6fbe83b7e4f2c0557c046b1039
             "Category": "The absolute biggest mainstream pop/radio hits of this genre"
         },
         {
             "TrackArtist": "Andreas Vollenweider",
             "TrackTitle": "Pace verde",
             "TrackComposer": "Andreas Vollenweider",
-<<<<<<< HEAD
             "MBID": "feac0111-36d0-46f3-9ad2-019f1d421f72",
             "Category": "The absolute biggest mainstream pop/radio hits of this genre"
         },
@@ -364,8 +356,6 @@
             "TrackTitle": "Clair de Lune",
             "TrackComposer": "Claude Debussy, Isao Tomita (arr.)",
             "MBID": "a84b4168-255a-4b83-8c18-7c53f7a033df",
-=======
-            "MBID": "1fde0efe-e1d3-49e9-8e94-a73a99d90096",
             "Category": "The absolute biggest mainstream pop/radio hits of this genre"
         },
         {
@@ -415,7 +405,6 @@
             "TrackTitle": "Ameno",
             "TrackComposer": "Eric Levi",
             "MBID": "ab3812ea-dfbc-43b1-a058-49e9dfd79058",
->>>>>>> 068608f4c5d37a6fbe83b7e4f2c0557c046b1039
             "Category": "The absolute biggest mainstream pop/radio hits of this genre"
         },
         {
@@ -426,7 +415,6 @@
             "Category": "The absolute biggest mainstream pop/radio hits of this genre"
         },
         {
-<<<<<<< HEAD
             "TrackArtist": "Moby",
             "TrackTitle": "Porcelain",
             "TrackComposer": "Moby",
@@ -670,7 +658,8 @@
             "TrackComposer": "Liz Story",
             "MBID": "4f1b5a39-48df-46a4-887f-d29ec3f574ed",
             "Category": "Iconic One-Hit Wonders and viral sensations"
-=======
+        },
+        {
             "TrackArtist": "Clannad",
             "TrackTitle": "Theme from Harry\u2019s Game",
             "TrackComposer": "P\u00f3l Brennan, Ciar\u00e1n Brennan",
@@ -718,17 +707,13 @@
             "TrackComposer": "Kevin Kern",
             "MBID": "79f1f5dd-35a2-43c9-b7ca-8c48373ab534",
             "Category": "The absolute biggest mainstream pop/radio hits of this genre"
->>>>>>> 068608f4c5d37a6fbe83b7e4f2c0557c046b1039
         },
         {
             "TrackArtist": "David Lanz",
             "TrackTitle": "Cristofori\u2019s Dream",
             "TrackComposer": "David Lanz",
             "MBID": "2922ec75-ed7f-4d4c-b042-005e693ba71b",
-<<<<<<< HEAD
             "Category": "Iconic One-Hit Wonders and viral sensations"
-=======
-            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
         },
         {
             "TrackArtist": "Shadowfax",
@@ -757,15 +742,12 @@
             "TrackComposer": "Edgar Froese, Chris Franke, Johannes Schmoelling",
             "MBID": "9c677d37-cffa-4fb5-8f4f-748917a230ae",
             "Category": "The absolute biggest mainstream pop/radio hits of this genre"
->>>>>>> 068608f4c5d37a6fbe83b7e4f2c0557c046b1039
         },
         {
             "TrackArtist": "Gypsy Cab Co.",
             "TrackTitle": "Deep Breakfast",
             "TrackComposer": "Ray Lynch",
             "MBID": "f6a0e483-1524-486f-b46c-b4fa56ca2816",
-<<<<<<< HEAD
-=======
             "Category": "The absolute biggest mainstream pop/radio hits of this genre"
         },
         {
@@ -885,14 +867,12 @@
             "TrackTitle": "Caravansary",
             "TrackComposer": "Kitaro",
             "MBID": "48e74e74-95e1-4e03-af43-61d3a41f12d3",
->>>>>>> 068608f4c5d37a6fbe83b7e4f2c0557c046b1039
             "Category": "Iconic One-Hit Wonders and viral sensations"
         },
         {
             "TrackArtist": "Peter Kater",
             "TrackTitle": "Ascent",
             "TrackComposer": "Peter Kater",
-<<<<<<< HEAD
             "MBID": "56988d5f-7976-40b5-bba7-1a42280ffda7",
             "Category": "Iconic One-Hit Wonders and viral sensations"
         },
@@ -908,11 +888,6 @@
             "TrackTitle": "Chakra Balancing",
             "TrackComposer": "Deuter",
             "MBID": "f38d1a6a-9b29-4193-8848-b023909dbfa4",
-            "Category": "Iconic One-Hit Wonders and viral sensations"
-        },
-        {
-=======
-            "MBID": "fbf505e3-d4c9-4a42-bb09-e278c32bf2b5",
             "Category": "Iconic One-Hit Wonders and viral sensations"
         },
         {
@@ -1105,7 +1080,6 @@
             "Category": "Underground, deep cuts, and cult club classics"
         },
         {
->>>>>>> 068608f4c5d37a6fbe83b7e4f2c0557c046b1039
             "TrackArtist": "Armand Hammer & The Alchemist",
             "TrackTitle": "Laraaji",
             "TrackComposer": "Laraaji",
@@ -1113,7 +1087,6 @@
             "Category": "Underground, deep cuts, and cult club classics"
         },
         {
-<<<<<<< HEAD
             "TrackArtist": "Rothko",
             "TrackTitle": "Harold Budd",
             "TrackComposer": "Harold Budd, Brian Eno",
@@ -1125,17 +1098,17 @@
             "TrackTitle": "Electronic Tranceference",
             "TrackComposer": "Robert Rich",
             "MBID": "6d634f2c-2ceb-4c62-8da0-8ef3929a01b7",
-=======
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
             "TrackArtist": "Harold Budd",
             "TrackTitle": "Bismillahi 'Rrahmani 'Rrahim",
             "TrackComposer": "Harold Budd",
             "MBID": "3ddc1975-8016-4908-b502-29df2d6b01af",
->>>>>>> 068608f4c5d37a6fbe83b7e4f2c0557c046b1039
             "Category": "Underground, deep cuts, and cult club classics"
         },
         {
             "TrackArtist": "Steve Roach",
-<<<<<<< HEAD
             "TrackTitle": "Structures from Silence",
             "TrackComposer": "Steve Roach",
             "MBID": "86f8b75e-d028-4d99-9876-eaf9eb0862b9",
@@ -1167,7 +1140,10 @@
             "TrackTitle": "Hosianna\u2010Mantra: Hosianna\u2010Mantra",
             "TrackComposer": "Florian Fricke",
             "MBID": "3cbafb27-7389-4eb4-a904-e9f3a349da54",
-=======
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Popol Vuh",            
             "TrackTitle": "The Magnificent Void",
             "TrackComposer": "Steve Roach",
             "MBID": "28cca015-8bb9-4690-adc0-49d6b82f8e88",
@@ -1206,7 +1182,6 @@
             "TrackTitle": "Alpha",
             "TrackComposer": "Vangelis",
             "MBID": "79382174-cdd6-48f5-8b62-dad94d86b2a0",
->>>>>>> 068608f4c5d37a6fbe83b7e4f2c0557c046b1039
             "Category": "Underground, deep cuts, and cult club classics"
         },
         {
@@ -1219,7 +1194,6 @@
         {
             "TrackArtist": "Tangerine Dream",
             "TrackTitle": "Phaedra",
-<<<<<<< HEAD
             "TrackComposer": "Tangerine Dream",
             "MBID": "44644001-665f-4bd5-8e9b-a41ae8f1a0cc",
             "Category": "Underground, deep cuts, and cult club classics"
@@ -1229,9 +1203,6 @@
             "TrackTitle": "Little Fluffy Clouds",
             "TrackComposer": "Alex Paterson, Jimmy Cauty",
             "MBID": "f420f03f-7349-4041-9d6f-8f5f654ece4d",
-=======
-            "TrackComposer": "Edgar Froese, Chris Franke, Peter Baumann",
-            "MBID": "4f44066b-5540-4787-9a91-6b25da96df12",
             "Category": "Underground, deep cuts, and cult club classics"
         },
         {
@@ -1372,12 +1343,10 @@
             "TrackTitle": "The Inner Eye",
             "TrackComposer": "Stefano Musso",
             "MBID": "88ab918f-9cf5-442e-9462-2797e9182339",
->>>>>>> 068608f4c5d37a6fbe83b7e4f2c0557c046b1039
             "Category": "Underground, deep cuts, and cult club classics"
         },
         {
             "TrackArtist": "Biosphere",
-<<<<<<< HEAD
             "TrackTitle": "Microgravity",
             "TrackComposer": "Geir Jenssen",
             "MBID": "74f47d15-1da3-4538-a68d-67c1bec72605",
@@ -1550,7 +1519,9 @@
             "TrackComposer": "Adam Wiltzie, Brian McBride",
             "MBID": "d8801be9-f49f-4faf-9bb0-1d5a0e7c0fb1",
             "Category": "Underground, deep cuts, and cult club classics"
-=======
+        },
+        {
+            "TrackArtist": "Soul Jazz Collective",
             "TrackTitle": "Shenzhou",
             "TrackComposer": "Geir Jenssen",
             "MBID": "cb85cb70-8098-4010-8c9c-d1d95c0de9fd",
@@ -1618,14 +1589,12 @@
             "TrackComposer": "Mike Oldfield",
             "MBID": "e86d8bb9-0f60-4c58-94c1-1e3a784c863a",
             "Category": "Essential 12-inch remixes and extended DJ versions"
->>>>>>> 068608f4c5d37a6fbe83b7e4f2c0557c046b1039
         },
         {
             "TrackArtist": "Brian Eno",
             "TrackTitle": "Discreet Music",
             "TrackComposer": "Brian Eno",
             "MBID": "96650262-8a7a-41fd-bc08-82deef87a490",
-<<<<<<< HEAD
             "Category": "Underground, deep cuts, and cult club classics"
         },
         {
@@ -1675,7 +1644,6 @@
             "TrackTitle": "Rubycon, Part One",
             "TrackComposer": "Tangerine Dream",
             "MBID": "7a178921-0844-424e-9459-82fa492908c0",
-=======
             "Category": "Essential 12-inch remixes and extended DJ versions"
         },
         {
@@ -1753,7 +1721,6 @@
             "TrackTitle": "Echoes in Rain",
             "TrackComposer": "Enya, Roma Ryan",
             "MBID": "5d3e2e9d-0602-487c-ac9d-8748eb48d1ce",
->>>>>>> 068608f4c5d37a6fbe83b7e4f2c0557c046b1039
             "Category": "Essential 12-inch remixes and extended DJ versions"
         },
         {
@@ -1765,7 +1732,6 @@
         },
         {
             "TrackArtist": "Enigma",
-<<<<<<< HEAD
             "TrackTitle": "Mea Culpa (Part II)",
             "TrackComposer": "Michael Cretu, David Fairstein",
             "MBID": "307bf86a-95f4-4e63-be39-b574a6332b3e",
@@ -1832,7 +1798,10 @@
             "TrackTitle": "Suzanne Ciani",
             "TrackComposer": "Suzanne Ciani",
             "MBID": "71098f69-3ccf-434e-a599-bb5131505c9e",
-=======
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "SSVU",
             "TrackTitle": "Way to Eternity",
             "TrackComposer": "Michael Cretu",
             "MBID": "466d3f2e-c92a-4380-97ad-798154cb5f7e",
@@ -1843,12 +1812,10 @@
             "TrackTitle": "On the Threshold of Liberty",
             "TrackComposer": "Mark Isham",
             "MBID": "19115777-7772-434e-bbfd-02e3f1eb5266",
->>>>>>> 068608f4c5d37a6fbe83b7e4f2c0557c046b1039
             "Category": "Essential 12-inch remixes and extended DJ versions"
         },
         {
             "TrackArtist": "Andreas Vollenweider",
-<<<<<<< HEAD
             "TrackTitle": "Down to the Moon",
             "TrackComposer": "Andreas Vollenweider",
             "MBID": "2aef4410-dd60-4bde-a1db-1f073d8490b9",
@@ -2069,7 +2036,10 @@
             "TrackTitle": "Ethnicolor",
             "TrackComposer": "Jean-Michel Jarre",
             "MBID": "c70ac840-1de6-4f93-a0df-ab4c8a7cd835",
-=======
+            "Category": "Hidden gems, B-sides, and influential album tracks"            
+        },
+        {
+            "TrackArtist": "Andreas Vollenweider",
             "TrackTitle": "Welcome by Andreas Vollenweider",
             "TrackComposer": "Andreas Vollenweider",
             "MBID": "02023296-0a28-4135-821f-28cd506125dd",
@@ -2248,12 +2218,10 @@
             "TrackTitle": "January Stars",
             "TrackComposer": "George Winston",
             "MBID": "07fe80a1-7048-4e6d-a495-93c6082a363c",
->>>>>>> 068608f4c5d37a6fbe83b7e4f2c0557c046b1039
             "Category": "Hidden gems, B-sides, and influential album tracks"
         },
         {
             "TrackArtist": "Mike Oldfield",
-<<<<<<< HEAD
             "TrackTitle": "QE2",
             "TrackComposer": "Mike Oldfield",
             "MBID": "a3ed6455-acd6-45fa-9cff-98b277965d45",
@@ -2271,7 +2239,10 @@
             "TrackTitle": "Distant Whispers",
             "TrackComposer": "Shadowfax",
             "MBID": "fc7cccbe-bd75-48af-8bf9-c89cf0243552",
-=======
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Mike Oldfield",
             "TrackTitle": "Incantations, Part One",
             "TrackComposer": "Mike Oldfield",
             "MBID": "b28b4b6c-f416-44ef-9eaa-9c48e8cdec2b",
@@ -2282,12 +2253,10 @@
             "TrackTitle": "\u00c9quinoxe, Part 1",
             "TrackComposer": "Jean-Michel Jarre",
             "MBID": "ee7ad55e-8200-4411-b72f-1a963b036a2f",
->>>>>>> 068608f4c5d37a6fbe83b7e4f2c0557c046b1039
             "Category": "Hidden gems, B-sides, and influential album tracks"
         },
         {
             "TrackArtist": "Era",
-<<<<<<< HEAD
             "TrackTitle": "Avemano",
             "TrackComposer": "Eric L\u00e9vi",
             "MBID": "19156411-291c-4bd4-9290-28b407d03ade",
@@ -2319,18 +2288,19 @@
             "TrackTitle": "The Sea Named Solaris",
             "TrackComposer": "Isao Tomita",
             "MBID": "2d879b0b-a5ca-4e8f-b791-1e645d8b6f57",
-=======
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Eric Levi",            
             "TrackTitle": "Divano",
             "TrackComposer": "Eric Levi",
             "MBID": "a4a38d7f-ea8b-4c5f-aba7-2d0bbedce7b7",
->>>>>>> 068608f4c5d37a6fbe83b7e4f2c0557c046b1039
             "Category": "Hidden gems, B-sides, and influential album tracks"
         },
         {
             "TrackArtist": "Adiemus",
             "TrackTitle": "Kayama",
             "TrackComposer": "Karl Jenkins",
-<<<<<<< HEAD
             "MBID": "fa88595c-72a8-4c52-a5df-4074ac694bb4",
             "Category": "Hidden gems, B-sides, and influential album tracks"
         },
@@ -2458,8 +2428,6 @@
             "TrackTitle": "Deep Blue Day",
             "TrackComposer": "Brian Eno",
             "MBID": "b9b11aea-5ccd-4df1-947b-05dad6454bdb",
-=======
-            "MBID": "c66d127b-ef91-4cce-8bb9-ddb425c3d19d",
             "Category": "Hidden gems, B-sides, and influential album tracks"
         },
         {
@@ -2495,12 +2463,10 @@
             "TrackTitle": "Amnesia (Ryan Farish remix)",
             "TrackComposer": "Ryan Farish",
             "MBID": "8db3f5f4-94a8-42a2-b42a-d3a624384bf7",
->>>>>>> 068608f4c5d37a6fbe83b7e4f2c0557c046b1039
             "Category": "Hidden gems, B-sides, and influential album tracks"
         },
         {
             "TrackArtist": "Kevin Kern",
-<<<<<<< HEAD
             "TrackTitle": "Sundial Dreams",
             "TrackComposer": "Kevin Kern",
             "MBID": "39f3e44c-3185-48ad-988b-074c66145304",
@@ -2518,7 +2484,10 @@
             "TrackTitle": "Solid Colors",
             "TrackComposer": "Liz Story",
             "MBID": "7607e078-5294-4da6-9da8-6f9294c46984",
-=======
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Kevin Kern",
             "TrackTitle": "The Winding Path",
             "TrackComposer": "Kevin Kern",
             "MBID": "47b1f51b-fe26-4b00-9837-b0082f01849f",
@@ -2592,12 +2561,10 @@
             "TrackTitle": "The Sun in the Stream",
             "TrackComposer": "Enya, Roma Ryan",
             "MBID": "aa9bc1bd-0376-4613-a174-e6d4c64980ac",
->>>>>>> 068608f4c5d37a6fbe83b7e4f2c0557c046b1039
             "Category": "Hidden gems, B-sides, and influential album tracks"
         },
         {
             "TrackArtist": "Vangelis",
-<<<<<<< HEAD
             "TrackTitle": "Message",
             "TrackComposer": "Vangelis",
             "MBID": "da5fc16f-c3f7-4753-89c4-b085e22cf0b3",
@@ -2609,7 +2576,9 @@
             "TrackComposer": "Yanni",
             "MBID": "e5e03a83-0ac5-4ff8-bc0f-d154cad34b92",
             "Category": "High-energy peak-time floor fillers"
-=======
+        },
+        {
+            "TrackArtistComposer": "Vangelis",
             "TrackTitle": "Pulstar",
             "TrackComposer": "Vangelis",
             "MBID": "b3a8cff2-b6a1-4f7d-a502-9424cf52a17a",
@@ -2656,15 +2625,12 @@
             "TrackComposer": "Mike Oldfield",
             "MBID": "521d7174-189e-4652-8252-d9a44d6712af",
             "Category": "Hidden gems, B-sides, and influential album tracks"
->>>>>>> 068608f4c5d37a6fbe83b7e4f2c0557c046b1039
         },
         {
             "TrackArtist": "Jean\u2010Michel Jarre",
             "TrackTitle": "Magnetic Fields Part 2",
             "TrackComposer": "Jean-Michel Jarre",
             "MBID": "dfb2b98c-0e9f-4e3f-bc16-c811f3317a46",
-<<<<<<< HEAD
-=======
             "Category": "Hidden gems, B-sides, and influential album tracks"
         },
         {
@@ -2693,7 +2659,6 @@
             "TrackTitle": "Antarctica",
             "TrackComposer": "Vangelis",
             "MBID": "2de17b77-c6f1-4153-8b15-09a7464e398b",
->>>>>>> 068608f4c5d37a6fbe83b7e4f2c0557c046b1039
             "Category": "High-energy peak-time floor fillers"
         },
         {
@@ -2705,11 +2670,13 @@
         },
         {
             "TrackArtist": "Enigma",
-<<<<<<< HEAD
             "TrackTitle": "Boum Boum",
             "TrackComposer": "Michael Cretu",
             "MBID": "c0be3341-764d-4e64-8346-b54968927c69",
-=======
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Michael Cretu",
             "TrackTitle": "T.N.T. For the Brain",
             "TrackComposer": "Michael Cretu",
             "MBID": "fc78a65d-3870-48be-a93c-ae1cd5d3ddb9",
@@ -2720,14 +2687,12 @@
             "TrackTitle": "Down to the Moon",
             "TrackComposer": "Andreas Vollenweider",
             "MBID": "2aef4410-dd60-4bde-a1db-1f073d8490b9",
->>>>>>> 068608f4c5d37a6fbe83b7e4f2c0557c046b1039
             "Category": "High-energy peak-time floor fillers"
         },
         {
             "TrackArtist": "Mike Oldfield",
             "TrackTitle": "Mike Oldfield\u2019s Single",
             "TrackComposer": "Mike Oldfield",
-<<<<<<< HEAD
             "MBID": "5bde1e16-0b12-4224-a197-5e91d34cb0c4",
             "Category": "High-energy peak-time floor fillers"
         },
@@ -2792,16 +2757,12 @@
             "TrackTitle": "Felitsa",
             "TrackComposer": "Yanni",
             "MBID": "18a2a93b-d42d-4295-bf13-fb56aabb336e",
-=======
-            "MBID": "f7477fab-40b5-4dba-b3d4-2772785a34d7",
->>>>>>> 068608f4c5d37a6fbe83b7e4f2c0557c046b1039
             "Category": "High-energy peak-time floor fillers"
         },
         {
             "TrackArtist": "Jean Michel Jarre",
             "TrackTitle": "Zoolookologie",
             "TrackComposer": "Jean-Michel Jarre",
-<<<<<<< HEAD
             "MBID": "792b9615-caf2-4ebc-a1bc-4f4ac4d0bb88",
             "Category": "High-energy peak-time floor fillers"
         },
@@ -2838,8 +2799,6 @@
             "TrackTitle": "Spiritdance",
             "TrackComposer": "Shadowfax",
             "MBID": "2e2f0d26-c667-4a96-9b24-94a58ffbba82",
-=======
-            "MBID": "7618e1bb-0c51-49ac-8456-4908b623eedf",
             "Category": "High-energy peak-time floor fillers"
         },
         {
@@ -2966,12 +2925,10 @@
             "TrackTitle": "Mindphaser",
             "TrackComposer": "Klaus Schulze",
             "MBID": "94fb5060-4d3c-403d-8e3f-5c320457759f",
->>>>>>> 068608f4c5d37a6fbe83b7e4f2c0557c046b1039
             "Category": "High-energy peak-time floor fillers"
         },
         {
             "TrackArtist": "Tangerine Dream",
-<<<<<<< HEAD
             "TrackTitle": "Bent Cold Sidewalk",
             "TrackComposer": "Tangerine Dream",
             "MBID": "8e96082c-582f-429a-83eb-e4a64267a3d5",
@@ -3087,7 +3044,10 @@
             "TrackTitle": "Promises (Nils Frahm rework)",
             "TrackComposer": "Nils Frahm",
             "MBID": "ec74e6ed-9ab0-417d-8e14-310f90ab63ba",
-=======
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Edgar Froese, Chris Franke, Peter Baumann",
             "TrackTitle": "Stratosfear",
             "TrackComposer": "Edgar Froese, Chris Franke, Peter Baumann",
             "MBID": "84489efb-eeaf-4752-a7f5-32ffa215a3cb",
@@ -3161,12 +3121,10 @@
             "TrackTitle": "Soul Embrace",
             "TrackComposer": "Peter Kater",
             "MBID": "a6ac6ec0-3d87-4c84-b257-03220882732f",
->>>>>>> 068608f4c5d37a6fbe83b7e4f2c0557c046b1039
             "Category": "High-energy peak-time floor fillers"
         },
         {
             "TrackArtist": "Enya",
-<<<<<<< HEAD
             "TrackTitle": "Shepherd Moons",
             "TrackComposer": "Enya, Roma Ryan",
             "MBID": "96413bcd-7d5d-4106-aa5d-86ed4e7645ed",
@@ -3177,16 +3135,17 @@
             "TrackTitle": "Main Titles (Blade Runner)",
             "TrackComposer": "Vangelis",
             "MBID": "16ce0d56-eb3e-4def-a17c-b5950d06ed54",
-=======
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Enya",
             "TrackTitle": "Watermark",
             "TrackComposer": "Enya, Roma Ryan",
             "MBID": "6e686d11-0191-4021-9bb7-a46535709ca4",
->>>>>>> 068608f4c5d37a6fbe83b7e4f2c0557c046b1039
             "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
         },
         {
             "TrackArtist": "Yanni",
-<<<<<<< HEAD
             "TrackTitle": "Rainmaker",
             "TrackComposer": "Yanni",
             "MBID": "d07a53d5-d5fa-4ca1-88cb-ee06b5b3b960",
@@ -3197,7 +3156,10 @@
             "TrackTitle": "Kitaro",
             "TrackComposer": "Kitaro",
             "MBID": "8fef05eb-fd84-4acc-b04d-a025f3e2fa43",
-=======
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Yanni",
             "TrackTitle": "Reflections of Passion",
             "TrackComposer": "Yanni",
             "MBID": "dcdc75ab-6298-45dd-bdc4-7b60ad9a29a4",
@@ -3215,25 +3177,24 @@
             "TrackTitle": "La petite fille de la mer",
             "TrackComposer": "Vangelis",
             "MBID": "20ee9a6e-fb49-4251-b88e-dd4e96a093c8",
->>>>>>> 068608f4c5d37a6fbe83b7e4f2c0557c046b1039
             "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
         },
         {
             "TrackArtist": "Deep Forest",
-<<<<<<< HEAD
             "TrackTitle": "Soul Elevator",
             "TrackComposer": "Eric Mouquet, Michel Sanchez",
             "MBID": "90f8393f-ee2e-4fee-a71d-feb880455621",
-=======
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Eric Mouquet, Michel Sanchez",
             "TrackTitle": "Lament",
             "TrackComposer": "Eric Mouquet, Michel Sanchez",
             "MBID": "88147057-4638-497f-821b-62bccbf3411e",
->>>>>>> 068608f4c5d37a6fbe83b7e4f2c0557c046b1039
             "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
         },
         {
             "TrackArtist": "Enigma",
-<<<<<<< HEAD
             "TrackTitle": "Beyond the Invisible",
             "TrackComposer": "Michael Cretu",
             "MBID": "51a4d8ed-5340-49c8-bd74-11d65c64d842",
@@ -3244,11 +3205,13 @@
             "TrackTitle": "Joy",
             "TrackComposer": "George Winston",
             "MBID": "5a108f57-1c9e-4be0-935a-0207fd2a797a",
-=======
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Michael Cretu",
             "TrackTitle": "The Screen Behind the Mirror",
             "TrackComposer": "Michael Cretu",
             "MBID": "a1f74dea-adf4-4b75-8c48-3dc5f9bc715e",
->>>>>>> 068608f4c5d37a6fbe83b7e4f2c0557c046b1039
             "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
         },
         {
@@ -3259,7 +3222,6 @@
             "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
         },
         {
-<<<<<<< HEAD
             "TrackArtist": "Jean Michel Jarre",
             "TrackTitle": "Magnetic Fields, Part 1",
             "TrackComposer": "Jean-Michel Jarre",
@@ -3285,7 +3247,9 @@
             "TrackTitle": "What Goes Around",
             "TrackComposer": "Shadowfax",
             "MBID": "66bff724-0a4b-44b9-b7c1-4c899f5fa0cd",
-=======
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
             "TrackArtist": "George Winston",
             "TrackTitle": "Autumn Moon",
             "TrackComposer": "George Winston",
@@ -3304,12 +3268,10 @@
             "TrackTitle": "Fourth Rendez-Vous (Jean Michel Jarre)",
             "TrackComposer": "Jean-Michel Jarre",
             "MBID": "971f7b62-002a-4191-9ab5-48791afe22fa",
->>>>>>> 068608f4c5d37a6fbe83b7e4f2c0557c046b1039
             "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
         },
         {
             "TrackArtist": "Era",
-<<<<<<< HEAD
             "TrackTitle": "Sentence",
             "TrackComposer": "Eric L\u00e9vi",
             "MBID": "6c828854-6dbe-4c83-9c5a-3ff545f80478",
@@ -3320,7 +3282,10 @@
             "TrackTitle": "Truly (Signum remix)",
             "TrackComposer": "Bill Leeb, Rhys Fulber",
             "MBID": "d69801cb-ef75-4378-876d-abbcc7fb82a7",
-=======
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Eric Levi",
             "TrackTitle": "Looking For Something",
             "TrackComposer": "Eric Levi",
             "MBID": "fb8fb504-ed43-4605-ac77-885a12c92478",
@@ -3331,16 +3296,17 @@
             "TrackTitle": "Hymn",
             "TrackComposer": "Karl Jenkins",
             "MBID": "225e00c7-eb8d-4db8-9e57-de217995693e",
->>>>>>> 068608f4c5d37a6fbe83b7e4f2c0557c046b1039
             "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
         },
         {
             "TrackArtist": "Clannad",
-<<<<<<< HEAD
             "TrackTitle": "Caislean Oir",
             "TrackComposer": "P\u00f3l Brennan, Ciar\u00e1n Brennan",
             "MBID": "e6d6789f-2be1-4a07-aa85-f81cd4d99f1c",
-=======
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Clannad",
             "TrackTitle": "I Will Find You",
             "TrackComposer": "P\u00f3l Brennan, Ciar\u00e1n Brennan",
             "MBID": "d57f2ee3-edbe-47e4-abee-ce4ffd691232",
@@ -3351,22 +3317,16 @@
             "TrackTitle": "Angels Calling Me",
             "TrackComposer": "Denean",
             "MBID": "21005c7e-6fa6-4506-ac70-a5a2977ac800",
->>>>>>> 068608f4c5d37a6fbe83b7e4f2c0557c046b1039
             "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
         },
         {
             "TrackArtist": "Gregorian",
             "TrackTitle": "Still I\u2019m Sad",
-<<<<<<< HEAD
-            "TrackComposer": "Frank Peterson",
-=======
             "TrackComposer": "R. Louis, V. Loehr (arranged by Gregorian)",
->>>>>>> 068608f4c5d37a6fbe83b7e4f2c0557c046b1039
             "MBID": "c2f37f21-00c7-40e9-8148-91695b4b132d",
             "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
         },
         {
-<<<<<<< HEAD
             "TrackArtist": "Isao Tomita",
             "TrackTitle": "Bol\u00e9ro",
             "TrackComposer": "Maurice Ravel, Isao Tomita (arr.)",
@@ -3392,17 +3352,17 @@
             "TrackTitle": "Indra's Heaven",
             "TrackComposer": "Ulrich Shanti",
             "MBID": "b3337458-c21a-4cec-a4c6-89a1207fbdeb",
-=======
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
             "TrackArtist": "Sacred Spirit",
             "TrackTitle": "Ly-O-Lay Ale Loya",
             "TrackComposer": "Traditional (arranged by Sacred Spirit)",
             "MBID": "bc94544b-be06-42f9-a50a-7ac79a2df4e4",
->>>>>>> 068608f4c5d37a6fbe83b7e4f2c0557c046b1039
             "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
         },
         {
             "TrackArtist": "Ryan Farish",
-<<<<<<< HEAD
             "TrackTitle": "Deep",
             "TrackComposer": "Ryan Farish",
             "MBID": "5377fd88-d6fd-4203-9929-dd9a7c8f7711",
@@ -3441,7 +3401,10 @@
             "TrackTitle": "Cantara",
             "TrackComposer": "Lisa Gerrard, Brendan Perry",
             "MBID": "f1c1d939-0bcf-4cdf-a4f7-6afc368ec16f",
-=======
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Ryan Farish",            
             "TrackTitle": "Beautiful",
             "TrackComposer": "Ryan Farish",
             "MBID": "06b8074e-4989-4a0d-b7b5-7f4a3501f7f6",
@@ -3466,12 +3429,10 @@
             "TrackTitle": "Shadowfax",
             "TrackComposer": "Chuck Greenberg, G.E. Stinson, Charlie Bisharat, Phil Maggini, Stuart Nevitt",
             "MBID": "a4e1419a-f2e3-4130-b71a-ac8c2c743562",
->>>>>>> 068608f4c5d37a6fbe83b7e4f2c0557c046b1039
             "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
         },
         {
             "TrackArtist": "Suzanne Ciani",
-<<<<<<< HEAD
             "TrackTitle": "The Eighth Wave",
             "TrackComposer": "Suzanne Ciani",
             "MBID": "03e1eec2-b460-41f8-844f-1bcf45ce3f23",
@@ -3538,7 +3499,10 @@
             "TrackTitle": "glistening pond",
             "TrackComposer": "David Lanz",
             "MBID": "a4518a3d-6b4d-491e-b850-ca8f39945700",
-=======
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Suzanne Ciani",
             "TrackTitle": "Neverland",
             "TrackComposer": "Suzanne Ciani",
             "MBID": "b33c1c5f-07fa-44db-b622-308cf44af6b2",
@@ -3556,12 +3520,10 @@
             "TrackTitle": "Force Majeure",
             "TrackComposer": "Edgar Froese, Chris Franke",
             "MBID": "5c8a402b-d75a-4de1-90c8-a4c5c0ce67f3",
->>>>>>> 068608f4c5d37a6fbe83b7e4f2c0557c046b1039
             "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
         },
         {
             "TrackArtist": "Ray Lynch",
-<<<<<<< HEAD
             "TrackTitle": "The Oh of Pleasure",
             "TrackComposer": "Ray Lynch",
             "MBID": "a91e1216-7b78-4706-acfb-410b0216d5bf",
@@ -3572,7 +3534,10 @@
             "TrackTitle": "The Magnificent Void",
             "TrackComposer": "Steve Roach",
             "MBID": "28cca015-8bb9-4690-adc0-49d6b82f8e88",
-=======
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Ray Lynch",
             "TrackTitle": "Falling in the Garden",
             "TrackComposer": "Ray Lynch",
             "MBID": "ae93e28c-2617-4eb9-8e3e-2ed87bbe1b3a",
@@ -3688,7 +3653,6 @@
             "TrackTitle": "Deuter",
             "TrackComposer": "Deuter",
             "MBID": "55d5d2f3-6323-48ce-88be-1b016b30f2cf",
->>>>>>> 068608f4c5d37a6fbe83b7e4f2c0557c046b1039
             "Category": "Late-night anthems and closing tracks"
         },
         {
@@ -3699,7 +3663,6 @@
             "Category": "Late-night anthems and closing tracks"
         },
         {
-<<<<<<< HEAD
             "TrackArtist": "George Winston",
             "TrackTitle": "Variations on the Canon by Pachelbel",
             "TrackComposer": "Johann Pachelbel, arr. George Winston",
@@ -3879,7 +3842,9 @@
             "TrackTitle": "Seventh Seal",
             "TrackComposer": "Phil Thornton",
             "MBID": "dac7bdd4-5748-4ee9-9b04-3f8f3c35f683",
-=======
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
             "TrackArtist": "Liz Story",
             "TrackTitle": "Wedding Rain",
             "TrackComposer": "Liz Story",
@@ -3891,7 +3856,6 @@
             "TrackTitle": "Long Long Way Home",
             "TrackComposer": "Philip Aaberg",
             "MBID": "2ec07a36-3ead-4aab-9287-991d17f6184a",
->>>>>>> 068608f4c5d37a6fbe83b7e4f2c0557c046b1039
             "Category": "Late-night anthems and closing tracks"
         },
         {
@@ -3902,7 +3866,6 @@
             "Category": "Late-night anthems and closing tracks"
         },
         {
-<<<<<<< HEAD
             "TrackArtist": "Mike Oldfield",
             "TrackTitle": "Tubular Bells Opening Theme",
             "TrackComposer": "Mike Oldfield",
@@ -3956,7 +3919,9 @@
             "TrackTitle": "Concierto de Aranjuez",
             "TrackComposer": "Joaqu\u00edn Rodrigo, arr. Michael Holm, Kristian Schultze",
             "MBID": "6ea89147-d904-4ccc-8f1f-48b1e40cb490",
-=======
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
             "TrackArtist": "Ray Lynch",
             "TrackTitle": "Celestial Soda Pop",
             "TrackComposer": "Ray Lynch",
@@ -4136,7 +4101,6 @@
             "TrackTitle": "Harry\u2019s Game",
             "TrackComposer": "Ciar\u00e1n Brennan, P\u00f3l Brennan",
             "MBID": "5d930ae1-fe98-460e-b209-43b5830bbc4f",
->>>>>>> 068608f4c5d37a6fbe83b7e4f2c0557c046b1039
             "Category": "Crossover hits that also charted in other genres"
         },
         {
@@ -4147,7 +4111,6 @@
             "Category": "Crossover hits that also charted in other genres"
         },
         {
-<<<<<<< HEAD
             "TrackArtist": "John Tesh",
             "TrackTitle": "Garden City",
             "TrackComposer": "John Tesh",
@@ -4853,7 +4816,8 @@
             "TrackComposer": "Max Richter",
             "MBID": "ab40264e-4f37-49d9-a643-f5e59c376d0f",
             "Category": "Songs occurring most on playlists on deezer for this genre"
-=======
+        },
+        {
             "TrackArtist": "Loreena McKennitt",
             "TrackTitle": "The Mummers\u2019 Dance",
             "TrackComposer": "Loreena McKennitt",
@@ -5160,13 +5124,11 @@
             "TrackComposer": "J\u00f3hann J\u00f3hannsson",
             "MBID": "9d9afbd0-b14b-42b1-9c02-b239d1940b89",
             "Category": "Critically acclaimed masterpieces and award-winning tracks"
->>>>>>> 068608f4c5d37a6fbe83b7e4f2c0557c046b1039
         },
         {
             "TrackArtist": "\u00d3lafur Arnalds",
             "TrackTitle": "Lj\u00f3si\u00f0",
             "TrackComposer": "\u00d3lafur Arnalds",
-<<<<<<< HEAD
             "MBID": "9ca6f8bb-333c-41a9-a965-4075c7247764",
             "Category": "Songs occurring most on playlists on deezer for this genre"
         },
@@ -5183,9 +5145,6 @@
             "TrackComposer": "Marc Byrd, Andrew Thompson",
             "MBID": "aeb51cb6-9d55-4daa-8248-93fa306f0257",
             "Category": "Songs occurring most on playlists on deezer for this genre"
-=======
-            "MBID": "2c460940-d250-41a8-a9cb-ab968422d7f8",
-            "Category": "Critically acclaimed masterpieces and award-winning tracks"
         },
         {
             "TrackArtist": "Nils Frahm",
@@ -5382,14 +5341,12 @@
             "TrackComposer": "Keith Kenniff",
             "MBID": "ca47a209-7192-4716-917c-1acfe980a7e7",
             "Category": "Songs occurring most on playlists on youtube for this genre"
->>>>>>> 068608f4c5d37a6fbe83b7e4f2c0557c046b1039
         },
         {
             "TrackArtist": "Helios",
             "TrackTitle": "Bless This Morning Year",
             "TrackComposer": "Keith Kenniff",
             "MBID": "93de842a-1150-4d00-92a2-c7006975ca38",
-<<<<<<< HEAD
             "Category": "Songs occurring most on playlists on deezer for this genre"
         },
         {
@@ -5405,8 +5362,6 @@
             "TrackComposer": "Dustin O'Halloran",
             "MBID": "5074e09c-8daa-4c98-94eb-d0ea0feec2d4",
             "Category": "Songs occurring most on playlists on deezer for this genre"
-=======
-            "Category": "Songs occurring most on playlists on youtube for this genre"
         },
         {
             "TrackArtist": "Julianna Barwick",
@@ -5540,15 +5495,12 @@
             "TrackComposer": "Joep Beving",
             "MBID": "b70a6af9-ec7f-4bdd-92b4-82b7bd3df1ea",
             "Category": "Songs occurring most on playlists on spotify for this genre"
->>>>>>> 068608f4c5d37a6fbe83b7e4f2c0557c046b1039
         },
         {
             "TrackArtist": "Hania Rani",
             "TrackTitle": "F Major",
             "TrackComposer": "Hania Rani",
             "MBID": "35c22eca-886d-4a07-bf17-08809ec84dd3",
-<<<<<<< HEAD
-=======
             "Category": "Songs occurring most on playlists on spotify for this genre"
         },
         {
@@ -5794,12 +5746,10 @@
             "TrackTitle": "Promises (Nils Frahm version)",
             "TrackComposer": "Nils Frahm",
             "MBID": "c36b4f47-4509-44e3-b877-f4a369b6448e",
->>>>>>> 068608f4c5d37a6fbe83b7e4f2c0557c046b1039
             "Category": "Songs occurring most on playlists on deezer for this genre"
         },
         {
             "TrackArtist": "Joep Beving",
-<<<<<<< HEAD
             "TrackTitle": "Etude",
             "TrackComposer": "Joep Beving",
             "MBID": "27554b3b-a5e9-4401-bca4-c435413e65be",
@@ -5967,7 +5917,7 @@
             "Category": "Songs occurring most on playlists on soundcloud for this genre"
         },
         {
-=======
+            "TrackArtist": "Joep Beving",
             "TrackTitle": "Sleeping Lotus",
             "TrackComposer": "Joep Beving",
             "MBID": "d8404f62-8b50-4766-99a8-31accb71299c",
@@ -6058,12 +6008,10 @@
             "Category": "Songs occurring most on playlists on deezer for this genre"
         },
         {
->>>>>>> 068608f4c5d37a6fbe83b7e4f2c0557c046b1039
             "TrackArtist": "Tycho",
             "TrackTitle": "Dive",
             "TrackComposer": "Scott Hansen",
             "MBID": "f35804dc-4fbc-407f-9e97-3d27c32eab5b",
-<<<<<<< HEAD
             "Category": "Songs occurring most on playlists on soundcloud for this genre"
         },
         {
@@ -6218,7 +6166,6 @@
             "TrackTitle": "Less Than a Pearl",
             "TrackComposer": "Enya, Nicky Ryan, Roma Ryan",
             "MBID": "f1f97e69-9bc9-47ff-9619-8bfc93b57074",
-=======
             "Category": "Songs occurring most on playlists on deezer for this genre"
         },
         {
@@ -6345,12 +6292,10 @@
             "TrackTitle": "In the Mirror",
             "TrackComposer": "Yanni",
             "MBID": "749a9a89-e839-4c63-8a56-8e3ab7248530",
->>>>>>> 068608f4c5d37a6fbe83b7e4f2c0557c046b1039
             "Category": "Songs occurring most on playlists on soundcloud for this genre"
         },
         {
             "TrackArtist": "Vangelis",
-<<<<<<< HEAD
             "TrackTitle": "Voices",
             "TrackComposer": "Vangelis",
             "MBID": "47bdc3c7-e827-45d3-88f8-0666363d9970",
@@ -6375,7 +6320,10 @@
             "TrackTitle": "New Orleans Slow Dance",
             "TrackComposer": "George Winston",
             "MBID": "4a769007-4a87-432f-82ab-e2012d06b6e4",
-=======
+            "Category": "Songs occurring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Vangelis",
             "TrackTitle": "L\u2019Enfant",
             "TrackComposer": "Vangelis",
             "MBID": "acc2f43b-568e-49ba-9b26-9a8d796f3097",
@@ -6617,7 +6565,6 @@
             "TrackTitle": "Lower River (Masayoshi Fujita rework)",
             "TrackComposer": "Masayoshi Fujita",
             "MBID": "c7495a52-a7e2-48e8-b503-c6d82ab13540",
->>>>>>> 068608f4c5d37a6fbe83b7e4f2c0557c046b1039
             "Category": "Songs occurring most on playlists on soundcloud for this genre"
         }
     ]
