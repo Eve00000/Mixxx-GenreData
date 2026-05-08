@@ -1,5 +1,7 @@
 {
     "SearchField": "French Pop",
+    "Category": "",
+    "Focus": "artist",
     "RefreshRate": 28,
     "AppendMode": "append",
     "Timestamp": "2026-05-06T15:05:06Z",
@@ -9,1675 +11,1954 @@
             "TrackArtist": "\u00c9dith Piaf",
             "TrackTitle": "La Vie en rose (La Vie en rose)",
             "MBID": "46f9a78c-cbc7-4a58-939e-0ea3a841e219",
-            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Serge Gainsbourg & Jane Birkin",
             "TrackTitle": "Je t'aime\u2026 moi non plus",
             "MBID": "3ead8960-b497-43b1-8185-b217a07aa720",
-            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "France Gall",
             "TrackTitle": "Poup\u00e9e de cire, poup\u00e9e de son",
             "MBID": "639ce643-26ac-4d62-ae7f-2ecfb1814c43",
-            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Dalida",
             "TrackTitle": "Gigi l\u2019amoroso",
             "MBID": "dde10812-6c43-4f3f-aa88-fc751668dee7",
-            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Claude Fran\u00e7ois",
             "TrackTitle": "Comme d\u2019habitude",
             "MBID": "e486377a-e067-4ded-9486-5d4ca85237fc",
-            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Johnny Hallyday",
             "TrackTitle": "Que je t'aime",
             "MBID": "5d626f52-d9f8-4d3b-a2af-b9b63f538f5f",
-            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Jacques Dutronc",
             "TrackTitle": "Il est cinq heures, Paris s\u2019\u00e9veille",
             "MBID": "31d27af2-9a9c-4669-af2d-2eccec17b332",
-            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Michel Sardou",
             "TrackTitle": "Les Lacs du Connemara",
             "MBID": "59f3abf7-e070-4980-a6e2-16fcfea53d98",
-            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Jean\u2010Jacques Goldman",
             "TrackTitle": "Il suffira d\u2019un signe",
             "MBID": "290c3e66-d57a-4daf-8987-ebd0229172f3",
-            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Myl\u00e8ne Farmer",
             "TrackTitle": "D\u00e9senchant\u00e9e",
             "MBID": "078e5cdb-210c-49bb-934c-38ae6c630be0",
-            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Indochine",
             "TrackTitle": "L'Aventurier",
             "MBID": "117d62fa-03cb-4147-b31b-c02c69529a85",
-            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Vanessa Paradis",
             "TrackTitle": "Joe le taxi",
             "MBID": "85db14f1-95d9-4ccb-86f2-ac9664e17e0a",
-            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Francis Cabrel",
             "TrackTitle": "La Corrida",
             "MBID": "1c2c9d72-dc40-45fd-91c5-6b01ac73361f",
-            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "C\u00e9line Dion",
             "TrackTitle": "Pour que tu m\u2019aimes encore",
             "MBID": "b98ced2e-39a3-4e1e-b9c6-6c45bfb849d4",
-            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Alain Souchon",
             "TrackTitle": "Foule sentimentale",
             "MBID": "21524b84-0812-4ae1-a977-23323d19a3eb",
-            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Renaud",
             "TrackTitle": "Mistral gagnant",
             "MBID": "318ee62c-6c0b-4465-8801-421710111ac8",
-            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Lara Fabian",
             "TrackTitle": "Je t\u2019aime",
             "MBID": "c0a031f2-6b13-485d-b092-555f4f76ef19",
-            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Daft Punk",
             "TrackTitle": "Get Lucky",
             "MBID": "0347d102-b653-4c6c-a0b2-cc9a58c5c585",
-            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Stromae",
             "TrackTitle": "Alors on danse",
             "MBID": "9995c2f0-5ec9-4e1f-aa1d-085448936f9f",
-            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Ang\u00e8le",
             "TrackTitle": "Balance ton quoi",
             "MBID": "bc543f2f-ad72-4223-82fe-8668e4ef02f3",
-            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Christine and the Queens",
             "TrackTitle": "Christine",
             "MBID": "4f144873-5a46-45f7-a2cf-1340ef9f9b95",
-            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Patrick Bruel",
             "TrackTitle": "Casser la voix",
             "MBID": "09b81e6f-cf1c-4ffb-89d6-845e8dd75a34",
-            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Fran\u00e7oise Hardy",
             "TrackTitle": "Tous les gar\u00e7ons et les filles",
             "MBID": "5cbf4211-be31-4de6-aeec-bcbb512145b7",
-            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Charles Aznavour",
             "TrackTitle": "La Boh\u00e8me",
             "MBID": "aa942a35-eb40-438d-b99d-f6560845b6d0",
-            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Joe Dassin",
             "TrackTitle": "Les Champs \u00c9lys\u00e9es",
             "MBID": "92064c38-ef5e-4fa8-af36-c9fb22417f04",
-            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Georges Brassens",
             "TrackTitle": "Chanson pour l\u2019Auvergnat",
             "MBID": "94ae635f-34c1-4a33-8095-8ddd13d6c47c",
-            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Maxime Le Forestier",
             "TrackTitle": "San Francisco",
             "MBID": "a547e917-2d38-4a9e-b9a6-5d3ab8eb8658",
-            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Michel Berger",
             "TrackTitle": "Quelques mots d\u2019amour",
             "MBID": "31f5b79e-862d-4159-874c-41cd9f92361b",
-            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Daniel Balavoine",
             "TrackTitle": "L\u2019Aziza",
             "MBID": "bde0eb41-9572-427b-bc3c-ba5b0a1d3b6d",
-            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "\u00c9tienne Daho",
             "TrackTitle": "Week End \u00c0 Rome",
             "MBID": "ca3cd172-ba14-4334-b89a-429618042d52",
-            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Les Rita Mitsouko",
             "TrackTitle": "Marcia Baila",
             "MBID": "3c709f1f-8b47-4cb5-b99d-d45faf1dcb56",
-            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Pascal Obispo",
             "TrackTitle": "Lucie",
             "MBID": "1b87b1ae-4b3b-4e03-a693-fbdec1851d85",
-            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Zazie",
             "TrackTitle": "Zen",
             "MBID": "0882dbe2-e528-4b2a-b17d-02e4430c710a",
-            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Lomepal",
             "TrackTitle": "Yeux disent",
             "MBID": "b431dce2-ba36-4e15-8a5f-5645bbec0ee2",
-            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Clara Luciani",
             "TrackTitle": "La Grenade",
             "MBID": "68dfb551-6462-4f77-a2cb-71271f4733d2",
-            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Julien Dor\u00e9",
             "TrackTitle": "Le Lac",
             "MBID": "35cb2e5b-fb59-4c43-ae19-6dd9ee56fffa",
-            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Pomme",
             "TrackTitle": "les s\u00e9quoias",
             "MBID": "b43b75fc-aa23-4407-b424-1e23083843d8",
-            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Ma\u00eetre Gims",
             "TrackTitle": "Bella",
             "MBID": "dc14303b-8c21-4067-94df-e62f8afb1549",
-            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Amir",
             "TrackTitle": "J'ai cherch\u00e9",
             "MBID": "2755c07d-4a1f-4f9b-9c03-9e660eaf2561",
-            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Louane",
             "TrackTitle": "Jour 1",
             "MBID": "9c47527e-17b6-49f5-bf61-8ebfd77851db",
-            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Jordy",
             "TrackTitle": "Dur dur d'\u00eatre b\u00e9b\u00e9",
             "MBID": "4f4941e6-c4b4-40a6-b5c1-57f5754ed735",
-            "Category": "Iconic One-Hit Wonders and viral sensations"
+            "Category": "Iconic One-Hit Wonders and viral sensations",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Aliz\u00e9e",
             "TrackTitle": "Moi... Lolita",
             "MBID": "16a568cf-99d8-4e03-a4c3-f0f487972fde",
-            "Category": "Iconic One-Hit Wonders and viral sensations"
+            "Category": "Iconic One-Hit Wonders and viral sensations",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Trag\u00e9die",
             "TrackTitle": "Hey Oh",
             "MBID": "e51e91fe-902f-43d7-b0d3-131da99aa896",
-            "Category": "Iconic One-Hit Wonders and viral sensations"
+            "Category": "Iconic One-Hit Wonders and viral sensations",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Diam\u2019s",
             "TrackTitle": "La Boulette",
             "MBID": "629a94a6-be1a-4f9c-bbd8-75954ef860d9",
-            "Category": "Iconic One-Hit Wonders and viral sensations"
+            "Category": "Iconic One-Hit Wonders and viral sensations",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Magic System",
             "TrackTitle": "Premier Gaou",
             "MBID": "8e30474a-8cfc-4170-a014-1fa35085992a",
-            "Category": "Iconic One-Hit Wonders and viral sensations"
+            "Category": "Iconic One-Hit Wonders and viral sensations",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Zebda",
             "TrackTitle": "Tomber la chemise",
             "MBID": "04e6ecbd-9260-4b57-ac50-0d914af221d0",
-            "Category": "Iconic One-Hit Wonders and viral sensations"
+            "Category": "Iconic One-Hit Wonders and viral sensations",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "B\u00e9nabar",
             "TrackTitle": "Le D\u00eener",
             "MBID": "882b3557-a032-4172-96dc-e57586c58ba0",
-            "Category": "Iconic One-Hit Wonders and viral sensations"
+            "Category": "Iconic One-Hit Wonders and viral sensations",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Fatal Bazooka",
             "TrackTitle": "Fous ta cagoule",
             "MBID": "cb0e563a-de91-4f59-962d-b7427cdb39a5",
-            "Category": "Iconic One-Hit Wonders and viral sensations"
+            "Category": "Iconic One-Hit Wonders and viral sensations",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Willy Denzey",
             "TrackTitle": "Le Mur du son",
             "MBID": "884e71f0-40c7-48d8-b526-c9432c88d155",
-            "Category": "Iconic One-Hit Wonders and viral sensations"
+            "Category": "Iconic One-Hit Wonders and viral sensations",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Larusso",
             "TrackTitle": "Tu m'oublieras",
             "MBID": "18b478e6-f01b-4467-a664-506a6270a461",
-            "Category": "Iconic One-Hit Wonders and viral sensations"
+            "Category": "Iconic One-Hit Wonders and viral sensations",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Alliance Ethnik",
             "TrackTitle": "Respect",
             "MBID": "b2a63655-a130-46d8-89d6-867f9026cc99",
-            "Category": "Iconic One-Hit Wonders and viral sensations"
+            "Category": "Iconic One-Hit Wonders and viral sensations",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Manau",
             "TrackTitle": "La Tribu de Dana",
             "MBID": "eea709b1-548e-466e-90a9-4085df1a4777",
-            "Category": "Iconic One-Hit Wonders and viral sensations"
+            "Category": "Iconic One-Hit Wonders and viral sensations",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "M. Pokora",
             "TrackTitle": "Elle me contr\u00f4le",
             "MBID": "d35b9e06-acb1-45ec-8556-9b9ccc81861a",
-            "Category": "Iconic One-Hit Wonders and viral sensations"
+            "Category": "Iconic One-Hit Wonders and viral sensations",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Kyo",
             "TrackTitle": "Le Chemin",
             "MBID": "8164387b-f25e-4b02-a21b-5d4843c92380",
-            "Category": "Iconic One-Hit Wonders and viral sensations"
+            "Category": "Iconic One-Hit Wonders and viral sensations",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Jenifer",
             "TrackTitle": "Au soleil",
             "MBID": "e7326867-5c3a-4f00-8b3d-e4b1c77b28fb",
-            "Category": "Iconic One-Hit Wonders and viral sensations"
+            "Category": "Iconic One-Hit Wonders and viral sensations",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Nolwenn Leroy",
             "TrackTitle": "Cass\u00e9",
             "MBID": "99c71b34-5240-4332-b35a-7581f3d075b4",
-            "Category": "Iconic One-Hit Wonders and viral sensations"
+            "Category": "Iconic One-Hit Wonders and viral sensations",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Indila",
             "TrackTitle": "Derni\u00e8re Danse",
             "MBID": "b1a2f40c-e405-4b5d-b572-16013acac8d7",
-            "Category": "Iconic One-Hit Wonders and viral sensations"
+            "Category": "Iconic One-Hit Wonders and viral sensations",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Zaz",
             "TrackTitle": "Je veux",
             "MBID": "9be5c92d-cbf4-434e-ab84-82a0eabaa5f1",
-            "Category": "Iconic One-Hit Wonders and viral sensations"
+            "Category": "Iconic One-Hit Wonders and viral sensations",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Stromae",
             "TrackTitle": "Papaoutai",
             "MBID": "3ee7c445-93b7-4156-ae9b-bacb751546c5",
-            "Category": "Iconic One-Hit Wonders and viral sensations"
+            "Category": "Iconic One-Hit Wonders and viral sensations",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Kids United",
             "TrackTitle": "On ecrit sur les murs",
             "MBID": "d7ba71ee-1b93-41c1-a581-63016eb2b2b2",
-            "Category": "Iconic One-Hit Wonders and viral sensations"
+            "Category": "Iconic One-Hit Wonders and viral sensations",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Vitaa & Slimane",
             "TrackTitle": "Avant toi",
             "MBID": "0625d4ad-696b-4f04-ade6-e89ca0330616",
-            "Category": "Iconic One-Hit Wonders and viral sensations"
+            "Category": "Iconic One-Hit Wonders and viral sensations",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "PNL",
             "TrackTitle": "Au DD",
             "MBID": "b2e7d44d-573b-4a99-845d-5ac4ba8e9cf0",
-            "Category": "Iconic One-Hit Wonders and viral sensations"
+            "Category": "Iconic One-Hit Wonders and viral sensations",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Aya Nakamura",
             "TrackTitle": "Djadja",
             "MBID": "c03f39a0-c875-445c-a5f8-03b0be6adab0",
-            "Category": "Iconic One-Hit Wonders and viral sensations"
+            "Category": "Iconic One-Hit Wonders and viral sensations",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "HATIK",
             "TrackTitle": "Angela",
             "MBID": "aedab5bf-e473-46b6-b32c-1dd7dc471c7c",
-            "Category": "Iconic One-Hit Wonders and viral sensations"
+            "Category": "Iconic One-Hit Wonders and viral sensations",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Dadju",
             "TrackTitle": "Reine",
             "MBID": "cc76391e-e8a4-4b03-aa89-8a7267563a24",
-            "Category": "Iconic One-Hit Wonders and viral sensations"
+            "Category": "Iconic One-Hit Wonders and viral sensations",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Vald",
             "TrackTitle": "D\u00e9saccord\u00e9",
             "MBID": "9ebeb9a4-e1e0-482d-a7bc-5064b9dd6de7",
-            "Category": "Iconic One-Hit Wonders and viral sensations"
+            "Category": "Iconic One-Hit Wonders and viral sensations",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Bigflo & Oli",
             "TrackTitle": "Dommage",
             "MBID": "db699951-7042-491e-8ee5-879d594ce552",
-            "Category": "Iconic One-Hit Wonders and viral sensations"
+            "Category": "Iconic One-Hit Wonders and viral sensations",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Suzane",
             "TrackTitle": "L\u2019Appart vide",
             "MBID": "a93bd7ac-eb79-407c-96c3-bdbbbed4685c",
-            "Category": "Iconic One-Hit Wonders and viral sensations"
+            "Category": "Iconic One-Hit Wonders and viral sensations",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Claudio Cap\u00e9o",
             "TrackTitle": "Un homme debout",
             "MBID": "7d81a0d6-e57b-487f-9ed0-f11cdd7f2406",
-            "Category": "Iconic One-Hit Wonders and viral sensations"
+            "Category": "Iconic One-Hit Wonders and viral sensations",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Vianney",
             "TrackTitle": "Pas L\u00e0",
             "MBID": "1ab11405-5080-4810-814b-a62413679a8d",
-            "Category": "Iconic One-Hit Wonders and viral sensations"
+            "Category": "Iconic One-Hit Wonders and viral sensations",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Kendji Girac",
             "TrackTitle": "Andalouse",
             "MBID": "b3a0d2be-6e6a-47a6-bb41-ac696e1dd7ee",
-            "Category": "Iconic One-Hit Wonders and viral sensations"
+            "Category": "Iconic One-Hit Wonders and viral sensations",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Black M",
             "TrackTitle": "Sur ma route",
             "MBID": "c94ed37e-a8ad-4072-b75c-3cb449d842b0",
-            "Category": "Iconic One-Hit Wonders and viral sensations"
+            "Category": "Iconic One-Hit Wonders and viral sensations",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Maitre Gims",
             "TrackTitle": "Est-ce que tu m'aimes? (Pilule Bleue)",
             "MBID": "fda033f0-8fb8-4c32-acff-b7997cb7af97",
-            "Category": "Iconic One-Hit Wonders and viral sensations"
+            "Category": "Iconic One-Hit Wonders and viral sensations",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Niska",
             "TrackTitle": "R\u00e9seaux",
             "MBID": "b2fc435a-6da5-4811-a181-a71cd3343b36",
-            "Category": "Iconic One-Hit Wonders and viral sensations"
+            "Category": "Iconic One-Hit Wonders and viral sensations",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Vegedream",
             "TrackTitle": "Ramenez la coupe \u00e0 la maison",
             "MBID": "af4c372b-a232-4271-a7c1-446047f34da7",
-            "Category": "Iconic One-Hit Wonders and viral sensations"
+            "Category": "Iconic One-Hit Wonders and viral sensations",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Keen\u2019V feat. Lorelei B",
             "TrackTitle": "La Vie du bon c\u00f4t\u00e9",
             "MBID": "59e640aa-3774-48c3-bd84-446a7c4a8dd6",
-            "Category": "Iconic One-Hit Wonders and viral sensations"
+            "Category": "Iconic One-Hit Wonders and viral sensations",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "L.E.J",
             "TrackTitle": "Summer 2015",
             "MBID": "144bddbb-4425-4efb-ad0e-f977b292c6ca",
-            "Category": "Iconic One-Hit Wonders and viral sensations"
+            "Category": "Iconic One-Hit Wonders and viral sensations",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Jain",
             "TrackTitle": "Come",
             "MBID": "1b29ff14-59d2-4819-8a0f-79d93a40e18b",
-            "Category": "Iconic One-Hit Wonders and viral sensations"
+            "Category": "Iconic One-Hit Wonders and viral sensations",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "C\u0153ur de pirate",
             "TrackTitle": "Comme des enfants",
             "MBID": "c7d3d1ad-0e3d-4a77-a9f4-10f4f690d0ec",
-            "Category": "Iconic One-Hit Wonders and viral sensations"
+            "Category": "Iconic One-Hit Wonders and viral sensations",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Tal",
             "TrackTitle": "Le sens de la vie",
             "MBID": "b298f912-f9eb-4aad-a5b0-45e3295a0bd0",
-            "Category": "Iconic One-Hit Wonders and viral sensations"
+            "Category": "Iconic One-Hit Wonders and viral sensations",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Cerrone",
             "TrackTitle": "Love Is the Answer",
             "MBID": "137287ed-aab6-45f0-b6a9-feea8d44a8c9",
-            "Category": "Underground, deep cuts, and cult club classics"
+            "Category": "Underground, deep cuts, and cult club classics",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Space",
             "TrackTitle": "Magic Fly",
             "MBID": "a53bc67f-10fe-4f16-a621-58c6113d53a0",
-            "Category": "Underground, deep cuts, and cult club classics"
+            "Category": "Underground, deep cuts, and cult club classics",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Telex",
             "TrackTitle": "Moskow Diskow",
             "MBID": "664353bc-3f89-4cb2-9969-245c824598ff",
-            "Category": "Underground, deep cuts, and cult club classics"
+            "Category": "Underground, deep cuts, and cult club classics",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Daft Punk",
             "TrackTitle": "Da Funk (Da Funk-Superheroes)",
             "MBID": "27b2066e-1f29-4958-8474-9f6aca75e7f6",
-            "Category": "Underground, deep cuts, and cult club classics"
+            "Category": "Underground, deep cuts, and cult club classics",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Air",
             "TrackTitle": "Sexy Boy",
             "MBID": "fbf72d9c-a9e5-437c-8dac-275d0207f99c",
-            "Category": "Underground, deep cuts, and cult club classics"
+            "Category": "Underground, deep cuts, and cult club classics",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Phoenix",
             "TrackTitle": "Too Young",
             "MBID": "e022e8e6-ef5d-419b-ae6f-fab25b12e282",
-            "Category": "Underground, deep cuts, and cult club classics"
+            "Category": "Underground, deep cuts, and cult club classics",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "\u00c9tienne de Cr\u00e9cy",
             "TrackTitle": "Prix Choc",
             "MBID": "b97c6d54-f3e9-4f04-87fc-80220386661f",
-            "Category": "Underground, deep cuts, and cult club classics"
+            "Category": "Underground, deep cuts, and cult club classics",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Cassius",
             "TrackTitle": "Cassius 99",
             "MBID": "2edadee3-db10-4a96-9b3b-72c863a0e227",
-            "Category": "Underground, deep cuts, and cult club classics"
+            "Category": "Underground, deep cuts, and cult club classics",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Stardust",
             "TrackTitle": "Music Sounds Better With You",
             "MBID": "f07588d3-ebb0-45d6-a4e2-badce735e46a",
-            "Category": "Underground, deep cuts, and cult club classics"
+            "Category": "Underground, deep cuts, and cult club classics",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Alan Braxe & Fred Falke",
             "TrackTitle": "Intro",
             "MBID": "1cf459b6-aa9a-4051-9ad5-a92bb6257c7a",
-            "Category": "Underground, deep cuts, and cult club classics"
+            "Category": "Underground, deep cuts, and cult club classics",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Modjo",
             "TrackTitle": "Lady (Hear Me Tonight)",
             "MBID": "cc93aae3-37a6-4068-b9ac-6babaf374bca",
-            "Category": "Underground, deep cuts, and cult club classics"
+            "Category": "Underground, deep cuts, and cult club classics",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Laurent Garnier",
             "TrackTitle": "The Man With the Red Face",
             "MBID": "5f7fa0f1-b410-40b6-b3e4-e2b6c55d54b8",
-            "Category": "Underground, deep cuts, and cult club classics"
+            "Category": "Underground, deep cuts, and cult club classics",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Justice",
             "TrackTitle": "We Are Your Friends",
             "MBID": "b87380a7-ac9e-4c40-a6d4-ce1e3b0a82e0",
-            "Category": "Underground, deep cuts, and cult club classics"
+            "Category": "Underground, deep cuts, and cult club classics",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Mr. Oizo",
             "TrackTitle": "Flat Beat",
             "MBID": "ffb57924-235a-45ab-b244-6a5e4fda86e3",
-            "Category": "Underground, deep cuts, and cult club classics"
+            "Category": "Underground, deep cuts, and cult club classics",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Busy P",
             "TrackTitle": "Chop Suey",
             "MBID": "a592a386-4884-4ca0-8d8b-84a554e8ae89",
-            "Category": "Underground, deep cuts, and cult club classics"
+            "Category": "Underground, deep cuts, and cult club classics",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Vitalic",
             "TrackTitle": "La Rock 01",
             "MBID": "b4ae74ee-5d43-4c83-9394-bcbb2a16473c",
-            "Category": "Underground, deep cuts, and cult club classics"
+            "Category": "Underground, deep cuts, and cult club classics",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Gesaffelstein",
             "TrackTitle": "Pursuit",
             "MBID": "13207d73-da3d-4166-a3c7-d4e1dbdf5004",
-            "Category": "Underground, deep cuts, and cult club classics"
+            "Category": "Underground, deep cuts, and cult club classics",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Charlotte Gainsbourg",
             "TrackTitle": "Heaven Can Wait",
             "MBID": "94841690-334c-4392-be42-27805aca75e6",
-            "Category": "Underground, deep cuts, and cult club classics"
+            "Category": "Underground, deep cuts, and cult club classics",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "S\u00e9bastien Tellier",
             "TrackTitle": "La Ritournelle",
             "MBID": "ef7202b2-dfee-4a18-bcef-ac34751b91f2",
-            "Category": "Underground, deep cuts, and cult club classics"
+            "Category": "Underground, deep cuts, and cult club classics",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Kavinsky",
             "TrackTitle": "Nightcall",
             "MBID": "0595fc38-b82b-4686-8dca-e32814102562",
-            "Category": "Underground, deep cuts, and cult club classics"
+            "Category": "Underground, deep cuts, and cult club classics",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Breakbot feat. Irfane",
             "TrackTitle": "Baby I'm Yours",
             "MBID": "c663a77d-4f59-4b38-96a7-4756c4a6a7e2",
-            "Category": "Underground, deep cuts, and cult club classics"
+            "Category": "Underground, deep cuts, and cult club classics",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Parcels",
             "TrackTitle": "Overnight",
             "MBID": "9dcbbc2d-b492-4606-af79-7df19002c620",
-            "Category": "Underground, deep cuts, and cult club classics"
+            "Category": "Underground, deep cuts, and cult club classics",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "L\u2019Imp\u00e9ratrice",
             "TrackTitle": "Vanille fraise",
             "MBID": "bfaa8759-daa6-4bd8-8106-4f3bdcaa26d7",
-            "Category": "Underground, deep cuts, and cult club classics"
+            "Category": "Underground, deep cuts, and cult club classics",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Polo & Pan",
             "TrackTitle": "Canop\u00e9e",
             "MBID": "41fb4424-4b4b-48fb-9073-4a0f6b329998",
-            "Category": "Underground, deep cuts, and cult club classics"
+            "Category": "Underground, deep cuts, and cult club classics",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "The Blaze",
             "TrackTitle": "Territory",
             "MBID": "14ab6366-c0f9-4bb2-b0d9-09ce16caa873",
-            "Category": "Underground, deep cuts, and cult club classics"
+            "Category": "Underground, deep cuts, and cult club classics",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Myd",
             "TrackTitle": "The Sun",
             "MBID": "ce19bcb3-821b-4dd4-b79f-897607e0684f",
-            "Category": "Underground, deep cuts, and cult club classics"
+            "Category": "Underground, deep cuts, and cult club classics",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Jacques",
             "TrackTitle": "Dans la radio",
             "MBID": "4d3d5f50-c04d-415c-9954-f76d0861da62",
-            "Category": "Underground, deep cuts, and cult club classics"
+            "Category": "Underground, deep cuts, and cult club classics",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Soul Button & Gravity Vibes",
             "TrackTitle": "Unraveling",
             "MBID": "0e09bc7a-d403-4a0d-9531-b992bdba2d3e",
-            "Category": "Underground, deep cuts, and cult club classics"
+            "Category": "Underground, deep cuts, and cult club classics",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Fakear feat. Deva Premal",
             "TrackTitle": "La Lune rousse",
             "MBID": "c64ce80f-a316-4f86-b599-e433a82acdec",
-            "Category": "Underground, deep cuts, and cult club classics"
+            "Category": "Underground, deep cuts, and cult club classics",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Thylacine",
             "TrackTitle": "Anatolia",
             "MBID": "a4941032-5eb6-46ad-8a42-cc0aa3292404",
-            "Category": "Underground, deep cuts, and cult club classics"
+            "Category": "Underground, deep cuts, and cult club classics",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Acid Arab",
             "TrackTitle": "Stil",
             "MBID": "09897ae5-360b-410a-aeb0-06d5205fd3ab",
-            "Category": "Underground, deep cuts, and cult club classics"
+            "Category": "Underground, deep cuts, and cult club classics",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "N\u2019to",
             "TrackTitle": "Seasons (feat. French 79)",
             "MBID": "2646f415-8c14-4dd9-ab78-75ff52a2de86",
-            "Category": "Underground, deep cuts, and cult club classics"
+            "Category": "Underground, deep cuts, and cult club classics",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Rone",
             "TrackTitle": "Bye Bye Macadam",
             "MBID": "9975bb9c-c5f5-46ba-ab86-de8cba0c3ecb",
-            "Category": "Underground, deep cuts, and cult club classics"
+            "Category": "Underground, deep cuts, and cult club classics",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Flake",
             "TrackTitle": "Dilly Dally",
             "MBID": "feda0c28-45ad-4838-946a-776539743f7e",
-            "Category": "Underground, deep cuts, and cult club classics"
+            "Category": "Underground, deep cuts, and cult club classics",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Yuksek",
             "TrackTitle": "I Don\u2019t Have a Drum Machine",
             "MBID": "5bf63bb9-ab7e-465c-8b34-9c90a2c61181",
-            "Category": "Underground, deep cuts, and cult club classics"
+            "Category": "Underground, deep cuts, and cult club classics",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Caravan Palace",
             "TrackTitle": "Jolie coquine",
             "MBID": "220ebc35-7cc2-4632-b4c2-2b31e39363bf",
-            "Category": "Underground, deep cuts, and cult club classics"
+            "Category": "Underground, deep cuts, and cult club classics",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Chinese Man",
             "TrackTitle": "I\u2019ve Got That Tune",
             "MBID": "da88b52b-c1ba-4d11-bd48-f5b8112d75b4",
-            "Category": "Underground, deep cuts, and cult club classics"
+            "Category": "Underground, deep cuts, and cult club classics",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Deluxe",
             "TrackTitle": "Pony",
             "MBID": "55850e62-35b0-465c-92d3-62874a824040",
-            "Category": "Underground, deep cuts, and cult club classics"
+            "Category": "Underground, deep cuts, and cult club classics",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Blundetto",
             "TrackTitle": "Voices (General Elektriks version)",
             "MBID": "a83f2802-3c3a-47af-987b-e7fbcdc3b0cd",
-            "Category": "Underground, deep cuts, and cult club classics"
+            "Category": "Underground, deep cuts, and cult club classics",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Ezechiel Pailh\u00e8s",
             "TrackTitle": "Blue Curtain",
             "MBID": "818c4e17-fcd2-4974-86f1-0709ac8dd945",
-            "Category": "Underground, deep cuts, and cult club classics"
+            "Category": "Underground, deep cuts, and cult club classics",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Cerrone",
             "TrackTitle": "Supernature (full length album version)",
             "MBID": "d59b1ec9-eb13-4301-923b-ca6741754164",
-            "Category": "Essential 12-inch remixes and extended DJ versions"
+            "Category": "Essential 12-inch remixes and extended DJ versions",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Helen Love",
             "TrackTitle": "Sheila B. Devotion",
             "MBID": "6f1a94e5-d12c-4403-83ec-902bfcf56202",
-            "Category": "Essential 12-inch remixes and extended DJ versions"
+            "Category": "Essential 12-inch remixes and extended DJ versions",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Les Wampas",
             "TrackTitle": "Patrick Juvet",
             "MBID": "ef7a9dea-6cd8-4344-bfee-1c40bd8968d6",
-            "Category": "Essential 12-inch remixes and extended DJ versions"
+            "Category": "Essential 12-inch remixes and extended DJ versions",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "\u6881\u90a6\u5f66",
             "TrackTitle": "Voyage 1 (From East To West)",
             "MBID": "cd3686e4-38b3-432e-8c91-31ea8b9150d8",
-            "Category": "Essential 12-inch remixes and extended DJ versions"
+            "Category": "Essential 12-inch remixes and extended DJ versions",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Jean-Daniel Mercier",
             "TrackTitle": "Belle Epoque",
             "MBID": "638ccbba-5441-4877-b8be-6bca6cb5fd0c",
-            "Category": "Essential 12-inch remixes and extended DJ versions"
+            "Category": "Essential 12-inch remixes and extended DJ versions",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Roman Messer",
             "TrackTitle": "Magic Fly (extended mix)",
             "MBID": "d12224fe-542f-44d3-8e5a-76d828e880e1",
-            "Category": "Essential 12-inch remixes and extended DJ versions"
+            "Category": "Essential 12-inch remixes and extended DJ versions",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Daft Punk",
             "TrackTitle": "Teachers (extended mix)",
             "MBID": "525209da-17da-43dd-a66c-1f1934341ab5",
-            "Category": "Essential 12-inch remixes and extended DJ versions"
+            "Category": "Essential 12-inch remixes and extended DJ versions",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Cassius",
             "TrackTitle": "Cassius 1999 (original mix)",
             "MBID": "3e78dc73-8fa6-4c41-8ff9-739551c346ff",
-            "Category": "Essential 12-inch remixes and extended DJ versions"
+            "Category": "Essential 12-inch remixes and extended DJ versions",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "DJ Mix",
             "TrackTitle": "Music Sounds Better with You",
             "MBID": "4c97a6f7-1464-4249-8b9b-e755e072ccce",
-            "Category": "Essential 12-inch remixes and extended DJ versions"
+            "Category": "Essential 12-inch remixes and extended DJ versions",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Modjo",
             "TrackTitle": "Lady (Hear Me Tonight)",
             "MBID": "72b9408f-52b2-4f4f-863c-96e8eea64dca",
-            "Category": "Essential 12-inch remixes and extended DJ versions"
+            "Category": "Essential 12-inch remixes and extended DJ versions",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Africanism All Stars",
             "TrackTitle": "Hard (Bob Sinclar\u2019s original mix)",
             "MBID": "554399c6-c3b9-4c6c-80ca-7ce7a639b40f",
-            "Category": "Essential 12-inch remixes and extended DJ versions"
+            "Category": "Essential 12-inch remixes and extended DJ versions",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Laurent Garnier",
             "TrackTitle": "The Man With the Red Face (original mix)",
             "MBID": "e6cb2602-e17d-4ee3-95ac-a7a5da54c521",
-            "Category": "Essential 12-inch remixes and extended DJ versions"
+            "Category": "Essential 12-inch remixes and extended DJ versions",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "\u00c9tienne de Cr\u00e9cy",
             "TrackTitle": "Am I Wrong (\u00c9tienne de Cr\u00e9cy remix)",
             "MBID": "3e9cc92d-88ed-4c67-92d0-12aaeea7cbbb",
-            "Category": "Essential 12-inch remixes and extended DJ versions"
+            "Category": "Essential 12-inch remixes and extended DJ versions",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "In Strict Confidence",
             "TrackTitle": "Justice (Album Version)",
             "MBID": "f840aebd-219b-4ce5-a9e4-3727b297473e",
-            "Category": "Essential 12-inch remixes and extended DJ versions"
+            "Category": "Essential 12-inch remixes and extended DJ versions",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Graz",
             "TrackTitle": "Flat Beat (Mr. Oizo Cover)",
             "MBID": "0a577069-b49e-43eb-bb02-8ed7373aa275",
-            "Category": "Essential 12-inch remixes and extended DJ versions"
+            "Category": "Essential 12-inch remixes and extended DJ versions",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Vitalic",
             "TrackTitle": "My Friend Dario (extended)",
             "MBID": "2c52b951-3b73-451b-818b-11b7ac311485",
-            "Category": "Essential 12-inch remixes and extended DJ versions"
+            "Category": "Essential 12-inch remixes and extended DJ versions",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "S\u00e9bastien Tellier",
             "TrackTitle": "La ritournelle (\"S\u00e9bastien Tellier's Return in Hell\" by Turzi)",
             "MBID": "ea7d1729-dd12-4503-88b0-1590b4ce66ce",
-            "Category": "Essential 12-inch remixes and extended DJ versions"
+            "Category": "Essential 12-inch remixes and extended DJ versions",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Air",
             "TrackTitle": "La Femme d\u2019argent",
             "MBID": "43a5021c-c2e4-4c72-9329-b8374ccc7107",
-            "Category": "Essential 12-inch remixes and extended DJ versions"
+            "Category": "Essential 12-inch remixes and extended DJ versions",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Mirwais",
             "TrackTitle": "Disco Science (Mirwais Electrobreak remix)",
             "MBID": "88d85a5e-73dd-48dd-822e-e39ce67da2de",
-            "Category": "Essential 12-inch remixes and extended DJ versions"
+            "Category": "Essential 12-inch remixes and extended DJ versions",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Atmosfear",
             "TrackTitle": "Dimitri From Paris (remix)",
             "MBID": "814af4cb-bd4f-42a9-80a4-61cb5ea48ad8",
-            "Category": "Essential 12-inch remixes and extended DJ versions"
+            "Category": "Essential 12-inch remixes and extended DJ versions",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Cut Copy",
             "TrackTitle": "Alan Braxe & Fred Falke\u2013 Horizon",
             "MBID": "f0203a28-a63f-4071-99a1-e9c89c2c43d7",
-            "Category": "Essential 12-inch remixes and extended DJ versions"
+            "Category": "Essential 12-inch remixes and extended DJ versions",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Eric Prydz",
             "TrackTitle": "Call on Me (Thomas Bangalter & DJ Falcon Calling remix)",
             "MBID": "c53b90c3-fb7c-47fc-a120-82481694959c",
-            "Category": "Essential 12-inch remixes and extended DJ versions"
+            "Category": "Essential 12-inch remixes and extended DJ versions",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Mr. Clarke",
             "TrackTitle": "Superfunk (original mix)",
             "MBID": "58a1cd58-da04-4c7e-8426-b1291b2c6126",
-            "Category": "Essential 12-inch remixes and extended DJ versions"
+            "Category": "Essential 12-inch remixes and extended DJ versions",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "STBAN, James Hurr, Sole\u00e1 Morente feat. Josemi Carmona",
             "TrackTitle": "El Camino (extended mix)",
             "MBID": "0659421b-2e23-49ed-bf07-2e03c1f78586",
-            "Category": "Essential 12-inch remixes and extended DJ versions"
+            "Category": "Essential 12-inch remixes and extended DJ versions",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Motorbass",
             "TrackTitle": "Genius (album version)",
             "MBID": "31cc2562-b145-42f6-b067-311202598eb7",
-            "Category": "Essential 12-inch remixes and extended DJ versions"
+            "Category": "Essential 12-inch remixes and extended DJ versions",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Benjamin Diamond",
             "TrackTitle": "In Your Arms (extended mix)",
             "MBID": "7dda8c27-c143-44c6-b7b3-0eb1a48dbb60",
-            "Category": "Essential 12-inch remixes and extended DJ versions"
+            "Category": "Essential 12-inch remixes and extended DJ versions",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "\u00c9tienne de Cr\u00e9cy",
             "TrackTitle": "Alex Gopher",
             "MBID": "b0c04a0c-deb7-4183-b157-2efe398ddc7f",
-            "Category": "Essential 12-inch remixes and extended DJ versions"
+            "Category": "Essential 12-inch remixes and extended DJ versions",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "I:Cube",
             "TrackTitle": "Disco Cubizm",
             "MBID": "ce04d820-0f62-4420-be35-3e49022540b4",
-            "Category": "Essential 12-inch remixes and extended DJ versions"
+            "Category": "Essential 12-inch remixes and extended DJ versions",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Bingo Players",
             "TrackTitle": "L\u2019Amour (original mix)",
             "MBID": "502832dc-82da-4d16-8f2f-0f9c37f720b7",
-            "Category": "Essential 12-inch remixes and extended DJ versions"
+            "Category": "Essential 12-inch remixes and extended DJ versions",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Breathe",
             "TrackTitle": "Moments (extended version)",
             "MBID": "c240d878-955f-41e7-b753-7ae527a91851",
-            "Category": "Essential 12-inch remixes and extended DJ versions"
+            "Category": "Essential 12-inch remixes and extended DJ versions",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Fibes, Oh Fibes!",
             "TrackTitle": "If You Ever Feel Better",
             "MBID": "1b163150-6e7c-490e-a3bc-a50070c69bad",
-            "Category": "Essential 12-inch remixes and extended DJ versions"
+            "Category": "Essential 12-inch remixes and extended DJ versions",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Walt Ribeiro",
             "TrackTitle": "M83 \u2018Midnight City\u2019",
             "MBID": "b372fc36-be26-4f28-9979-69dc59f5f634",
-            "Category": "Essential 12-inch remixes and extended DJ versions"
+            "Category": "Essential 12-inch remixes and extended DJ versions",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "M. Roosevelt & Mitski",
             "TrackTitle": "Nightcall [Kavinsky]",
             "MBID": "c82035fa-de44-48c3-b677-ba94afde9b9c",
-            "Category": "Essential 12-inch remixes and extended DJ versions"
+            "Category": "Essential 12-inch remixes and extended DJ versions",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "49ers",
             "TrackTitle": "Baby, I'm Yours (extended mix)",
             "MBID": "4a4a4630-d1e2-43aa-9613-18891e312f89",
-            "Category": "Essential 12-inch remixes and extended DJ versions"
+            "Category": "Essential 12-inch remixes and extended DJ versions",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Turzi",
             "TrackTitle": "Colombe (Polo & Pan remix)",
             "MBID": "6a4e2b4f-514e-4cd2-9e6c-8ea92992ee2e",
-            "Category": "Essential 12-inch remixes and extended DJ versions"
+            "Category": "Essential 12-inch remixes and extended DJ versions",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Inafekt & Big Jon",
             "TrackTitle": "Blaze (extended mix)",
             "MBID": "b90d8043-6b3a-495a-b66d-02b5fd6d8166",
-            "Category": "Essential 12-inch remixes and extended DJ versions"
+            "Category": "Essential 12-inch remixes and extended DJ versions",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Yuksek",
             "TrackTitle": "I Don\u2019t Have a Drum Machine",
             "MBID": "182a55b7-bfb8-4796-a35f-2a891153ed4c",
-            "Category": "Essential 12-inch remixes and extended DJ versions"
+            "Category": "Essential 12-inch remixes and extended DJ versions",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "French 79",
             "TrackTitle": "Between the Buttons (Sur un fil Extended Version)",
             "MBID": "4cbe5c1a-8d02-4ead-9f3a-b576833dbbc0",
-            "Category": "Essential 12-inch remixes and extended DJ versions"
+            "Category": "Essential 12-inch remixes and extended DJ versions",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Daft Punk",
             "TrackTitle": "One More Time (club mix)",
             "MBID": "38523c69-718a-40ef-872c-422c86fc74ac",
-            "Category": "Essential 12-inch remixes and extended DJ versions"
+            "Category": "Essential 12-inch remixes and extended DJ versions",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Serge Gainsbourg",
             "TrackTitle": "Requiem pour un con",
             "MBID": "c389f3e5-101a-4783-ae38-3db48ba1944d",
-            "Category": "Hidden gems, B-sides, and influential album tracks"
+            "Category": "Hidden gems, B-sides, and influential album tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Fran\u00e7oise Hardy",
             "TrackTitle": "Comment te dire adieu",
             "MBID": "326d183b-999e-48f5-83c0-c1379464aff7",
-            "Category": "Hidden gems, B-sides, and influential album tracks"
+            "Category": "Hidden gems, B-sides, and influential album tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Jacques Dutronc",
             "TrackTitle": "Le Responsable",
             "MBID": "64385b4d-0b7d-4117-9bab-c396e949d191",
-            "Category": "Hidden gems, B-sides, and influential album tracks"
+            "Category": "Hidden gems, B-sides, and influential album tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "V\u00e9ronique Sanson",
             "TrackTitle": "Amoureuse",
             "MBID": "a9ab651f-c099-4147-a62b-0576d3ec3f72",
-            "Category": "Hidden gems, B-sides, and influential album tracks"
+            "Category": "Hidden gems, B-sides, and influential album tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Christophe",
             "TrackTitle": "Les mots bleus",
             "MBID": "50f484ce-9c35-4f64-b674-061a825fc8a6",
-            "Category": "Hidden gems, B-sides, and influential album tracks"
+            "Category": "Hidden gems, B-sides, and influential album tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Katerine",
             "TrackTitle": "Louxor j'adore",
             "MBID": "2d6b7fad-2e75-4fcf-9143-202120ab235b",
-            "Category": "Hidden gems, B-sides, and influential album tracks"
+            "Category": "Hidden gems, B-sides, and influential album tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Bashung",
             "TrackTitle": "Osez Jos\u00e9phine",
             "MBID": "2b8a2af1-0f80-4cb5-80d7-2ba3c47556be",
-            "Category": "Hidden gems, B-sides, and influential album tracks"
+            "Category": "Hidden gems, B-sides, and influential album tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Lio",
             "TrackTitle": "Amoureux Solitaires",
             "MBID": "62b8cf7a-ce80-4800-b48d-3eded375d60d",
-            "Category": "Hidden gems, B-sides, and influential album tracks"
+            "Category": "Hidden gems, B-sides, and influential album tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Les Calamit\u00e9s",
             "TrackTitle": "Toutes les nuits",
             "MBID": "ce940dc5-3c9b-4763-aeca-5bf768d0c7db",
-            "Category": "Hidden gems, B-sides, and influential album tracks"
+            "Category": "Hidden gems, B-sides, and influential album tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Taxi Girl",
             "TrackTitle": "Cherchez le gar\u00e7on",
             "MBID": "e437077f-9441-4632-ae72-5b7dd3b88720",
-            "Category": "Hidden gems, B-sides, and influential album tracks"
+            "Category": "Hidden gems, B-sides, and influential album tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Jacno",
             "TrackTitle": "Rectangle",
             "MBID": "cb8ad080-6489-470b-816a-3891590ad5df",
-            "Category": "Hidden gems, B-sides, and influential album tracks"
+            "Category": "Hidden gems, B-sides, and influential album tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Plastic Bertrand",
             "TrackTitle": "Hula Hoop",
             "MBID": "2f08e401-7abb-4159-809f-a718afb075ff",
-            "Category": "Hidden gems, B-sides, and influential album tracks"
+            "Category": "Hidden gems, B-sides, and influential album tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Elli Medeiros",
             "TrackTitle": "Toi mon toit",
             "MBID": "4075386c-4fbe-4407-ba42-43a2d2dd7265",
-            "Category": "Hidden gems, B-sides, and influential album tracks"
+            "Category": "Hidden gems, B-sides, and influential album tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Alain Chamfort",
             "TrackTitle": "Manureva",
             "MBID": "0830304c-3ca7-4798-98c4-90443cb6a1d1",
-            "Category": "Hidden gems, B-sides, and influential album tracks"
+            "Category": "Hidden gems, B-sides, and influential album tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Yves Simon",
             "TrackTitle": "Au pays des merveilles de Juliet",
             "MBID": "6b262824-9b5f-482b-a46b-8ca797895b58",
-            "Category": "Hidden gems, B-sides, and influential album tracks"
+            "Category": "Hidden gems, B-sides, and influential album tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Brigitte Bardot",
             "TrackTitle": "Contact",
             "MBID": "147d3da3-935d-4f1a-a2d3-65881e17989d",
-            "Category": "Hidden gems, B-sides, and influential album tracks"
+            "Category": "Hidden gems, B-sides, and influential album tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Anna Karina",
             "TrackTitle": "Sous le soleil exactement",
             "MBID": "999d8095-f84a-4e06-a8f7-108348b761ab",
-            "Category": "Hidden gems, B-sides, and influential album tracks"
+            "Category": "Hidden gems, B-sides, and influential album tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Juliette Gr\u00e9co",
             "TrackTitle": "D\u00e9shabillez-moi",
             "MBID": "86b0b10a-16e2-470d-9c18-f005caa05efe",
-            "Category": "Hidden gems, B-sides, and influential album tracks"
+            "Category": "Hidden gems, B-sides, and influential album tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Brigitte Fontaine",
             "TrackTitle": "Comme \u00e0 la radio",
             "MBID": "2ec8746c-7202-4237-9d69-2edb6d78d6df",
-            "Category": "Hidden gems, B-sides, and influential album tracks"
+            "Category": "Hidden gems, B-sides, and influential album tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Jean Ferrat",
             "TrackTitle": "La Montagne",
             "MBID": "c1ad6402-96d2-463d-b692-e5b1720a84a7",
-            "Category": "Hidden gems, B-sides, and influential album tracks"
+            "Category": "Hidden gems, B-sides, and influential album tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Barbara",
             "TrackTitle": "L\u2019Aigle noir",
             "MBID": "e838bf8a-d6b1-49e8-a6ff-d66dc8230ceb",
-            "Category": "Hidden gems, B-sides, and influential album tracks"
+            "Category": "Hidden gems, B-sides, and influential album tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "L\u00e9o Ferr\u00e9",
             "TrackTitle": "Avec le temps",
             "MBID": "d69172c1-900a-4f82-b2d3-702a7790568a",
-            "Category": "Hidden gems, B-sides, and influential album tracks"
+            "Category": "Hidden gems, B-sides, and influential album tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Georges Moustaki",
             "TrackTitle": "Le M\u00e9t\u00e8que",
             "MBID": "3ac3aeca-7030-4d08-8350-36c91bd0535e",
-            "Category": "Hidden gems, B-sides, and influential album tracks"
+            "Category": "Hidden gems, B-sides, and influential album tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Henri Salvador",
             "TrackTitle": "Jardin d\u2019hiver",
             "MBID": "9ccfcb1e-25ae-44ad-9910-007146b76c79",
-            "Category": "Hidden gems, B-sides, and influential album tracks"
+            "Category": "Hidden gems, B-sides, and influential album tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Carla Bruni",
             "TrackTitle": "Rapha\u00ebl",
             "MBID": "8e303c19-7b4b-4019-9830-af1743233f95",
-            "Category": "Hidden gems, B-sides, and influential album tracks"
+            "Category": "Hidden gems, B-sides, and influential album tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Benjamin Biolay",
             "TrackTitle": "Ton h\u00e9ritage",
             "MBID": "e72293c5-08fd-4e74-a8c5-00ba954dfb4c",
-            "Category": "Hidden gems, B-sides, and influential album tracks"
+            "Category": "Hidden gems, B-sides, and influential album tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Keren Ann",
             "TrackTitle": "Not Going Anywhere",
             "MBID": "a5defa7c-f574-449b-b6ec-de1f18d1493b",
-            "Category": "Hidden gems, B-sides, and influential album tracks"
+            "Category": "Hidden gems, B-sides, and influential album tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Volap\u00fck",
             "TrackTitle": "Nouvelle vague",
             "MBID": "30373de7-f4b9-40dc-a3ef-ff8a63f026bd",
-            "Category": "Hidden gems, B-sides, and influential album tracks"
+            "Category": "Hidden gems, B-sides, and influential album tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Coralie Cl\u00e9ment",
             "TrackTitle": "Samba de mon c\u0153ur qui bat",
             "MBID": "c29a572f-90ed-40bd-a989-c2fd0a570156",
-            "Category": "Hidden gems, B-sides, and influential album tracks"
+            "Category": "Hidden gems, B-sides, and influential album tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Emily Loizeau",
             "TrackTitle": "L\u2019autre bout du monde",
             "MBID": "4f28a4cc-74f0-4f35-9605-48e3c67067a4",
-            "Category": "Hidden gems, B-sides, and influential album tracks"
+            "Category": "Hidden gems, B-sides, and influential album tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "\u2010M\u2010",
             "TrackTitle": "Qui de nous deux",
             "MBID": "366036e7-f550-4802-abf7-c1a6fb605e74",
-            "Category": "Hidden gems, B-sides, and influential album tracks"
+            "Category": "Hidden gems, B-sides, and influential album tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "YELLE",
             "TrackTitle": "\u00c0 cause des gar\u00e7ons",
             "MBID": "da041fd2-cf96-4560-8257-0646a9320e2c",
-            "Category": "Hidden gems, B-sides, and influential album tracks"
+            "Category": "Hidden gems, B-sides, and influential album tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "La Femme",
             "TrackTitle": "O\u00f9 va le monde",
             "MBID": "3d628e1f-cc59-4855-aec4-3c3abae20d30",
-            "Category": "Hidden gems, B-sides, and influential album tracks"
+            "Category": "Hidden gems, B-sides, and influential album tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Vendredi sur Mer",
             "TrackTitle": "La Femme \u00e0 la peau bleue",
             "MBID": "b711b77e-581b-436c-8ab7-fc6b2bf87d23",
-            "Category": "Hidden gems, B-sides, and influential album tracks"
+            "Category": "Hidden gems, B-sides, and influential album tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Kim Giani",
             "TrackTitle": "Solenn (feat. Cl\u00e9a Vincent)",
             "MBID": "01a6e95d-0f32-48e5-b17c-b1a74c4f7250",
-            "Category": "Hidden gems, B-sides, and influential album tracks"
+            "Category": "Hidden gems, B-sides, and influential album tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Sage",
             "TrackTitle": "In Between",
             "MBID": "43273c15-285d-4c05-b08a-4ddb02b0619f",
-            "Category": "Hidden gems, B-sides, and influential album tracks"
+            "Category": "Hidden gems, B-sides, and influential album tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Juniore",
             "TrackTitle": "Panique",
             "MBID": "ce0381c0-dc46-4506-a2f0-dc9073aaf619",
-            "Category": "Hidden gems, B-sides, and influential album tracks"
+            "Category": "Hidden gems, B-sides, and influential album tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Moodo\u00efd",
             "TrackTitle": "Les Chemins de traverse",
             "MBID": "f233ba13-679f-4f52-b7c2-6ffa44e6bbba",
-            "Category": "Hidden gems, B-sides, and influential album tracks"
+            "Category": "Hidden gems, B-sides, and influential album tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "P\u00e9pite",
             "TrackTitle": "Les Bateaux",
             "MBID": "18543aed-e40e-4b64-9d8d-7b89a42cb861",
-            "Category": "Hidden gems, B-sides, and influential album tracks"
+            "Category": "Hidden gems, B-sides, and influential album tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Jeanne Added",
             "TrackTitle": "Look at Them",
             "MBID": "9045eb07-8c8f-48a9-89d0-670fd826d253",
-            "Category": "Hidden gems, B-sides, and influential album tracks"
+            "Category": "Hidden gems, B-sides, and influential album tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Ottawan",
             "TrackTitle": "D.I.S.C.O.",
             "MBID": "f9c24a23-9866-461b-875d-7cb8c767d647",
-            "Category": "High-energy peak-time floor fillers"
+            "Category": "High-energy peak-time floor fillers",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Plastic Bertrand",
             "TrackTitle": "\u00c7a plane pour moi",
             "MBID": "b0f19cd5-cc77-4f00-9ce0-cae87cd9335a",
-            "Category": "High-energy peak-time floor fillers"
+            "Category": "High-energy peak-time floor fillers",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Desireless",
             "TrackTitle": "Voyage Voyage",
             "MBID": "0f136cf1-e093-42c6-9d7f-45bf5e37dcd7",
-            "Category": "High-energy peak-time floor fillers"
+            "Category": "High-energy peak-time floor fillers",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Partenaire Particulier",
             "TrackTitle": "Partenaire particulier",
             "MBID": "cb392546-1660-4271-9462-be5d1b1b781b",
-            "Category": "High-energy peak-time floor fillers"
+            "Category": "High-energy peak-time floor fillers",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Fran\u00e7ois Feldman",
             "TrackTitle": "Les Valses de Vienne",
             "MBID": "a69f2288-923b-4a0e-9a0f-71596bb68328",
-            "Category": "High-energy peak-time floor fillers"
+            "Category": "High-energy peak-time floor fillers",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Jean-Pierre Mader",
             "TrackTitle": "Macumba",
             "MBID": "f21f9055-2e08-4917-b401-f960d75bac2d",
-            "Category": "High-energy peak-time floor fillers"
+            "Category": "High-energy peak-time floor fillers",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "D\u00e9but de Soir\u00e9e",
             "TrackTitle": "Nuit de folie",
             "MBID": "c1fa5710-2225-4db4-b2d9-ae17da8503c2",
-            "Category": "High-energy peak-time floor fillers"
+            "Category": "High-energy peak-time floor fillers",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Philippe Lavil",
             "TrackTitle": "Il tape sur des bambous",
             "MBID": "a662f80c-a2ff-46fe-b5ae-4231a605d567",
-            "Category": "High-energy peak-time floor fillers"
+            "Category": "High-energy peak-time floor fillers",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Images",
             "TrackTitle": "Les d\u00e9mons de minuit",
             "MBID": "969ec568-2a91-48b2-b604-074f91152a06",
-            "Category": "High-energy peak-time floor fillers"
+            "Category": "High-energy peak-time floor fillers",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Cookie Dingler",
             "TrackTitle": "Femme lib\u00e9r\u00e9e",
             "MBID": "f185843c-ecb5-4b21-b003-fa727e2487c8",
-            "Category": "High-energy peak-time floor fillers"
+            "Category": "High-energy peak-time floor fillers",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Jakie Quartz",
             "TrackTitle": "Mise au point",
             "MBID": "3d5bff1f-a455-414c-a31e-fac8e91e041f",
-            "Category": "High-energy peak-time floor fillers"
+            "Category": "High-energy peak-time floor fillers",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Frida Boccara",
             "TrackTitle": "Cent Mille Chansons",
             "MBID": "8d60b270-af95-46ff-970f-08dcfef635f3",
-            "Category": "High-energy peak-time floor fillers"
+            "Category": "High-energy peak-time floor fillers",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Sheila",
             "TrackTitle": "L'\u00e9cole est finie",
             "MBID": "6062b8c1-fa2e-4a10-b41d-2796abb56c54",
-            "Category": "High-energy peak-time floor fillers"
+            "Category": "High-energy peak-time floor fillers",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "France Gall",
             "TrackTitle": "R\u00e9siste",
             "MBID": "aa2178ce-afba-4ae1-8fe5-1a28864534b3",
-            "Category": "High-energy peak-time floor fillers"
+            "Category": "High-energy peak-time floor fillers",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Serge Gainsbourg",
             "TrackTitle": "Bonnie and Clyde",
             "MBID": "055b0569-d53b-4fcb-9f6e-23209bcd1840",
-            "Category": "High-energy peak-time floor fillers"
+            "Category": "High-energy peak-time floor fillers",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Jacques Higelin",
             "TrackTitle": "Tomb\u00e9 du ciel",
             "MBID": "46b68552-a99a-4cdb-98f0-e90314c1eaff",
-            "Category": "High-energy peak-time floor fillers"
+            "Category": "High-energy peak-time floor fillers",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Renaud",
             "TrackTitle": "D\u00e8s que le vent soufflera",
             "MBID": "4d6456e6-1357-4d3c-9b8c-dc16a3933c88",
-            "Category": "High-energy peak-time floor fillers"
+            "Category": "High-energy peak-time floor fillers",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Les Rita Mitsouko",
             "TrackTitle": "C'est comme \u00e7a",
             "MBID": "83932aef-1c94-46dd-b5be-74ed7e504077",
-            "Category": "High-energy peak-time floor fillers"
+            "Category": "High-energy peak-time floor fillers",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "T\u00e9l\u00e9phone",
             "TrackTitle": "Cendrillon",
             "MBID": "ce6ba26f-9e13-4976-b1bd-4ef423df9e5e",
-            "Category": "High-energy peak-time floor fillers"
+            "Category": "High-energy peak-time floor fillers",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Noir D\u00e9sir",
             "TrackTitle": "Le vent nous portera",
             "MBID": "fed699c3-5da7-4e91-9699-b70005b4806d",
-            "Category": "High-energy peak-time floor fillers"
+            "Category": "High-energy peak-time floor fillers",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Daft Punk",
             "TrackTitle": "Harder, Better, Faster, Stronger",
             "MBID": "0b064e82-a1cf-4821-b7d9-7313ae89d63c",
-            "Category": "High-energy peak-time floor fillers"
+            "Category": "High-energy peak-time floor fillers",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Justice",
             "TrackTitle": "Phantom, Pt II",
             "MBID": "27f0ce6f-4f87-4aff-b683-24449b38ed53",
-            "Category": "High-energy peak-time floor fillers"
+            "Category": "High-energy peak-time floor fillers",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Phoenix",
             "TrackTitle": "1901",
             "MBID": "34e6471a-d8ae-490f-8d63-7ee6f26f49cb",
-            "Category": "High-energy peak-time floor fillers"
+            "Category": "High-energy peak-time floor fillers",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "M83",
             "TrackTitle": "Midnight City",
             "MBID": "bb755129-bde5-4cb5-b3df-d6fe2cfeb9f4",
-            "Category": "High-energy peak-time floor fillers"
+            "Category": "High-energy peak-time floor fillers",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Christine and the Queens",
             "TrackTitle": "Tilted",
             "MBID": "f633ac22-a5d3-48a2-a251-e80665d45e13",
-            "Category": "High-energy peak-time floor fillers"
+            "Category": "High-energy peak-time floor fillers",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Stromae",
             "TrackTitle": "Tous Les M\u00eames",
             "MBID": "b0d00055-a53a-43ae-acc2-cc8e06404dfc",
-            "Category": "High-energy peak-time floor fillers"
+            "Category": "High-energy peak-time floor fillers",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "OrelSan",
             "TrackTitle": "Basique",
             "MBID": "1291cf5a-0d0f-45b7-a82f-c3cc895cb16e",
-            "Category": "High-energy peak-time floor fillers"
+            "Category": "High-energy peak-time floor fillers",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Ang\u00e8le",
             "TrackTitle": "La Loi de Murphy",
             "MBID": "d2c29827-29d0-4327-82c2-b8a706b969ab",
-            "Category": "High-energy peak-time floor fillers"
+            "Category": "High-energy peak-time floor fillers",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Les Mashups de Vianney",
             "TrackTitle": "Coldpson (Synapson feat. Anna Kova vs. Coldplay)",
             "MBID": "562e04b1-6912-4944-b692-9b8ca26d8718",
-            "Category": "High-energy peak-time floor fillers"
+            "Category": "High-energy peak-time floor fillers",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Ofenbach",
             "TrackTitle": "Be Mine",
             "MBID": "b66fae9c-bada-4282-a4f8-611d4cf1e967",
-            "Category": "High-energy peak-time floor fillers"
+            "Category": "High-energy peak-time floor fillers",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Kungs vs. Cookin\u2019 on 3 Burners",
             "TrackTitle": "This Girl",
             "MBID": "09751eab-2388-4204-80cb-4a5957ea1c00",
-            "Category": "High-energy peak-time floor fillers"
+            "Category": "High-energy peak-time floor fillers",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Martin Solveig & Dragonette",
             "TrackTitle": "Hello",
             "MBID": "c49f6360-0904-479a-99ae-04fc9b218155",
-            "Category": "High-energy peak-time floor fillers"
+            "Category": "High-energy peak-time floor fillers",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "David Guetta ft. Kelly Rowland",
             "TrackTitle": "When Love Takes Over",
             "MBID": "0dcfd48d-e64a-460e-ab97-9ff0fb39d472",
-            "Category": "High-energy peak-time floor fillers"
+            "Category": "High-energy peak-time floor fillers",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "The Supermen Lovers",
             "TrackTitle": "Starlight",
             "MBID": "902e90ad-8b30-4bc5-82fd-7380c62fd097",
-            "Category": "High-energy peak-time floor fillers"
+            "Category": "High-energy peak-time floor fillers",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Bob Sinclar",
             "TrackTitle": "World, Hold On (Children of the Sky)",
             "MBID": "2e032185-78ec-4edf-8072-48cd8626ed79",
-            "Category": "High-energy peak-time floor fillers"
+            "Category": "High-energy peak-time floor fillers",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "\u00c9tienne Daho",
             "TrackTitle": "Le Grand Sommeil",
             "MBID": "a5d1277a-89e9-42e9-b03c-8f38724c32dd",
-            "Category": "High-energy peak-time floor fillers"
+            "Category": "High-energy peak-time floor fillers",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Axel Bauer",
             "TrackTitle": "Cargo",
             "MBID": "38018e79-de74-496d-a63e-bb18407786e1",
-            "Category": "High-energy peak-time floor fillers"
+            "Category": "High-energy peak-time floor fillers",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Christophe Ma\u00e9",
             "TrackTitle": "On s\u2019attache",
             "MBID": "297eb32d-a4d2-4677-8f47-64c9e1966f0f",
-            "Category": "High-energy peak-time floor fillers"
+            "Category": "High-energy peak-time floor fillers",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Lio",
             "TrackTitle": "Le banana split",
             "MBID": "1f893c95-328f-4c86-9334-907f76451387",
-            "Category": "High-energy peak-time floor fillers"
+            "Category": "High-energy peak-time floor fillers",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Louise Attaque",
             "TrackTitle": "J\u2019t\u2019emm\u00e8ne au vent",
             "MBID": "291f8a78-3472-41fe-9d06-0c7923244c3a",
-            "Category": "High-energy peak-time floor fillers"
+            "Category": "High-energy peak-time floor fillers",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Carla Bruni",
             "TrackTitle": "Quelqu'un m'a dit",
             "MBID": "e2c85590-68d1-4bcb-986a-541b88a0f42a",
-            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Vincent Delerm",
             "TrackTitle": "Fanny Ardant et moi",
             "MBID": "0865c1de-ee72-4af5-8bc0-e64358021359",
-            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Benjamin Biolay",
             "TrackTitle": "Padam",
             "MBID": "5710fe6d-cedf-4984-8a1f-37a58ca2b906",
-            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "The Manhattan Transfer",
             "TrackTitle": "Malaise En Malaisie",
             "MBID": "db19d7c1-f3f6-408e-ba57-2116fe492be6",
-            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Fran\u00e7oise Hardy",
             "TrackTitle": "La Question",
             "MBID": "c994c017-8dd2-4486-ae6d-6b57621fa2da",
-            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Yves Montand",
             "TrackTitle": "Les Feuilles mortes",
             "MBID": "6fdc92f3-411f-4724-838c-63e1ff359488",
-            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Serge Gainsbourg",
             "TrackTitle": "Initials B.B.",
             "MBID": "507f3658-4056-4b7e-a759-245f2f6933e0",
-            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Jane Birkin",
             "TrackTitle": "Ex fan des sixties",
             "MBID": "b62fd524-2100-455e-8041-1fdd848b67fb",
-            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Brigitte Bardot",
             "TrackTitle": "Harley Davidson",
             "MBID": "3c276a99-e986-47ab-b64b-6f6d13afd10c",
-            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Alain Delon & Dalida",
             "TrackTitle": "Paroles, paroles",
             "MBID": "a3a39c15-980f-41d9-85f7-09bb1a081e6f",
-            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Charles Aznavour",
             "TrackTitle": "For me formidable",
             "MBID": "08c8efa6-eb61-4b7a-8956-66bcef3d9fca",
-            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Gilbert B\u00e9caud",
             "TrackTitle": "Nathalie",
             "MBID": "3b30777d-794b-4773-bcf5-2d4d4a0a227a",
-            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Georges Brassens",
             "TrackTitle": "Le Gorille",
             "MBID": "ae26df60-3a20-4fc5-9be9-bcf155b606eb",
-            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Jacques Brel",
             "TrackTitle": "Ne me quitte pas",
             "MBID": "27b1703b-c0fb-473d-a5af-861d949e33af",
-            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Barbara",
             "TrackTitle": "Dis, quand reviendras\u2010tu",
             "MBID": "461a99ee-6c0b-4b45-a375-68f113c9e6d7",
-            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Julien Clerc",
             "TrackTitle": "Ma pr\u00e9f\u00e9rence",
             "MBID": "af6bd86f-98ec-4cbc-8af7-db240df3887f",
-            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Alain Souchon",
             "TrackTitle": "Bidon",
             "MBID": "101b5464-b12d-44e0-b750-92676654e916",
-            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Laurent Voulzy",
             "TrackTitle": "Rockollection",
             "MBID": "7d510116-d560-4faa-bbe8-d96cc1366258",
-            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Vanessa Paradis",
             "TrackTitle": "Il y a",
             "MBID": "ccc43ea5-8328-4faf-b73a-0a58f2d24c92",
-            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Keren Ann",
             "TrackTitle": "Jardin d\u2019hiver",
             "MBID": "a321da91-7fb5-4e9d-8cc3-ef3c9efe956b",
-            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Cocoon",
             "TrackTitle": "Chupee",
             "MBID": "c07e568f-4d27-4c05-bc5b-58eddcf5a32d",
-            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Yann Tiersen",
             "TrackTitle": "Comptine d'un autre \u00e9t\u00e9 l'apr\u00e8s midi (LEMMiNO remix)",
             "MBID": "6b0455b8-40f8-42ce-b33b-f7d262f0b494",
-            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Air",
             "TrackTitle": "All I Need",
             "MBID": "e852dd2d-0e5e-4360-91f7-053dd239c18c",
-            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "S\u00e9bastien Tellier",
             "TrackTitle": "Cochon ville",
             "MBID": "fded26c6-6027-4382-81d1-1ef15216f0ee",
-            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Electric Orange",
             "TrackTitle": "Myd",
             "MBID": "61127509-aabf-43a2-a625-1f44cd5463f2",
-            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Acid Arab",
             "TrackTitle": "Staifia (Polo & Pan remix)",
             "MBID": "b27d543d-0d23-4ee4-8b31-b7e5b9dff802",
-            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "L\u2019Imp\u00e9ratrice",
             "TrackTitle": "Agitations tropicales",
             "MBID": "5293528f-51da-4de5-8c79-f392e0a0ec6c",
-            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "The Blaze",
             "TrackTitle": "Virile",
             "MBID": "83055779-937e-4764-b45c-f6e5539021da",
-            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Charlotte Gainsbourg",
             "TrackTitle": "Lying With You",
             "MBID": "1b4e0429-7e74-4494-b936-ea4ad6c7a7df",
-            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Fishbach",
             "TrackTitle": "Un autre que moi",
             "MBID": "8a408cbd-e542-45b0-a4fc-4861f3eaee2c",
-            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Clara Luciani",
             "TrackTitle": "Respire encore",
             "MBID": "d5c3951b-c311-4db2-bce4-4e07a2fa5e51",
-            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Pomme",
             "TrackTitle": "Ceux qui r\u00eavent",
             "MBID": "15f88fe4-b808-43d4-94ab-b367ed065b85",
-            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Vendredi sur Mer",
             "TrackTitle": "\u00c9coute ch\u00e9rie",
             "MBID": "87907f67-6809-4c50-9b94-81486b56a703",
-            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Agar Agar",
             "TrackTitle": "Sorry About The Carpet",
             "MBID": "1d253b92-c841-46c5-ac7b-a6f8bb498e8b",
-            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Flavien Berger",
             "TrackTitle": "La F\u00eate noire",
             "MBID": "48c6b10b-7138-4446-b271-651a79ad235f",
-            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Therapie TAXI",
             "TrackTitle": "Salop(e)",
             "MBID": "f5d73cb5-a4d8-48f8-841a-2f2a73636557",
-            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Ang\u00e8le",
             "TrackTitle": "Ta reine",
             "MBID": "e20630fc-752f-4741-9bc0-c421ae3bf4c8",
-            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Grima\u00e7e",
             "TrackTitle": "La Marche De L'empereur",
             "MBID": "9fb4f7c2-0e42-4def-a47f-29442ac62146",
-            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Julien Dor\u00e9",
             "TrackTitle": "Coco C\u00e2line",
             "MBID": "f80364f8-69cd-4af3-9123-9fc48e99a890",
-            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Woodkid",
             "TrackTitle": "Iron",
             "MBID": "60bec6b5-1ce8-4ed4-b4dc-1c0f3b0ef07f",
-            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits",
+            "TrackComposer": ""
         }
     ]
 }

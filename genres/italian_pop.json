@@ -1,5 +1,7 @@
 {
     "SearchField": "Italian Pop",
+    "Category": "",
+    "Focus": "artist",
     "RefreshRate": 28,
     "AppendMode": "append",
     "Timestamp": "2026-05-06T16:41:41Z",
@@ -9,1675 +11,1954 @@
             "TrackArtist": "Umberto Tozzi",
             "TrackTitle": "Gloria",
             "MBID": "621ad017-7bf7-4b20-9f81-bbeaa850c6b6",
-            "Category": "Late-night anthems and closing tracks"
+            "Category": "Late-night anthems and closing tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Ricchi e Poveri",
             "TrackTitle": "Sar\u00e0 perch\u00e9 ti amo",
             "MBID": "6d72d556-b456-4454-b4bf-a8de1b1b336b",
-            "Category": "Late-night anthems and closing tracks"
+            "Category": "Late-night anthems and closing tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Toto Cutugno",
             "TrackTitle": "L'Italiano",
             "MBID": "931eb0bd-4c0e-42f2-9604-9425a32dc772",
-            "Category": "Late-night anthems and closing tracks"
+            "Category": "Late-night anthems and closing tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Al Bano & Romina Power",
             "TrackTitle": "Felicit\u00e0",
             "MBID": "3e42fae0-f776-4dd2-89ca-cf87a3b8d37a",
-            "Category": "Late-night anthems and closing tracks"
+            "Category": "Late-night anthems and closing tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Eros Ramazzotti",
             "TrackTitle": "Pi\u00f9 bella cosa",
             "MBID": "7ae05776-a370-4129-81c6-7a65d68bf207",
-            "Category": "Late-night anthems and closing tracks"
+            "Category": "Late-night anthems and closing tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Laura Pausini",
             "TrackTitle": "La solitudine",
             "MBID": "5e2c1922-5fb3-4044-a32e-f465d4118237",
-            "Category": "Late-night anthems and closing tracks"
+            "Category": "Late-night anthems and closing tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Zucchero",
             "TrackTitle": "Diamante",
             "MBID": "e8c43b38-d909-40ef-99b5-73e5d884baae",
-            "Category": "Late-night anthems and closing tracks"
+            "Category": "Late-night anthems and closing tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Lucio Dalla",
             "TrackTitle": "Caruso",
             "MBID": "b1926a2b-2731-463b-a7f7-2a53499d6cf5",
-            "Category": "Late-night anthems and closing tracks"
+            "Category": "Late-night anthems and closing tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Franco Battiato",
             "TrackTitle": "La cura",
             "MBID": "2e5148d8-8838-466a-8f56-be4813e88d79",
-            "Category": "Late-night anthems and closing tracks"
+            "Category": "Late-night anthems and closing tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Mina",
             "TrackTitle": "Grande grande grande",
             "MBID": "9ed85397-f21d-49fc-8e32-f5eb3186729a",
-            "Category": "Late-night anthems and closing tracks"
+            "Category": "Late-night anthems and closing tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Adriano Celentano",
             "TrackTitle": "Azzurro",
             "MBID": "f9511340-ed2c-40c6-87ea-d4bf69639935",
-            "Category": "Late-night anthems and closing tracks"
+            "Category": "Late-night anthems and closing tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Vasco Rossi",
             "TrackTitle": "Albachiara",
             "MBID": "0d319f45-5521-453f-bf36-bce344bc735f",
-            "Category": "Late-night anthems and closing tracks"
+            "Category": "Late-night anthems and closing tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Ligabue",
             "TrackTitle": "Piccola stella senza cielo",
             "MBID": "9a6255b1-e268-4349-9db7-7467753eda1b",
-            "Category": "Late-night anthems and closing tracks"
+            "Category": "Late-night anthems and closing tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Gianna Nannini",
             "TrackTitle": "Meravigliosa creatura",
             "MBID": "166340cd-dac8-430a-b973-1ba9bc44a9f5",
-            "Category": "Late-night anthems and closing tracks"
+            "Category": "Late-night anthems and closing tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Renato Zero",
             "TrackTitle": "I migliori anni della nostra vita",
             "MBID": "75737271-92a8-46da-b170-b991b96b551b",
-            "Category": "Late-night anthems and closing tracks"
+            "Category": "Late-night anthems and closing tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Claudio Baglioni",
             "TrackTitle": "Questo piccolo grande amore",
             "MBID": "2ef128e1-8f63-44d4-94d1-dbb7ebabe7c6",
-            "Category": "Late-night anthems and closing tracks"
+            "Category": "Late-night anthems and closing tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Antonello Venditti",
             "TrackTitle": "Roma capoccia",
             "MBID": "ca155bca-3903-46f5-a97a-f4ca7172b7ca",
-            "Category": "Late-night anthems and closing tracks"
+            "Category": "Late-night anthems and closing tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Fabrizio De Andr\u00e9",
             "TrackTitle": "Bocca di rosa",
             "MBID": "9ae5c0c4-c7b6-4c8e-84f5-acafbd15bfb1",
-            "Category": "Late-night anthems and closing tracks"
+            "Category": "Late-night anthems and closing tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Lucio Battisti",
             "TrackTitle": "Il mio canto libero",
             "MBID": "7093f1f2-ca42-48e4-aef9-3b240af3fb46",
-            "Category": "Late-night anthems and closing tracks"
+            "Category": "Late-night anthems and closing tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Domenico Modugno",
             "TrackTitle": "Volare (Nel Blu Dipinto Di Blu)",
             "MBID": "806a42a3-f931-4bcf-b7e9-70ae4dc85e45",
-            "Category": "Late-night anthems and closing tracks"
+            "Category": "Late-night anthems and closing tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Rita Pavone",
             "TrackTitle": "Cuore",
             "MBID": "b562bc80-ed7d-4cfb-afa9-df34430b7d22",
-            "Category": "Late-night anthems and closing tracks"
+            "Category": "Late-night anthems and closing tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Gianni Morandi",
             "TrackTitle": "Fatti mandare dalla mamma a prendere il latte",
             "MBID": "02a7a886-6e2b-48ca-bd38-e74dfc416454",
-            "Category": "Late-night anthems and closing tracks"
+            "Category": "Late-night anthems and closing tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Raffaella Carr\u00e0",
             "TrackTitle": "Tanti auguri",
             "MBID": "4defc87e-ef10-4114-b739-eb7c5ee894ed",
-            "Category": "Late-night anthems and closing tracks"
+            "Category": "Late-night anthems and closing tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Ornella Vanoni",
             "TrackTitle": "L\u2019appuntamento",
             "MBID": "d8d665ef-04c6-479f-b6cc-e2e4306eec13",
-            "Category": "Late-night anthems and closing tracks"
+            "Category": "Late-night anthems and closing tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Giorgia",
             "TrackTitle": "Come saprei",
             "MBID": "23ebe345-bdae-4017-88b5-ee70e25fd0c1",
-            "Category": "Late-night anthems and closing tracks"
+            "Category": "Late-night anthems and closing tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Elisa",
             "TrackTitle": "Luce (Tramonti a nord est)",
             "MBID": "655efa0b-3c44-4b9a-84d4-08ddfc0cd743",
-            "Category": "Late-night anthems and closing tracks"
+            "Category": "Late-night anthems and closing tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Andrea Bocelli",
             "TrackTitle": "Con Te Partiro",
             "MBID": "b1cee329-c186-438a-857e-c7d09180eae6",
-            "Category": "Late-night anthems and closing tracks"
+            "Category": "Late-night anthems and closing tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Nek",
             "TrackTitle": "Laura non c'\u00e8",
             "MBID": "22cfeb76-fda9-4c78-8a1d-5235fa37c95b",
-            "Category": "Late-night anthems and closing tracks"
+            "Category": "Late-night anthems and closing tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "883",
             "TrackTitle": "Hanno ucciso l\u2019Uomo Ragno",
             "MBID": "35b41289-4596-41d2-ae37-ed30b54eca11",
-            "Category": "Late-night anthems and closing tracks"
+            "Category": "Late-night anthems and closing tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "L\u00f9napop",
             "TrackTitle": "50 Special",
             "MBID": "f4304b43-d43b-49cc-974a-7a1d94480586",
-            "Category": "Late-night anthems and closing tracks"
+            "Category": "Late-night anthems and closing tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Tiziano Ferro",
             "TrackTitle": "Sere nere",
             "MBID": "8296bebd-cea9-4bea-8181-02a6269e4f8a",
-            "Category": "Late-night anthems and closing tracks"
+            "Category": "Late-night anthems and closing tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Cesare Cremonini",
             "TrackTitle": "Mondo",
             "MBID": "6f6197c5-9ba6-4fe5-bb6a-f8c5b85a1408",
-            "Category": "Late-night anthems and closing tracks"
+            "Category": "Late-night anthems and closing tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Marco Mengoni",
             "TrackTitle": "L'essenziale",
             "MBID": "1c938d2d-0aba-42ca-b6b6-b034165165ac",
-            "Category": "Late-night anthems and closing tracks"
+            "Category": "Late-night anthems and closing tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Diodato",
             "TrackTitle": "Fai rumore",
             "MBID": "3212ee48-6235-4d37-98fe-20535865cdcf",
-            "Category": "Late-night anthems and closing tracks"
+            "Category": "Late-night anthems and closing tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Mahmood",
             "TrackTitle": "Soldi",
             "MBID": "4a87c4cb-40a6-4608-a9af-0b544ce8edea",
-            "Category": "Late-night anthems and closing tracks"
+            "Category": "Late-night anthems and closing tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Ultimo",
             "TrackTitle": "I tuoi particolari",
             "MBID": "77b30bc4-8419-492c-8cc4-646f44b45750",
-            "Category": "Late-night anthems and closing tracks"
+            "Category": "Late-night anthems and closing tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Irama",
             "TrackTitle": "La genesi del tuo colore",
             "MBID": "eadbadfb-3f52-4d79-8208-7a86625b76c3",
-            "Category": "Late-night anthems and closing tracks"
+            "Category": "Late-night anthems and closing tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Bruxxx Music Shaker",
             "TrackTitle": "Brividi Sere nere (Mahmood & Blanco vs. Tiziano Ferro)",
             "MBID": "f42b8246-88b4-4a1a-99fc-e8adc95c7176",
-            "Category": "Late-night anthems and closing tracks"
+            "Category": "Late-night anthems and closing tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "sangiovanni",
             "TrackTitle": "Malibu",
             "MBID": "2f9e6344-efdf-4b9e-be82-f9356aed8b9e",
-            "Category": "Late-night anthems and closing tracks"
+            "Category": "Late-night anthems and closing tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Fiorella Mannoia",
             "TrackTitle": "Quello che le donne non dicono",
             "MBID": "42774ba8-e1dd-4d79-b3d0-6896c40a4c57",
-            "Category": "Late-night anthems and closing tracks"
+            "Category": "Late-night anthems and closing tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Sarah Brightman & Andrea Bocelli",
             "TrackTitle": "Time to Say Goodbye",
             "MBID": "8f5faaf8-3f38-4c26-bf0f-40435de6e7ad",
-            "Category": "Crossover hits that also charted in other genres"
+            "Category": "Crossover hits that also charted in other genres",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Eros Ramazzotti feat. Tina Turner",
             "TrackTitle": "Can\u2019t Stop Thinking of You",
             "MBID": "2c2221f3-94fa-41e8-89f8-cb4a1537263e",
-            "Category": "Crossover hits that also charted in other genres"
+            "Category": "Crossover hits that also charted in other genres",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Laura Pausini",
             "TrackTitle": "Strani amori",
             "MBID": "e537f61d-365f-4e1e-8118-f191789f0b76",
-            "Category": "Crossover hits that also charted in other genres"
+            "Category": "Crossover hits that also charted in other genres",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Zucchero & Paul Young",
             "TrackTitle": "Senza Una Donna (without a Woman)",
             "MBID": "a780f077-ccfd-4185-8222-845eafd919ec",
-            "Category": "Crossover hits that also charted in other genres"
+            "Category": "Crossover hits that also charted in other genres",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Eiffel 65",
             "TrackTitle": "Blue (Da Ba Dee)",
             "MBID": "2231116c-8f98-4da5-8384-7d2ee14badeb",
-            "Category": "Crossover hits that also charted in other genres"
+            "Category": "Crossover hits that also charted in other genres",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Gigi D\u2019Agostino",
             "TrackTitle": "L'amour toujours (I'll Fly with You)",
             "MBID": "19987397-291d-4ef0-949a-6e3397219492",
-            "Category": "Crossover hits that also charted in other genres"
+            "Category": "Crossover hits that also charted in other genres",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Raffaella Carr\u00e0",
             "TrackTitle": "A far l\u2019amore comincia tu",
             "MBID": "d6484016-021d-4a31-9a43-c18472dc3490",
-            "Category": "Crossover hits that also charted in other genres"
+            "Category": "Crossover hits that also charted in other genres",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Adriano Celentano",
             "TrackTitle": "Prisencolinensinainciusol",
             "MBID": "0d9715e2-0afa-43f2-a19e-13eaf3cf6f96",
-            "Category": "Crossover hits that also charted in other genres"
+            "Category": "Crossover hits that also charted in other genres",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Righeira",
             "TrackTitle": "Vamos a la playa",
             "MBID": "3f606528-4910-4834-8d4a-b09e637dcb77",
-            "Category": "Crossover hits that also charted in other genres"
+            "Category": "Crossover hits that also charted in other genres",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Baltimora",
             "TrackTitle": "Tarzan Boy",
             "MBID": "2e0b73d5-1ba0-4d8a-b147-d94a0ae95a06",
-            "Category": "Crossover hits that also charted in other genres"
+            "Category": "Crossover hits that also charted in other genres",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Spagna",
             "TrackTitle": "Call Me",
             "MBID": "4ab93aca-93bf-40b7-b72d-223f8e313fad",
-            "Category": "Crossover hits that also charted in other genres"
+            "Category": "Crossover hits that also charted in other genres",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Sabrina Salerno",
             "TrackTitle": "Boys (Summertime Love)",
             "MBID": "f6b20349-2b37-44a4-a87d-d51cff8d99be",
-            "Category": "Crossover hits that also charted in other genres"
+            "Category": "Crossover hits that also charted in other genres",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Gala",
             "TrackTitle": "Freed From Desire",
             "MBID": "f392f0e9-602a-4967-8528-e3a3d0266f1b",
-            "Category": "Crossover hits that also charted in other genres"
+            "Category": "Crossover hits that also charted in other genres",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Francesco Gabbani",
             "TrackTitle": "Occidentali's Karma",
             "MBID": "049d768c-6153-4f00-8a7d-4fd004337984",
-            "Category": "Crossover hits that also charted in other genres"
+            "Category": "Crossover hits that also charted in other genres",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "M\u00e5neskin",
             "TrackTitle": "Beggin\u2019",
             "MBID": "e06b192f-88cd-407a-8efc-125efe3d6c9d",
-            "Category": "Crossover hits that also charted in other genres"
+            "Category": "Crossover hits that also charted in other genres",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "M\u00e5neskin",
             "TrackTitle": "I Wanna Be Your Slave",
             "MBID": "ea2422e3-7f13-4231-aa53-8681aa950b5a",
-            "Category": "Crossover hits that also charted in other genres"
+            "Category": "Crossover hits that also charted in other genres",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "MEDUZA ft. Goodboys",
             "TrackTitle": "Piece of Your Heart",
             "MBID": "b4a2f3b9-c2c0-4f6c-9644-50313eefe5db",
-            "Category": "Crossover hits that also charted in other genres"
+            "Category": "Crossover hits that also charted in other genres",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Benny Benassi",
             "TrackTitle": "Satisfaction",
             "MBID": "4de7d182-7f38-4b79-be0e-9087ff717f04",
-            "Category": "Crossover hits that also charted in other genres"
+            "Category": "Crossover hits that also charted in other genres",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Umberto Tozzi",
             "TrackTitle": "Ti amo",
             "MBID": "3e42df29-8cbc-48e2-8573-c1082f5f452f",
-            "Category": "Crossover hits that also charted in other genres"
+            "Category": "Crossover hits that also charted in other genres",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Pupo",
             "TrackTitle": "Su di noi",
             "MBID": "3cbc8254-e5e1-48ec-857e-21ee8af579a4",
-            "Category": "Crossover hits that also charted in other genres"
+            "Category": "Crossover hits that also charted in other genres",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Mango",
             "TrackTitle": "Oro",
             "MBID": "4cefb9c3-7449-4263-8c16-c60191031592",
-            "Category": "Crossover hits that also charted in other genres"
+            "Category": "Crossover hits that also charted in other genres",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Alexia",
             "TrackTitle": "Uh La La La",
             "MBID": "eca870df-05cb-43b0-8051-9f74fb15599c",
-            "Category": "Crossover hits that also charted in other genres"
+            "Category": "Crossover hits that also charted in other genres",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Prezioso feat. Marvin",
             "TrackTitle": "Tell Me Why",
             "MBID": "f6cb71d5-cd74-45ab-9986-7dd52d8ce87e",
-            "Category": "Crossover hits that also charted in other genres"
+            "Category": "Crossover hits that also charted in other genres",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Cappella",
             "TrackTitle": "U Got 2 Know",
             "MBID": "32d2b388-e805-46e9-a017-648f346cef1f",
-            "Category": "Crossover hits that also charted in other genres"
+            "Category": "Crossover hits that also charted in other genres",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Corona",
             "TrackTitle": "The Rhythm of the Night",
             "MBID": "6420fa65-195e-4ad2-b470-76edc0901eec",
-            "Category": "Crossover hits that also charted in other genres"
+            "Category": "Crossover hits that also charted in other genres",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Drupi",
             "TrackTitle": "Piccola e fragile",
             "MBID": "9b7bead8-5b1b-4f4a-b44b-2db5255c2e05",
-            "Category": "Crossover hits that also charted in other genres"
+            "Category": "Crossover hits that also charted in other genres",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "I Santo California",
             "TrackTitle": "Torner\u00f2",
             "MBID": "52b30f8e-f4be-4529-bcb7-46fda655e095",
-            "Category": "Crossover hits that also charted in other genres"
+            "Category": "Crossover hits that also charted in other genres",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Collage",
             "TrackTitle": "Tu mi rubi l'anima",
             "MBID": "e7e018dd-a748-44d3-bc15-5836ce1e694b",
-            "Category": "Crossover hits that also charted in other genres"
+            "Category": "Crossover hits that also charted in other genres",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Patty Pravo",
             "TrackTitle": "La bambola",
             "MBID": "9409df0f-c3da-4816-81ea-941e86d5a9cf",
-            "Category": "Crossover hits that also charted in other genres"
+            "Category": "Crossover hits that also charted in other genres",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Mina",
             "TrackTitle": "Il Cielo In Una Stanza",
             "MBID": "4ce29d42-1f30-4143-8114-2735d670a0cd",
-            "Category": "Crossover hits that also charted in other genres"
+            "Category": "Crossover hits that also charted in other genres",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Paolo Conte",
             "TrackTitle": "Via Con Me (It's Wonderful)",
             "MBID": "4f4cd377-c580-4d54-8b18-1042800bd63e",
-            "Category": "Crossover hits that also charted in other genres"
+            "Category": "Crossover hits that also charted in other genres",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "P. Lion",
             "TrackTitle": "Happy Children",
             "MBID": "fd0b84a0-edbc-4759-a7a1-541d183b7e2d",
-            "Category": "Crossover hits that also charted in other genres"
+            "Category": "Crossover hits that also charted in other genres",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Ryan Paris",
             "TrackTitle": "Dolce Vita",
             "MBID": "3ecb7e9f-1a7e-46f1-a9ce-9a82bfcd3dfd",
-            "Category": "Crossover hits that also charted in other genres"
+            "Category": "Crossover hits that also charted in other genres",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "M. C. SAR & The Real McCoy",
             "TrackTitle": "Another Night",
             "MBID": "10fc3718-8e24-40ff-a0f7-edc4722fefbf",
-            "Category": "Crossover hits that also charted in other genres"
+            "Category": "Crossover hits that also charted in other genres",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Black Box",
             "TrackTitle": "Ride on Time",
             "MBID": "c0cd7cb0-5476-4e24-bca8-a15ef6026799",
-            "Category": "Crossover hits that also charted in other genres"
+            "Category": "Crossover hits that also charted in other genres",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Double You",
             "TrackTitle": "Please Don\u2019t Go",
             "MBID": "f1b1821b-861f-4088-a626-2318a74a4cd1",
-            "Category": "Crossover hits that also charted in other genres"
+            "Category": "Crossover hits that also charted in other genres",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Ann Lee",
             "TrackTitle": "2 Times",
             "MBID": "919218d4-b6ea-4c2a-906c-996f81a4deba",
-            "Category": "Crossover hits that also charted in other genres"
+            "Category": "Crossover hits that also charted in other genres",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Sally Can Dance",
             "TrackTitle": "Give It Up (Paps 'n' Skar remix)",
             "MBID": "4e53b3fe-7d06-433c-b654-7eff0fcd049c",
-            "Category": "Crossover hits that also charted in other genres"
+            "Category": "Crossover hits that also charted in other genres",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Whigfield",
             "TrackTitle": "Saturday Night",
             "MBID": "cef24d70-c4af-4632-ab02-f7fb4cbd5dba",
-            "Category": "Crossover hits that also charted in other genres"
+            "Category": "Crossover hits that also charted in other genres",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Domenico Modugno",
             "TrackTitle": "Piove (Ciao Ciao Bambina)",
             "MBID": "5481490a-8350-432e-92f8-7a1965981b2f",
-            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+            "Category": "Critically acclaimed masterpieces and award-winning tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Lucio Dalla",
             "TrackTitle": "L\u2019anno che verr\u00e0",
             "MBID": "64dca44b-1a66-403e-8a6b-35d927b51302",
-            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+            "Category": "Critically acclaimed masterpieces and award-winning tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Franco Battiato",
             "TrackTitle": "Voglio vederti danzare",
             "MBID": "5d45ce4b-361f-4ece-b17c-34393dfe016a",
-            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+            "Category": "Critically acclaimed masterpieces and award-winning tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Fabrizio De Andr\u00e9",
             "TrackTitle": "La canzone di Marinella",
             "MBID": "a6c4b617-0e79-462d-bd8d-326397cb661a",
-            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+            "Category": "Critically acclaimed masterpieces and award-winning tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Mina",
             "TrackTitle": "E se domani",
             "MBID": "6af1da5c-87eb-4dfc-82da-90018900c868",
-            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+            "Category": "Critically acclaimed masterpieces and award-winning tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Adriano Celentano",
             "TrackTitle": "Il ragazzo della via Gluck",
             "MBID": "523e9516-d288-4cd0-831c-9b25a7642213",
-            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+            "Category": "Critically acclaimed masterpieces and award-winning tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Lucio Battisti",
             "TrackTitle": "Emozioni",
             "MBID": "980bbfb4-54f5-425a-bfde-77700f98377f",
-            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+            "Category": "Critically acclaimed masterpieces and award-winning tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Riccardo Cocciante",
             "TrackTitle": "Margherita",
             "MBID": "4ea41c7f-5842-4be8-9db1-ea8cd4217d00",
-            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+            "Category": "Critically acclaimed masterpieces and award-winning tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Mia Martini",
             "TrackTitle": "Almeno tu nell'universo",
             "MBID": "1da86aa0-cb8f-4b79-86fb-78bb51da6261",
-            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+            "Category": "Critically acclaimed masterpieces and award-winning tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Ornella Vanoni",
             "TrackTitle": "Una ragione di pi\u00f9",
             "MBID": "3247da73-0fdb-4e20-955b-a5627d9163be",
-            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+            "Category": "Critically acclaimed masterpieces and award-winning tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Gino Paoli",
             "TrackTitle": "Sapore di sale",
             "MBID": "e7c49e31-25c7-4e6f-bc11-15ff4fe8d62c",
-            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+            "Category": "Critically acclaimed masterpieces and award-winning tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Luigi Tenco",
             "TrackTitle": "Vedrai vedrai",
             "MBID": "fd1b930d-ca61-471f-8b26-6569338cb40e",
-            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+            "Category": "Critically acclaimed masterpieces and award-winning tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Sergio Endrigo",
             "TrackTitle": "Canzone per te",
             "MBID": "b072348c-fbb8-4d54-b856-c9d912e1a6b0",
-            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+            "Category": "Critically acclaimed masterpieces and award-winning tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Nicola Di Bari",
             "TrackTitle": "Il cuore \u00e8 uno zingaro",
             "MBID": "bf5f745b-7730-47e0-ac03-f8c63175cf77",
-            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+            "Category": "Critically acclaimed masterpieces and award-winning tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Massimo Ranieri",
             "TrackTitle": "Erba di casa mia",
             "MBID": "36e1a907-f78e-485c-9369-abcd8fea9697",
-            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+            "Category": "Critically acclaimed masterpieces and award-winning tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Claudio Baglioni",
             "TrackTitle": "Strada facendo",
             "MBID": "c5351003-270e-4c5d-b3f6-dfa566f49703",
-            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+            "Category": "Critically acclaimed masterpieces and award-winning tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Antonello Venditti",
             "TrackTitle": "Notte prima degli esami",
             "MBID": "58ca7c69-5854-484a-8785-35cf97216596",
-            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+            "Category": "Critically acclaimed masterpieces and award-winning tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Francesco De Gregori",
             "TrackTitle": "Generale",
             "MBID": "d233a94a-a445-4726-bdcf-3abe8f116523",
-            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+            "Category": "Critically acclaimed masterpieces and award-winning tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Ivano Fossati",
             "TrackTitle": "La mia banda suona il rock",
             "MBID": "be2673c1-8c8c-4c6d-a203-9c9274b45da0",
-            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+            "Category": "Critically acclaimed masterpieces and award-winning tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Pino Daniele",
             "TrackTitle": "Napule \u00e8",
             "MBID": "013801ed-b9f3-4f7c-8e47-6e7c2ff252d5",
-            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+            "Category": "Critically acclaimed masterpieces and award-winning tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Fiorella Mannoia",
             "TrackTitle": "Sally",
             "MBID": "3b1f1cd2-6501-41b5-be3a-a2765e092fb2",
-            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+            "Category": "Critically acclaimed masterpieces and award-winning tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Vasco Rossi",
             "TrackTitle": "Vita spericolata",
             "MBID": "23e43f7f-27d7-440b-a38d-40fd8a4bfeb6",
-            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+            "Category": "Critically acclaimed masterpieces and award-winning tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Ligabue",
             "TrackTitle": "Certe notti",
             "MBID": "7b21cfb2-758c-4f51-bf17-d31247d50a84",
-            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+            "Category": "Critically acclaimed masterpieces and award-winning tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Gianna Nannini",
             "TrackTitle": "Bello e impossibile",
             "MBID": "6f04d772-c2e0-496f-b3ef-bd150ced1f70",
-            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+            "Category": "Critically acclaimed masterpieces and award-winning tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Eros Ramazzotti",
             "TrackTitle": "Terra promessa",
             "MBID": "3916d893-87b0-4537-baf8-6ed534c01989",
-            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+            "Category": "Critically acclaimed masterpieces and award-winning tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Laura Pausini",
             "TrackTitle": "Incancellabile",
             "MBID": "8e122fd4-3edc-4371-83f4-f7226fcc88ae",
-            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+            "Category": "Critically acclaimed masterpieces and award-winning tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Giorgia",
             "TrackTitle": "Di sole e d'azzurro",
             "MBID": "3ccd7bc1-56a0-4e61-83f3-3b6217b972d2",
-            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+            "Category": "Critically acclaimed masterpieces and award-winning tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Elisa",
             "TrackTitle": "Eppure sentire (Un senso di te)",
             "MBID": "47117aa9-1fb9-44e4-a762-f9d69ce6efb1",
-            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+            "Category": "Critically acclaimed masterpieces and award-winning tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Tiziano Ferro",
             "TrackTitle": "Il regalo pi\u00f9 grande",
             "MBID": "8754266c-4934-40e5-80e6-4164b951899f",
-            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+            "Category": "Critically acclaimed masterpieces and award-winning tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Cesare Cremonini",
             "TrackTitle": "Logico #1",
             "MBID": "b7a51724-a6b5-428f-a8c8-674f52eb81fb",
-            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+            "Category": "Critically acclaimed masterpieces and award-winning tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Marco Mengoni",
             "TrackTitle": "Due Vite",
             "MBID": "7f0233c9-2981-4664-94e3-f423092e329e",
-            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+            "Category": "Critically acclaimed masterpieces and award-winning tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Diodato",
             "TrackTitle": "Che vita meravigliosa",
             "MBID": "b5d66353-0d68-410d-b327-81c9becefa38",
-            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+            "Category": "Critically acclaimed masterpieces and award-winning tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Mahmood",
             "TrackTitle": "Barrio",
             "MBID": "971dfe3a-67b2-4932-bcc6-d6160faf1238",
-            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+            "Category": "Critically acclaimed masterpieces and award-winning tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Ultimo",
             "TrackTitle": "Piccola stella",
             "MBID": "f3385804-94d8-49ce-a3a9-7efd8bc8761a",
-            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+            "Category": "Critically acclaimed masterpieces and award-winning tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "M\u00e5neskin",
             "TrackTitle": "Zitti e buoni",
             "MBID": "744f6ba1-58ec-43ff-908a-423f20e721a2",
-            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+            "Category": "Critically acclaimed masterpieces and award-winning tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "BLANCO",
             "TrackTitle": "Notti in bianco",
             "MBID": "0339b0cc-70b3-4907-8851-3b9ba9bf2d80",
-            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+            "Category": "Critically acclaimed masterpieces and award-winning tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Coma_Cose",
             "TrackTitle": "Fiamme negli occhi",
             "MBID": "88330817-936e-483a-9547-a65f83fe552b",
-            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+            "Category": "Critically acclaimed masterpieces and award-winning tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "La Rappresentante di Lista",
             "TrackTitle": "Ciao ciao",
             "MBID": "8ab015bf-166a-4b10-b2aa-cc976a20dc28",
-            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+            "Category": "Critically acclaimed masterpieces and award-winning tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Habrisha1312",
             "TrackTitle": "Marracash",
             "MBID": "755615e9-5214-4017-9de9-2bae96233082",
-            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+            "Category": "Critically acclaimed masterpieces and award-winning tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Levante",
             "TrackTitle": "Tikibombom",
             "MBID": "1f48bb0c-f0cf-4b22-bb52-a6f98b21ab15",
-            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+            "Category": "Critically acclaimed masterpieces and award-winning tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Eros Ramazzotti",
             "TrackTitle": "Se bastasse una canzone",
             "MBID": "13c11199-d562-42c4-95d4-bf118eeca984",
-            "Category": "Songs occuring most on playlists on youtube for this genre"
+            "Category": "Songs occuring most on playlists on youtube for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Laura Pausini",
             "TrackTitle": "Tra Te E Il Mare",
             "MBID": "c74f3f42-bedc-4db9-9421-a186511402cd",
-            "Category": "Songs occuring most on playlists on youtube for this genre"
+            "Category": "Songs occuring most on playlists on youtube for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Tiziano Ferro",
             "TrackTitle": "Ti scatter\u00f2 una foto",
             "MBID": "72d37ef1-ff96-4935-a397-f8e401d6dd34",
-            "Category": "Songs occuring most on playlists on youtube for this genre"
+            "Category": "Songs occuring most on playlists on youtube for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Nek",
             "TrackTitle": "Se io non avessi te",
             "MBID": "fccc101a-cba9-4e3a-b800-4a4b09cc3c6b",
-            "Category": "Songs occuring most on playlists on youtube for this genre"
+            "Category": "Songs occuring most on playlists on youtube for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Gianna Nannini",
             "TrackTitle": "Fotoromanza",
             "MBID": "607f61ac-a2e4-4ce2-98c1-cf350254b672",
-            "Category": "Songs occuring most on playlists on youtube for this genre"
+            "Category": "Songs occuring most on playlists on youtube for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Vasco Rossi",
             "TrackTitle": "Senza parole",
             "MBID": "7b69341a-54f1-4abd-8a8f-aeeb02c7019a",
-            "Category": "Songs occuring most on playlists on youtube for this genre"
+            "Category": "Songs occuring most on playlists on youtube for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Ligabue",
             "TrackTitle": "Un colpo all'anima",
             "MBID": "0b88a72c-9959-4cc0-bb17-71e26b8cc817",
-            "Category": "Songs occuring most on playlists on youtube for this genre"
+            "Category": "Songs occuring most on playlists on youtube for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Zucchero",
             "TrackTitle": "Baila (Sexy Thing)",
             "MBID": "a5198870-6ce4-49cb-b4cc-7063cc43338c",
-            "Category": "Songs occuring most on playlists on youtube for this genre"
+            "Category": "Songs occuring most on playlists on youtube for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Andrea Bocelli & Giorgia",
             "TrackTitle": "Vivo per lei",
             "MBID": "9e6d8d9b-79d2-416a-a708-5d826e22a8b9",
-            "Category": "Songs occuring most on playlists on youtube for this genre"
+            "Category": "Songs occuring most on playlists on youtube for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Raffaella Carr\u00e0",
             "TrackTitle": "Rumore, rumore 2000",
             "MBID": "54c4515f-a4cb-4641-8165-c9494bfe999e",
-            "Category": "Songs occuring most on playlists on youtube for this genre"
+            "Category": "Songs occuring most on playlists on youtube for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Pupo",
             "TrackTitle": "Gelato al cioccolato",
             "MBID": "1c6be21b-ccf8-42bc-b5f6-598b8b181a72",
-            "Category": "Songs occuring most on playlists on youtube for this genre"
+            "Category": "Songs occuring most on playlists on youtube for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Ricchi e Poveri",
             "TrackTitle": "Mamma Maria",
             "MBID": "f7c3997a-bc27-4d5f-8a9f-93c114806496",
-            "Category": "Songs occuring most on playlists on youtube for this genre"
+            "Category": "Songs occuring most on playlists on youtube for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Gal\u00e8ra",
             "TrackTitle": "Umberto",
             "MBID": "ac0716f3-0956-4f74-8d5e-787ab887b4ea",
-            "Category": "Songs occuring most on playlists on youtube for this genre"
+            "Category": "Songs occuring most on playlists on youtube for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Irama",
             "TrackTitle": "Nera",
             "MBID": "3b18ad75-af83-4c5b-beeb-e3a5f8e462cf",
-            "Category": "Songs occuring most on playlists on youtube for this genre"
+            "Category": "Songs occuring most on playlists on youtube for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Mahmood",
             "TrackTitle": "Rapide",
             "MBID": "10b1a427-8aa0-41cb-8474-3a2b36175ee3",
-            "Category": "Songs occuring most on playlists on youtube for this genre"
+            "Category": "Songs occuring most on playlists on youtube for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Elodie",
             "TrackTitle": "Andromeda",
             "MBID": "d9ab7afd-cc8e-405a-92a5-ce9ce052760e",
-            "Category": "Songs occuring most on playlists on youtube for this genre"
+            "Category": "Songs occuring most on playlists on youtube for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Annalisa",
             "TrackTitle": "Bellissima",
             "MBID": "9f88e936-e1ee-44c2-8033-bc1e02f1d350",
-            "Category": "Songs occuring most on playlists on youtube for this genre"
+            "Category": "Songs occuring most on playlists on youtube for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Marco Mengoni",
             "TrackTitle": "Io Ti Aspetto",
             "MBID": "ced6889a-36fe-4c1b-93f3-57367bfa7177",
-            "Category": "Songs occuring most on playlists on youtube for this genre"
+            "Category": "Songs occuring most on playlists on youtube for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "J-Ax & Fedez",
             "TrackTitle": "Senza pagare",
             "MBID": "562727f6-18c4-44db-b4ac-9a61605531ff",
-            "Category": "Songs occuring most on playlists on youtube for this genre"
+            "Category": "Songs occuring most on playlists on youtube for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Achille Lauro",
             "TrackTitle": "Rolls Royce",
             "MBID": "25b14d71-9608-4a42-88d7-9ad31c4d72d2",
-            "Category": "Songs occuring most on playlists on youtube for this genre"
+            "Category": "Songs occuring most on playlists on youtube for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Ghali",
             "TrackTitle": "Happy Days",
             "MBID": "14893ae7-1038-4da0-ab9f-2721f38b0f78",
-            "Category": "Songs occuring most on playlists on youtube for this genre"
+            "Category": "Songs occuring most on playlists on youtube for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "CapaRezza",
             "TrackTitle": "Fuori dal tunnel",
             "MBID": "9b219a48-e141-46dc-8d05-2e7deb73a96f",
-            "Category": "Songs occuring most on playlists on youtube for this genre"
+            "Category": "Songs occuring most on playlists on youtube for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Jovanotti",
             "TrackTitle": "L\u2019ombelico del mondo",
             "MBID": "e9a9582a-f905-4cfa-8a99-97fa7f73a3dc",
-            "Category": "Songs occuring most on playlists on youtube for this genre"
+            "Category": "Songs occuring most on playlists on youtube for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Biagio Antonacci",
             "TrackTitle": "Iris (Tra le tue poesie)",
             "MBID": "c625c00a-5e93-4053-b85e-7829a9c96500",
-            "Category": "Songs occuring most on playlists on youtube for this genre"
+            "Category": "Songs occuring most on playlists on youtube for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Renato Zero",
             "TrackTitle": "Cercami",
             "MBID": "92dbfc47-6130-4171-bffd-60f495e1e46d",
-            "Category": "Songs occuring most on playlists on youtube for this genre"
+            "Category": "Songs occuring most on playlists on youtube for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Francesco Renga",
             "TrackTitle": "Angelo",
             "MBID": "3fe455eb-aa14-4fc8-ad22-54f32a159c05",
-            "Category": "Songs occuring most on playlists on youtube for this genre"
+            "Category": "Songs occuring most on playlists on youtube for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Giusy Ferreri",
             "TrackTitle": "Non ti scordar mai di me",
             "MBID": "028949a9-0d04-4280-a74a-e02522a622c7",
-            "Category": "Songs occuring most on playlists on youtube for this genre"
+            "Category": "Songs occuring most on playlists on youtube for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Alessandra Amoroso",
             "TrackTitle": "Immobile",
             "MBID": "c6edf1f8-9e53-4376-80ba-347568386c2d",
-            "Category": "Songs occuring most on playlists on youtube for this genre"
+            "Category": "Songs occuring most on playlists on youtube for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Emma",
             "TrackTitle": "Non \u00e8 l\u2019inferno",
             "MBID": "f03326a3-4d50-404a-944d-246e9e900791",
-            "Category": "Songs occuring most on playlists on youtube for this genre"
+            "Category": "Songs occuring most on playlists on youtube for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Dolcenera",
             "TrackTitle": "Com'\u00e8 straordinaria la vita",
             "MBID": "c600a52e-dc0c-49e8-b685-27e4045a9873",
-            "Category": "Songs occuring most on playlists on youtube for this genre"
+            "Category": "Songs occuring most on playlists on youtube for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Arisa",
             "TrackTitle": "Sincerit\u00e0",
             "MBID": "b1086b29-77cd-4b6e-9ad0-35eee104f1a6",
-            "Category": "Songs occuring most on playlists on youtube for this genre"
+            "Category": "Songs occuring most on playlists on youtube for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Francesca Michielin",
             "TrackTitle": "Nessun grado di separazione",
             "MBID": "a0e43065-2508-4e93-ae95-f80e62ea23ae",
-            "Category": "Songs occuring most on playlists on youtube for this genre"
+            "Category": "Songs occuring most on playlists on youtube for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Ermal Meta feat. Giuseppe Bortolotti",
             "TrackTitle": "Non mi avete fatto niente",
             "MBID": "8895a893-a105-4b0a-ba6d-89063d6f4101",
-            "Category": "Songs occuring most on playlists on youtube for this genre"
+            "Category": "Songs occuring most on playlists on youtube for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Fabrizio Moro",
             "TrackTitle": "Pensa",
             "MBID": "9099e129-f2a0-4d16-8f6a-8076b40c00a4",
-            "Category": "Songs occuring most on playlists on youtube for this genre"
+            "Category": "Songs occuring most on playlists on youtube for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Pinguini Tattici Nucleari",
             "TrackTitle": "Ringo Starr",
             "MBID": "086f1740-ad4c-4268-8c3f-6d2d39461db4",
-            "Category": "Songs occuring most on playlists on youtube for this genre"
+            "Category": "Songs occuring most on playlists on youtube for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Colapesce Dimartino",
             "TrackTitle": "Musica leggerissima",
             "MBID": "2572faa6-2982-4665-9899-bd2ad16406d7",
-            "Category": "Songs occuring most on playlists on youtube for this genre"
+            "Category": "Songs occuring most on playlists on youtube for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Madame",
             "TrackTitle": "Voce",
             "MBID": "7dd5fd1c-c8cd-4757-b96a-ffa49a573dd8",
-            "Category": "Songs occuring most on playlists on youtube for this genre"
+            "Category": "Songs occuring most on playlists on youtube for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Lazza",
             "TrackTitle": "Cenere",
             "MBID": "81ab7eee-67ca-4146-a59e-a57d39a3a3c5",
-            "Category": "Songs occuring most on playlists on youtube for this genre"
+            "Category": "Songs occuring most on playlists on youtube for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Ariete",
             "TrackTitle": "L'ultima notte",
             "MBID": "5659e35c-783c-419b-81a3-3b43babe8df9",
-            "Category": "Songs occuring most on playlists on youtube for this genre"
+            "Category": "Songs occuring most on playlists on youtube for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "sangiovanni",
             "TrackTitle": "farfalle",
             "MBID": "b04fecf4-c1b8-46ff-9dab-b7e80033c47b",
-            "Category": "Songs occuring most on playlists on youtube for this genre"
+            "Category": "Songs occuring most on playlists on youtube for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "M\u00e5neskin",
             "TrackTitle": "Supermodel",
             "MBID": "d0b38382-ee7c-42d0-8c5a-4dece05ed9da",
-            "Category": "Songs occuring most on playlists on spotify for this genre"
+            "Category": "Songs occuring most on playlists on spotify for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "BLANCO",
             "TrackTitle": "Blu celeste",
             "MBID": "186458ed-745e-4c2b-968b-4c0c2ee92903",
-            "Category": "Songs occuring most on playlists on spotify for this genre"
+            "Category": "Songs occuring most on playlists on spotify for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Lazza",
             "TrackTitle": "PANICO (Concertos)",
             "MBID": "9d5f8c54-28b3-443f-9602-22785432b4c9",
-            "Category": "Songs occuring most on playlists on spotify for this genre"
+            "Category": "Songs occuring most on playlists on spotify for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Ultimo",
             "TrackTitle": "Il ballo delle incertezze",
             "MBID": "4bafa7cc-bca7-4c9f-9512-7c623c161e1d",
-            "Category": "Songs occuring most on playlists on spotify for this genre"
+            "Category": "Songs occuring most on playlists on spotify for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Mahmood",
             "TrackTitle": "Tuta gold",
             "MBID": "35ac0d86-0ef5-4490-8e2d-b5bdfdf3c965",
-            "Category": "Songs occuring most on playlists on spotify for this genre"
+            "Category": "Songs occuring most on playlists on spotify for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Annalisa",
             "TrackTitle": "Mon Amour",
             "MBID": "667b407f-58ee-4ee5-bac5-ac78294d2eb0",
-            "Category": "Songs occuring most on playlists on spotify for this genre"
+            "Category": "Songs occuring most on playlists on spotify for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Elodie",
             "TrackTitle": "Due",
             "MBID": "0114346d-b391-41f3-88c4-09200370c324",
-            "Category": "Songs occuring most on playlists on spotify for this genre"
+            "Category": "Songs occuring most on playlists on spotify for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Mr. Rain",
             "TrackTitle": "Supereroi",
             "MBID": "2f7f721d-25f1-48e0-afb7-84cbee9370de",
-            "Category": "Songs occuring most on playlists on spotify for this genre"
+            "Category": "Songs occuring most on playlists on spotify for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Madame",
             "TrackTitle": "Marea",
             "MBID": "741621c3-e83a-4a49-b04b-cbce1c2da4cf",
-            "Category": "Songs occuring most on playlists on spotify for this genre"
+            "Category": "Songs occuring most on playlists on spotify for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Pinguini Tattici Nucleari",
             "TrackTitle": "Giovani Wannabe",
             "MBID": "9b2098f0-e812-4d80-ab02-8cd84f3ad82d",
-            "Category": "Songs occuring most on playlists on spotify for this genre"
+            "Category": "Songs occuring most on playlists on spotify for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Colapesce Dimartino",
             "TrackTitle": "Splash",
             "MBID": "02ed8e15-447e-4a94-941e-7d3e2abadcda",
-            "Category": "Songs occuring most on playlists on spotify for this genre"
+            "Category": "Songs occuring most on playlists on spotify for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Tananai",
             "TrackTitle": "Tango",
             "MBID": "09ba281a-5440-43d2-b289-1410e63d9fe1",
-            "Category": "Songs occuring most on playlists on spotify for this genre"
+            "Category": "Songs occuring most on playlists on spotify for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Angelina Mango",
             "TrackTitle": "La noia",
             "MBID": "52372e9f-7796-4ce7-b0ea-3394aa11afe2",
-            "Category": "Songs occuring most on playlists on spotify for this genre"
+            "Category": "Songs occuring most on playlists on spotify for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Geolier",
             "TrackTitle": "I P\u2019 ME, TU P\u2019 TE",
             "MBID": "e9a9ef3a-5a24-48aa-b52c-5d49144fb900",
-            "Category": "Songs occuring most on playlists on spotify for this genre"
+            "Category": "Songs occuring most on playlists on spotify for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Irama",
             "TrackTitle": "Ovunque Sarai",
             "MBID": "13feabca-0af9-4afd-88d7-a619b022a4ab",
-            "Category": "Songs occuring most on playlists on spotify for this genre"
+            "Category": "Songs occuring most on playlists on spotify for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Sfera Ebbasta",
             "TrackTitle": "Bottiglie Priv\u00e8",
             "MBID": "3de28228-278d-463e-920f-50c655f983aa",
-            "Category": "Songs occuring most on playlists on spotify for this genre"
+            "Category": "Songs occuring most on playlists on spotify for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Caparezza",
             "TrackTitle": "Ti fa stare bene",
             "MBID": "a3868d16-9d4f-4de5-addf-e1f7abfbb5b7",
-            "Category": "Songs occuring most on playlists on spotify for this genre"
+            "Category": "Songs occuring most on playlists on spotify for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Achille Lauro",
             "TrackTitle": "DOMENICA",
             "MBID": "8dd1ce4f-5656-4250-9edf-34fcaf98ef29",
-            "Category": "Songs occuring most on playlists on spotify for this genre"
+            "Category": "Songs occuring most on playlists on spotify for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "8-Bit Arcade",
             "TrackTitle": "Disco Paradise (8-Bit Fedez, Annalisa & Articolo 31 Emulation)",
             "MBID": "e297d59c-3157-4a16-ab2f-f98a15bc2521",
-            "Category": "Songs occuring most on playlists on spotify for this genre"
+            "Category": "Songs occuring most on playlists on spotify for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Alfa",
             "TrackTitle": "bellissimissima",
             "MBID": "3729e3d2-5df1-4879-9d4e-6e2c7996b00d",
-            "Category": "Songs occuring most on playlists on spotify for this genre"
+            "Category": "Songs occuring most on playlists on spotify for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Gaia",
             "TrackTitle": "Chega",
             "MBID": "6106de07-27cd-4a49-b714-467ded8c6a26",
-            "Category": "Songs occuring most on playlists on spotify for this genre"
+            "Category": "Songs occuring most on playlists on spotify for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Coma_Cose",
             "TrackTitle": "L\u2019addio",
             "MBID": "36b5e0bf-da9d-46d3-8c1d-635aec4111ef",
-            "Category": "Songs occuring most on playlists on spotify for this genre"
+            "Category": "Songs occuring most on playlists on spotify for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "La Rappresentante di Lista",
             "TrackTitle": "Diva",
             "MBID": "8ab758c8-b563-4893-9bcb-0bf9dd28f0bc",
-            "Category": "Songs occuring most on playlists on spotify for this genre"
+            "Category": "Songs occuring most on playlists on spotify for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "BLANCO",
             "TrackTitle": "Nostalgia",
             "MBID": "b410eb2b-50bb-4bff-931e-970ea7c292a1",
-            "Category": "Songs occuring most on playlists on spotify for this genre"
+            "Category": "Songs occuring most on playlists on spotify for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Marco Mengoni, Elodie",
             "TrackTitle": "Pazza musica",
             "MBID": "2d2a4fbc-38c1-4b62-9dc8-0a7a446a62ea",
-            "Category": "Songs occuring most on playlists on spotify for this genre"
+            "Category": "Songs occuring most on playlists on spotify for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Ghali",
             "TrackTitle": "Pizza kebab",
             "MBID": "59b514b7-dcdc-4ebe-b08c-21d3430d504d",
-            "Category": "Songs occuring most on playlists on spotify for this genre"
+            "Category": "Songs occuring most on playlists on spotify for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Marracash",
             "TrackTitle": "CRUDELIA - I nervi",
             "MBID": "41b039e0-1650-4cc7-9f44-2dd173001d11",
-            "Category": "Songs occuring most on playlists on spotify for this genre"
+            "Category": "Songs occuring most on playlists on spotify for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Tiziano Ferro",
             "TrackTitle": "Remix Tiziano Ferro",
             "MBID": "48defbc8-29cc-4d17-a8a9-6365c42e5fbe",
-            "Category": "Songs occuring most on playlists on spotify for this genre"
+            "Category": "Songs occuring most on playlists on spotify for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Clara",
             "TrackTitle": "Diamanti grezzi",
             "MBID": "7a1306f4-aaf5-47b1-b80c-526bf8fcb97c",
-            "Category": "Songs occuring most on playlists on spotify for this genre"
+            "Category": "Songs occuring most on playlists on spotify for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Dargen D\u2019Amico",
             "TrackTitle": "Dove si balla",
             "MBID": "28afc6b5-4611-4383-9f92-0f724676513e",
-            "Category": "Songs occuring most on playlists on spotify for this genre"
+            "Category": "Songs occuring most on playlists on spotify for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Rosa Chemical & bdope",
             "TrackTitle": "Made in Italy",
             "MBID": "7e4bf46a-54d2-46be-9d6b-747e6be37f5b",
-            "Category": "Songs occuring most on playlists on spotify for this genre"
+            "Category": "Songs occuring most on playlists on spotify for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Madame",
             "TrackTitle": "Sciccherie",
             "MBID": "cae2cd7d-cd94-4227-8319-8b9512dfeb37",
-            "Category": "Songs occuring most on playlists on spotify for this genre"
+            "Category": "Songs occuring most on playlists on spotify for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "ARIETE",
             "TrackTitle": "RUMORE",
             "MBID": "d8ce71bb-c537-4b97-bf31-1c4917ca2153",
-            "Category": "Songs occuring most on playlists on spotify for this genre"
+            "Category": "Songs occuring most on playlists on spotify for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Matusalemme",
             "TrackTitle": "Dammi una mano",
             "MBID": "db5dd0a4-2370-413c-8e06-8c3460241a30",
-            "Category": "Songs occuring most on playlists on spotify for this genre"
+            "Category": "Songs occuring most on playlists on spotify for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Olly",
             "TrackTitle": "Polvere",
             "MBID": "e9679543-2a05-4318-b522-7cdd66f17007",
-            "Category": "Songs occuring most on playlists on spotify for this genre"
+            "Category": "Songs occuring most on playlists on spotify for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Paola & Chiara",
             "TrackTitle": "Furore",
             "MBID": "bb4330ca-1704-4c85-b33b-4c2ad77accca",
-            "Category": "Songs occuring most on playlists on spotify for this genre"
+            "Category": "Songs occuring most on playlists on spotify for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Articolo 31",
             "TrackTitle": "Un bel viaggio",
             "MBID": "6f821eab-f2a1-406a-bb03-ef8a6bba2bae",
-            "Category": "Songs occuring most on playlists on spotify for this genre"
+            "Category": "Songs occuring most on playlists on spotify for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "gIANMARIA",
             "TrackTitle": "Mostro",
             "MBID": "8596c9ea-aeb6-4e6a-88cc-625143452aff",
-            "Category": "Songs occuring most on playlists on spotify for this genre"
+            "Category": "Songs occuring most on playlists on spotify for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Ditonellapiaga con Rettore",
             "TrackTitle": "Chimica",
             "MBID": "27a2f8d7-e4dd-4cf6-93cf-28d6914c375a",
-            "Category": "Songs occuring most on playlists on spotify for this genre"
+            "Category": "Songs occuring most on playlists on spotify for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Francesca Michielin & Fedez",
             "TrackTitle": "Chiamami per nome",
             "MBID": "2ebf1b1b-7cd2-487b-8095-624338e4a4b5",
-            "Category": "Songs occuring most on playlists on spotify for this genre"
+            "Category": "Songs occuring most on playlists on spotify for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Alberto Nemo",
             "TrackTitle": "Cosa mi manchi a fare",
             "MBID": "e80e2fb8-a013-435b-aa3e-47fd01a66766",
-            "Category": "Songs occuring most on playlists on deezer for this genre"
+            "Category": "Songs occuring most on playlists on deezer for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Mahmood",
             "TrackTitle": "Giovent\u00f9 bruciata",
             "MBID": "29dd16ac-c644-4c73-b413-6652b4f044bb",
-            "Category": "Songs occuring most on playlists on deezer for this genre"
+            "Category": "Songs occuring most on playlists on deezer for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "M\u00e5neskin",
             "TrackTitle": "Vent\u2019anni",
             "MBID": "3ada95e5-66d8-4a5e-a76c-90aa392b3fbd",
-            "Category": "Songs occuring most on playlists on deezer for this genre"
+            "Category": "Songs occuring most on playlists on deezer for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "BLANCO",
             "TrackTitle": "Ladro di fiori",
             "MBID": "58b59f27-022f-4a74-8d8b-b54b161edf4e",
-            "Category": "Songs occuring most on playlists on deezer for this genre"
+            "Category": "Songs occuring most on playlists on deezer for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Ultimo",
             "TrackTitle": "Pianeti",
             "MBID": "fccd3315-bc0d-497b-9a4f-d0ff94784f21",
-            "Category": "Songs occuring most on playlists on deezer for this genre"
+            "Category": "Songs occuring most on playlists on deezer for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Tiziano Ferro",
             "TrackTitle": "Per dirti ciao!",
             "MBID": "28468818-da7d-4462-9418-d9999cc7efc8",
-            "Category": "Songs occuring most on playlists on deezer for this genre"
+            "Category": "Songs occuring most on playlists on deezer for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Eros Ramazzotti",
             "TrackTitle": "L\u2019aurora",
             "MBID": "71ef676a-6ec4-43af-8faa-fb9a271c0912",
-            "Category": "Songs occuring most on playlists on deezer for this genre"
+            "Category": "Songs occuring most on playlists on deezer for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Laura Pausini",
             "TrackTitle": "Come se non fosse stato mai amore",
             "MBID": "566df4fa-b264-4735-a5d4-2c70a2916d84",
-            "Category": "Songs occuring most on playlists on deezer for this genre"
+            "Category": "Songs occuring most on playlists on deezer for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Nek",
             "TrackTitle": "Fatti avanti amore",
             "MBID": "beecd3a0-929b-4bff-aa7a-36fdc923e6d1",
-            "Category": "Songs occuring most on playlists on deezer for this genre"
+            "Category": "Songs occuring most on playlists on deezer for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Vasco Rossi",
             "TrackTitle": "Ogni volta",
             "MBID": "a80179a1-bda0-4d00-b340-321e6ffbf9f1",
-            "Category": "Songs occuring most on playlists on deezer for this genre"
+            "Category": "Songs occuring most on playlists on deezer for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Ligabue",
             "TrackTitle": "Il meglio deve ancora venire",
             "MBID": "0ec2f580-d487-4302-978a-24e1120a2481",
-            "Category": "Songs occuring most on playlists on deezer for this genre"
+            "Category": "Songs occuring most on playlists on deezer for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Zucchero",
             "TrackTitle": "Per colpa di chi",
             "MBID": "b229b8ca-e2dd-4201-b6a1-36c1dfb745aa",
-            "Category": "Songs occuring most on playlists on deezer for this genre"
+            "Category": "Songs occuring most on playlists on deezer for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Giorgia",
             "TrackTitle": "Gocce di memoria",
             "MBID": "3699dfd7-fa1f-4486-8c5a-25d417dfbd5c",
-            "Category": "Songs occuring most on playlists on deezer for this genre"
+            "Category": "Songs occuring most on playlists on deezer for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Elisa",
             "TrackTitle": "Anche fragile",
             "MBID": "d4f71f6e-b492-461c-b04b-0025aab9de81",
-            "Category": "Songs occuring most on playlists on deezer for this genre"
+            "Category": "Songs occuring most on playlists on deezer for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Marco Mengoni",
             "TrackTitle": "Ti ho voluto bene veramente",
             "MBID": "00a3c14f-9b46-4700-b118-fe5d2ea88a7d",
-            "Category": "Songs occuring most on playlists on deezer for this genre"
+            "Category": "Songs occuring most on playlists on deezer for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Cesare Cremonini",
             "TrackTitle": "La nuova stella di Broadway",
             "MBID": "1a347bf3-3d86-4ca7-bf12-438294ed9f56",
-            "Category": "Songs occuring most on playlists on deezer for this genre"
+            "Category": "Songs occuring most on playlists on deezer for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Gianni Morandi",
             "TrackTitle": "Apri tutte le porte",
             "MBID": "e25f4193-2e30-4d7c-9f7b-3bd36e19d95e",
-            "Category": "Songs occuring most on playlists on deezer for this genre"
+            "Category": "Songs occuring most on playlists on deezer for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Claudio Baglioni",
             "TrackTitle": "Avrai",
             "MBID": "70c293c0-b587-4f30-a583-b89db82c030f",
-            "Category": "Songs occuring most on playlists on deezer for this genre"
+            "Category": "Songs occuring most on playlists on deezer for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Antonello Venditti",
             "TrackTitle": "Alta marea",
             "MBID": "68132e82-36d0-4677-801c-8aa153191699",
-            "Category": "Songs occuring most on playlists on deezer for this genre"
+            "Category": "Songs occuring most on playlists on deezer for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Francesco De Gregori",
             "TrackTitle": "La leva calcistica della classe '68",
             "MBID": "371f686c-9e97-44a7-b464-181c487c1326",
-            "Category": "Songs occuring most on playlists on deezer for this genre"
+            "Category": "Songs occuring most on playlists on deezer for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Fiorella Mannoia",
             "TrackTitle": "Io non ho paura",
             "MBID": "2e094a0d-ec3a-4170-8667-8a2401e8ae20",
-            "Category": "Songs occuring most on playlists on deezer for this genre"
+            "Category": "Songs occuring most on playlists on deezer for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Jovanotti",
             "TrackTitle": "A te",
             "MBID": "d45223d4-f1a9-4c59-833f-a4a334c45141",
-            "Category": "Songs occuring most on playlists on deezer for this genre"
+            "Category": "Songs occuring most on playlists on deezer for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Biagio Antonacci",
             "TrackTitle": "Non vivo pi\u00f9 senza te",
             "MBID": "2e7b11a4-0aaf-491c-95fb-750a89fd4a7f",
-            "Category": "Songs occuring most on playlists on deezer for this genre"
+            "Category": "Songs occuring most on playlists on deezer for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Renato Zero",
             "TrackTitle": "Amico",
             "MBID": "470ebcac-7614-4f02-a9ec-d21edc947286",
-            "Category": "Songs occuring most on playlists on deezer for this genre"
+            "Category": "Songs occuring most on playlists on deezer for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Samuele Bersani",
             "TrackTitle": "Giudizi universali",
             "MBID": "64f0700f-0aa5-409c-bc5f-828d3d19e4e9",
-            "Category": "Songs occuring most on playlists on deezer for this genre"
+            "Category": "Songs occuring most on playlists on deezer for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Carmen Consoli",
             "TrackTitle": "L'ultimo bacio",
             "MBID": "d7d4e4a7-b6f9-4f00-a214-f425e936e944",
-            "Category": "Songs occuring most on playlists on deezer for this genre"
+            "Category": "Songs occuring most on playlists on deezer for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Daniele Silvestri",
             "TrackTitle": "Salir\u00f2",
             "MBID": "a28e04e8-a424-4681-8aa1-2b3409033854",
-            "Category": "Songs occuring most on playlists on deezer for this genre"
+            "Category": "Songs occuring most on playlists on deezer for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Max Pezzali",
             "TrackTitle": "Come mai",
             "MBID": "91bd8108-c153-4b66-a9e2-b4214e26aed7",
-            "Category": "Songs occuring most on playlists on deezer for this genre"
+            "Category": "Songs occuring most on playlists on deezer for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Francesco Gabbani",
             "TrackTitle": "Tra le granite e le granate",
             "MBID": "4daf192a-9bfb-4df1-8018-39ffd30002f6",
-            "Category": "Songs occuring most on playlists on deezer for this genre"
+            "Category": "Songs occuring most on playlists on deezer for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "J-Ax feat. Il Cile",
             "TrackTitle": "Mar\u00eda Salvador (Molella vs. Wlady remix)",
             "MBID": "3e27f4bc-7f46-435d-9f6f-e38c300e72d2",
-            "Category": "Songs occuring most on playlists on deezer for this genre"
+            "Category": "Songs occuring most on playlists on deezer for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Baby K feat. Giusy Ferreri",
             "TrackTitle": "Roma\u2010Bangkok",
             "MBID": "9989ced4-4184-4eb6-a791-c4cd6b010851",
-            "Category": "Songs occuring most on playlists on deezer for this genre"
+            "Category": "Songs occuring most on playlists on deezer for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Fedez feat. Francesca Michielin",
             "TrackTitle": "Magnifico",
             "MBID": "1caae265-de71-40e1-bf68-67b6bda11d85",
-            "Category": "Songs occuring most on playlists on deezer for this genre"
+            "Category": "Songs occuring most on playlists on deezer for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Annalisa",
             "TrackTitle": "Dieci",
             "MBID": "33e9c854-e6e7-425d-a170-1d1611aea20d",
-            "Category": "Songs occuring most on playlists on deezer for this genre"
+            "Category": "Songs occuring most on playlists on deezer for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Elodie",
             "TrackTitle": "Bagno a mezzanotte",
             "MBID": "5716a2c1-4f80-4c16-a781-4beeab2df185",
-            "Category": "Songs occuring most on playlists on deezer for this genre"
+            "Category": "Songs occuring most on playlists on deezer for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Emma",
             "TrackTitle": "Cercavo amore",
             "MBID": "141b7e4e-29a2-4f56-add8-d33abf9eb47b",
-            "Category": "Songs occuring most on playlists on deezer for this genre"
+            "Category": "Songs occuring most on playlists on deezer for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Alessandra Amoroso",
             "TrackTitle": "Comunque andare",
             "MBID": "b5767094-115f-46c3-90ae-9822581698f2",
-            "Category": "Songs occuring most on playlists on deezer for this genre"
+            "Category": "Songs occuring most on playlists on deezer for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Irama",
             "TrackTitle": "Arrogante",
             "MBID": "c16ef7e1-5869-41d4-90dd-adfb45cf9980",
-            "Category": "Songs occuring most on playlists on deezer for this genre"
+            "Category": "Songs occuring most on playlists on deezer for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "8-Bit Arcade",
             "TrackTitle": "Calipso (8-Bit Charlie Charles, Sfera Ebbasta, Mahmood & Fabri Fibra Emulation)",
             "MBID": "7e327ce9-fe36-483f-9b89-ac8b89e8ac1f",
-            "Category": "Songs occuring most on playlists on deezer for this genre"
+            "Category": "Songs occuring most on playlists on deezer for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Ultimo",
             "TrackTitle": "Fateme cant\u00e0",
             "MBID": "4baf9aa7-b82b-47d8-b6f4-236024a1205d",
-            "Category": "Songs occuring most on playlists on deezer for this genre"
+            "Category": "Songs occuring most on playlists on deezer for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Sangiovanni",
             "TrackTitle": "Lady",
             "MBID": "987d2a88-cb4e-42e0-96b5-8896f02b3ca1",
-            "Category": "Songs occuring most on playlists on deezer for this genre"
+            "Category": "Songs occuring most on playlists on deezer for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "M\u00e5neskin",
             "TrackTitle": "Mammamia",
             "MBID": "1631e52a-734c-4872-8634-3d3c87fcfb19",
-            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+            "Category": "Songs occuring most on playlists on soundcloud for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "BLANCO",
             "TrackTitle": "Afrodite",
             "MBID": "a80899f8-9ae3-4df1-857c-66930f803073",
-            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+            "Category": "Songs occuring most on playlists on soundcloud for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Gu\u00e9 Pequeno",
             "TrackTitle": "Diventare grande (Lazza RMX)",
             "MBID": "c8b5218e-3b3f-4b7a-8278-391bafcf6c2b",
-            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+            "Category": "Songs occuring most on playlists on soundcloud for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Bruno Lauzi",
             "TrackTitle": "Ritornerai",
             "MBID": "5a835d8a-e303-47a8-898e-1751040c7309",
-            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+            "Category": "Songs occuring most on playlists on soundcloud for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Pinguini Tattici Nucleari",
             "TrackTitle": "Rubami la notte",
             "MBID": "39cc66b0-6265-4698-88c9-4305352eafff",
-            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+            "Category": "Songs occuring most on playlists on soundcloud for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Annalisa",
             "TrackTitle": "Euforia",
             "MBID": "f7e31ad8-4db9-4492-9367-33094ae308ee",
-            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+            "Category": "Songs occuring most on playlists on soundcloud for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Elodie",
             "TrackTitle": "Vertigine",
             "MBID": "3b037709-4084-4790-b7c0-cff2dbeb76de",
-            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+            "Category": "Songs occuring most on playlists on soundcloud for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Mr. Rain",
             "TrackTitle": "Fiori di Chernobyl",
             "MBID": "da6d3c21-b7a4-4aaf-b48a-38293b075b70",
-            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+            "Category": "Songs occuring most on playlists on soundcloud for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Marracash feat. Madame",
             "TrackTitle": "MADAME - L'anima",
             "MBID": "cae35a4a-8a55-436e-8874-959fd1acef38",
-            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+            "Category": "Songs occuring most on playlists on soundcloud for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Pinguini Tattici Nucleari",
             "TrackTitle": "Scooby Doo",
             "MBID": "b72d921a-5a1c-4dbb-829f-0ec121ab0342",
-            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+            "Category": "Songs occuring most on playlists on soundcloud for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Tananai",
             "TrackTitle": "Sesso occasionale",
             "MBID": "63d8a9d9-4bb0-4932-93c5-6d00ac597f6d",
-            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+            "Category": "Songs occuring most on playlists on soundcloud for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Angelina Mango",
             "TrackTitle": "Che t\u2019o dico a fa\u2019",
             "MBID": "866dd2af-0e6a-4248-9713-22a971342e56",
-            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+            "Category": "Songs occuring most on playlists on soundcloud for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Irama",
             "TrackTitle": "Mediterranea",
             "MBID": "497f551a-d9ba-4c4b-bb97-0b5144ddd3c6",
-            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+            "Category": "Songs occuring most on playlists on soundcloud for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Achille Lauro",
             "TrackTitle": "C\u2019est la vie",
             "MBID": "994dc2c4-6df8-4230-85e9-376a7ea48f15",
-            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+            "Category": "Songs occuring most on playlists on soundcloud for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Ghali",
             "TrackTitle": "Good Times",
             "MBID": "e0d3e24f-f1ce-4fa7-b668-0c04f3bdabda",
-            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+            "Category": "Songs occuring most on playlists on soundcloud for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Pooh",
             "TrackTitle": "Nel buio",
             "MBID": "9e719fc6-2f02-4d39-89e7-d0ba658f9e9d",
-            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+            "Category": "Songs occuring most on playlists on soundcloud for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "La Rappresentante di Lista",
             "TrackTitle": "Amare",
             "MBID": "ceed8798-6615-43af-a92c-968b7d0d212e",
-            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+            "Category": "Songs occuring most on playlists on soundcloud for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Alfa",
             "TrackTitle": "Cin cin",
             "MBID": "264dc64b-717e-4d9f-b483-ec3d03536a1a",
-            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+            "Category": "Songs occuring most on playlists on soundcloud for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Gaia",
             "TrackTitle": "Coco Chanel",
             "MBID": "dbc2cdb0-a941-440d-8dbc-81bbb3cb04af",
-            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+            "Category": "Songs occuring most on playlists on soundcloud for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Dargen D\u2019Amico",
             "TrackTitle": "Nostalgia istantanea (original)",
             "MBID": "f8a89169-5c5a-4ba0-b8b9-d5c0f31aeba6",
-            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+            "Category": "Songs occuring most on playlists on soundcloud for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Rosa Chemical feat. Thelonious B.",
             "TrackTitle": "POLKA",
             "MBID": "c4d65dae-a088-4932-b225-e0d98a411289",
-            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+            "Category": "Songs occuring most on playlists on soundcloud for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Olly",
             "TrackTitle": "Un'altra volta",
             "MBID": "9eea2236-7bf0-4c29-8160-c41fd4d2a31a",
-            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+            "Category": "Songs occuring most on playlists on soundcloud for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Buscemi & The Michel Bisceglia Ensemble",
             "TrackTitle": "Il ballo",
             "MBID": "aaab5465-84f0-4501-ac9f-bf3a8521bcd1",
-            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+            "Category": "Songs occuring most on playlists on soundcloud for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "LaNobileA feat. Barbara Catera",
             "TrackTitle": "Solo chimica",
             "MBID": "997601fc-a94a-4f8e-815d-8f4ad76135ca",
-            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+            "Category": "Songs occuring most on playlists on soundcloud for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Samuele Bersani",
             "TrackTitle": "Harakiri",
             "MBID": "6c8b7b0a-20bc-4661-b863-5e032183fc48",
-            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+            "Category": "Songs occuring most on playlists on soundcloud for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Carmen Consoli",
             "TrackTitle": "Confusa e felice",
             "MBID": "39256caf-0b49-444e-a9a3-58a617bec379",
-            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+            "Category": "Songs occuring most on playlists on soundcloud for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Daniele Silvestri",
             "TrackTitle": "Cohiba",
             "MBID": "d653dd65-8d10-4ece-a3ee-ad731df473f2",
-            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+            "Category": "Songs occuring most on playlists on soundcloud for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Max Pezzali",
             "TrackTitle": "Lo strano percorso",
             "MBID": "f26a89b8-0049-489f-92a7-79502db9e9e3",
-            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+            "Category": "Songs occuring most on playlists on soundcloud for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "J-Ax",
             "TrackTitle": "Ostia lido",
             "MBID": "707dd30c-0982-41db-823e-383eb5b6a0fc",
-            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+            "Category": "Songs occuring most on playlists on soundcloud for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Baby K",
             "TrackTitle": "Da zero a cento",
             "MBID": "43df9a74-23c3-4637-9bec-7794f86c0ecb",
-            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+            "Category": "Songs occuring most on playlists on soundcloud for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Emma",
             "TrackTitle": "Io sono bella",
             "MBID": "35270650-83ce-422f-9ebb-17e52fc22524",
-            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+            "Category": "Songs occuring most on playlists on soundcloud for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Alessandra Amoroso",
             "TrackTitle": "Fidati ancora di me",
             "MBID": "9df5015d-a922-4a19-8b4f-aed76415efce",
-            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+            "Category": "Songs occuring most on playlists on soundcloud for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Coez",
             "TrackTitle": "La musica non c\u2019\u00e8",
             "MBID": "46abe436-859b-4798-bc73-bd67a2aa8fab",
-            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+            "Category": "Songs occuring most on playlists on soundcloud for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Calcutta",
             "TrackTitle": "Paracetamolo",
             "MBID": "659ecfc5-2ae9-4cb6-a0b5-26c68aed8c58",
-            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+            "Category": "Songs occuring most on playlists on soundcloud for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Thegiornalisti",
             "TrackTitle": "Riccione",
             "MBID": "ef12c984-6311-4975-91bf-e2ff2b318e36",
-            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+            "Category": "Songs occuring most on playlists on soundcloud for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Tommaso Paradiso",
             "TrackTitle": "Non avere paura",
             "MBID": "c3b77b81-34df-42f4-9bfa-79160d468d0e",
-            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+            "Category": "Songs occuring most on playlists on soundcloud for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Lo Stato Sociale",
             "TrackTitle": "Una vita in vacanza",
             "MBID": "79f27e65-b5ff-4396-9ea6-29e2103848f2",
-            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+            "Category": "Songs occuring most on playlists on soundcloud for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Pinguini Tattici Nucleari",
             "TrackTitle": "Pastello bianco",
             "MBID": "dc11e50c-2f05-4a1b-8e4b-dbc92deb5410",
-            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+            "Category": "Songs occuring most on playlists on soundcloud for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Etta Scollo",
             "TrackTitle": "Colapesce",
             "MBID": "393a60cf-22e5-42f4-993d-844e13d940c1",
-            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+            "Category": "Songs occuring most on playlists on soundcloud for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Cosmo",
             "TrackTitle": "L'ultima festa",
             "MBID": "b021254d-210b-4928-8390-c226a31e9534",
-            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+            "Category": "Songs occuring most on playlists on soundcloud for this genre",
+            "TrackComposer": ""
         }
     ]
 }

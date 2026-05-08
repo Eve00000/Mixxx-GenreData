@@ -1,5 +1,7 @@
 {
     "SearchField": "German Classics",
+    "Category": "",
+    "Focus": "artist",
     "RefreshRate": 28,
     "AppendMode": "append",
     "Timestamp": "2026-05-05T12:31:20Z",
@@ -9,1027 +11,1198 @@
             "TrackArtist": "Nena",
             "TrackTitle": "99 Luftballons",
             "MBID": "33530fcf-ac8b-4727-b3cb-6e21cc080e7d",
-            "Category": "Iconic One-Hit Wonders and viral sensations"
+            "Category": "Iconic One-Hit Wonders and viral sensations",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Trio",
             "TrackTitle": "Da da da I Don\u2019t Love You You Don\u2019t Love Me Aha Aha Aha",
             "MBID": "11aed920-b50a-4e3c-b7b3-6e4ce6555f70",
-            "Category": "Iconic One-Hit Wonders and viral sensations"
+            "Category": "Iconic One-Hit Wonders and viral sensations",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Falco",
             "TrackTitle": "Rock Me Amadeus",
             "MBID": "7f02219e-e801-4464-99bc-44be54ecf56b",
-            "Category": "Iconic One-Hit Wonders and viral sensations"
+            "Category": "Iconic One-Hit Wonders and viral sensations",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Matthias Reim",
             "TrackTitle": "Verdammt ich lieb Dich",
             "MBID": "f29dcef9-7ad3-4c89-a47c-9dcfd7248cec",
-            "Category": "Iconic One-Hit Wonders and viral sensations"
+            "Category": "Iconic One-Hit Wonders and viral sensations",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Andreas Dorau & Die Marinas",
             "TrackTitle": "Fred vom Jupiter",
             "MBID": "213b69bd-3eb5-40fe-8aa4-e72070987519",
-            "Category": "Iconic One-Hit Wonders and viral sensations"
+            "Category": "Iconic One-Hit Wonders and viral sensations",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Spider Murphy Gang",
             "TrackTitle": "Skandal im Sperrbezirk",
             "MBID": "8c8f95c9-8423-4710-be86-899a83cd5497",
-            "Category": "Iconic One-Hit Wonders and viral sensations"
+            "Category": "Iconic One-Hit Wonders and viral sensations",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Hubert Kah",
             "TrackTitle": "Sternenhimmel",
             "MBID": "6f76b9ec-73e1-48c3-b97c-51a73e8603f1",
-            "Category": "Iconic One-Hit Wonders and viral sensations"
+            "Category": "Iconic One-Hit Wonders and viral sensations",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Peter Schilling",
             "TrackTitle": "Major Tom (v\u00f6llig losgel\u00f6st)",
             "MBID": "4e80c72c-e7d4-4195-8e81-80f2f9fb26a4",
-            "Category": "Iconic One-Hit Wonders and viral sensations"
+            "Category": "Iconic One-Hit Wonders and viral sensations",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Alphaville",
             "TrackTitle": "Big in Japan",
             "MBID": "d10af0c3-db66-4c71-90bc-ebcc8e6b8a9a",
-            "Category": "Iconic One-Hit Wonders and viral sensations"
+            "Category": "Iconic One-Hit Wonders and viral sensations",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Modern Talking",
             "TrackTitle": "You're My Heart, You're My Soul",
             "MBID": "e6a34a59-7c81-4a82-94c0-fda569404d18",
-            "Category": "Iconic One-Hit Wonders and viral sensations"
+            "Category": "Iconic One-Hit Wonders and viral sensations",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Kraftwerk",
             "TrackTitle": "Das Model",
             "MBID": "8cf8666c-0109-4969-9c02-cb2422e7740c",
-            "Category": "Iconic One-Hit Wonders and viral sensations"
+            "Category": "Iconic One-Hit Wonders and viral sensations",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Milli Vanilli",
             "TrackTitle": "Girl You Know It's True",
             "MBID": "0d099378-1122-49b8-9604-6e0bfcf274a0",
-            "Category": "Iconic One-Hit Wonders and viral sensations"
+            "Category": "Iconic One-Hit Wonders and viral sensations",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Sandra",
             "TrackTitle": "Maria Magdalena",
             "MBID": "47ee707f-a7e3-487c-84f1-4713503af7e1",
-            "Category": "Iconic One-Hit Wonders and viral sensations"
+            "Category": "Iconic One-Hit Wonders and viral sensations",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Herbert Gr\u00f6nemeyer",
             "TrackTitle": "M\u00e4nner",
             "MBID": "c6e76ab6-2094-483a-979a-a3d17ea95d65",
-            "Category": "Iconic One-Hit Wonders and viral sensations"
+            "Category": "Iconic One-Hit Wonders and viral sensations",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Udo J\u00fcrgens",
             "TrackTitle": "Griechischer Wein",
             "MBID": "40a40fdd-cc3c-4882-a3be-d157e6ddb1e6",
-            "Category": "Iconic One-Hit Wonders and viral sensations"
+            "Category": "Iconic One-Hit Wonders and viral sensations",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Michael Holm",
             "TrackTitle": "Tr\u00e4nen l\u00fcgen nicht",
             "MBID": "6a1d5584-7948-4f90-b156-78fd311e5b15",
-            "Category": "Iconic One-Hit Wonders and viral sensations"
+            "Category": "Iconic One-Hit Wonders and viral sensations",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Dschinghis Khan",
             "TrackTitle": "Dschinghis Khan",
             "MBID": "34056678-d077-4521-88b0-8bc302af178a",
-            "Category": "Iconic One-Hit Wonders and viral sensations"
+            "Category": "Iconic One-Hit Wonders and viral sensations",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Nicole",
             "TrackTitle": "Ein bisschen Frieden",
             "MBID": "134481a7-8d48-40ab-9d46-de5742bf627d",
-            "Category": "Iconic One-Hit Wonders and viral sensations"
+            "Category": "Iconic One-Hit Wonders and viral sensations",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Heino",
             "TrackTitle": "Blau bl\u00fcht der Enzian",
             "MBID": "c3535493-5b49-4b52-84df-5f426fe220dc",
-            "Category": "Iconic One-Hit Wonders and viral sensations"
+            "Category": "Iconic One-Hit Wonders and viral sensations",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Die \u00c4rzte",
             "TrackTitle": "Westerland",
             "MBID": "5c747b82-286c-4350-a9e9-e5c068d9a963",
-            "Category": "Iconic One-Hit Wonders and viral sensations"
+            "Category": "Iconic One-Hit Wonders and viral sensations",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Die Toten Hosen",
             "TrackTitle": "Tage wie diese",
             "MBID": "844618c1-8248-4408-a57c-b21549e55eaf",
-            "Category": "Iconic One-Hit Wonders and viral sensations"
+            "Category": "Iconic One-Hit Wonders and viral sensations",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Tokio Hotel",
             "TrackTitle": "Durch den Monsun",
             "MBID": "2d7c07be-1cd9-4583-8d48-f19302580fa9",
-            "Category": "Iconic One-Hit Wonders and viral sensations"
+            "Category": "Iconic One-Hit Wonders and viral sensations",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Rammstein",
             "TrackTitle": "Du hast",
             "MBID": "f140f178-4ba1-4797-bcf5-0590f9db4e54",
-            "Category": "Iconic One-Hit Wonders and viral sensations"
+            "Category": "Iconic One-Hit Wonders and viral sensations",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Scooter",
             "TrackTitle": "Hyper Hyper",
             "MBID": "4c9932a4-5e37-49cf-86e3-26738e01317b",
-            "Category": "Iconic One-Hit Wonders and viral sensations"
+            "Category": "Iconic One-Hit Wonders and viral sensations",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Captain Jack",
             "TrackTitle": "Captain Jack",
             "MBID": "727578a4-564f-4550-aa7f-5b3ed6761afa",
-            "Category": "Iconic One-Hit Wonders and viral sensations"
+            "Category": "Iconic One-Hit Wonders and viral sensations",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Lou Bega",
             "TrackTitle": "Mambo No. 5 (A Little Bit Of...)",
             "MBID": "5f14ced9-e478-4955-98ec-21760563e140",
-            "Category": "Iconic One-Hit Wonders and viral sensations"
+            "Category": "Iconic One-Hit Wonders and viral sensations",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "E\u2010Rotic",
             "TrackTitle": "Max Don't Have Sex With Your Ex",
             "MBID": "ef96bbb2-5cc2-4a8d-a5d8-09b314fd2aa8",
-            "Category": "Iconic One-Hit Wonders and viral sensations"
+            "Category": "Iconic One-Hit Wonders and viral sensations",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Mr. President",
             "TrackTitle": "Coco Jamboo",
             "MBID": "636dc8ce-c7c6-4194-869a-64391b45b999",
-            "Category": "Iconic One-Hit Wonders and viral sensations"
+            "Category": "Iconic One-Hit Wonders and viral sensations",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "La Bouche",
             "TrackTitle": "Be My Lover",
             "MBID": "a99aa72d-258d-4f8a-8f5a-f5c4ac6da009",
-            "Category": "Iconic One-Hit Wonders and viral sensations"
+            "Category": "Iconic One-Hit Wonders and viral sensations",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Haddaway",
             "TrackTitle": "What Is Love",
             "MBID": "d9960edf-b53f-4430-8f92-ad3343d918a7",
-            "Category": "Iconic One-Hit Wonders and viral sensations"
+            "Category": "Iconic One-Hit Wonders and viral sensations",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Culture Beat",
             "TrackTitle": "Mr. Vain",
             "MBID": "482f25ac-953f-411c-9cf3-847f974b1b79",
-            "Category": "Iconic One-Hit Wonders and viral sensations"
+            "Category": "Iconic One-Hit Wonders and viral sensations",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Jam & Spoon",
             "TrackTitle": "Right in the Night (Fall in Love with Music)",
             "MBID": "165b03ac-9199-4544-ae0e-bd3c4bd86278",
-            "Category": "Iconic One-Hit Wonders and viral sensations"
+            "Category": "Iconic One-Hit Wonders and viral sensations",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Frida Gold",
             "TrackTitle": "Wovon sollen wir tr\u00e4umen",
             "MBID": "19487714-35ca-40a5-9970-99abbf13a4f1",
-            "Category": "Iconic One-Hit Wonders and viral sensations"
+            "Category": "Iconic One-Hit Wonders and viral sensations",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Cro",
             "TrackTitle": "Easy",
             "MBID": "395049b2-57d7-4400-b56e-8be073ff9ff7",
-            "Category": "Iconic One-Hit Wonders and viral sensations"
+            "Category": "Iconic One-Hit Wonders and viral sensations",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "M\u00fcnchener Freiheit",
             "TrackTitle": "Ohne Dich (schlaf\u2019 ich heut Nacht nicht ein)",
             "MBID": "0cf705c5-9fe5-4f02-9757-3f4537176070",
-            "Category": "Iconic One-Hit Wonders and viral sensations"
+            "Category": "Iconic One-Hit Wonders and viral sensations",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Andreas Gabalier",
             "TrackTitle": "I sing a Liad f\u00fcr di",
             "MBID": "a5eef697-70a8-4467-a60e-866699f55379",
-            "Category": "Iconic One-Hit Wonders and viral sensations"
+            "Category": "Iconic One-Hit Wonders and viral sensations",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Wolfgang Petry",
             "TrackTitle": "Wahnsinn",
             "MBID": "3501cad7-1113-45d2-a1bb-addc1410cba1",
-            "Category": "Iconic One-Hit Wonders and viral sensations"
+            "Category": "Iconic One-Hit Wonders and viral sensations",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Mark Forster",
             "TrackTitle": "Au Revoir (live)",
             "MBID": "e268ffbb-ce09-44a3-a801-a926917cf24d",
-            "Category": "Iconic One-Hit Wonders and viral sensations"
+            "Category": "Iconic One-Hit Wonders and viral sensations",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Namika",
             "TrackTitle": "Lieblingsmensch",
             "MBID": "88c4149c-5994-4780-8749-6f46cf6ff909",
-            "Category": "Iconic One-Hit Wonders and viral sensations"
+            "Category": "Iconic One-Hit Wonders and viral sensations",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Wincent Weiss",
             "TrackTitle": "Feuerwerk",
             "MBID": "c7d096a0-781a-4ce6-b33e-dc1aebe01643",
-            "Category": "Iconic One-Hit Wonders and viral sensations"
+            "Category": "Iconic One-Hit Wonders and viral sensations",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Tim Bendzko",
             "TrackTitle": "Nur noch kurz die Welt retten",
             "MBID": "54615b3a-ebde-4855-83cc-d7b558c526e6",
-            "Category": "Iconic One-Hit Wonders and viral sensations"
+            "Category": "Iconic One-Hit Wonders and viral sensations",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Annett Louisan",
             "TrackTitle": "Das Spiel",
             "MBID": "5a478dc1-f02e-4bdb-b13e-86d9fa4fbe75",
-            "Category": "Iconic One-Hit Wonders and viral sensations"
+            "Category": "Iconic One-Hit Wonders and viral sensations",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Pur",
             "TrackTitle": "Abenteuerland",
             "MBID": "332c8059-76b1-4f15-9dcf-af76ad929e69",
-            "Category": "Iconic One-Hit Wonders and viral sensations"
+            "Category": "Iconic One-Hit Wonders and viral sensations",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Juli",
             "TrackTitle": "Perfekte Welle",
             "MBID": "269d8d75-76b5-4525-8586-4e56914df678",
-            "Category": "Iconic One-Hit Wonders and viral sensations"
+            "Category": "Iconic One-Hit Wonders and viral sensations",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Silbermond",
             "TrackTitle": "Symphonie",
             "MBID": "1f7910bd-ee1f-4e13-bf92-0d8283d0f863",
-            "Category": "Iconic One-Hit Wonders and viral sensations"
+            "Category": "Iconic One-Hit Wonders and viral sensations",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Heinz Rudolf Kunze",
             "TrackTitle": "Dein ist mein ganzes Herz",
             "MBID": "ee565d2a-5fcd-4157-925a-3ba2507faf2f",
-            "Category": "Iconic One-Hit Wonders and viral sensations"
+            "Category": "Iconic One-Hit Wonders and viral sensations",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Rio Reiser",
             "TrackTitle": "K\u00f6nig von Deutschland",
             "MBID": "a98e0ac4-9a31-47c1-a569-a3be9101c563",
-            "Category": "Iconic One-Hit Wonders and viral sensations"
+            "Category": "Iconic One-Hit Wonders and viral sensations",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Klaus Lage Band",
             "TrackTitle": "1000 und 1 Nacht (Zoom!)",
             "MBID": "d053cea7-7d7a-422e-9a6c-adea0a5a81ec",
-            "Category": "Iconic One-Hit Wonders and viral sensations"
+            "Category": "Iconic One-Hit Wonders and viral sensations",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Bl\u00fcmchen",
             "TrackTitle": "Herz an Herz",
             "MBID": "c72539f9-4451-4fa8-90fe-34141ecc164d",
-            "Category": "Iconic One-Hit Wonders and viral sensations"
+            "Category": "Iconic One-Hit Wonders and viral sensations",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Johann Sebastian Bach; Irina Mejoueva",
             "TrackTitle": "Chromatic Fantasy and Fugue in D Minor, BWV 903: I. Fantasia (Live)",
             "MBID": "e2fade17-dfc0-4c13-976f-514f017a2972",
-            "Category": "Hidden gems, B-sides, and influential album tracks"
+            "Category": "Hidden gems, B-sides, and influential album tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Carl Maria von Weber",
             "TrackTitle": "Clarinet Concerto No. 1 in F Minor, Op. 73: III. Rondo. Allegretto",
             "MBID": "d1f2b304-1c97-4ff2-a5d7-7d04addc5998",
-            "Category": "Hidden gems, B-sides, and influential album tracks"
+            "Category": "Hidden gems, B-sides, and influential album tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Felix Mendelssohn",
             "TrackTitle": "String Octet in E flat major, Op. 20: I. Allegro moderato ma con fuoco",
             "MBID": "1365c6fc-b3eb-4bd8-89d7-b46d3b86acd5",
-            "Category": "Hidden gems, B-sides, and influential album tracks"
+            "Category": "Hidden gems, B-sides, and influential album tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Felix Mendelssohn",
             "TrackTitle": "Piano Trio No. 1 in D minor, op. 49: I. Molto allegro ed agitato",
             "MBID": "3a3036b0-5dab-4fa2-90ab-f2dc055c1731",
-            "Category": "Hidden gems, B-sides, and influential album tracks"
+            "Category": "Hidden gems, B-sides, and influential album tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Felix Mendelssohn",
             "TrackTitle": "A Midsummer Night's Dream: Nocturne",
             "MBID": "32301ef8-d8bb-4392-882a-05d607bdec18",
-            "Category": "Hidden gems, B-sides, and influential album tracks"
+            "Category": "Hidden gems, B-sides, and influential album tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Robert Schumann",
             "TrackTitle": "Piano Quintet in E-flat major, op. 44: I. Allegro brillante",
             "MBID": "8843b594-6f14-49d5-8369-b5a004792142",
-            "Category": "Hidden gems, B-sides, and influential album tracks"
+            "Category": "Hidden gems, B-sides, and influential album tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Robert Schumann",
             "TrackTitle": "Carnaval, op. 9: V. Eusebius",
             "MBID": "8df4f868-9e3c-4f1a-8fc2-2ba7a15b5e39",
-            "Category": "Hidden gems, B-sides, and influential album tracks"
+            "Category": "Hidden gems, B-sides, and influential album tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Robert Schumann",
             "TrackTitle": "Cello Concerto In A Minor Op. 129: I. Nicht Zu Schnell",
             "MBID": "779b0f21-38de-47f2-8ec6-b96c98ec1738",
-            "Category": "Hidden gems, B-sides, and influential album tracks"
+            "Category": "Hidden gems, B-sides, and influential album tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Johannes Brahms, Hank Landrum, Han Na Lee, Ben Kronk, Anahit Matevosyan & Tsz To Wong",
             "TrackTitle": "Clarinet Quintet in B minor, Op. 115: I. Allegro (Live)",
             "MBID": "5f980656-fc53-45be-8e76-3260dcd28fbe",
-            "Category": "Hidden gems, B-sides, and influential album tracks"
+            "Category": "Hidden gems, B-sides, and influential album tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Johannes Brahms",
             "TrackTitle": "Symphony No. 3 in F Major, Op. 90: III. Poco allegretto",
             "MBID": "10cd573a-df96-4fa2-a215-17b466fea507",
-            "Category": "Hidden gems, B-sides, and influential album tracks"
+            "Category": "Hidden gems, B-sides, and influential album tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Johannes Brahms",
             "TrackTitle": "Piano Concerto No. 2 In B-flat Major Op. 83: II. Allegro Appassionato",
             "MBID": "87c570b6-bfe4-4106-9639-67ac8458abe8",
-            "Category": "Hidden gems, B-sides, and influential album tracks"
+            "Category": "Hidden gems, B-sides, and influential album tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Johannes Brahms",
             "TrackTitle": "Intermezzo in A Major, op. 118, no. 2",
             "MBID": "9e1d7fd7-91c4-4eaa-af64-46d1b29ba92e",
-            "Category": "Hidden gems, B-sides, and influential album tracks"
+            "Category": "Hidden gems, B-sides, and influential album tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Richard Wagner",
             "TrackTitle": "Siegfried-Idyll",
             "MBID": "661847bc-c82e-40c3-b19f-66d6ca514bbf",
-            "Category": "Hidden gems, B-sides, and influential album tracks"
+            "Category": "Hidden gems, B-sides, and influential album tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Richard Wagner",
             "TrackTitle": "Lohengrin: Prelude to Act III",
             "MBID": "8a79a7c9-ea65-41cd-813c-496c52b53c77",
-            "Category": "Hidden gems, B-sides, and influential album tracks"
+            "Category": "Hidden gems, B-sides, and influential album tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Richard Strauss",
             "TrackTitle": "Metamorphosen for 23 solo strings",
             "MBID": "d3419291-089e-45d8-afcd-837ecd7f8087",
-            "Category": "Hidden gems, B-sides, and influential album tracks"
+            "Category": "Hidden gems, B-sides, and influential album tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Richard Strauss",
             "TrackTitle": "Don Juan, Op 20",
             "MBID": "003a961e-7637-4841-bc60-90faecfc069b",
-            "Category": "Hidden gems, B-sides, and influential album tracks"
+            "Category": "Hidden gems, B-sides, and influential album tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Kraftwerk",
             "TrackTitle": "Autobahn",
             "MBID": "49ccc0b7-3e47-4637-8ffd-8a4c7d974b86",
-            "Category": "Late-night anthems and closing tracks"
+            "Category": "Late-night anthems and closing tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Kraftwerk",
             "TrackTitle": "Trans Europe Express",
             "MBID": "e44a6601-5b08-40e8-9d44-749440cb38a8",
-            "Category": "Late-night anthems and closing tracks"
+            "Category": "Late-night anthems and closing tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Kraftwerk",
             "TrackTitle": "Computer Love",
             "MBID": "4485bc35-71ee-4266-946a-2e54cf23dd81",
-            "Category": "Late-night anthems and closing tracks"
+            "Category": "Late-night anthems and closing tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Can",
             "TrackTitle": "Halleluhwah",
             "MBID": "2ce6650b-0686-46e8-a673-e1cc20b89087",
-            "Category": "Late-night anthems and closing tracks"
+            "Category": "Late-night anthems and closing tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "CAN",
             "TrackTitle": "Vitamin C",
             "MBID": "9d8d88c1-ebed-48ad-8b1a-52e5e9a49ecc",
-            "Category": "Late-night anthems and closing tracks"
+            "Category": "Late-night anthems and closing tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "CAN",
             "TrackTitle": "Future Days",
             "MBID": "5c389635-0360-4cd6-82a0-d3e783574310",
-            "Category": "Late-night anthems and closing tracks"
+            "Category": "Late-night anthems and closing tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Neu!",
             "TrackTitle": "Hallogallo",
             "MBID": "0956fdda-265c-401c-9566-829d96f78940",
-            "Category": "Late-night anthems and closing tracks"
+            "Category": "Late-night anthems and closing tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Neu!",
             "TrackTitle": "ISI",
             "MBID": "249574a4-91b7-4ea7-b64c-018321366a94",
-            "Category": "Late-night anthems and closing tracks"
+            "Category": "Late-night anthems and closing tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Harmonia",
             "TrackTitle": "Deluxe (Immer wieder)",
             "MBID": "2ab71536-3749-4089-b57d-528a522154b0",
-            "Category": "Late-night anthems and closing tracks"
+            "Category": "Late-night anthems and closing tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Popol Vuh",
             "TrackTitle": "Hosianna\u2010Mantra: Hosianna\u2010Mantra",
             "MBID": "3cbafb27-7389-4eb4-a904-e9f3a349da54",
-            "Category": "Late-night anthems and closing tracks"
+            "Category": "Late-night anthems and closing tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Faust",
             "TrackTitle": "It's a Rainy Day (Sunshine Girl)",
             "MBID": "37bec193-7ff5-4b1c-ab32-f9d54b043fcc",
-            "Category": "Late-night anthems and closing tracks"
+            "Category": "Late-night anthems and closing tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Tangerine Dream",
             "TrackTitle": "Phaedra",
             "MBID": "44644001-665f-4bd5-8e9b-a41ae8f1a0cc",
-            "Category": "Late-night anthems and closing tracks"
+            "Category": "Late-night anthems and closing tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Tangerine Dream",
             "TrackTitle": "Rubycon (Part One)",
             "MBID": "cd63d898-d962-4c87-a9c7-729695290e78",
-            "Category": "Late-night anthems and closing tracks"
+            "Category": "Late-night anthems and closing tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Klaus Schulze",
             "TrackTitle": "Bayreuth Return",
             "MBID": "62df0f6c-b2d2-46ef-b785-453e1df1c0c2",
-            "Category": "Late-night anthems and closing tracks"
+            "Category": "Late-night anthems and closing tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "La D\u00fcsseldorf",
             "TrackTitle": "Rheinita",
             "MBID": "743dec0f-349f-4516-a4ba-9c38352fdfa4",
-            "Category": "Late-night anthems and closing tracks"
+            "Category": "Late-night anthems and closing tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Michael Rother",
             "TrackTitle": "Karussell",
             "MBID": "b9ea4b4a-1d98-4ba9-a4a8-9e2ddaa3056f",
-            "Category": "Late-night anthems and closing tracks"
+            "Category": "Late-night anthems and closing tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Manuel G\u00f6ttsching",
             "TrackTitle": "E2-E4",
             "MBID": "09443cce-f63f-45e4-821a-68c880f5fece",
-            "Category": "Late-night anthems and closing tracks"
+            "Category": "Late-night anthems and closing tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Ash Ra Tempel",
             "TrackTitle": "Schwingungen (excerpt)",
             "MBID": "ba38e18b-35c4-41c2-a588-adc9e274014d",
-            "Category": "Late-night anthems and closing tracks"
+            "Category": "Late-night anthems and closing tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Rammstein",
             "TrackTitle": "Sonne",
             "MBID": "13415654-84ab-4024-a755-133721d6540f",
-            "Category": "Late-night anthems and closing tracks"
+            "Category": "Late-night anthems and closing tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Einst\u00fcrzende Neubauten",
             "TrackTitle": "Stella Maris",
             "MBID": "3162f907-8208-4d0c-a6e2-0c6ccddd48e8",
-            "Category": "Late-night anthems and closing tracks"
+            "Category": "Late-night anthems and closing tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Einst\u00fcrzende Neubauten",
             "TrackTitle": "Y\u00fc\u2010Gung (F\u00fctter mein Ego)",
             "MBID": "6b09fe35-5122-4c2b-a53d-89524b31b483",
-            "Category": "Late-night anthems and closing tracks"
+            "Category": "Late-night anthems and closing tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Alphaville",
             "TrackTitle": "Forever Young",
             "MBID": "79be4f8c-5935-4f73-a695-19f0dbac4e79",
-            "Category": "Late-night anthems and closing tracks"
+            "Category": "Late-night anthems and closing tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Peter Schilling",
             "TrackTitle": "Major Tom (Coming Home)",
             "MBID": "3b8a0fea-4a26-4a10-b83d-d5132579df5c",
-            "Category": "Late-night anthems and closing tracks"
+            "Category": "Late-night anthems and closing tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Joachim Witt",
             "TrackTitle": "Goldener Reiter",
             "MBID": "b010156b-32f2-4333-b217-605de5c76ac7",
-            "Category": "Late-night anthems and closing tracks"
+            "Category": "Late-night anthems and closing tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Propaganda",
             "TrackTitle": "Duel",
             "MBID": "1b5a3b19-0bf5-486c-b7ad-e0b6acd08e8c",
-            "Category": "Late-night anthems and closing tracks"
+            "Category": "Late-night anthems and closing tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Propaganda",
             "TrackTitle": "Dr. Mabuse",
             "MBID": "88826cd9-6fc8-44c4-8385-8b56873424c1",
-            "Category": "Late-night anthems and closing tracks"
+            "Category": "Late-night anthems and closing tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Scorpions",
             "TrackTitle": "Wind of Change",
             "MBID": "d7057b8c-342c-4647-8d81-b08bd5219e85",
-            "Category": "Late-night anthems and closing tracks"
+            "Category": "Late-night anthems and closing tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Scorpions",
             "TrackTitle": "Rock You Like a Hurricane",
             "MBID": "ea6054bc-0e8e-452c-acd8-a19cbbeb6ddc",
-            "Category": "Late-night anthems and closing tracks"
+            "Category": "Late-night anthems and closing tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Accept",
             "TrackTitle": "Balls to the Wall",
             "MBID": "ca36b713-1278-4407-bc31-5fb17eceea4e",
-            "Category": "Late-night anthems and closing tracks"
+            "Category": "Late-night anthems and closing tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Helloween",
             "TrackTitle": "I Want Out",
             "MBID": "f8611093-514f-47a8-ac4a-b62352d48f30",
-            "Category": "Late-night anthems and closing tracks"
+            "Category": "Late-night anthems and closing tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Blind Guardian",
             "TrackTitle": "The Bard\u2019s Song: In the Forest",
             "MBID": "da1496df-d022-4768-859b-240d1edf3d71",
-            "Category": "Late-night anthems and closing tracks"
+            "Category": "Late-night anthems and closing tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Xmal Deutschland",
             "TrackTitle": "Qual",
             "MBID": "737878a7-b18a-4d1f-be18-97f2916c3698",
-            "Category": "Late-night anthems and closing tracks"
+            "Category": "Late-night anthems and closing tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Nina Hagen Band",
             "TrackTitle": "African Reggae",
             "MBID": "228028d8-6e65-4a50-9d4e-af0a4724736e",
-            "Category": "Late-night anthems and closing tracks"
+            "Category": "Late-night anthems and closing tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Ideal",
             "TrackTitle": "Berlin",
             "MBID": "621a0a55-c150-4a50-aa36-bd84b7f8bd1c",
-            "Category": "Late-night anthems and closing tracks"
+            "Category": "Late-night anthems and closing tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Ideal",
             "TrackTitle": "Blaue Augen",
             "MBID": "33df7b76-8149-40cc-a09a-81d10da5cd40",
-            "Category": "Late-night anthems and closing tracks"
+            "Category": "Late-night anthems and closing tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Fehlfarben",
             "TrackTitle": "Es geht voran",
             "MBID": "d668c5fa-9625-4911-a9b4-5fd92cfb019f",
-            "Category": "Late-night anthems and closing tracks"
+            "Category": "Late-night anthems and closing tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Malaria!",
             "TrackTitle": "Kaltes Klares Wasser",
             "MBID": "2be91972-e5bf-4da5-a3b1-4768e8ccc69a",
-            "Category": "Late-night anthems and closing tracks"
+            "Category": "Late-night anthems and closing tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "DAF / DOS",
             "TrackTitle": "Der Mussolini",
             "MBID": "5b116007-5047-4990-be3b-02d840b18aec",
-            "Category": "Late-night anthems and closing tracks"
+            "Category": "Late-night anthems and closing tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Die Toten Hosen",
             "TrackTitle": "Tage wie diese",
             "MBID": "f958b654-eef3-4496-b751-b61edfe146c9",
-            "Category": "Late-night anthems and closing tracks"
+            "Category": "Late-night anthems and closing tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Herbert Gr\u00f6nemeyer",
             "TrackTitle": "Bochum",
             "MBID": "440909a2-ee77-483b-ac4c-34cfcb0abb76",
-            "Category": "Late-night anthems and closing tracks"
+            "Category": "Late-night anthems and closing tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Marius M\u00fcller\u2010Westernhagen",
             "TrackTitle": "Sexy",
             "MBID": "88c0ad14-0afa-409c-9d91-01ed0c85b200",
-            "Category": "Late-night anthems and closing tracks"
+            "Category": "Late-night anthems and closing tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "BAP",
             "TrackTitle": "Verdamp lang her",
             "MBID": "76cbacbf-aaca-4fd2-aa18-6644e4459eb6",
-            "Category": "Late-night anthems and closing tracks"
+            "Category": "Late-night anthems and closing tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Jon Batiste, Ludwig van Beethoven",
             "TrackTitle": "F\u00fcr Elise - Reverie",
             "MBID": "ae8ad9ed-2990-4a64-af70-6cc5677ea40f",
-            "Category": "Crossover hits that also charted in other genres"
+            "Category": "Crossover hits that also charted in other genres",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Johann Sebastian Bach",
             "TrackTitle": "Toccata and Fugue in D minor, BWV 565",
             "MBID": "9ea960bb-a65f-475d-bf67-d6c1dcf0b67e",
-            "Category": "Crossover hits that also charted in other genres"
+            "Category": "Crossover hits that also charted in other genres",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Johann Sebastian Bach",
             "TrackTitle": "Jesu Joy of Man's Desiring",
             "MBID": "a0018b66-0fd4-498e-ba3d-9f3b5fd682cc",
-            "Category": "Crossover hits that also charted in other genres"
+            "Category": "Crossover hits that also charted in other genres",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "George Frideric Handel",
             "TrackTitle": "Zadok The Priest",
             "MBID": "eb3db902-4700-4deb-95cf-ef31334166e7",
-            "Category": "Crossover hits that also charted in other genres"
+            "Category": "Crossover hits that also charted in other genres",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "George Frideric Handel",
             "TrackTitle": "Water Music: Alla Hornpipe",
             "MBID": "b628be9b-8a08-4ec3-8020-f8aec1a1d245",
-            "Category": "Crossover hits that also charted in other genres"
+            "Category": "Crossover hits that also charted in other genres",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Carl Orff, Brighton Festival Chorus, Royal Philharmonic Orchestra & Antal Dor\u00e1ti",
             "TrackTitle": "O Fortuna (Carmina Burana) (from Excalibur)",
             "MBID": "3f1aa5c7-8777-4cc8-8b69-8e6ac038c3c8",
-            "Category": "Crossover hits that also charted in other genres"
+            "Category": "Crossover hits that also charted in other genres",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Johannes Brahms",
             "TrackTitle": "Hungarian Dance No. 5",
             "MBID": "5c13d2a4-2222-4029-985a-9ebeccf05f75",
-            "Category": "Crossover hits that also charted in other genres"
+            "Category": "Crossover hits that also charted in other genres",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Felix Mendelssohn",
             "TrackTitle": "Fingal's Cave Overture (The Hebrides)",
             "MBID": "547ce86b-1daf-457a-ae90-ae966708244e",
-            "Category": "Crossover hits that also charted in other genres"
+            "Category": "Crossover hits that also charted in other genres",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Johann Pachelbel",
             "TrackTitle": "Canon in D Major",
             "MBID": "165eb8ba-6a43-4ff9-916e-5bf955057151",
-            "Category": "Crossover hits that also charted in other genres"
+            "Category": "Crossover hits that also charted in other genres",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Johannes Brahms",
             "TrackTitle": "Waltz No.15, Op 39",
             "MBID": "045af717-0823-45a6-bf3f-67a310609a39",
-            "Category": "Crossover hits that also charted in other genres"
+            "Category": "Crossover hits that also charted in other genres",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Johann Sebastian Bach",
             "TrackTitle": "Ave Maria",
             "MBID": "c1cfcb66-9afc-4f18-b530-45f856603617",
-            "Category": "Crossover hits that also charted in other genres"
+            "Category": "Crossover hits that also charted in other genres",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "George Frideric Handel",
             "TrackTitle": "Arrival Of The Queen Of Sheba (Solomon)",
             "MBID": "68b103ec-fca0-483b-9c7c-a526270eb9be",
-            "Category": "Crossover hits that also charted in other genres"
+            "Category": "Crossover hits that also charted in other genres",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Richard Strauss",
             "TrackTitle": "Four Last Songs (Vier Letzte Lieder): Im Abendrot",
             "MBID": "6fae612f-e467-4262-904b-84e74a26afbf",
-            "Category": "Crossover hits that also charted in other genres"
+            "Category": "Crossover hits that also charted in other genres",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Johann Sebastian Bach & Thibault Cauvin",
             "TrackTitle": "Goldberg Variations, BWV. 988: Aria",
             "MBID": "7f0ea549-16c6-4003-a211-d99c2ad2050a",
-            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+            "Category": "Critically acclaimed masterpieces and award-winning tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Johann Sebastian Bach",
             "TrackTitle": "The Well-Tempered Clavier, Book 1: Prelude and Fugue no. 1 in C major, BWV 846",
             "MBID": "757a5022-8a3a-42b6-8be7-1cbb54e95684",
-            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+            "Category": "Critically acclaimed masterpieces and award-winning tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Johannes Brahms",
             "TrackTitle": "Symphony No. 1 in C minor, Op. 68\uff1a IV. Adagio - Allegro non troppo ma con brio",
             "MBID": "9b00514d-40a9-4c9b-a4cf-6fb18fad42b6",
-            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+            "Category": "Critically acclaimed masterpieces and award-winning tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Johannes Brahms",
             "TrackTitle": "Violin Concerto In D Major Op. 77: I. Allegro Non Troppo",
             "MBID": "b9438162-3dbc-46ba-b86d-8b3ec06b2d0a",
-            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+            "Category": "Critically acclaimed masterpieces and award-winning tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Johannes Brahms",
             "TrackTitle": "Piano Concerto No. 2 In B-flat Major Op. 83: I. Allegro Non Troppo",
             "MBID": "c3ccab34-3a51-4031-837e-014e680c5fa7",
-            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+            "Category": "Critically acclaimed masterpieces and award-winning tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Johannes Brahms",
             "TrackTitle": "Hungarian Dance No. 5 in G Minor, WoO 1 No. 5: Orchestrated by Martin Schmeling (?\u20101943)",
             "MBID": "4eb5d389-0c19-45d1-8aed-7a0559b93b8d",
-            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+            "Category": "Critically acclaimed masterpieces and award-winning tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Johannes Brahms",
             "TrackTitle": "Symphony No. 4 In E Minor Op. 98: IV. Allegro Energico E Passionato",
             "MBID": "379ec510-e047-44a8-86bd-821c372e5242",
-            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+            "Category": "Critically acclaimed masterpieces and award-winning tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "George Frideric Handel",
             "TrackTitle": "Messiah HWV 56: Hallelujah Chorus",
             "MBID": "ae4c70c1-6bf7-41b8-b768-df2f688aaea0",
-            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+            "Category": "Critically acclaimed masterpieces and award-winning tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "George Frideric Handel",
             "TrackTitle": "Water Music Suite No. 2 in D Major, HWV 349: II. Alla hornpipe",
             "MBID": "c336db96-bd03-4452-951e-4da61177ed91",
-            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+            "Category": "Critically acclaimed masterpieces and award-winning tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Kiev Virtuosi Chamber Orchestra, Dmitry Yablonsky & George Frideric Handel",
             "TrackTitle": "Keyboard Suite in D Minor, HWV 437: III. Sarabande (Arr. P. Breiner for Orchestra)",
             "MBID": "0d9c4a53-bdbf-4ce1-9dd1-f2a89953a016",
-            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+            "Category": "Critically acclaimed masterpieces and award-winning tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Richard Wagner",
             "TrackTitle": "Die Walk\u00fcre, WWV 86B: Ride of the Valkyries",
             "MBID": "f82df362-e4f2-41bb-b265-b3cba42af175",
-            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+            "Category": "Critically acclaimed masterpieces and award-winning tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Richard Wagner",
             "TrackTitle": "G\u00f6tterd\u00e4mmerung (WWV 86D): Siegfried\u2019s Funeral March",
             "MBID": "563fb2c9-7f69-4889-aa3b-174c3187c844",
-            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+            "Category": "Critically acclaimed masterpieces and award-winning tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Richard Wagner",
             "TrackTitle": "Tristan und Isolde, WWV 90: Prelude to Act I - Isolde's Liebestod",
             "MBID": "356b4e4d-3b41-43a0-b40e-3a4709b7ea79",
-            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+            "Category": "Critically acclaimed masterpieces and award-winning tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Richard Wagner",
             "TrackTitle": "Tannh\u00e4user, WWV 70: Pilgrim's Chorus",
             "MBID": "0f35d254-307f-4883-b34f-7c57dba80c6b",
-            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+            "Category": "Critically acclaimed masterpieces and award-winning tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Richard Wagner",
             "TrackTitle": "Lohengrin (WWV 75): Prelude To Act I",
             "MBID": "c0f3e3a9-c797-480d-8f99-9b9302215eea",
-            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+            "Category": "Critically acclaimed masterpieces and award-winning tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Felix Mendelssohn",
             "TrackTitle": "Violin Concerto In E Minor, Op. 64: I. Allegro Molto Appassionato",
             "MBID": "978a6ce6-edf9-47a0-84c9-9f748353a71b",
-            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+            "Category": "Critically acclaimed masterpieces and award-winning tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Felix Mendelssohn; Herbert von Karajan, Berliner Philharmoniker",
             "TrackTitle": "Symphony No. 3 in A minor, Op. 56 \"Scottish\": I. Andante con moto - Allegro un poco agitato",
             "MBID": "da056b02-864c-4b28-bbcd-08e9a1c21cae",
-            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+            "Category": "Critically acclaimed masterpieces and award-winning tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Robert Schumann",
             "TrackTitle": "Piano Concerto in A minor, op. 54: I. Allegro affettuoso",
             "MBID": "d34fb48f-d916-41e4-9006-5b5f5311046d",
-            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+            "Category": "Critically acclaimed masterpieces and award-winning tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Robert Schumann",
             "TrackTitle": "Symphony No. 3 in E-flat major, Op. 97 \"Rhenish\": I. Lebhaft",
             "MBID": "1ef1b9d1-8312-4649-80eb-6b6cb7eac980",
-            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+            "Category": "Critically acclaimed masterpieces and award-winning tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Carl Orff",
             "TrackTitle": "Carmina Burana: O Fortuna",
             "MBID": "862e143c-0e86-495f-8261-d4d413829d1f",
-            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+            "Category": "Critically acclaimed masterpieces and award-winning tracks",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Trio",
             "TrackTitle": "Da Da Da",
             "MBID": "f5f4e588-5bb7-448e-8d76-d6e3cd0056db",
-            "Category": "Songs occuring most on playlists on youtube for this genre"
+            "Category": "Songs occuring most on playlists on youtube for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Markus",
             "TrackTitle": "Ich will Spa\u00df",
             "MBID": "9f40d04b-10ea-4a2c-803b-9fd978486992",
-            "Category": "Songs occuring most on playlists on youtube for this genre"
+            "Category": "Songs occuring most on playlists on youtube for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Geier Sturzflug",
             "TrackTitle": "Bruttosozialprodukt",
             "MBID": "d56e77cb-b864-4b97-b96a-b18a4a448845",
-            "Category": "Songs occuring most on playlists on youtube for this genre"
+            "Category": "Songs occuring most on playlists on youtube for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Hubert Kah",
             "TrackTitle": "Rosemarie",
             "MBID": "0f5f352c-585a-4c46-8c1c-879eb46374b6",
-            "Category": "Songs occuring most on playlists on youtube for this genre"
+            "Category": "Songs occuring most on playlists on youtube for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Extrabreit",
             "TrackTitle": "Polizisten",
             "MBID": "788cc829-f3f6-4672-bfcd-18efe62f1534",
-            "Category": "Songs occuring most on playlists on youtube for this genre"
+            "Category": "Songs occuring most on playlists on youtube for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Frl. Menke",
             "TrackTitle": "Hohe Berge",
             "MBID": "99d958de-6c7a-44b4-90c3-bb334e5718dc",
-            "Category": "Songs occuring most on playlists on youtube for this genre"
+            "Category": "Songs occuring most on playlists on youtube for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Helene Fischer",
             "TrackTitle": "Atemlos durch die Nacht",
             "MBID": "2c60e78c-4250-4f43-9542-6813ecc60ca1",
-            "Category": "Songs occuring most on playlists on youtube for this genre"
+            "Category": "Songs occuring most on playlists on youtube for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Howard Carpendale",
             "TrackTitle": "Hello Again",
             "MBID": "b9508ccd-671e-465a-89de-9bf892784b2a",
-            "Category": "Songs occuring most on playlists on youtube for this genre"
+            "Category": "Songs occuring most on playlists on youtube for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "J\u00fcrgen Drews",
             "TrackTitle": "Ein Bett im Kornfeld",
             "MBID": "c132122c-7ffa-4aa4-a42e-83f7b7ca3daa",
-            "Category": "Songs occuring most on playlists on youtube for this genre"
+            "Category": "Songs occuring most on playlists on youtube for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Marianne Rosenberg",
             "TrackTitle": "Er geh\u00f6rt zu mir",
             "MBID": "76eb3df1-08d6-4b80-8609-1c2309aa15ce",
-            "Category": "Songs occuring most on playlists on youtube for this genre"
+            "Category": "Songs occuring most on playlists on youtube for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "M\u00fcnchener Freiheit",
             "TrackTitle": "Ohne dich (schlaf ich heut Nacht nicht ein)",
             "MBID": "1e623832-7f67-46c6-9ff0-548eb4d675af",
-            "Category": "Songs occuring most on playlists on youtube for this genre"
+            "Category": "Songs occuring most on playlists on youtube for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Matthias Reim",
             "TrackTitle": "Verdammt, ich lieb\u2019 dich",
             "MBID": "5636703e-afed-46d2-beae-0242cfec298e",
-            "Category": "Songs occuring most on playlists on youtube for this genre"
+            "Category": "Songs occuring most on playlists on youtube for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Roland Kaiser",
             "TrackTitle": "Santa Maria",
             "MBID": "e81b285b-9435-4fd9-8ce6-4885e8b11214",
-            "Category": "Songs occuring most on playlists on youtube for this genre"
+            "Category": "Songs occuring most on playlists on youtube for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Herbert Gr\u00f6nemeyer",
             "TrackTitle": "M\u00e4nner",
             "MBID": "11ecc67c-a65e-428f-bf01-91ddc39c656f",
-            "Category": "Songs occuring most on playlists on youtube for this genre"
+            "Category": "Songs occuring most on playlists on youtube for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Die \u00c4rzte",
             "TrackTitle": "Junge",
             "MBID": "9b56718d-e75d-4a05-bb33-d1793ecc2957",
-            "Category": "Songs occuring most on playlists on youtube for this genre"
+            "Category": "Songs occuring most on playlists on youtube for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Marius M\u00fcller\u2010Westernhagen",
             "TrackTitle": "Mit Pfefferminz bin ich Dein Prinz",
             "MBID": "80bb3446-aac1-4448-95c4-3f29d4c2f104",
-            "Category": "Songs occuring most on playlists on youtube for this genre"
+            "Category": "Songs occuring most on playlists on youtube for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Udo Lindenberg",
             "TrackTitle": "Sonderzug nach Pankow",
             "MBID": "1d47bdfb-c09e-4ced-9d23-82bf4fa7b652",
-            "Category": "Songs occuring most on playlists on youtube for this genre"
+            "Category": "Songs occuring most on playlists on youtube for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "De R\u00e4uber",
             "TrackTitle": "Denn wenn et Tr\u00f6mmelche jeht",
             "MBID": "3272cab5-0b6b-42b8-a982-69fbca35716f",
-            "Category": "Songs occuring most on playlists on youtube for this genre"
+            "Category": "Songs occuring most on playlists on youtube for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Mickie Krause",
             "TrackTitle": "Zehn nackte Friseusen",
             "MBID": "70bbf588-d49c-4ee4-8654-66f7e806d0ed",
-            "Category": "Songs occuring most on playlists on youtube for this genre"
+            "Category": "Songs occuring most on playlists on youtube for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "DJ \u00d6tzi & Nik P.",
             "TrackTitle": "Ein Stern (der deinen Namen tr\u00e4gt) 2015",
             "MBID": "c74c136f-e580-4aaa-a05f-b563defff650",
-            "Category": "Songs occuring most on playlists on youtube for this genre"
+            "Category": "Songs occuring most on playlists on youtube for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Die Prinzen",
             "TrackTitle": "Alles nur geklaut",
             "MBID": "10b25120-3e80-4f23-a0bf-118540ba7dad",
-            "Category": "Songs occuring most on playlists on youtube for this genre"
+            "Category": "Songs occuring most on playlists on youtube for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Sportfreunde Stiller",
             "TrackTitle": "\u201954, \u201974, \u201990, 2010",
             "MBID": "088a95ac-3894-499e-8509-e9f266c1bdd0",
-            "Category": "Songs occuring most on playlists on youtube for this genre"
+            "Category": "Songs occuring most on playlists on youtube for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Karel Gott",
             "TrackTitle": "Biene Maja",
             "MBID": "f1b48b78-9e97-4bca-ae83-182894b9aca6",
-            "Category": "Songs occuring most on playlists on youtube for this genre"
+            "Category": "Songs occuring most on playlists on youtube for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Vicky Leandros",
             "TrackTitle": "Theo, wir fahr\u2019n nach Lodz",
             "MBID": "e1570bb1-8320-4b6f-a3ea-1ed8dbe7d894",
-            "Category": "Songs occuring most on playlists on youtube for this genre"
+            "Category": "Songs occuring most on playlists on youtube for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Drafi Deutscher",
             "TrackTitle": "Marmor, Stein und Eisen bricht",
             "MBID": "884df235-f5e4-4d69-a05a-993c03456100",
-            "Category": "Songs occuring most on playlists on youtube for this genre"
+            "Category": "Songs occuring most on playlists on youtube for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Roy Black",
             "TrackTitle": "Ganz in wei\u00df",
             "MBID": "2ee54ede-c0b4-4c6c-a69f-dbf8d3bae26c",
-            "Category": "Songs occuring most on playlists on youtube for this genre"
+            "Category": "Songs occuring most on playlists on youtube for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Rex Gildo",
             "TrackTitle": "Fiesta Mexicana",
             "MBID": "4331ad85-b704-416b-99c5-773a31d56b81",
-            "Category": "Songs occuring most on playlists on youtube for this genre"
+            "Category": "Songs occuring most on playlists on youtube for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Costa Cordalis",
             "TrackTitle": "Anita",
             "MBID": "32d5e766-0727-439c-84a4-ea946222deb4",
-            "Category": "Songs occuring most on playlists on youtube for this genre"
+            "Category": "Songs occuring most on playlists on youtube for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Guildo Horn",
             "TrackTitle": "Guildo hat Euch lieb",
             "MBID": "70b6a838-d1a7-476f-ba98-02ceb7b3fd1a",
-            "Category": "Songs occuring most on playlists on youtube for this genre"
+            "Category": "Songs occuring most on playlists on youtube for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Andreas Martin",
             "TrackTitle": "Amore Mio",
             "MBID": "1cf786ac-a896-41d6-b227-04b25e19e575",
-            "Category": "Songs occuring most on playlists on youtube for this genre"
+            "Category": "Songs occuring most on playlists on youtube for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Michael Wendler",
             "TrackTitle": "Sie liebt den DJ",
             "MBID": "132909fa-9d55-47e5-8896-2656050b0fd4",
-            "Category": "Songs occuring most on playlists on youtube for this genre"
+            "Category": "Songs occuring most on playlists on youtube for this genre",
+            "TrackComposer": ""
         }
     ]
 }

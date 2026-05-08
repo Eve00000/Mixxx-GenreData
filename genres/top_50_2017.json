@@ -1,5 +1,7 @@
 {
     "SearchField": "Top 50 2017",
+    "Category": "",
+    "Focus": "artist",
     "RefreshRate": 0,
     "AppendMode": "append",
     "Timestamp": "2026-05-05T00:00:00Z",
@@ -9,301 +11,351 @@
             "TrackArtist": "Ed Sheeran",
             "TrackTitle": "Shape of You",
             "MBID": "",
-            "Category": "2017"
+            "Category": "2017",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Luis Fonsi & Daddy Yankee & Justin Bieber",
             "TrackTitle": "Despacito",
             "MBID": "",
-            "Category": "2017"
+            "Category": "2017",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Ed Sheeran & Beyonc\u00e9",
             "TrackTitle": "Perfect",
             "MBID": "",
-            "Category": "2017"
+            "Category": "2017",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Maroon 5 & Cardi B",
             "TrackTitle": "Girls Like You",
             "MBID": "",
-            "Category": "2017"
+            "Category": "2017",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Camila Cabello & Young Thug",
             "TrackTitle": "Havana",
             "MBID": "",
-            "Category": "2017"
+            "Category": "2017",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Post Malone & 21 Savage",
             "TrackTitle": "Rockstar",
             "MBID": "",
-            "Category": "2017"
+            "Category": "2017",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "The Chainsmokers & Coldplay",
             "TrackTitle": "Something Just Like This",
             "MBID": "",
-            "Category": "2017"
+            "Category": "2017",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Bebe Rexha & Florida Georgia Line",
             "TrackTitle": "Meant to Be",
             "MBID": "",
-            "Category": "2017"
+            "Category": "2017",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Cardi B",
             "TrackTitle": "Bodak Yellow (Money Moves)",
             "MBID": "",
-            "Category": "2017"
+            "Category": "2017",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Kendrick Lamar",
             "TrackTitle": "Humble",
             "MBID": "",
-            "Category": "2017"
+            "Category": "2017",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Lizzo",
             "TrackTitle": "Truth Hurts",
             "MBID": "",
-            "Category": "2017"
+            "Category": "2017",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Portugal. The Man",
             "TrackTitle": "Feel It Still",
             "MBID": "",
-            "Category": "2017"
+            "Category": "2017",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Imagine Dragons",
             "TrackTitle": "Thunder",
             "MBID": "",
-            "Category": "2017"
+            "Category": "2017",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Imagine Dragons",
             "TrackTitle": "Believer",
             "MBID": "",
-            "Category": "2017"
+            "Category": "2017",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "DJ Khaled & Justin Bieber, Quavo, Chance the Rapper, & Lil Wayne",
             "TrackTitle": "I'm the One",
             "MBID": "",
-            "Category": "2017"
+            "Category": "2017",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Sam Hunt",
             "TrackTitle": "Body Like a Back Road",
             "MBID": "",
-            "Category": "2017"
+            "Category": "2017",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Dua Lipa",
             "TrackTitle": "New Rules",
             "MBID": "",
-            "Category": "2017"
+            "Category": "2017",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Taylor Swift",
             "TrackTitle": "Look What You Made Me Do",
             "MBID": "",
-            "Category": "2017"
+            "Category": "2017",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Charlie Puth",
             "TrackTitle": "Attention",
             "MBID": "",
-            "Category": "2017"
+            "Category": "2017",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "DJ Khaled & Rihanna & Bryson Tiller",
             "TrackTitle": "Wild Thoughts",
             "MBID": "",
-            "Category": "2017"
+            "Category": "2017",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Lil Uzi Vert",
             "TrackTitle": "XO Tour Llif3",
             "MBID": "",
-            "Category": "2017"
+            "Category": "2017",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Logic & Alessia Cara & Khalid",
             "TrackTitle": "1-800-273-8255",
             "MBID": "",
-            "Category": "2017"
+            "Category": "2017",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Future",
             "TrackTitle": "Mask Off",
             "MBID": "",
-            "Category": "2017"
+            "Category": "2017",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Harry Styles",
             "TrackTitle": "Sign of the Times",
             "MBID": "",
-            "Category": "2017"
+            "Category": "2017",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Sam Smith",
             "TrackTitle": "Too Good at Goodbyes",
             "MBID": "",
-            "Category": "2017"
+            "Category": "2017",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "French Montana & Swae Lee",
             "TrackTitle": "Unforgettable",
             "MBID": "",
-            "Category": "2017"
+            "Category": "2017",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "NF",
             "TrackTitle": "Let You Down",
             "MBID": "",
-            "Category": "2017"
+            "Category": "2017",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Ed Sheeran",
             "TrackTitle": "Castle on the Hill",
             "MBID": "",
-            "Category": "2017"
+            "Category": "2017",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Taylor Swift",
             "TrackTitle": "Delicate",
             "MBID": "",
-            "Category": "2017"
+            "Category": "2017",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Demi Lovato",
             "TrackTitle": "Sorry Not Sorry",
             "MBID": "",
-            "Category": "2017"
+            "Category": "2017",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Imagine Dragons",
             "TrackTitle": "Whatever It Takes",
             "MBID": "",
-            "Category": "2017"
+            "Category": "2017",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Camila Cabello",
             "TrackTitle": "Never Be the Same",
             "MBID": "",
-            "Category": "2017"
+            "Category": "2017",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Zedd & Alessia Cara",
             "TrackTitle": "Stay",
             "MBID": "",
-            "Category": "2017"
+            "Category": "2017",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Keala Settle & the Greatest Showman Cast",
             "TrackTitle": "This Is Me",
             "MBID": "",
-            "Category": "2017"
+            "Category": "2017",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Julia Michaels",
             "TrackTitle": "Issues",
             "MBID": "",
-            "Category": "2017"
+            "Category": "2017",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "M\u00e5neskin",
             "TrackTitle": "Beggin'",
             "MBID": "",
-            "Category": "2017"
+            "Category": "2017",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Brandi Carlile",
             "TrackTitle": "The Joke",
             "MBID": "",
-            "Category": "2017"
+            "Category": "2017",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Kendrick Lamar",
             "TrackTitle": "DNA",
             "MBID": "",
-            "Category": "2017"
+            "Category": "2017",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Lorde",
             "TrackTitle": "Green Light",
             "MBID": "",
-            "Category": "2017"
+            "Category": "2017",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Khalid",
             "TrackTitle": "Location",
             "MBID": "",
-            "Category": "2017"
+            "Category": "2017",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Khalid",
             "TrackTitle": "Young, Dumb & Broke",
             "MBID": "",
-            "Category": "2017"
+            "Category": "2017",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "G-Eazy & Halsey",
             "TrackTitle": "Him & I",
             "MBID": "",
-            "Category": "2017"
+            "Category": "2017",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "G-Eazy & A$AP Rocky & Cardi B",
             "TrackTitle": "No Limit",
             "MBID": "",
-            "Category": "2017"
+            "Category": "2017",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Bazzi",
             "TrackTitle": "Mine",
             "MBID": "",
-            "Category": "2017"
+            "Category": "2017",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Niall Horan",
             "TrackTitle": "Slow Hands",
             "MBID": "",
-            "Category": "2017"
+            "Category": "2017",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "U2",
             "TrackTitle": "You're the Best Thing About Me",
             "MBID": "",
-            "Category": "2017"
+            "Category": "2017",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Arcade Fire",
             "TrackTitle": "Everything Now",
             "MBID": "",
-            "Category": "2017"
+            "Category": "2017",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Beck",
             "TrackTitle": "Up All Night",
             "MBID": "",
-            "Category": "2017"
+            "Category": "2017",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Kendrick Lamar & Zacari",
             "TrackTitle": "Love",
             "MBID": "",
-            "Category": "2017"
+            "Category": "2017",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Taylor Swift",
             "TrackTitle": "Ready for It?",
             "MBID": "",
-            "Category": "2017"
+            "Category": "2017",
+            "TrackComposer": ""
         }
     ]
 }

@@ -1,5 +1,7 @@
 {
     "SearchField": "House",
+    "Category": "",
+    "Focus": "artist",
     "RefreshRate": 28,
     "AppendMode": "append",
     "Timestamp": "2026-05-05T17:13:22Z",
@@ -9,631 +11,736 @@
             "TrackArtist": "Robin S.",
             "TrackTitle": "Show Me Love",
             "MBID": "05877a9b-7827-4390-bed5-ff042820ef79",
-            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Crystal Waters",
             "TrackTitle": "Gypsy Woman (She's Homeless)",
             "MBID": "86d3433e-5bbe-44dc-874d-b517728f46bb",
-            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Haddaway",
             "TrackTitle": "What Is Love",
             "MBID": "13d6a7da-a487-4452-a895-a129ad76e072",
-            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Corona",
             "TrackTitle": "Rhythm Of The Night",
             "MBID": "84b16adf-f9b0-4bd5-9aee-3e780e07409c",
-            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Daft Punk",
             "TrackTitle": "One More Time",
             "MBID": "35089b45-6223-485c-871e-7b286819053a",
-            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Stardust",
             "TrackTitle": "Music Sounds Better With You",
             "MBID": "7e50302a-6158-4e73-83aa-e9f08c07a333",
-            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Modjo",
             "TrackTitle": "Lady (Hear Me Tonight)",
             "MBID": "172dd714-74de-485b-8365-436a34456ff5",
-            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Alice DeeJay",
             "TrackTitle": "Better Off Alone",
             "MBID": "fff522ed-90a7-4350-9bcb-233c9bac6920",
-            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "ATB",
             "TrackTitle": "9 PM (Till I Come)",
             "MBID": "f47f522d-1abd-403d-a8d6-570e75726b4d",
-            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Gigi D\u2019Agostino",
             "TrackTitle": "L'Amour Toujours",
             "MBID": "097299ba-dd27-4e7e-8a61-182a28b92283",
-            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Delerium ft Sarah McLachlan",
             "TrackTitle": "Silence (Airscape remix)",
             "MBID": "ae56c286-2e4f-41c9-945e-68056aa68fa0",
-            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Guru Josh Project",
             "TrackTitle": "Infinity 2008",
             "MBID": "4eedc8cb-a562-4906-9859-c1784a29a834",
-            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "David Guetta ft. Kelly Rowland",
             "TrackTitle": "When Love Takes Over",
             "MBID": "0dcfd48d-e64a-460e-ab97-9ff0fb39d472",
-            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Calvin Harris ft. Florence Welch",
             "TrackTitle": "Sweet Nothing",
             "MBID": "3ac6af1f-26e0-4f08-8c7a-8785e9c8d2a4",
-            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Swedish House Mafia ft. John Martin",
             "TrackTitle": "Don't You Worry Child",
             "MBID": "4213c1df-d3d9-4f37-941e-42925dba3e6a",
-            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Avicii",
             "TrackTitle": "Levels",
             "MBID": "3e4f95b4-ef7d-467d-9c56-fd898671a4c0",
-            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Duke Dumont Ft. A*M*E",
             "TrackTitle": "Need U (100%)",
             "MBID": "8cc08ba3-6e13-4c64-ac56-b6facc9059b8",
-            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Clean Bandit Ft. Jess Glynne",
             "TrackTitle": "Rather Be (The Magician remix)",
             "MBID": "d421bcca-f292-4ae4-a5e6-0631a67e1c10",
-            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Kiesza",
             "TrackTitle": "Hideaway",
             "MBID": "c6950b53-4ed2-4d44-b963-866afe1b5684",
-            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Lost Frequencies",
             "TrackTitle": "Are You With Me",
             "MBID": "7f540e83-4b40-40b0-9160-6edb9f17ad62",
-            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "MEDUZA ft. Goodboys",
             "TrackTitle": "Piece of Your Heart",
             "MBID": "b4a2f3b9-c2c0-4f6c-9644-50313eefe5db",
-            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Elderbrook & CamelPhat",
             "TrackTitle": "Cola (live from the London Aquarium)",
             "MBID": "45d016fc-b1c0-4900-8bad-04b11751e4c4",
-            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Fisher",
             "TrackTitle": "Losing It",
             "MBID": "b49fffb3-a688-4a15-beb3-2654238ef6fd",
-            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Purple Disco Machine & Sophie and the Giants",
             "TrackTitle": "Hypnotized",
             "MBID": "789600a1-4563-43a2-a54b-bd2b351376ea",
-            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Regard",
             "TrackTitle": "Ride It",
             "MBID": "e0b0f6e7-cb41-4493-8a2d-5193cc406d75",
-            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Topic ft. A7S",
             "TrackTitle": "Breaking Me",
             "MBID": "9ba38d71-1f43-4443-aef6-1ab31d227ded",
-            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Black Box",
             "TrackTitle": "Ride on Time",
             "MBID": "c876c7fa-6faf-434b-8449-df94b5e93b9f",
-            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Technotronic",
             "TrackTitle": "Pump up the Jam",
             "MBID": "e47f1eb4-d996-4995-ab1f-59cba57f25e3",
-            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "C+C Music Factory",
             "TrackTitle": "Gonna Make You Sweat (Everybody Dance Now)",
             "MBID": "1780d744-5169-4f49-8574-1ca8f0ffdf9e",
-            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Snap!",
             "TrackTitle": "Rhythm Is a Dancer",
             "MBID": "9d28ecdb-eeb9-4b0e-b1ca-d26c8af28149",
-            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Livin\u2019 Joy",
             "TrackTitle": "Dreamer",
             "MBID": "e5017898-2e4d-4ee8-9912-442ce5b713e0",
-            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Nightcrawlers",
             "TrackTitle": "Push the Feeling On",
             "MBID": "974ff6f1-f310-4128-80c0-9e0132fdd7c9",
-            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Ultra Nat\u00e9",
             "TrackTitle": "Free",
             "MBID": "c7f2a26b-e875-4809-8cee-319d6629d2f7",
-            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Armand van Helden ft. Duane Harden",
             "TrackTitle": "You Don't Know Me",
             "MBID": "d63a98f9-d847-489f-8009-f42b4d661aaa",
-            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Bob Sinclar Ft Gary Nesta Pine",
             "TrackTitle": "Love Generation Club Mix",
             "MBID": "fd1d877a-4d15-4cc8-b81e-7ee92b6e3454",
-            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Fedde Le Grand",
             "TrackTitle": "Put Your Hands Up for Detroit",
             "MBID": "c8b0baa1-dc9b-44e6-8568-288d6012dbf5",
-            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Benny Benassi",
             "TrackTitle": "Satisfaction",
             "MBID": "4e0be2ce-4672-423e-ba35-6ce49773d1ab",
-            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Eric Prydz",
             "TrackTitle": "Call on Me",
             "MBID": "d53de796-2957-4ae1-9abf-d06f5f59ee97",
-            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "CeCe Peniston",
             "TrackTitle": "Finally",
             "MBID": "af5a45f3-7ee2-4883-bdb7-104860425212",
-            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Shouse",
             "TrackTitle": "Love Tonight",
             "MBID": "558f49ba-80b8-43ca-85e4-1d5b77cbad2d",
-            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Majestic & Boney M.",
             "TrackTitle": "Rasputin",
             "MBID": "af83507c-d982-4a97-a8b7-31e9404cb9e5",
-            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "David Guetta & Sia",
             "TrackTitle": "Titanium (DJ Fernandez chillout remix)",
             "MBID": "3b00ae01-3c48-4cfa-8919-cf6cc57fa413",
-            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Lady Gaga",
             "TrackTitle": "Bad Romance",
             "MBID": "f74f3abd-47b1-4b25-8552-3d32d39c6683",
-            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Gala",
             "TrackTitle": "Freed From Desire",
             "MBID": "6687628e-def3-4cce-be6a-006b486cde96",
-            "Category": "Iconic One-Hit Wonders and viral sensations"
+            "Category": "Iconic One-Hit Wonders and viral sensations",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Phats & Small",
             "TrackTitle": "Turn Around",
             "MBID": "bc2171fb-7351-48d0-8294-b0e349caea35",
-            "Category": "Iconic One-Hit Wonders and viral sensations"
+            "Category": "Iconic One-Hit Wonders and viral sensations",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Dario G",
             "TrackTitle": "Sunchyme",
             "MBID": "0089eb66-eba3-46a6-b515-35822faf847a",
-            "Category": "Iconic One-Hit Wonders and viral sensations"
+            "Category": "Iconic One-Hit Wonders and viral sensations",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Robin S.",
             "TrackTitle": "Show Me Love",
             "MBID": "6af5c8b3-4989-4ee7-8508-9c721adfa0b6",
-            "Category": "Iconic One-Hit Wonders and viral sensations"
+            "Category": "Iconic One-Hit Wonders and viral sensations",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Livin\u2019 Joy",
             "TrackTitle": "Don\u2019t Stop Movin",
             "MBID": "f1cfcced-6d12-4fd2-bc82-b48ad8932fbd",
-            "Category": "Iconic One-Hit Wonders and viral sensations"
+            "Category": "Iconic One-Hit Wonders and viral sensations",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "M|A|R|R|S",
             "TrackTitle": "Pump Up the Volume",
             "MBID": "03fb56b5-21de-4244-95d5-fee42dea0683",
-            "Category": "Iconic One-Hit Wonders and viral sensations"
+            "Category": "Iconic One-Hit Wonders and viral sensations",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Duck Sauce",
             "TrackTitle": "Barbra Streisand",
             "MBID": "0c394ad4-721a-448b-8795-ec31b35160cc",
-            "Category": "Iconic One-Hit Wonders and viral sensations"
+            "Category": "Iconic One-Hit Wonders and viral sensations",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Kungs vs. Cookin\u2019 on 3 Burners",
             "TrackTitle": "This Girl",
             "MBID": "09751eab-2388-4204-80cb-4a5957ea1c00",
-            "Category": "Iconic One-Hit Wonders and viral sensations"
+            "Category": "Iconic One-Hit Wonders and viral sensations",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "BodyRockers",
             "TrackTitle": "I Like the Way",
             "MBID": "55b152a1-26ec-4f3b-b98a-5c2afe6222a6",
-            "Category": "Iconic One-Hit Wonders and viral sensations"
+            "Category": "Iconic One-Hit Wonders and viral sensations",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Shapeshifters",
             "TrackTitle": "Lola's Theme",
             "MBID": "2e276cea-8fb2-4823-b857-d5782c109a72",
-            "Category": "Iconic One-Hit Wonders and viral sensations"
+            "Category": "Iconic One-Hit Wonders and viral sensations",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Run DMC vs. Jason Nevins",
             "TrackTitle": "It\u2019s Like That",
             "MBID": "06fd1aef-82f3-4af6-bc6e-065ef261e449",
-            "Category": "Iconic One-Hit Wonders and viral sensations"
+            "Category": "Iconic One-Hit Wonders and viral sensations",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Fedde Le Grand",
             "TrackTitle": "Put Your Hands Up for Detroit",
             "MBID": "76f6186e-8463-410c-a23f-d0ad1b07b35b",
-            "Category": "Iconic One-Hit Wonders and viral sensations"
+            "Category": "Iconic One-Hit Wonders and viral sensations",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Martin Solveig & Dragonette",
             "TrackTitle": "Hello",
             "MBID": "c49f6360-0904-479a-99ae-04fc9b218155",
-            "Category": "Iconic One-Hit Wonders and viral sensations"
+            "Category": "Iconic One-Hit Wonders and viral sensations",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Stromae",
             "TrackTitle": "Alors on danse",
             "MBID": "0aba72db-0035-457e-b1b6-6db98aac8896",
-            "Category": "Iconic One-Hit Wonders and viral sensations"
+            "Category": "Iconic One-Hit Wonders and viral sensations",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "DJ Sammy & Yanou feat. Do",
             "TrackTitle": "Heaven (Candlelight Mix)",
             "MBID": "1011dcd6-b8dc-4ff5-ad31-28cf63a24044",
-            "Category": "Iconic One-Hit Wonders and viral sensations"
+            "Category": "Iconic One-Hit Wonders and viral sensations",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Eiffel 65",
             "TrackTitle": "Blue (Da Ba Dee)",
             "MBID": "8baabd4f-5459-4b94-8663-549166eb54d0",
-            "Category": "Iconic One-Hit Wonders and viral sensations"
+            "Category": "Iconic One-Hit Wonders and viral sensations",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "La Bouche",
             "TrackTitle": "Be My Lover",
             "MBID": "9a71d055-deac-4c14-91d7-f273859dd363",
-            "Category": "Iconic One-Hit Wonders and viral sensations"
+            "Category": "Iconic One-Hit Wonders and viral sensations",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Vengaboys",
             "TrackTitle": "Boom, Boom, Boom, Boom!!",
             "MBID": "88b02291-dcf5-4eeb-b38c-cdbcb28cc052",
-            "Category": "Iconic One-Hit Wonders and viral sensations"
+            "Category": "Iconic One-Hit Wonders and viral sensations",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Inner City",
             "TrackTitle": "Good Life",
             "MBID": "d59ca1a3-78d9-4d4a-a724-32756520ac4d",
-            "Category": "Iconic One-Hit Wonders and viral sensations"
+            "Category": "Iconic One-Hit Wonders and viral sensations",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Roger Sanchez",
             "TrackTitle": "Another Chance",
             "MBID": "1e40d4ef-11c0-4207-bf47-026750eba1d2",
-            "Category": "Iconic One-Hit Wonders and viral sensations"
+            "Category": "Iconic One-Hit Wonders and viral sensations",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Junior Senior",
             "TrackTitle": "Move Your Feet",
             "MBID": "52081a6c-7ebc-41aa-80e5-c0af4f94e37a",
-            "Category": "Iconic One-Hit Wonders and viral sensations"
+            "Category": "Iconic One-Hit Wonders and viral sensations",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "The Tamperer ft. Maya",
             "TrackTitle": "Feel It",
             "MBID": "efe4ec08-7b49-4268-975a-88cbfb1da2a0",
-            "Category": "Iconic One-Hit Wonders and viral sensations"
+            "Category": "Iconic One-Hit Wonders and viral sensations",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Sash!",
             "TrackTitle": "Encore une fois",
             "MBID": "41ac4b63-95b6-4d0b-ad99-d3f50b433885",
-            "Category": "Iconic One-Hit Wonders and viral sensations"
+            "Category": "Iconic One-Hit Wonders and viral sensations",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Alex Gaudino ft. Crystal Waters",
             "TrackTitle": "Destination Calabria",
             "MBID": "7f8bf85e-b053-490e-9c10-126172ebe2dc",
-            "Category": "Iconic One-Hit Wonders and viral sensations"
+            "Category": "Iconic One-Hit Wonders and viral sensations",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Paul Johnson",
             "TrackTitle": "Get Get Down",
             "MBID": "e03b169a-6b12-4502-886b-abf6e1a3adc1",
-            "Category": "Iconic One-Hit Wonders and viral sensations"
+            "Category": "Iconic One-Hit Wonders and viral sensations",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Duke Dumont",
             "TrackTitle": "Ocean Drive",
             "MBID": "eed8a52b-3420-4e74-997c-587f448a9006",
-            "Category": "Iconic One-Hit Wonders and viral sensations"
+            "Category": "Iconic One-Hit Wonders and viral sensations",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "MK",
             "TrackTitle": "17",
             "MBID": "74d433af-d3f7-4ab8-a08c-2d0e38ffcd77",
-            "Category": "Iconic One-Hit Wonders and viral sensations"
+            "Category": "Iconic One-Hit Wonders and viral sensations",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Frankie Knuckles",
             "TrackTitle": "Your Love",
             "MBID": "31889941-b4de-4efb-a6cc-f886547da66d",
-            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+            "Category": "Songs occuring most on playlists on soundcloud for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Marshall Jefferson",
             "TrackTitle": "Move Your Body",
             "MBID": "db888de5-7c87-491f-a0ed-da71fdb8d118",
-            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+            "Category": "Songs occuring most on playlists on soundcloud for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Daft Punk",
             "TrackTitle": "One More Time",
             "MBID": "bf2666f3-2c9f-4762-92a3-6c0d4e035543",
-            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+            "Category": "Songs occuring most on playlists on soundcloud for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Modjo",
             "TrackTitle": "Lady (Hear Me Tonight)",
             "MBID": "39cfa6da-2cd1-4052-89b8-01d45ecf063c",
-            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+            "Category": "Songs occuring most on playlists on soundcloud for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Armand van Helden",
             "TrackTitle": "U Don't Know Me",
             "MBID": "715b3fc4-a38f-4ecb-be2d-c4599bc08698",
-            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+            "Category": "Songs occuring most on playlists on soundcloud for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "FISHER",
             "TrackTitle": "Losing It",
             "MBID": "7e42eea7-3b60-446c-a395-10a43825dbc4",
-            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+            "Category": "Songs occuring most on playlists on soundcloud for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "CamelPhat & Elderbrook",
             "TrackTitle": "Cola",
             "MBID": "78b8545a-b422-42c0-a194-288321a65067",
-            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+            "Category": "Songs occuring most on playlists on soundcloud for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Bicep",
             "TrackTitle": "Glue",
             "MBID": "92840808-91e2-493d-8dd6-f01ae42668da",
-            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+            "Category": "Songs occuring most on playlists on soundcloud for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Peggy Gou",
             "TrackTitle": "Starry Night",
             "MBID": "012991d5-537b-4fdf-9e57-740cb8686694",
-            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+            "Category": "Songs occuring most on playlists on soundcloud for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Solomun",
             "TrackTitle": "Kackvogel",
             "MBID": "fac88c4a-c034-4fe2-88f8-1934e4ca422d",
-            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+            "Category": "Songs occuring most on playlists on soundcloud for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Fred again..",
             "TrackTitle": "Marea (We've Lost Dancing) [Live]",
             "MBID": "d6d10d46-b082-4c81-8e6c-c0d29ec8efb3",
-            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+            "Category": "Songs occuring most on playlists on soundcloud for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Yotto",
             "TrackTitle": "Nova",
             "MBID": "e58a5b95-6824-4b2b-bd98-c7aa69f8da02",
-            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+            "Category": "Songs occuring most on playlists on soundcloud for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Ben B\u00f6hmer",
             "TrackTitle": "Beyond Beliefs",
             "MBID": "5e8c8ff7-8cd1-4fcc-915c-2bbaea5fa56b",
-            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+            "Category": "Songs occuring most on playlists on soundcloud for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Nora en Pure",
             "TrackTitle": "Come With Me",
             "MBID": "0f8f7dae-952c-4b32-a5e3-78e36fa829cc",
-            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+            "Category": "Songs occuring most on playlists on soundcloud for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Calvin Harris & Dua Lipa",
             "TrackTitle": "One Kiss",
             "MBID": "6cc3fb7f-99fd-4d2f-9eda-147204fdd718",
-            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+            "Category": "Songs occuring most on playlists on soundcloud for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "David Guetta & Bebe Rexha",
             "TrackTitle": "I'm Good (Blue)",
             "MBID": "318034d7-1d08-4137-9585-1cb2aa04e987",
-            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+            "Category": "Songs occuring most on playlists on soundcloud for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Eric Prydz",
             "TrackTitle": "Pjanoo",
             "MBID": "120f5168-e5fb-475e-b6d1-0c227edfb4c3",
-            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+            "Category": "Songs occuring most on playlists on soundcloud for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "deadmau5",
             "TrackTitle": "Strobe",
             "MBID": "772bf141-684a-4c6a-96d9-3a004ae1676e",
-            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+            "Category": "Songs occuring most on playlists on soundcloud for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Avicii",
             "TrackTitle": "Levels",
             "MBID": "d28bed9a-16a8-4c2b-aec9-98e62948b2b1",
-            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+            "Category": "Songs occuring most on playlists on soundcloud for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Swedish House Mafia",
             "TrackTitle": "Don't You Worry Child (feat. John Martin)",
             "MBID": "a3c53ff8-c922-4326-8697-45de649fb2c7",
-            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+            "Category": "Songs occuring most on playlists on soundcloud for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Masters at Work",
             "TrackTitle": "Work",
             "MBID": "e368a4f4-0767-4033-91a6-c48ae084771c",
-            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+            "Category": "Songs occuring most on playlists on soundcloud for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Todd Terry",
             "TrackTitle": "Keep on Jumpin\u2019",
             "MBID": "6e2b9c06-2c11-4a1b-b47c-6ca033c9f39d",
-            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+            "Category": "Songs occuring most on playlists on soundcloud for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Kerri Chandler",
             "TrackTitle": "Atmosphere (Kaval edit)",
             "MBID": "cab8a844-0286-490d-babb-c0ae8679d7a8",
-            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+            "Category": "Songs occuring most on playlists on soundcloud for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Dennis Ferrer",
             "TrackTitle": "Hey Hey",
             "MBID": "74c15680-d4da-4119-8c3e-b6bccce3651c",
-            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+            "Category": "Songs occuring most on playlists on soundcloud for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Blaze",
             "TrackTitle": "Lovelee Dae",
             "MBID": "b7561440-5d43-4ab0-b9b3-9c21fd1e5093",
-            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+            "Category": "Songs occuring most on playlists on soundcloud for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Ten City",
             "TrackTitle": "That\u2019s the Way Love Is",
             "MBID": "790fa092-c5de-421b-a2f2-01e7fac3984d",
-            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+            "Category": "Songs occuring most on playlists on soundcloud for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Fatboy Slim",
             "TrackTitle": "Praise You",
             "MBID": "530b6df2-ff9a-4774-9aba-1815c8d24b00",
-            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+            "Category": "Songs occuring most on playlists on soundcloud for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Moby",
             "TrackTitle": "Go (Woodtick mix)",
             "MBID": "4544fc18-1fb3-4bbc-8a3e-479fb5cac30d",
-            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+            "Category": "Songs occuring most on playlists on soundcloud for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Underworld",
             "TrackTitle": "Born Slippy .NUXX",
             "MBID": "c76c5f42-db47-4614-b9d9-9b0025ccda0a",
-            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+            "Category": "Songs occuring most on playlists on soundcloud for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Jamie xx",
             "TrackTitle": "Gosh",
             "MBID": "d87da388-bbcb-4fff-aa3a-6088d4105f58",
-            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+            "Category": "Songs occuring most on playlists on soundcloud for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Four Tet",
             "TrackTitle": "Parallel Jalebi",
             "MBID": "35e0893a-6f5d-48d2-894a-bfa50ae1ba21",
-            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+            "Category": "Songs occuring most on playlists on soundcloud for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Jon Hopkins",
             "TrackTitle": "Open Eye Signal",
             "MBID": "ebd0b9e7-451e-49fd-8041-75c7bf3b73b1",
-            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+            "Category": "Songs occuring most on playlists on soundcloud for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Ross From Friends",
             "TrackTitle": "Talk to Me You\u2019ll Understand",
             "MBID": "92006452-3026-42b3-81f4-da65c0f09dff",
-            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+            "Category": "Songs occuring most on playlists on soundcloud for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "DJ Koze",
             "TrackTitle": "Pick Up",
             "MBID": "e6d0f5ef-7e0e-4ee2-98f2-e03501cecfd9",
-            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+            "Category": "Songs occuring most on playlists on soundcloud for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Kaskade & deadmau5",
             "TrackTitle": "I Remember",
             "MBID": "f84a31dd-470d-4783-917d-add9f657b85d",
-            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+            "Category": "Songs occuring most on playlists on soundcloud for this genre",
+            "TrackComposer": ""
         }
     ]
 }

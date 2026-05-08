@@ -1,5 +1,7 @@
 {
     "SearchField": "French Rock",
+    "Category": "",
+    "Focus": "artist",
     "RefreshRate": 28,
     "AppendMode": "append",
     "Timestamp": "2026-05-05T08:27:50Z",
@@ -9,439 +11,512 @@
             "TrackArtist": "T\u00e9l\u00e9phone",
             "TrackTitle": "La Bombe humaine",
             "MBID": "15854c18-72a9-439e-9780-0dc9401c10d6",
-            "Category": "High-energy peak-time floor fillers"
+            "Category": "High-energy peak-time floor fillers",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "T\u00e9l\u00e9phone",
             "TrackTitle": "Cendrillon",
             "MBID": "ce6ba26f-9e13-4976-b1bd-4ef423df9e5e",
-            "Category": "High-energy peak-time floor fillers"
+            "Category": "High-energy peak-time floor fillers",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "T\u00e9l\u00e9phone",
             "TrackTitle": "New York avec toi",
             "MBID": "da01a155-290e-4166-be66-6db03884cd94",
-            "Category": "High-energy peak-time floor fillers"
+            "Category": "High-energy peak-time floor fillers",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "T\u00e9l\u00e9phone",
             "TrackTitle": "Un autre monde",
             "MBID": "43d760d3-672d-45fa-b011-2e49592b4814",
-            "Category": "High-energy peak-time floor fillers"
+            "Category": "High-energy peak-time floor fillers",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "T\u00e9l\u00e9phone",
             "TrackTitle": "Argent trop cher",
             "MBID": "5e25ab8a-a46c-4fae-bdd9-8bd439527968",
-            "Category": "High-energy peak-time floor fillers"
+            "Category": "High-energy peak-time floor fillers",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Noir D\u00e9sir",
             "TrackTitle": "L'Homme press\u00e9",
             "MBID": "6637c2c6-5de7-4b77-a133-9d81007dff33",
-            "Category": "High-energy peak-time floor fillers"
+            "Category": "High-energy peak-time floor fillers",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Noir D\u00e9sir",
             "TrackTitle": "Tostaky (Le Continent)",
             "MBID": "81b1a4e2-3abc-45e2-9e33-50d1d67e505a",
-            "Category": "High-energy peak-time floor fillers"
+            "Category": "High-energy peak-time floor fillers",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Noir D\u00e9sir",
             "TrackTitle": "Comme elle vient",
             "MBID": "d5ef1ee2-13b5-466e-a9ef-7fdba29932bb",
-            "Category": "High-energy peak-time floor fillers"
+            "Category": "High-energy peak-time floor fillers",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Noir D\u00e9sir",
             "TrackTitle": "\u00c0 ton \u00e9toile",
             "MBID": "6d5c333b-d927-4a32-8263-f9c4750b4a4a",
-            "Category": "High-energy peak-time floor fillers"
+            "Category": "High-energy peak-time floor fillers",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Indochine",
             "TrackTitle": "L'Aventurier",
             "MBID": "7fc5fa83-0f0f-49c9-a390-30f9a94880af",
-            "Category": "High-energy peak-time floor fillers"
+            "Category": "High-energy peak-time floor fillers",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Indochine",
             "TrackTitle": "Canary Bay",
             "MBID": "c763b718-80ff-4d02-ae3b-23c64faaa1a3",
-            "Category": "High-energy peak-time floor fillers"
+            "Category": "High-energy peak-time floor fillers",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Indochine",
             "TrackTitle": "3 nuits par semaine",
             "MBID": "522a5df0-e5ca-402a-831a-f96a4a7a892b",
-            "Category": "High-energy peak-time floor fillers"
+            "Category": "High-energy peak-time floor fillers",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Indochine",
             "TrackTitle": "3\u00e8me sexe",
             "MBID": "fc0fe36d-6891-472d-9db7-6c83649b5f2c",
-            "Category": "High-energy peak-time floor fillers"
+            "Category": "High-energy peak-time floor fillers",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Indochine",
             "TrackTitle": "Marilyn",
             "MBID": "280f237c-6047-4848-b706-57ddd720b205",
-            "Category": "High-energy peak-time floor fillers"
+            "Category": "High-energy peak-time floor fillers",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Les Rita Mitsouko",
             "TrackTitle": "Marcia Baila",
             "MBID": "60287d78-d714-439b-93e7-afc2f4f9c3b0",
-            "Category": "High-energy peak-time floor fillers"
+            "Category": "High-energy peak-time floor fillers",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Les Rita Mitsouko",
             "TrackTitle": "C\u2019est comme ca",
             "MBID": "541d18e9-debe-4450-a7f4-295296f08aba",
-            "Category": "High-energy peak-time floor fillers"
+            "Category": "High-energy peak-time floor fillers",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Trust",
             "TrackTitle": "Antisocial",
             "MBID": "77891148-4de4-42cc-aac5-2ef67fc38e05",
-            "Category": "High-energy peak-time floor fillers"
+            "Category": "High-energy peak-time floor fillers",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Trust",
             "TrackTitle": "L\u2019\u00c9lite",
             "MBID": "404c4a59-e1a6-41a2-98f4-e425d3fdd192",
-            "Category": "High-energy peak-time floor fillers"
+            "Category": "High-energy peak-time floor fillers",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Trust",
             "TrackTitle": "Pr\u00e9fabriqu\u00e9s",
             "MBID": "49e56825-3416-4cd6-a8cd-32360c74972e",
-            "Category": "High-energy peak-time floor fillers"
+            "Category": "High-energy peak-time floor fillers",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Shakin\u2019 Street",
             "TrackTitle": "Solid As A Rock",
             "MBID": "4148460c-30e6-401d-aa38-db9aece3b30e",
-            "Category": "High-energy peak-time floor fillers"
+            "Category": "High-energy peak-time floor fillers",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Louise Attaque",
             "TrackTitle": "J't'emm\u00e8ne au vent",
             "MBID": "ba5a9b3a-36bf-4746-9848-f2701ea8fcb3",
-            "Category": "High-energy peak-time floor fillers"
+            "Category": "High-energy peak-time floor fillers",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Louise Attaque",
             "TrackTitle": "Ton invitation",
             "MBID": "3465e2a7-e515-44a3-9eec-363cd6ee2161",
-            "Category": "High-energy peak-time floor fillers"
+            "Category": "High-energy peak-time floor fillers",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Dionysos",
             "TrackTitle": "Tes lacets sont des f\u00e9es",
             "MBID": "d1dc37be-e9e8-428e-85e0-8358f73c5085",
-            "Category": "High-energy peak-time floor fillers"
+            "Category": "High-energy peak-time floor fillers",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "BB Brunes",
             "TrackTitle": "Dis\u2010moi",
             "MBID": "2aea0861-a30d-4fa2-a0d6-b1e9ec3a8a1b",
-            "Category": "High-energy peak-time floor fillers"
+            "Category": "High-energy peak-time floor fillers",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "BB Brunes",
             "TrackTitle": "Coups et blessures",
             "MBID": "811b462a-375a-40ca-8d8d-791a4bf39020",
-            "Category": "High-energy peak-time floor fillers"
+            "Category": "High-energy peak-time floor fillers",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Stuck in the Sound",
             "TrackTitle": "Toy Boy",
             "MBID": "0cbfdb1b-99a9-4ba9-89b4-3c55e2fba7ee",
-            "Category": "High-energy peak-time floor fillers"
+            "Category": "High-energy peak-time floor fillers",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Stuck in the Sound",
             "TrackTitle": "Let\u2019s Go",
             "MBID": "42ae45c3-8992-481d-96a7-60c45e13eaea",
-            "Category": "High-energy peak-time floor fillers"
+            "Category": "High-energy peak-time floor fillers",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Phoenix",
             "TrackTitle": "1901",
             "MBID": "e2f9bf98-4725-4609-8d65-f41d18492d64",
-            "Category": "High-energy peak-time floor fillers"
+            "Category": "High-energy peak-time floor fillers",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Phoenix",
             "TrackTitle": "Lisztomania",
             "MBID": "dc6aa087-0683-489d-a7ca-e9636243b4a3",
-            "Category": "High-energy peak-time floor fillers"
+            "Category": "High-energy peak-time floor fillers",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "\u2010M\u2010",
             "TrackTitle": "Machistador",
             "MBID": "b951c27d-d4a5-40cf-b4e6-a6b2c120d142",
-            "Category": "High-energy peak-time floor fillers"
+            "Category": "High-energy peak-time floor fillers",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "\u2010M\u2010",
             "TrackTitle": "Mojo",
             "MBID": "b8213410-c949-44e8-b1f0-0ddcefc077f7",
-            "Category": "High-energy peak-time floor fillers"
+            "Category": "High-energy peak-time floor fillers",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Superbus",
             "TrackTitle": "Radio Song",
             "MBID": "fa7135af-d603-41f5-bd79-833cc6f4044e",
-            "Category": "High-energy peak-time floor fillers"
+            "Category": "High-energy peak-time floor fillers",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Superbus",
             "TrackTitle": "Butterfly",
             "MBID": "5823cc27-c492-4c06-8ecb-529b458f5bcc",
-            "Category": "High-energy peak-time floor fillers"
+            "Category": "High-energy peak-time floor fillers",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Matmatah",
             "TrackTitle": "L'Apologie",
             "MBID": "5d53d592-c8e6-417a-b714-94b21742ca7f",
-            "Category": "High-energy peak-time floor fillers"
+            "Category": "High-energy peak-time floor fillers",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Matmatah",
             "TrackTitle": "Lamb\u00e9 An Dro",
             "MBID": "36369e9f-84db-4fbf-bf17-ea800a0ea3d0",
-            "Category": "High-energy peak-time floor fillers"
+            "Category": "High-energy peak-time floor fillers",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Kyo",
             "TrackTitle": "Le Chemin",
             "MBID": "8164387b-f25e-4b02-a21b-5d4843c92380",
-            "Category": "High-energy peak-time floor fillers"
+            "Category": "High-energy peak-time floor fillers",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Kyo",
             "TrackTitle": "Derni\u00e8re Danse",
             "MBID": "cd9ee364-92db-4a67-b1bd-6b2dccfd5065",
-            "Category": "High-energy peak-time floor fillers"
+            "Category": "High-energy peak-time floor fillers",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Cali",
             "TrackTitle": "Elle m\u2019a dit",
             "MBID": "b48efcbe-14b7-43c5-8b3b-bb14070be952",
-            "Category": "High-energy peak-time floor fillers"
+            "Category": "High-energy peak-time floor fillers",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Les Wampas",
             "TrackTitle": "Manu Chao",
             "MBID": "4f86c894-20d6-4ee8-ab0c-1f7f9bd81044",
-            "Category": "High-energy peak-time floor fillers"
+            "Category": "High-energy peak-time floor fillers",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Les Wampas",
             "TrackTitle": "Kiss",
             "MBID": "47fca2cd-11ed-4d16-8c0b-eeae5138faac",
-            "Category": "High-energy peak-time floor fillers"
+            "Category": "High-energy peak-time floor fillers",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "FFF",
             "TrackTitle": "Le Pire et le Meilleur",
             "MBID": "19b05e33-3dbf-4ae0-955b-ba1b3e49fa3d",
-            "Category": "High-energy peak-time floor fillers"
+            "Category": "High-energy peak-time floor fillers",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "T\u00e9l\u00e9phone",
             "TrackTitle": "Cendrillon",
             "MBID": "c088e47d-19a0-4a0e-85bd-3dd9daea65ff",
-            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+            "Category": "Songs occuring most on playlists on soundcloud for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "T\u00e9l\u00e9phone",
             "TrackTitle": "Un autre monde",
             "MBID": "3a2d8999-be2a-4d63-8680-a675ca202310",
-            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+            "Category": "Songs occuring most on playlists on soundcloud for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "T\u00e9l\u00e9phone",
             "TrackTitle": "\u00c7a (c\u2019est vraiment toi)",
             "MBID": "a2b5574b-a84d-48fc-b1a3-a05a2a98a3b8",
-            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+            "Category": "Songs occuring most on playlists on soundcloud for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Noir D\u00e9sir",
             "TrackTitle": "Le vent nous portera",
             "MBID": "1b63c677-ad55-47f5-acc8-9ba8685c704b",
-            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+            "Category": "Songs occuring most on playlists on soundcloud for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Noir D\u00e9sir",
             "TrackTitle": "Aux sombres h\u00e9ros de l'amer",
             "MBID": "3fb54f93-9cc8-443c-8c36-1b4e24b11e86",
-            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+            "Category": "Songs occuring most on playlists on soundcloud for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Indochine",
             "TrackTitle": "L'Aventurier",
             "MBID": "117d62fa-03cb-4147-b31b-c02c69529a85",
-            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+            "Category": "Songs occuring most on playlists on soundcloud for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Indochine",
             "TrackTitle": "J\u2019ai demand\u00e9 \u00e0 la lune",
             "MBID": "1a4f00b0-7552-40b2-893f-817922d8f42e",
-            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+            "Category": "Songs occuring most on playlists on soundcloud for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Indochine",
             "TrackTitle": "Trois nuits par semaine",
             "MBID": "dbdd949d-bfcc-48af-97e7-02e24714d8fc",
-            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+            "Category": "Songs occuring most on playlists on soundcloud for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Les Rita Mitsouko",
             "TrackTitle": "C'est comme \u00e7a",
             "MBID": "83932aef-1c94-46dd-b5be-74ed7e504077",
-            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+            "Category": "Songs occuring most on playlists on soundcloud for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Louise Attaque",
             "TrackTitle": "J't'emm\u00e8ne au vent",
             "MBID": "29bdc7dd-1c27-454b-aeb0-f2721b14924c",
-            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+            "Category": "Songs occuring most on playlists on soundcloud for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Miossec",
             "TrackTitle": "Brest",
             "MBID": "36f37445-3fb3-4659-b8c6-7b1010ae838e",
-            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+            "Category": "Songs occuring most on playlists on soundcloud for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Jean-Louis Aubert",
             "TrackTitle": "Juste une illusion",
             "MBID": "aadf3b6d-039e-429b-a4bf-e90e7c988b8f",
-            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+            "Category": "Songs occuring most on playlists on soundcloud for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Cali",
             "TrackTitle": "C\u2019est quand le bonheur",
             "MBID": "09a9b9bc-a8c5-4fb8-988b-386f8cf5497b",
-            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+            "Category": "Songs occuring most on playlists on soundcloud for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Astonvilla",
             "TrackTitle": "L\u2019\u00c2ge d\u2019or",
             "MBID": "db5efe09-1462-45b7-993f-81fc3714937f",
-            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+            "Category": "Songs occuring most on playlists on soundcloud for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Luke",
             "TrackTitle": "La Sentinelle",
             "MBID": "ffdfdf4d-5a2a-4691-a83a-010a8f4840d4",
-            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+            "Category": "Songs occuring most on playlists on soundcloud for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Shaka Ponk",
             "TrackTitle": "My Name Is Stain",
             "MBID": "650bc4c2-3d06-4fc5-9e9e-2a51e4ba58c5",
-            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+            "Category": "Songs occuring most on playlists on soundcloud for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Shaka Ponk",
             "TrackTitle": "Palabra Mi Amor",
             "MBID": "e0f8d254-c187-41e9-9f61-91d78e59daec",
-            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+            "Category": "Songs occuring most on playlists on soundcloud for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "La Femme",
             "TrackTitle": "Sur la planche 2013",
             "MBID": "52ff6510-2022-4cd7-9d35-72ace5d10ea2",
-            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+            "Category": "Songs occuring most on playlists on soundcloud for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "La Femme",
             "TrackTitle": "O\u00f9 va le monde",
             "MBID": "3d628e1f-cc59-4855-aec4-3c3abae20d30",
-            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+            "Category": "Songs occuring most on playlists on soundcloud for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Elmer Food Beat",
             "TrackTitle": "Daniela",
             "MBID": "df381560-9c06-43e0-8a18-f9f16e2d967d",
-            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+            "Category": "Songs occuring most on playlists on soundcloud for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Superbus",
             "TrackTitle": "Lola",
             "MBID": "eb4e0351-c245-41b5-9f6b-57c0d48c7a5c",
-            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+            "Category": "Songs occuring most on playlists on soundcloud for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Saez",
             "TrackTitle": "Jeune Et Con",
             "MBID": "40161742-0116-42f7-b4ca-f24cd17d603a",
-            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+            "Category": "Songs occuring most on playlists on soundcloud for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Johnny Hallyday",
             "TrackTitle": "Allumer le feu",
             "MBID": "8d5b4035-484f-4263-b5ae-5223bc02ae80",
-            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+            "Category": "Songs occuring most on playlists on soundcloud for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Johnny Hallyday",
             "TrackTitle": "Que je t'aime",
             "MBID": "c41b94a1-9b5e-4118-8f9a-a9bb2ddb22b5",
-            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+            "Category": "Songs occuring most on playlists on soundcloud for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Jacques Dutronc",
             "TrackTitle": "Il est cinq heures, Paris s'\u00e9veille",
             "MBID": "7e5f5d47-515e-4b44-beb9-c9ecc7a45295",
-            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+            "Category": "Songs occuring most on playlists on soundcloud for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Eddy Mitchell",
             "TrackTitle": "Couleur menthe \u00e0 l'eau",
             "MBID": "122b2328-7ac0-4403-bf5c-6f4e91bba4b9",
-            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+            "Category": "Songs occuring most on playlists on soundcloud for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Alain Bashung",
             "TrackTitle": "La nuit je mens",
             "MBID": "58d5376e-7413-4227-b9b5-7bf1dd1c6e29",
-            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+            "Category": "Songs occuring most on playlists on soundcloud for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Alain Bashung",
             "TrackTitle": "Vertige de l\u2019amour",
             "MBID": "51ab8351-05d1-469c-8c19-153a2a8e0144",
-            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+            "Category": "Songs occuring most on playlists on soundcloud for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Feu! Chatterton",
             "TrackTitle": "La Malinche",
             "MBID": "1344e360-e313-40e0-9ec0-7ee8b57cfc5c",
-            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+            "Category": "Songs occuring most on playlists on soundcloud for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Radio Elvis",
             "TrackTitle": "Les Moissons",
             "MBID": "c01c1f0a-3a35-4668-ac6c-a522d4cc498c",
-            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+            "Category": "Songs occuring most on playlists on soundcloud for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Last Train",
             "TrackTitle": "The Big Picture",
             "MBID": "09871f96-af8e-495e-90af-da111e6f9af2",
-            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+            "Category": "Songs occuring most on playlists on soundcloud for this genre",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "The Limi\u00f1anas",
             "TrackTitle": "Migas 2000",
             "MBID": "04cd6f5a-0c91-4878-bf0e-2f77b5d9a7d5",
-            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+            "Category": "Songs occuring most on playlists on soundcloud for this genre",
+            "TrackComposer": ""
         }
     ]
 }

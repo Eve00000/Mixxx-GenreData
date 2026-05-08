@@ -1,5 +1,7 @@
 {
     "SearchField": "French Chanson",
+    "Category": "",
+    "Focus": "artist",
     "RefreshRate": 0,
     "AppendMode": "append",
     "Timestamp": "2026-05-05T00:00:00Z",
@@ -9,2263 +11,2640 @@
             "TrackArtist": "Vicky Leandros",
             "TrackTitle": "Apr\u00e8s toi",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Michel Sardou",
             "TrackTitle": "Les Lacs du Connemara",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Herv\u00e9 Vilard",
             "TrackTitle": "Capri c'est fini",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Nicoletta",
             "TrackTitle": "Mamy Blue",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Joe Dassin",
             "TrackTitle": "L'\u00c9t\u00e9 indien",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Georges Moustaki",
             "TrackTitle": "Le M\u00e9t\u00e8que",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Boris Vian",
             "TrackTitle": "Le D\u00e9serteur",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Jean Ferrat",
             "TrackTitle": "La Montagne",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "G\u00e9rard Lenorman",
             "TrackTitle": "La Ballade des gens heureux",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Sacha Distel",
             "TrackTitle": "Scoubidou",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Michel Delpech",
             "TrackTitle": "Pour un flirt",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Pierre Groscolas",
             "TrackTitle": "Lady Lay",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Dave",
             "TrackTitle": "Du c\u00f4t\u00e9 de chez Swann",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Danyel G\u00e9rard",
             "TrackTitle": "Butterfly",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Julien Clerc",
             "TrackTitle": "This Melody",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Charles Trenet",
             "TrackTitle": "Que reste-t-il de nos amours ?",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Mouloudji",
             "TrackTitle": "Un jour tu verras",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Serge Gainsbourg",
             "TrackTitle": "Je suis venu te dire que je m'en vais",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "France Gall",
             "TrackTitle": "Poup\u00e9e de cire, poup\u00e9e de son",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Anne-Marie David",
             "TrackTitle": "Tu te reconna\u00eetras",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Les Poppys",
             "TrackTitle": "Non, non rien n'a chang\u00e9",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Jo Lemaire",
             "TrackTitle": "Tentations",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "F\u00e9lix Gray & Didier Barbelivien",
             "TrackTitle": "\u00c0 toutes les filles",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Claude Barzotti",
             "TrackTitle": "Le Rital",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Mike Brant",
             "TrackTitle": "Qui saura",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Michel Fugain",
             "TrackTitle": "Je n'aurai pas le temps",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Johnny Hallyday",
             "TrackTitle": "Que je t'aime",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Mort Shuman",
             "TrackTitle": "Le Lac Majeur",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Lucienne Boyer",
             "TrackTitle": "Parlez-moi d'amour",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "\u00c9dith Piaf",
             "TrackTitle": "L'Accord\u00e9oniste",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Patachou",
             "TrackTitle": "Le Gamin de Paris",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Andr\u00e9 Claveau",
             "TrackTitle": "Cerisiers roses et pommiers blancs",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Adamo, Salvatore",
             "TrackTitle": "Inch'Allah",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Claude Fran\u00e7ois",
             "TrackTitle": "Comme d'habitude",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Serge Gainsbourg & Jane Birkin",
             "TrackTitle": "Je t'aime... moi non plus",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Pierre Rapsat",
             "TrackTitle": "Judy & Cie",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Jacques Dutronc",
             "TrackTitle": "Il est cinq heures, Paris s'\u00e9veille",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Georges Moustaki",
             "TrackTitle": "Ma solitude",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Richard Anthony",
             "TrackTitle": "Aranjuez mon amour",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Mireille Mathieu",
             "TrackTitle": "Une histoire d'amour",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Georges Brassens",
             "TrackTitle": "Chanson pour l'Auvergnat",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Nicole Croisille & Pierre Barouh",
             "TrackTitle": "Un homme et une femme",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Joe Dassin",
             "TrackTitle": "Et si tu n'existais pas",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "G\u00e9rard Lenorman",
             "TrackTitle": "Mich\u00e8le",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Jean-Fran\u00e7ois Michael",
             "TrackTitle": "Adieu jolie Candy",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Caroline Loeb",
             "TrackTitle": "La Ouate",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "France Gall",
             "TrackTitle": "Ella Elle l'a",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Val\u00e9rie Lagrange",
             "TrackTitle": "La Folie",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Michel Sardou",
             "TrackTitle": "Tous les b\u00e2teaux s'envolent",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Philippe Lafontaine",
             "TrackTitle": "C\u0153ur de loup",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Dave",
             "TrackTitle": "Dansez maintenant",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Claude-Michel Sch\u00f6nberg",
             "TrackTitle": "Le Premier Pas",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Jo Lemaire",
             "TrackTitle": "La M\u00e9moire en exil",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Michel Delpech",
             "TrackTitle": "Chez Laurette",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Christophe",
             "TrackTitle": "Aline",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Fran\u00e7oise Hardy",
             "TrackTitle": "Tous les gar\u00e7ons et les filles",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Adamo, Salvatore",
             "TrackTitle": "Vous permettez Monsieur",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Dalida",
             "TrackTitle": "Gigi l'Amoroso",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Claude Fran\u00e7ois",
             "TrackTitle": "Je vais \u00e0 Rio",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Michel Fugain",
             "TrackTitle": "Ring a Ding",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Dario Moreno",
             "TrackTitle": "Brigitte Bardot",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Raft",
             "TrackTitle": "Yaka Dans\u00e9",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Maurane",
             "TrackTitle": "Toutes les mamas",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "C\u00e9line Dion",
             "TrackTitle": "Ne partez pas sans moi",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Il \u00c9tait Une Fois",
             "TrackTitle": "Que fais-tu ce soir apr\u00e8s d\u00eener",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Marie Myriam",
             "TrackTitle": "L'Oiseau et l'Enfant",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Mort Shuman",
             "TrackTitle": "Un \u00e9t\u00e9 de porcelaine",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Pierre Rapsat",
             "TrackTitle": "J'ai besoin de nous",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Jean Vall\u00e9e",
             "TrackTitle": "L'amour \u00e7a fait chanter la vie",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Serge Reggiani",
             "TrackTitle": "Votre fille a vingt ans",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Claude Barzotti",
             "TrackTitle": "Madame",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Serge Gainsbourg",
             "TrackTitle": "Requiem pour un con",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "\u00c9dith Piaf",
             "TrackTitle": "Non je ne regrette rien",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Jacques Dutronc",
             "TrackTitle": "J'aime les filles",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Gilbert B\u00e9caud",
             "TrackTitle": "L'important c'est la rose",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Jean Ferrat",
             "TrackTitle": "Aimer \u00e0 en perdre la raison",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Marc Aryan",
             "TrackTitle": "Kathy",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Adamo, Salvatore",
             "TrackTitle": "Dolce Paola",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Claudia Sylva",
             "TrackTitle": "J'ai pleur\u00e9",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Peter Holm",
             "TrackTitle": "Monia",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Philippe Swan",
             "TrackTitle": "Dans ma rue",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "France Gall",
             "TrackTitle": "Il jouait du piano debout",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "G\u00e9rard Lenorman",
             "TrackTitle": "Voici les clefs",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Claude Fran\u00e7ois",
             "TrackTitle": "Alexandrie, Alexandra",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Joe Dassin",
             "TrackTitle": "Les Champs-\u00c9lys\u00e9es",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Serge Gainsbourg",
             "TrackTitle": "La Javanaise",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Jo\u00eblle Ursull",
             "TrackTitle": "White & Black Blues",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Jo Lemaire",
             "TrackTitle": "Foutue vieille ville",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Patricia Kaas",
             "TrackTitle": "Mon mec \u00e0 moi",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Patrick Bruel",
             "TrackTitle": "Qui a le droit",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Maurane",
             "TrackTitle": "Sur Un Prelude De Bach",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Viktor Lazlo",
             "TrackTitle": "Canoe Rose",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Johnny Hallyday",
             "TrackTitle": "Quelque Chose De Tennessee",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Renaud",
             "TrackTitle": "Morgane De Toi",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Dani\u00ebl Guichard",
             "TrackTitle": "Mon Vieux",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Georges Moustaki",
             "TrackTitle": "Le Facteur",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Jean Gabin",
             "TrackTitle": "Maintenant Je Sais",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Yves Montand",
             "TrackTitle": "Les Feuilles Mortes",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Mireille Mathieu",
             "TrackTitle": "Paris En Colere",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Dalida & Alain Delon",
             "TrackTitle": "Paroles, Paroles",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Elli Medeiros",
             "TrackTitle": "Toi Mon Toit",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Jeane Manson",
             "TrackTitle": "Avant De Nous Dire Adieu",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Cookie Dingler",
             "TrackTitle": "Femme Liberee",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Lou & The Hollywood Bananas",
             "TrackTitle": "Kingston, Kingston",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "La Compagnie Cr\u00e9ole",
             "TrackTitle": "C'est Bon Pour La Moral",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Herbert L\u00e9onard",
             "TrackTitle": "Pour Le Plaisir",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Boccara, Frida",
             "TrackTitle": "Cent Mille Chansons",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Esther Galil",
             "TrackTitle": "Le Jour Se Leve",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Diane Tell",
             "TrackTitle": "Si j'\u00e9tais un homme",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Patrick Juvet",
             "TrackTitle": "La Musica",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Gilbert B\u00e9caud",
             "TrackTitle": "Nathalie",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Shake",
             "TrackTitle": "Tu sais je t'aime",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Dave",
             "TrackTitle": "Vanina",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Philippe Lavil",
             "TrackTitle": "Il tape sur des bambous",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Fran\u00e7ois Feldman & Joniece Jamison",
             "TrackTitle": "Joue pas",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Les Rita Mitsouko",
             "TrackTitle": "Marcia Baila",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Joe Dassin",
             "TrackTitle": "Les Dalton",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Serge Gainsbourg",
             "TrackTitle": "Lemon Incest",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Claude Fran\u00e7ois",
             "TrackTitle": "Si j'avais un marteau",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Michel Fugain",
             "TrackTitle": "Une belle histoire",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Brigitte Bardot",
             "TrackTitle": "La Madraque",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Johnny Hallyday",
             "TrackTitle": "Ma Gueule",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "France Gall",
             "TrackTitle": "D\u00e9branche",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "David Alexandre Winter",
             "TrackTitle": "Oh Lady Mary",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "KOD",
             "TrackTitle": "Chacun sa route",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Art & Kiki Sullivan",
             "TrackTitle": "Et si tu pars",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Serge Gainsbourg",
             "TrackTitle": "Harley David Son of a Bitch",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Nicolas Peyrac",
             "TrackTitle": "So Far Away From L.A.",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Patricia Kaas",
             "TrackTitle": "Mademoiselle chante le blues",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Niagara",
             "TrackTitle": "L'amour \u00e0 la plage",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Eve Brenner",
             "TrackTitle": "Le matin sur la rivi\u00e8re",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Amina",
             "TrackTitle": "Le dernier qui a parl\u00e9",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Louis Ch\u00e9did",
             "TrackTitle": "Zap-Zap",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Adamo, Salvatore",
             "TrackTitle": "Petit bonheur",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Julie Pi\u00e9tri",
             "TrackTitle": "Eve l\u00e8ve-toi",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Isabelle Adjani",
             "TrackTitle": "Pull Marine",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Michel Delpech",
             "TrackTitle": "Wight Is Wight",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "G\u00e9rard Lenorman",
             "TrackTitle": "Il",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Williams, John",
             "TrackTitle": "La chanson de Lara",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Guy Marchand",
             "TrackTitle": "La passionata",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Lucky Blondo",
             "TrackTitle": "Sur ton visage une larme",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Art Sullivan",
             "TrackTitle": "Ensemble",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Max Berlin",
             "TrackTitle": "Elle et moi",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "S\u0153ur Sourire",
             "TrackTitle": "Dominique",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Alain Barri\u00e8re",
             "TrackTitle": "Tu t'en vas",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Catherine Ferry",
             "TrackTitle": "1, 2, 3",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Adamo, Salvatore",
             "TrackTitle": "C'est ma vie",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Serge Lama",
             "TrackTitle": "Je t'aime a la folie",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Gilbert B\u00e9caud",
             "TrackTitle": "L'amour c'est l'affaire des gens",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Stone & Eric Charden",
             "TrackTitle": "L'avventura",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Boccara, Frida",
             "TrackTitle": "L'arbre d'amour",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "C J\u00e9r\u00f4me",
             "TrackTitle": "C'est moi",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Charles Aznavour",
             "TrackTitle": "Que c'est triste Venise",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Claude-Michel Sch\u00f6nberg",
             "TrackTitle": "Les enfants de mes enfants",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Dalida",
             "TrackTitle": "J'attendrai",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Pierre Rapsat",
             "TrackTitle": "J'ai perdu l'Am\u00e9rique",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Nicolas Peyrac",
             "TrackTitle": "Le vin me saoule",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Dani\u00ebl Guichard",
             "TrackTitle": "La tendresse",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Joe Dassin",
             "TrackTitle": "Ca va pas changer le monde",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Yves Duteil",
             "TrackTitle": "Le mur de la prison d'en face",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Nicole Rieu",
             "TrackTitle": "Je m'envole",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Gilbert B\u00e9caud",
             "TrackTitle": "Un peu d'amour et d'amiti\u00e9",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Adamo, Salvatore",
             "TrackTitle": "Voyage jusqu'\u00e0 toi",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Michel Sardou",
             "TrackTitle": "Une fille aux yeux clairs",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Jeanne Manson & Christian Delagrange",
             "TrackTitle": "Les larmes aux yeux",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Michel Fugain",
             "TrackTitle": "Le printemps",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Claude-Michel Sch\u00f6nberg",
             "TrackTitle": "Je t'aime, oui je t'aime",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Charles Aznavour",
             "TrackTitle": "Il faut savoir",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Julien Clerc",
             "TrackTitle": "Si on chantait",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Jean Ferrat",
             "TrackTitle": "Que serais-je sans toi",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "L\u00e9o Ferr\u00e9",
             "TrackTitle": "Avec le temps",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Jo\u00ebl Pr\u00e9vost",
             "TrackTitle": "Il y aura toujours des violons",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "V\u00e9ronique Sanson",
             "TrackTitle": "Amoureuse",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Serge Lama",
             "TrackTitle": "Je suis malade",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Jacques Brel",
             "TrackTitle": "Ne me quitte pas",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Hugues Aufray",
             "TrackTitle": "Adieu monsieur le professeur",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Dani\u00ebl Guichard",
             "TrackTitle": "Je viens pas te parler d'amour",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Jeanne Moreau & Yves Duteil",
             "TrackTitle": "L'adolescente",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Claude-Michel Sch\u00f6nberg",
             "TrackTitle": "Quinze ans",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Michel Delpech",
             "TrackTitle": "Je pense a toi",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Dalida",
             "TrackTitle": "Il venait d'avoir 18 ans",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Michel Sardou",
             "TrackTitle": "En chantant",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Jean Ferrat",
             "TrackTitle": "On ne voit pas le temps passer",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "G\u00e9rard Lenorman",
             "TrackTitle": "M\u00e9lodie du vent",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Fran\u00e7oise Hardy",
             "TrackTitle": "L'impasse",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Julien Clerc",
             "TrackTitle": "Ma pr\u00e9f\u00e9rence",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Joe Dassin",
             "TrackTitle": "La demoiselle de d\u00e9shonneur",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Boccara, Frida",
             "TrackTitle": "Les moulins de mon coeur",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Charles Dumont",
             "TrackTitle": "Une chanson",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Nicolas Peyrac",
             "TrackTitle": "Les vocalises de Brel",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Charles Aznavour",
             "TrackTitle": "Hier encore",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Nicoletta",
             "TrackTitle": "If faut qu'on m'aime",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Serge Lama",
             "TrackTitle": "Les amiti\u00e9s particuli\u00e8res c'est quand les filles nous font peur",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Pierre Bachelet",
             "TrackTitle": "Emmanuelle song",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "V\u00e9ronique Sanson",
             "TrackTitle": "Ma r\u00e9v\u00e9rence",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Michel Fugain et Le Big Bazar",
             "TrackTitle": "Ring et ding",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Serge Reggiani",
             "TrackTitle": "Les mensonges d'un p\u00e8re a son fils",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Gilbert B\u00e9caud",
             "TrackTitle": "C'est en Septembre",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Nicole Rieu",
             "TrackTitle": "Je sais que \u00e7a va m'arriver",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Georges Moustaki",
             "TrackTitle": "Si je pouvais t'aider",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Dave",
             "TrackTitle": "Lettre \u00e0 H\u00e9l\u00e8ne",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Claude Lombard",
             "TrackTitle": "L'invit\u00e9e",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Yves Duteil",
             "TrackTitle": "La tendre image du bonheur",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Herv\u00e9 Vilard",
             "TrackTitle": "Nous",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Nicolas Peyrac",
             "TrackTitle": "Le boulevard ou tu m'attends",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Dalida",
             "TrackTitle": "La vie en rose",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Julien Clerc",
             "TrackTitle": "\u00c7a commence comme un r\u00eave d'enfant",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Francis Cabrel",
             "TrackTitle": "L'encre de tes yeux",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Fran\u00e7oise Hardy",
             "TrackTitle": "Chanson sur toi et nous",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Yves Duteil",
             "TrackTitle": "Les p'tites casquettes",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Julie",
             "TrackTitle": "Magdalena",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Serge Lama",
             "TrackTitle": "Je m'sens tout petit",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Nicole Rieu",
             "TrackTitle": "Ma maison au bord de l'eau",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Michel Fugain",
             "TrackTitle": "Fais comme l'oiseau",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Dani\u00ebl Guichard",
             "TrackTitle": "Chanson pour Anna",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Lio",
             "TrackTitle": "Amoureux solitaires",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Herv\u00e9 Vilard",
             "TrackTitle": "Reviens",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Alice Dona",
             "TrackTitle": "Ma derni\u00e8re volont\u00e9",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Michel Delpech",
             "TrackTitle": "Les divorc\u00e9s",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Marie Lafor\u00eat",
             "TrackTitle": "Il a neig\u00e9 sur yesterday",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Dave",
             "TrackTitle": "Dave",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Serge Reggiani",
             "TrackTitle": "L'Italien",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Yves Duteil",
             "TrackTitle": "Tarentelle",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Gilbert B\u00e9caud",
             "TrackTitle": "Mai '68",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Boccara, Frida",
             "TrackTitle": "Venise va mourir",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Sacha Distel",
             "TrackTitle": "Toute la pluie tombe sur moi",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Michel Sardou",
             "TrackTitle": "La vieille",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "V\u00e9ronique Sanson",
             "TrackTitle": "Toute une vie sans te voir",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "G\u00e9rard Lenorman",
             "TrackTitle": "Si j'\u00e9tais pr\u00e9sident",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Michel Sardou",
             "TrackTitle": "Musica",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Linda de Suza",
             "TrackTitle": "Une fille de tous les pays",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Joe Dassin",
             "TrackTitle": "Si tu t'appelles m\u00e9lancolie",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Julien Clerc",
             "TrackTitle": "Ce n'est rien",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Annie Cordy",
             "TrackTitle": "Ma plus jolie chanson",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Georges Moustaki",
             "TrackTitle": "Heureusement qu'il y a de l'herbe",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Jacques Brel",
             "TrackTitle": "La chanson des vieux amants",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "G\u00e9rard Lenorman",
             "TrackTitle": "La petite valse",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Yves Duteil",
             "TrackTitle": "Le temps s'\u00e9crit sur ton visage",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Dalida",
             "TrackTitle": "Si la France",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Alain Chamfort",
             "TrackTitle": "G\u00e9ant",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Michel Delpech",
             "TrackTitle": "La maison est en ruine",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Pierre Bachelet",
             "TrackTitle": "Elle est d'ailleurs",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Gilbert B\u00e9caud",
             "TrackTitle": "Je me fous de la fin du monde",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Serge Lama",
             "TrackTitle": "Souvenirs...Attention...Danger!!",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Jacques Dutronc & Fran\u00e7oise Hardy",
             "TrackTitle": "Brouillard dans la rue Corvisart",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Enrico Macias",
             "TrackTitle": "La France de mon enfance",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Herv\u00e9 Vilard",
             "TrackTitle": "L'Idiot",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Nicoletta",
             "TrackTitle": "Pense \u00e0 lui",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Nicolas Peyrac",
             "TrackTitle": "Dans les yeux de St\u00e9phanie",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Joe Dassin",
             "TrackTitle": "Chanson triste",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Francis Cabrel",
             "TrackTitle": "Je l'aime \u00e0 mourir",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Yves Duteil",
             "TrackTitle": "Prendre un enfant",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Alice Dona",
             "TrackTitle": "Mon adresse",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Serge Lama",
             "TrackTitle": "Avec simplicit\u00e9",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Francis Lemarque",
             "TrackTitle": "Le temps du muguet",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Dalida",
             "TrackTitle": "Les p'tits mots",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Yves Duteil",
             "TrackTitle": "Des gens sans importance",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Richard Dewitte",
             "TrackTitle": "Coup d'\u00e9clat dans le coeur",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "V\u00e9ronique Sanson",
             "TrackTitle": "Bahia",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "G\u00e9rard Lenorman",
             "TrackTitle": "On a vol\u00e9 la Rose",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Michel Sardou",
             "TrackTitle": "Les mamans qui s'en vont",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Guy Bonnet",
             "TrackTitle": "Vivre",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Michel Berger",
             "TrackTitle": "Que l'amour est bizarre",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Alice Dona",
             "TrackTitle": "Laissez passer la chanson",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Didier Barbelivien",
             "TrackTitle": "Les soleils \u00e9lectriques",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Vava",
             "TrackTitle": "Papa musicien",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Herbert L\u00e9onard",
             "TrackTitle": "Petite Nathalie",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Sacha Distel",
             "TrackTitle": "L'Arc en ciel sans la pluie",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Herv\u00e9 Vilard",
             "TrackTitle": "Quand la foule est partie",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Dave",
             "TrackTitle": "Elle voulait refaire l'Am\u00e9rique",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Linda de Suza",
             "TrackTitle": "On est fait pour vivre ensemble",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Georges Chelon",
             "TrackTitle": "Orange et citron",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Serge Reggiani",
             "TrackTitle": "Primev\u00e8re",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Fabienne Thibeault",
             "TrackTitle": "Je te presenterai mon pays",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Georges Moustaki",
             "TrackTitle": "Chansons",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Michel Fugain",
             "TrackTitle": "Tout va changer",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Sylvie Vartan",
             "TrackTitle": "Mon p\u00e8re",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Michel Delpech",
             "TrackTitle": "Ce lundi-l\u00e0",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Enrico Macias",
             "TrackTitle": "Juif espagnol",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Boccara, Frida",
             "TrackTitle": "Il n'y a pas de fumee sans feu",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Joe Dassin",
             "TrackTitle": "Salut",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Serge Gainsbourg & Jane Birkin",
             "TrackTitle": "La decadanse",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "\u00c9dith Piaf",
             "TrackTitle": "Non, je ne regrette rien",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Gilbert B\u00e9caud",
             "TrackTitle": "Et maintenant",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Charles Aznavour",
             "TrackTitle": "Il faut savoir",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Jacques Brel",
             "TrackTitle": "Quand on n'a que l'amour",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Barbara",
             "TrackTitle": "Dis, quand reviendras-tu ?",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Claude Nougaro",
             "TrackTitle": "Une petite fille",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Juliette Gr\u00e9co",
             "TrackTitle": "La Javanaise",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "L\u00e9o Ferr\u00e9",
             "TrackTitle": "Jolie m\u00f4me",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Dalida",
             "TrackTitle": "Les Enfants du Pir\u00e9e",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Henri Salvador",
             "TrackTitle": "Le lion est mort ce soir",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Jacques Brel",
             "TrackTitle": "Bruxelles",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Johnny Hallyday",
             "TrackTitle": "L'Idole des jeunes",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Petula Clark",
             "TrackTitle": "Chariot",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Richard Anthony",
             "TrackTitle": "J'entends siffler le train",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Sheila",
             "TrackTitle": "On a juste l'\u00e2ge",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Les Chaussettes Noires & Eddy Mitchell & Maurice Chevalier",
             "TrackTitle": "Le Twist du canotier",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Lucky Blondo",
             "TrackTitle": "Sheila",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Les Chats Sauvages & Dick Rivers",
             "TrackTitle": "Twist \u00e0 St-Tropez",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Adamo, Salvatore",
             "TrackTitle": "En blue jeans et blouson d'cuir",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Claude Fran\u00e7ois",
             "TrackTitle": "Belles, belles, belles",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Johnny Hallyday",
             "TrackTitle": "Pas cette chanson",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Les Chaussettes Noires",
             "TrackTitle": "Daniela",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Les Chats Sauvages",
             "TrackTitle": "C'est pas s\u00e9rieux",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Dani\u00ebl Guichard",
             "TrackTitle": "Le Petit Gonzales",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Orlando",
             "TrackTitle": "Elle a des yeux d'ange",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Fran\u00e7oise Hardy",
             "TrackTitle": "Le Temps de l'amour",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Hugues Aufray",
             "TrackTitle": "Santiano",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Leny Escudero",
             "TrackTitle": "Ballade \u00e0 Sylvie",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "\u00c9dith Piaf & Th\u00e9o Sarapo",
             "TrackTitle": "\u00c0 quoi \u00e7a sert l'amour",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Enrico Macias",
             "TrackTitle": "Enfants de tous pays",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Sacha Distel",
             "TrackTitle": "Ce serait dommage",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Charles Aznavour",
             "TrackTitle": "Je m'voyais d\u00e9j\u00e0",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Dalida",
             "TrackTitle": "Bambino",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Bourvil",
             "TrackTitle": "Le Petit Bal perdu (C'\u00e9tait bien)",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Charles Trenet",
             "TrackTitle": "Que reste-t-il de nos amours ?",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Guy B\u00e9art",
             "TrackTitle": "L'Eau vive",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Georges Brassens",
             "TrackTitle": "Il n'y a pas d'amour heureux",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "\u00c9dith Piaf",
             "TrackTitle": "La Vie en rose",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Claude Nougaro",
             "TrackTitle": "Le Jazz et la Java",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Georges Brassens",
             "TrackTitle": "Dans l'eau de la claire fontaine",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Henri Salvador",
             "TrackTitle": "Le Loup, la Biche et le Chevalier",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Gilbert B\u00e9caud",
             "TrackTitle": "Je t'appartiens",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Yves Montand",
             "TrackTitle": "C'est si bon",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Jean Constantin",
             "TrackTitle": "Mon man\u00e8ge \u00e0 moi",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Jacques Brel",
             "TrackTitle": "La Valse \u00e0 mille temps",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Luis Mariano",
             "TrackTitle": "Rossignol",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Dario Moreno",
             "TrackTitle": "Si tu vas \u00e0 Rio",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "\u00c9dith Piaf",
             "TrackTitle": "Milord",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Jean-Claude Pascal",
             "TrackTitle": "Nous les amoureux",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Jeanne Moreau",
             "TrackTitle": "Le Tourbillon",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Eddie & Tania Constantine",
             "TrackTitle": "L'Homme et l'Enfant",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "L\u00e9o Ferr\u00e9",
             "TrackTitle": "Paname",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Juliette Gr\u00e9co",
             "TrackTitle": "Si tu t'imagines",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Georges Brassens",
             "TrackTitle": "Le temps ne fait rien \u00e0 l'affaire",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Pierre Perret",
             "TrackTitle": "Moi j'attends Ad\u00e8le",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Les Pingouins",
             "TrackTitle": "Oh les filles !",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Sylvie Vartan",
             "TrackTitle": "Est-ce que tu le sais ?",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Mike Shannon & Les Chats Sauvages",
             "TrackTitle": "Derniers baisers",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Serge Gainsbourg",
             "TrackTitle": "Le Poin\u00e7onneur des Lilas",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Jacques Brel",
             "TrackTitle": "Les Bourgeois",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Marcel Amont",
             "TrackTitle": "Bleu, blanc, blond",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "\u00c9dith Piaf",
             "TrackTitle": "L'Hymne \u00e0 l'amour",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Charles Trenet",
             "TrackTitle": "Y'a d'la joie",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Georges Brassens",
             "TrackTitle": "Les Amoureux des bancs publics",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Salut Salon",
             "TrackTitle": "Vous qui passez sans me voir",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Les Compagnons de la Chanson",
             "TrackTitle": "Qu'il fait bon vivre",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Nana Mouskouri",
             "TrackTitle": "Crois-moi \u00e7a durera",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Bourvil",
             "TrackTitle": "La Ballade Irlandaise",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Colette Renard",
             "TrackTitle": "Ah ! Dis donc, dis donc",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Fran\u00e7ois Deguelt",
             "TrackTitle": "Que sera, sera",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Baker, Jos\u00e9phine",
             "TrackTitle": "J'ai deux amours",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Sacha Distel",
             "TrackTitle": "Scoubidou",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Ren\u00e9-Louis Lafforgue",
             "TrackTitle": "Julie la Rousse",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Line Renaud",
             "TrackTitle": "Ma p'tite folie",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Claude Fran\u00e7ois",
             "TrackTitle": "Moi je pense encore \u00e0 toi",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Frankie Jordan & Sylvie Vartan",
             "TrackTitle": "Panne d'essence",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Richard Anthony",
             "TrackTitle": "J'irai pleurer sous la pluie",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Charles Aznavour",
             "TrackTitle": "Les Com\u00e9diens",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Johnny Hallyday",
             "TrackTitle": "Retiens la nuit",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Serge Gainsbourg",
             "TrackTitle": "L'Eau \u00e0 la bouche",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Alain Barri\u00e8re",
             "TrackTitle": "Cathy",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Jean Ferrat",
             "TrackTitle": "Ma m\u00f4me",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Isabelle Aubret",
             "TrackTitle": "Deux enfants au soleil",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Boris Vian",
             "TrackTitle": "J'suis snob",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Fernandel",
             "TrackTitle": "F\u00e9licie aussi",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Francis Lemarque",
             "TrackTitle": "Marjolaine",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "\u00c9dith Piaf",
             "TrackTitle": "Padam padam",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Henri Salvador",
             "TrackTitle": "Maladie d'amour",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Les Fr\u00e8res Jacques",
             "TrackTitle": "La Queue du chat",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Mich\u00e8le Arnaud",
             "TrackTitle": "La Chanson de Pr\u00e9vert",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Patachou",
             "TrackTitle": "Le Bricoleur",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Claude Nougaro",
             "TrackTitle": "Le Cin\u00e9ma",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Georges Brassens",
             "TrackTitle": "Le Gorille",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Petula Clark",
             "TrackTitle": "Dans le train de nuit",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         },
         {
             "TrackArtist": "Leny Escudero",
             "TrackTitle": "Pour une amourette",
             "MBID": "",
-            "Category": ""
+            "Category": "",
+            "TrackComposer": ""
         }
     ]
 }
