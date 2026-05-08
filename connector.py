@@ -436,5 +436,5 @@ if __name__ == "__main__":
                     git_save_and_push(f"Routine maintenance update: {genre}")
                 time.sleep(60)
             else:
-                print(f"⏭️ SKIPPING '{genre}': {reason}")
+                print(f"⏭️ SKIPPING '{genre}': reason ??")
                 
