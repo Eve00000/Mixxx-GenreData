@@ -120,10 +120,9 @@ def should_update_genre(search_field):
 
     return True, f"Needs update (Older than {refresh_rate} days)."
 
-def get_all_tracks_from_gemini(search_field, category, categories_list, max_retries=4):
+def get_all_tracks_from_gemini(search_field, category, categories, max_retries=4):
     is_classical = (category == "Classical")
-    active_model = 'gemini-2.5-flash' 
-    chunks = [categories_list[i:i + 7] for i in range(0, len(categories_list), 7)]
+    chunks = [categories[i:i + 7] for i in range(0, len(categories), 7)]
     all_flat_tracks = []
 
     for i, chunk in enumerate(chunks):
@@ -132,7 +131,7 @@ def get_all_tracks_from_gemini(search_field, category, categories_list, max_retr
         composer_instruction = (
             "3. CRITICAL: Because this is a Classical genre, 'TrackComposer' is MANDATORY. Identify the specific composer (e.g., 'Frédéric Chopin')."
             if is_classical else 
-            "3. 'TrackComposer' is a 'nice to have' addon. Provide the primary songwriter/composer if known, otherwise leave it as an empty string."
+            "3. 'TrackComposer' is an optional addon. Provide the primary songwriter/composer if known, otherwise leave it as an empty string."
         )
 
         prompt = f"""
@@ -157,35 +156,44 @@ def get_all_tracks_from_gemini(search_field, category, categories_list, max_retr
 
         for attempt in range(max_retries):
             try:
-                # REMOVED: response_mime_type="application/json" for maximum speed
                 response = client.models.generate_content(
-                    model=active_model, 
-                    contents=prompt
+                    model='gemini-2.5-flash', 
+                    contents=prompt,
+                    config=types.GenerateContentConfig(response_mime_type="application/json")
                 )
 
                 raw_text = response.text.strip()
-                # Restore the original markdown cleanup we used yesterday
                 if raw_text.startswith("```"):
-                    raw_text = re.sub(r'^```json\s*|```$', '', raw_text, flags=re.MULTILINE).strip()
+                    lines = raw_text.split('\n')
+                    if len(lines) > 0 and lines[0].startswith("```"): lines = lines[1:]
+                    if len(lines) > 0 and lines[-1].startswith("```"): lines = lines[:-1]
+                    raw_text = "\n".join(lines).strip()
 
                 parsed_json = json.loads(raw_text)
 
-                for cat in chunk:
-                    tracks = parsed_json.get(cat, [])
+                for cat, tracks in parsed_json.items():
                     if isinstance(tracks, list):
                         print(f"  [+] {len(tracks)} tracks returned for: '{cat}'")
                         for t in tracks:
                             if "TrackArtist" in t and "TrackTitle" in t:
                                 t['Category'] = cat
+                                # Ensure TrackComposer key exists for downstream processing
                                 if "TrackComposer" not in t: t["TrackComposer"] = ""
                                 all_flat_tracks.append(t)
                 break 
 
             except Exception as e:
-                print(f"  [!] Format error. Retrying... (Attempt {attempt + 1})")
-                time.sleep(5)
+                error_msg = str(e)
+                if any(err in error_msg for err in ["429", "503", "UNAVAILABLE", "disconnected", "Connection"]):
+                    wait_time = 30 * (attempt + 1)
+                    print(f"  [!] Server hiccup: {error_msg}")
+                    print(f"  [!] Resting for {wait_time} seconds... (Attempt {attempt + 1} of {max_retries})")
+                    time.sleep(wait_time)
+                else:
+                    print(f"  [!] JSON format error. Retrying... (Attempt {attempt + 1})")
+                    time.sleep(5)
         
-        time.sleep(5) # Reduced wait time
+        time.sleep(10)
 
     return all_flat_tracks
 
