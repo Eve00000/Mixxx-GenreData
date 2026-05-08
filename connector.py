@@ -86,7 +86,7 @@ def migrate_database_schema():
                 print(f"     -> Schema updated: {filename}")
             except Exception as e:
                 print(f"     [!] Failed to update {filename}: {e}")
-
+    git_save_and_push("System: Re-ordered New TrackComposer Field & JSON Headers Focus & Categorie to the top")
     print("[i] MIGRATION COMPLETE! All files are now compatible.\n")
     
 def should_update_genre(search_field):
