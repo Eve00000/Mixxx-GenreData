@@ -122,15 +122,11 @@ def should_update_genre(search_field):
 
 def get_all_tracks_from_gemini(search_field, category, categories_list, max_retries=4):
     is_classical = (category == "Classical")
-    # RESTORED: Confirmed 2.5 stable model
     active_model = 'gemini-2.5-flash' 
-    
-    # RESTORED: Your 2 * 7 chunking logic
     chunks = [categories_list[i:i + 7] for i in range(0, len(categories_list), 7)]
     all_flat_tracks = []
 
     for i, chunk in enumerate(chunks):
-        # Your original Part X of Y reporting
         print(f" -> Asking Gemini to build Crate Part {i+1} of {len(chunks)} (7 categories)...")
         
         composer_instruction = (
@@ -161,46 +157,35 @@ def get_all_tracks_from_gemini(search_field, category, categories_list, max_retr
 
         for attempt in range(max_retries):
             try:
+                # REMOVED: response_mime_type="application/json" for maximum speed
                 response = client.models.generate_content(
                     model=active_model, 
-                    contents=prompt,
-                    config=types.GenerateContentConfig(
-                        response_mime_type="application/json"
-                    )
+                    contents=prompt
                 )
 
                 raw_text = response.text.strip()
+                # Restore the original markdown cleanup we used yesterday
                 if raw_text.startswith("```"):
                     raw_text = re.sub(r'^```json\s*|```$', '', raw_text, flags=re.MULTILINE).strip()
 
                 parsed_json = json.loads(raw_text)
 
-                # RESTORED: The per-category [+] reporting loop
                 for cat in chunk:
                     tracks = parsed_json.get(cat, [])
                     if isinstance(tracks, list):
                         print(f"  [+] {len(tracks)} tracks returned for: '{cat}'")
                         for t in tracks:
-                            # Standardizing keys for robustness
-                            artist = t.get("TrackArtist") or t.get("TrackArtist")
-                            title = t.get("TrackTitle") or t.get("TrackTitle")
-                            composer = t.get("TrackComposer") or ""
-                            
-                            if artist and title:
-                                all_flat_tracks.append({
-                                    "TrackArtist": artist,
-                                    "TrackTitle": title,
-                                    "TrackComposer": composer,
-                                    "Category": cat
-                                })
-                break # Success for this chunk
+                            if "TrackArtist" in t and "TrackTitle" in t:
+                                t['Category'] = cat
+                                if "TrackComposer" not in t: t["TrackComposer"] = ""
+                                all_flat_tracks.append(t)
+                break 
 
             except Exception as e:
-                # Restored format error reporting
-                print(f"  [!] JSON format error. Retrying... (Attempt {attempt + 1})")
-                time.sleep(10)
+                print(f"  [!] Format error. Retrying... (Attempt {attempt + 1})")
+                time.sleep(5)
         
-        time.sleep(10) # API protection between chunks
+        time.sleep(5) # Reduced wait time
 
     return all_flat_tracks
 
