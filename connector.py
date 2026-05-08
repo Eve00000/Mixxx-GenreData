@@ -217,6 +217,13 @@ def get_recording_mbid(artist, title):
     return None, artist, title
 
 def generate_playlist_data(search_field, category=""):
+    print(f"\n========================================")
+    print(f" CRATE DIGGING: {search_field} {'(' + category + ')' if category else ''}")
+    print(f"========================================")
+
+    # --- 0. SET FOCUS LOGIC (NEW ADAPTATION) ---
+    focus_type = "composer" if category == "Classical" else "artist"
+
     safe_path = search_field.replace(' ', '_').lower()
     target_filename = os.path.join(GENRES_DIR, f"{safe_path}.json")
     temp_filename = os.path.join(GENRES_DIR, f"{safe_path}_new.json")
@@ -225,18 +232,32 @@ def generate_playlist_data(search_field, category=""):
     existing_tracks = []
     seen_mbids = set()
     seen_strings = set()
+    
     refresh_rate = 28
     append_mode = "append"
+    
+    # YOUR ORIGINAL CHART LOGIC (RESTORED)
+    is_chart = any(kw in search_field.lower() for kw in ["top 50", "top 100", "chart"])
+    has_year = bool(re.search(r'\b(19|20)\d{2}\b', search_field))
+
+    if is_chart:
+        if has_year:
+            refresh_rate = 0
+            append_mode = "clear" 
+        else:
+            refresh_rate = 7
+            append_mode = "clear"
 
     if os.path.exists(target_filename):
         try:
             with open(target_filename, 'r', encoding='utf-8') as f:
                 data = json.load(f)
-            
+                
             # Maintenance logic: read existing category if not passed
             if not category:
                 category = data.get("Category", "")
-                
+                focus_type = data.get("Focus", focus_type)
+
             refresh_rate = data.get("RefreshRate", refresh_rate)
             append_mode = data.get("AppendMode", append_mode)
             
@@ -252,13 +273,6 @@ def generate_playlist_data(search_field, category=""):
                 print(f" [i] Operating in CLEAR mode. Old tracks will be wiped.")
         except Exception as e:
             print(f" [!] Error loading existing file, starting fresh. {e}")
-
-    print(f"\n========================================")
-    print(f" CRATE DIGGING: {search_field} {'(' + category + ')' if category else ''}")
-    print(f"========================================")
-
-    # --- 0. SET FOCUS LOGIC ---
-    focus_type = "composer" if category == "Classical" else "artist"
 
     # --- 2. GET NEW TRACKS ---
     categories = [
@@ -278,6 +292,7 @@ def generate_playlist_data(search_field, category=""):
         "Songs occuring most on playlists on soundcloud for this genre"  
     ]
 
+    # ADAPTATION: Passing category to the gemini call
     all_tracks = get_all_tracks_from_gemini(search_field, category, categories)
 
     if not all_tracks:
@@ -291,7 +306,7 @@ def generate_playlist_data(search_field, category=""):
     for track in all_tracks:
         raw_artist = track.get("TrackArtist", "")
         raw_title = track.get("TrackTitle", "")
-        raw_composer = track.get("TrackComposer", "") 
+        raw_composer = track.get("TrackComposer", "") # NEW ADAPTATION
 
         match_str = f"{str(raw_artist).lower().strip()}||{str(raw_title).lower().strip()}"
         if match_str in seen_strings:
@@ -305,7 +320,7 @@ def generate_playlist_data(search_field, category=""):
             new_verified_tracks.append({
                 "TrackArtist": clean_artist, 
                 "TrackTitle": clean_title,  
-                "TrackComposer": raw_composer,
+                "TrackComposer": raw_composer, # NEW ADAPTATION
                 "MBID": mbid,
                 "Category": track.get('Category', 'Unknown')
             })
@@ -320,6 +335,7 @@ def generate_playlist_data(search_field, category=""):
         print(f"[!] Only verified {len(final_tracks)} tracks on a fresh run. Aborting.")
         return False
 
+    # UPDATED SCHEMA (NEW ADAPTATION)
     final_playlist = {
         "SearchField": search_field,
         "Category": category,
