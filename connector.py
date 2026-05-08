@@ -44,63 +44,50 @@ def add_genre_to_file(new_genre):
         print(f" [+] Added '{new_genre}' to {GENRES_FILE}.")
 
 def migrate_database_schema():
-    """One-time migration: Standardizes all JSON headers and archives locked_genres.txt."""
-    if not os.path.exists(LOCKED_FILE):
-        return
+    """Updates all existing JSON files to include Category, Focus, and TrackComposer fields."""
+    if not os.path.exists(GENRES_DIR): return
 
-    print(f"\n[i] MIGRATION STARTED: Upgrading all JSON files to the new schema...")
+    print(f"\n[i] MIGRATION: Standardizing JSON schema for all existing genre lists...")
     
-    locked = []
-    with open(LOCKED_FILE, "r", encoding="utf-8") as f:
-        locked = [line.strip().lower() for line in f if line.strip() and not line.startswith("#")]
+    for filename in os.listdir(GENRES_DIR):
+        if filename.endswith(".json"):
+            filepath = os.path.join(GENRES_DIR, filename)
+            try:
+                with open(filepath, 'r', encoding='utf-8') as jf:
+                    data = json.load(jf)
 
-    if os.path.exists(GENRES_DIR):
-        for filename in os.listdir(GENRES_DIR):
-            if filename.endswith(".json"):
-                filepath = os.path.join(GENRES_DIR, filename)
-                try:
-                    with open(filepath, 'r', encoding='utf-8') as jf:
-                        data = json.load(jf)
+                # Skip if already migrated
+                if "Category" in data and "Focus" in data:
+                    continue
 
-                    search_field = data.get("SearchField", filename.replace('.json', '').replace('_', ' '))
-                    search_lower = search_field.lower()
+                # Default values for existing lists
+                data["Category"] = ""
+                data["Focus"] = "artist"
+                
+                # Add TrackComposer to every existing track
+                for track in data.get("Tracks", []):
+                    if "TrackComposer" not in track:
+                        track["TrackComposer"] = ""
 
-                    if search_lower in locked:
-                        refresh_rate = 0
-                        append_mode = "append"
-                    else:
-                        is_chart = any(kw in search_lower for kw in ["top 50", "top 100", "chart"])
-                        has_year = bool(re.search(r'\b(19|20)\d{2}\b', search_field))
+                # Rewrite file in the correct order
+                new_data = {
+                    "SearchField": data.get("SearchField", ""),
+                    "Category": data["Category"],
+                    "Focus": data["Focus"],
+                    "RefreshRate": data.get("RefreshRate", 28),
+                    "AppendMode": data.get("AppendMode", "append"),
+                    "Timestamp": data.get("Timestamp", ""),
+                    "TotalTracks": data.get("TotalTracks", 0),
+                    "Tracks": data.get("Tracks", [])
+                }
 
-                        if is_chart:
-                            refresh_rate = 0 if has_year else 7
-                            append_mode = "clear"
-                        else:
-                            refresh_rate = 28
-                            append_mode = "append"
+                with open(filepath, 'w', encoding='utf-8') as jf:
+                    json.dump(new_data, jf, indent=4)
+                print(f"     -> Schema updated: {filename}")
+            except Exception as e:
+                print(f"     [!] Failed to update {filename}: {e}")
 
-                    # --- THE FIX: Rebuild the dictionary in the exact order we want! ---
-                    new_data = {
-                        "SearchField": data.get("SearchField", search_field),
-                        "RefreshRate": refresh_rate,  # Force our new logic
-                        "AppendMode": append_mode,    # Force our new logic
-                        "Timestamp": data.get("Timestamp", ""),
-                        "TotalTracks": data.get("TotalTracks", len(data.get("Tracks", []))),
-                        "Tracks": data.get("Tracks", [])
-                    }
-
-                    with open(filepath, 'w', encoding='utf-8') as jf:
-                        json.dump(new_data, jf, indent=4)
-                    
-                    print(f"     -> Upgraded {filename} (Refresh: {new_data['RefreshRate']}, Mode: {new_data['AppendMode']})")
-                except Exception as e:
-                    print(f"     [!] Failed to upgrade {filename}: {e}")
-
-    os.rename(LOCKED_FILE, LOCKED_FILE + ".migrated")
-    print(f"[i] MIGRATION COMPLETE! {LOCKED_FILE} has been archived.")
-    
-    git_save_and_push("System: Re-ordered JSON headers to the top")
-    print("\n")
+    print("[i] MIGRATION COMPLETE! All files are now compatible.\n")
     
 def should_update_genre(search_field):
     filename = os.path.join(GENRES_DIR, f"{search_field.replace(' ', '_').lower()}.json")
@@ -133,14 +120,23 @@ def should_update_genre(search_field):
 
     return True, f"Needs update (Older than {refresh_rate} days)."
 
-def get_all_tracks_from_gemini(search_field, categories, max_retries=4):
-    chunks = [categories[i:i + 7] for i in range(0, len(categories), 7)]
+def get_all_tracks_from_gemini(search_field, category, categories_list, max_retries=4):
+    is_classical = (category == "Classical")
+    chunks = [categories_list[i:i + 7] for i in range(0, len(categories_list), 7)]
     all_flat_tracks = []
 
     for i, chunk in enumerate(chunks):
         print(f" -> Asking Gemini to build Crate Part {i+1} of {len(chunks)} (7 categories)...")
+        
+        # Rule #3 dynamic toggle
+        composer_instruction = (
+            "3. CRITICAL: Because this is a Classical genre, 'TrackComposer' is MANDATORY. Identify the specific composer (e.g., 'Frédéric Chopin')."
+            if is_classical else 
+            "3. 'TrackComposer' is a 'nice to have' addon. Provide the primary songwriter/composer if known, otherwise leave it as an empty string."
+        )
+
         prompt = f"""
-        You are an expert music historian and club DJ. 
+        You are an expert music historian, curator, club DJ and music lover. 
         Provide a massive playlist for the genre/theme: "{search_field}".
 
         You must categorize the tracks into the exact following vibes:
@@ -149,19 +145,20 @@ def get_all_tracks_from_gemini(search_field, categories, max_retries=4):
         CRITICAL RULES:
         1. DO NOT REPEAT TRACKS. Every single track across the entire JSON must be 100% unique.
         2. DO NOT INVENT REMIXES. If a genre does not typically have "12-inch remixes", provide standard recordings instead. Real tracks only.
+        {composer_instruction}
 
         For EACH category, provide exactly 40 tracks.
 
         Output ONLY a single valid JSON object. Do not use markdown blocks.
         The keys of the JSON object must be the exact category strings provided above.
         The value for each key must be an array of objects.
-        Each object must have keys "TrackArtist" and "TrackTitle".
+        Each object must have keys "TrackArtist", "TrackTitle", and "TrackComposer".
         """
 
         for attempt in range(max_retries):
             try:
                 response = client.models.generate_content(
-                    model='gemini-2.5-flash', 
+                    model='gemini-2.0-flash', 
                     contents=prompt,
                     config=types.GenerateContentConfig(response_mime_type="application/json")
                 )
@@ -181,6 +178,9 @@ def get_all_tracks_from_gemini(search_field, categories, max_retries=4):
                         for t in tracks:
                             if "TrackArtist" in t and "TrackTitle" in t:
                                 t['Category'] = cat
+                                # Ensure the key exists
+                                if "TrackComposer" not in t:
+                                    t["TrackComposer"] = ""
                                 all_flat_tracks.append(t)
                 break 
 
@@ -188,8 +188,7 @@ def get_all_tracks_from_gemini(search_field, categories, max_retries=4):
                 error_msg = str(e)
                 if any(err in error_msg for err in ["429", "503", "UNAVAILABLE", "disconnected", "Connection"]):
                     wait_time = 30 * (attempt + 1)
-                    print(f"  [!] Server hiccup: {error_msg}")
-                    print(f"  [!] Resting for {wait_time} seconds... (Attempt {attempt + 1} of {max_retries})")
+                    print(f"  [!] Server hiccup: {error_msg}. Resting {wait_time}s...")
                     time.sleep(wait_time)
                 else:
                     print(f"  [!] JSON format error. Retrying... (Attempt {attempt + 1})")
@@ -215,16 +214,10 @@ def get_recording_mbid(artist, title):
             rec = result['recording-list'][0]
             if int(rec.get('ext:score', 0)) > 50:
                 return rec['id'], rec.get('artist-credit-phrase', artist), rec.get('title', title)
-    except Exception as e:
-        pass
-
+    except: pass
     return None, artist, title
 
-def generate_playlist_data(search_field):
-    print(f"\n========================================")
-    print(f" CRATE DIGGING: {search_field}")
-    print(f"========================================")
-
+def generate_playlist_data(search_field, category=""):
     safe_path = search_field.replace(' ', '_').lower()
     target_filename = os.path.join(GENRES_DIR, f"{safe_path}.json")
     temp_filename = os.path.join(GENRES_DIR, f"{safe_path}_new.json")
@@ -233,25 +226,17 @@ def generate_playlist_data(search_field):
     existing_tracks = []
     seen_mbids = set()
     seen_strings = set()
-    
     refresh_rate = 28
     append_mode = "append"
-    
-    is_chart = any(kw in search_field.lower() for kw in ["top 50", "top 100", "chart"])
-    has_year = bool(re.search(r'\b(19|20)\d{2}\b', search_field))
-
-    if is_chart:
-        if has_year:
-            refresh_rate = 0
-            append_mode = "clear" 
-        else:
-            refresh_rate = 7
-            append_mode = "clear"
 
     if os.path.exists(target_filename):
         try:
             with open(target_filename, 'r', encoding='utf-8') as f:
                 data = json.load(f)
+            
+            # Maintenance logic: read existing category if not passed
+            if not category:
+                category = data.get("Category", "")
                 
             refresh_rate = data.get("RefreshRate", refresh_rate)
             append_mode = data.get("AppendMode", append_mode)
@@ -268,6 +253,13 @@ def generate_playlist_data(search_field):
                 print(f" [i] Operating in CLEAR mode. Old tracks will be wiped.")
         except Exception as e:
             print(f" [!] Error loading existing file, starting fresh. {e}")
+
+    print(f"\n========================================")
+    print(f" CRATE DIGGING: {search_field} {'(' + category + ')' if category else ''}")
+    print(f"========================================")
+
+    # --- 0. SET FOCUS LOGIC ---
+    focus_type = "composer" if category == "Classical" else "artist"
 
     # --- 2. GET NEW TRACKS ---
     categories = [
@@ -287,7 +279,7 @@ def generate_playlist_data(search_field):
         "Songs occuring most on playlists on soundcloud for this genre"  
     ]
 
-    all_tracks = get_all_tracks_from_gemini(search_field, categories)
+    all_tracks = get_all_tracks_from_gemini(search_field, category, categories)
 
     if not all_tracks:
         print(f"[!] No tracks returned for {search_field}. Aborting.")
@@ -300,6 +292,7 @@ def generate_playlist_data(search_field):
     for track in all_tracks:
         raw_artist = track.get("TrackArtist", "")
         raw_title = track.get("TrackTitle", "")
+        raw_composer = track.get("TrackComposer", "") 
 
         match_str = f"{str(raw_artist).lower().strip()}||{str(raw_title).lower().strip()}"
         if match_str in seen_strings:
@@ -313,6 +306,7 @@ def generate_playlist_data(search_field):
             new_verified_tracks.append({
                 "TrackArtist": clean_artist, 
                 "TrackTitle": clean_title,  
+                "TrackComposer": raw_composer,
                 "MBID": mbid,
                 "Category": track.get('Category', 'Unknown')
             })
@@ -329,6 +323,8 @@ def generate_playlist_data(search_field):
 
     final_playlist = {
         "SearchField": search_field,
+        "Category": category,
+        "Focus": focus_type,
         "RefreshRate": refresh_rate,
         "AppendMode": append_mode,
         "Timestamp": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()),
@@ -356,38 +352,24 @@ def generate_playlist_data(search_field):
 
 def add_genre_to_manifest(genre_name):
     MANIFEST_FILE = "manifest.json"
-    if not os.path.exists(MANIFEST_FILE):
-        print(f" [!] Manifest not found, skipping manifest update for {genre_name}")
-        return
-
+    if not os.path.exists(MANIFEST_FILE): return
     try:
         with open(MANIFEST_FILE, "r", encoding="utf-8") as f:
             manifest = json.load(f)
-
-        updated = False
         for category in manifest.get("categories", []):
             if category.get("name") == "New Arrivals":
-                # Ensure we don't add duplicates
                 if genre_name not in category["genres"]:
                     category["genres"].append(genre_name)
-                    updated = True
+                    with open(MANIFEST_FILE, "w", encoding="utf-8") as f:
+                        json.dump(manifest, f, indent=4)
+                    print(f" [+] Added '{genre_name}' to 'New Arrivals' in manifest.json")
                 break
+    except: pass
         
-        if updated:
-            with open(MANIFEST_FILE, "w", encoding="utf-8") as f:
-                json.dump(manifest, f, indent=4)
-            print(f" [+] Added '{genre_name}' to 'New Arrivals' in manifest.json")
-    except Exception as e:
-        print(f" [!] Error updating manifest: {e}")
-        
-
 def load_queue():
     if not os.path.exists(QUEUE_FILE): return []
     with open(QUEUE_FILE, "r", encoding="utf-8") as f:
         return [line.strip() for line in f if line.strip()]
-
-def clear_queue():
-    with open(QUEUE_FILE, "w", encoding="utf-8") as f: f.write("")
 
 def remove_from_queue(completed_genre):
     if not os.path.exists(QUEUE_FILE): return
@@ -401,75 +383,43 @@ def git_save_and_push(commit_message):
     try:
         subprocess.run(["git", "add", "-A"], check=True, capture_output=True)
         status = subprocess.run(["git", "status", "--porcelain"], capture_output=True, text=True)
-        if not status.stdout.strip():
-            print(" -> No changes to commit.")
-            return
+        if not status.stdout.strip(): return
         subprocess.run(["git", "commit", "-m", commit_message], check=True, capture_output=True)
         subprocess.run(["git", "pull", "origin", "main", "--no-rebase"], check=True, capture_output=True)
         subprocess.run(["git", "push"], check=True, capture_output=True)
         print(f" [+] Successfully saved! ({commit_message})")
-    except subprocess.CalledProcessError as e:
-        print(f" [!] Git Error: {e.stderr if e.stderr else e}")     
+    except: pass     
 
 if __name__ == "__main__":
-    # RUN ONE-TIME MIGRATION
     migrate_database_schema()
 
     custom_genre = os.environ.get("CUSTOM_GENRE")
-
     if custom_genre:
         print(f"\n--- ON-DEMAND REQUEST LOGGED: {custom_genre} ---")
-        existing_genres = load_genres()
-        queued_genres = load_queue()
-        all_known = [g.lower() for g in existing_genres + queued_genres]
-
-        if custom_genre.lower() not in all_known:
+        if custom_genre.lower() not in [g.lower() for g in load_genres() + load_queue()]:
             with open(QUEUE_FILE, "a", encoding="utf-8") as f:
                 f.write(custom_genre + "\n")
-            print(f" [+] Successfully added to {QUEUE_FILE}. Waiting for batch run.")
             git_save_and_push(f"User requested new genre: {custom_genre}")
-        else:
-            print(f" [-] Genre already exists in database or queue. Skipping.")
-
     else:
         print("\n--- BATCH PROCESSING STARTED ---")
-
-        # 1. PROCESS QUEUE (USER REQUESTS)
         queued_genres = load_queue()
         if queued_genres:
-            queued_genres = list(set(queued_genres))
-            print(f"Found {len(queued_genres)} new requests in queue!")
-
-            for genre in queued_genres:
-                do_update, reason = should_update_genre(genre)
-                if do_update:
-                    success = generate_playlist_data(genre)
-                    if success:
-                        # add_genre_to_file(genre)       
-                        add_genre_to_manifest(genre) # Add to "New Arrivals"
-                        remove_from_queue(genre) 
-                        git_save_and_push(f"Generated playlist for: {genre}")
-                    else:
-                        print(f" [!] Generation failed for '{genre}'. Keeping in queue.")
-                    
-                    print("\n[API PROTECTION] Waiting 60 seconds...")
+            for raw_genre in list(set(queued_genres)):
+                category = "Classical" if raw_genre.lower().startswith("classical ") else ""
+                if should_update_genre(raw_genre.strip())[0]:
+                    if generate_playlist_data(raw_genre.strip(), category):
+                        add_genre_to_manifest(raw_genre.strip())
+                        remove_from_queue(raw_genre) 
+                        git_save_and_push(f"Generated {category if category else 'Standard'} playlist for: {raw_genre}")
                     time.sleep(60)
 
-        # 2. ROUTINE MAINTENANCE (EXISTING GENRES)
         genres_to_process = load_genres()
-        print(f"\nChecking {len(genres_to_process)} existing genres for maintenance...")
-
         for genre in genres_to_process:
-            do_update, reason = should_update_genre(genre)
-            if do_update:
+            if should_update_genre(genre)[0]:
                 print(f"Routine Maintenance: Updating '{genre}'")
-                success = generate_playlist_data(genre)
-                if success:
+                if generate_playlist_data(genre):
                     git_save_and_push(f"Routine maintenance update: {genre}")
-                else:
-                    print(f" [!] Maintenance failed for '{genre}'.")
-                
-                print("\n[API PROTECTION] Waiting 60 seconds...")
                 time.sleep(60)
             else:
                 print(f"⏭️ SKIPPING '{genre}': {reason}")
+                
