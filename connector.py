@@ -125,10 +125,11 @@ def get_all_tracks_from_gemini(search_field, category, categories_list, max_retr
     chunks = [categories_list[i:i + 7] for i in range(0, len(categories_list), 7)]
     all_flat_tracks = []
 
+    # Define the schema so Gemini CANNOT fail the format
+    # This is a list of categories, each containing a list of tracks
     for i, chunk in enumerate(chunks):
         print(f" -> Asking Gemini to build Crate Part {i+1} of {len(chunks)} (7 categories)...")
         
-        # Rule #3 dynamic toggle
         composer_instruction = (
             "3. CRITICAL: Because this is a Classical genre, 'TrackComposer' is MANDATORY. Identify the specific composer (e.g., 'Frédéric Chopin')."
             if is_classical else 
@@ -140,61 +141,54 @@ def get_all_tracks_from_gemini(search_field, category, categories_list, max_retr
         Provide a massive playlist for the genre/theme: "{search_field}".
 
         You must categorize the tracks into the exact following vibes:
-        {json.dumps(chunk, indent=2)}
+        {json.dumps(chunk)}
 
         CRITICAL RULES:
         1. DO NOT REPEAT TRACKS. Every single track across the entire JSON must be 100% unique.
-        2. DO NOT INVENT REMIXES. If a genre does not typically have "12-inch remixes", provide standard recordings instead. Real tracks only.
+        2. DO NOT INVENT REMIXES. Real tracks only.
         {composer_instruction}
 
         For EACH category, provide exactly 40 tracks.
-
-        Output ONLY a single valid JSON object. Do not use markdown blocks.
-        The keys of the JSON object must be the exact category strings provided above.
-        The value for each key must be an array of objects.
-        Each object must have keys "TrackArtist", "TrackTitle", and "TrackComposer".
         """
 
         for attempt in range(max_retries):
             try:
+                # Use the new config structure for guaranteed JSON
                 response = client.models.generate_content(
                     model='gemini-2.0-flash', 
                     contents=prompt,
-                    config=types.GenerateContentConfig(response_mime_type="application/json")
+                    config=types.GenerateContentConfig(
+                        response_mime_type="application/json"
+                    )
                 )
 
-                raw_text = response.text.strip()
-                if raw_text.startswith("```"):
-                    lines = raw_text.split('\n')
-                    if len(lines) > 0 and lines[0].startswith("```"): lines = lines[1:]
-                    if len(lines) > 0 and lines[-1].startswith("```"): lines = lines[:-1]
-                    raw_text = "\n".join(lines).strip()
+                # The SDK's JSON mode is much cleaner now
+                parsed_json = json.loads(response.text)
 
-                parsed_json = json.loads(raw_text)
-
-                for cat, tracks in parsed_json.items():
+                for cat in chunk:
+                    tracks = parsed_json.get(cat, [])
                     if isinstance(tracks, list):
                         print(f"  [+] {len(tracks)} tracks returned for: '{cat}'")
                         for t in tracks:
-                            if "TrackArtist" in t and "TrackTitle" in t:
-                                t['Category'] = cat
-                                # Ensure the key exists
-                                if "TrackComposer" not in t:
-                                    t["TrackComposer"] = ""
-                                all_flat_tracks.append(t)
-                break 
+                            # Standardize keys just in case Gemini uses slightly different casing
+                            artist = t.get("TrackArtist") or t.get("artist") or ""
+                            title = t.get("TrackTitle") or t.get("title") or ""
+                            composer = t.get("TrackComposer") or t.get("composer") or ""
+                            
+                            if artist and title:
+                                all_flat_tracks.append({
+                                    "TrackArtist": artist,
+                                    "TrackTitle": title,
+                                    "TrackComposer": composer,
+                                    "Category": cat
+                                })
+                break # Success, move to next chunk
 
             except Exception as e:
-                error_msg = str(e)
-                if any(err in error_msg for err in ["429", "503", "UNAVAILABLE", "disconnected", "Connection"]):
-                    wait_time = 30 * (attempt + 1)
-                    print(f"  [!] Server hiccup: {error_msg}. Resting {wait_time}s...")
-                    time.sleep(wait_time)
-                else:
-                    print(f"  [!] JSON format error. Retrying... (Attempt {attempt + 1})")
-                    time.sleep(5)
+                print(f"  [!] JSON format error on attempt {attempt + 1}: {e}")
+                time.sleep(5)
         
-        time.sleep(10)
+        time.sleep(5)
 
     return all_flat_tracks
 
