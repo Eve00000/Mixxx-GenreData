@@ -445,7 +445,7 @@ if __name__ == "__main__":
                 if do_update:
                     success = generate_playlist_data(genre)
                     if success:
-                        add_genre_to_file(genre)       
+                        # add_genre_to_file(genre)       
                         add_genre_to_manifest(genre) # Add to "New Arrivals"
                         remove_from_queue(genre) 
                         git_save_and_push(f"Generated playlist for: {genre}")
