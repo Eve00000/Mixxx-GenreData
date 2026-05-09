@@ -1,7 +1,7 @@
 {
     "SearchField": "Billboard 100",
     "Category": "",
-    "Focus": "artist",
+    "Focus": "position",
     "RefreshRate": 28,
     "AppendMode": "append",
     "Timestamp": "2026-05-06T20:34:58Z",
