@@ -1,7 +1,6 @@
 import os
 import json
 import subprocess
-from datetime import datetime
 
 SETLISTS_DIR = "setlists"
 MANIFEST_FILE = "setlists_manifest.json"
@@ -33,47 +32,47 @@ def process_setlist():
         if len(desc) > 250:
             data["PlaylistDescription"] = desc[:247] + "..."
 
-        # Ensure required fields and formatting
-        # We use PlaylistName for the filename
-        playlist_name = data.get("PlaylistName", "unknown_set").replace(" ", "_")
-        filename = f"{playlist_name}.json"
+        # Unique Key for filename and indexing
+        playlist_key = data.get("PlaylistName", "unknown_set").replace(" ", "_")
+        filename = f"{playlist_key}.json"
         filepath = os.path.join(SETLISTS_DIR, filename)
 
-        # Save the setlist file
+        # 1. Save the Full Schema
+        # This preserves: PlaylistTitle, PlaylistStyle, PlaylistUserName, PlaylistUserEmail, 
+        # PlaylistCreationDate, Timestamp, Category, Focus, TotalTracks, and Tracks list.
         with open(filepath, 'w', encoding='utf-8') as f:
             json.dump(data, f, indent=4)
         print(f" [+] Saved setlist: {filename}")
 
-        # --- Update setlists_manifest.json (Genre-like Structure) ---
+        # 2. Update Manifest with terminolgy 'sets'
         manifest = {"categories": []}
         if os.path.exists(MANIFEST_FILE):
             with open(MANIFEST_FILE, "r", encoding="utf-8") as f:
                 manifest = json.load(f)
 
-        target_category_name = data.get("Category", "Community Sets")
-        if not target_category_name: target_category_name = "Community Sets"
-
-        # Find or create the category
-        target_category = next((cat for cat in manifest["categories"] if cat["name"] == target_category_name), None)
+        category_name = data.get("Category", "Community Sets")
         
+        target_category = next((cat for cat in manifest["categories"] if cat["name"] == category_name), None)
         if not target_category:
-            target_category = {"name": target_category_name, "genres": []}
+            target_category = {"name": category_name, "sets": []}
             manifest["categories"].append(target_category)
 
-        # In the genre manifest, 'genres' is a list of strings (the search keys).
-        # We will store the 'PlaylistName' here so the app knows which file to fetch.
-        if playlist_name not in target_category["genres"]:
-            target_category["genres"].append(playlist_name)
-            # Optional: Sort genres alphabetically within category
-            target_category["genres"].sort()
+        # Handle migration from 'genres' to 'sets' if necessary
+        if "sets" not in target_category:
+            target_category["sets"] = target_category.pop("genres", [])
+
+        # Index the PlaylistName
+        if playlist_key not in target_category["sets"]:
+            target_category["sets"].append(playlist_key)
+            target_category["sets"].sort()
 
         with open(MANIFEST_FILE, "w", encoding="utf-8") as f:
             json.dump(manifest, f, indent=4)
 
-        git_save_and_push(f"ShareMySet: Added '{playlist_name}' to category '{target_category_name}'")
+        git_save_and_push(f"ShareMySet: {data.get('PlaylistTitle')} shared by {data.get('PlaylistUserName')}")
 
     except Exception as e:
-        print(f"[!] Error processing setlist: {e}")
+        print(f"[!] Processing Error: {e}")
 
 if __name__ == "__main__":
     process_setlist()
