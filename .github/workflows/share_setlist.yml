@@ -1,0 +1,34 @@
+name: "Waiter: ShareMySet Receiver"
+
+on:
+  workflow_dispatch:
+    inputs:
+      setlist_data:
+        description: 'The full setlist JSON string from the user'
+        required: true
+        type: string
+
+jobs:
+  process-setlist:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Configure Git
+        run: |
+          git config --global user.name "GitHub Action Bot"
+          git config --global user.email "action@github.com"        
+
+      - name: Save and Index Setlist
+        env:
+          SETLIST_PAYLOAD: ${{ inputs.setlist_data }}
+        run: python -u setlist_processor.py
