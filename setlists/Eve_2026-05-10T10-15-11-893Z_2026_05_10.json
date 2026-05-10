@@ -1,0 +1,50 @@
+{
+    "PlaylistName": "Eve_2026-05-10T10-15-11-893Z_2026_05_10",
+    "PlaylistTitle": "2026-05-10",
+    "PlaylistDescription": "test live",
+    "PlaylistStyle": "Fav",
+    "PlaylistUserName": "Eve",
+    "PlaylistUserEmail": "eve@mixxx.org",
+    "PlaylistCreationDate": "2026-05-10T10:15:11.893Z",
+    "Timestamp": "2026-05-10T10:15:11.893Z",
+    "Category": "Live",
+    "Focus": "position",
+    "TotalTracks": 5,
+    "Tracks": [
+        {
+            "TrackArtist": "ABBA",
+            "TrackTitle": "The Winner Takes It All (STEM)",
+            "TrackComposer": "",
+            "MBID": "",
+            "OriginalPosition": 1
+        },
+        {
+            "TrackArtist": "Johnny Hallyday",
+            "TrackTitle": "Requiem pour un fou (STEM)",
+            "TrackComposer": "",
+            "MBID": "",
+            "OriginalPosition": 2
+        },
+        {
+            "TrackArtist": "Toto",
+            "TrackTitle": "Rosanna",
+            "TrackComposer": "",
+            "MBID": "",
+            "OriginalPosition": 3
+        },
+        {
+            "TrackArtist": "Barbara",
+            "TrackTitle": "L'Aigle noir \"d\u00e9di\u00e9 \u00e0 Laurence\"",
+            "TrackComposer": "",
+            "MBID": "",
+            "OriginalPosition": 4
+        },
+        {
+            "TrackArtist": "Johnny Hallyday",
+            "TrackTitle": "Que je t'aime",
+            "TrackComposer": "",
+            "MBID": "",
+            "OriginalPosition": 5
+        }
+    ]
+}
