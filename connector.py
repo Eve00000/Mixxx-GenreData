@@ -20,8 +20,6 @@ GENRES_DIR = "genres"
 os.makedirs(GENRES_DIR, exist_ok=True)
 
 GENRES_FILE = "genres.txt"
-LOCKED_FILE = "locked_genres.txt"
-QUEUE_FILE = "requested_genres.txt"
 
 def load_genres():
     MANIFEST_FILE = "manifest.json"
@@ -386,13 +384,6 @@ def load_queue():
     with open(QUEUE_FILE, "r", encoding="utf-8") as f:
         return [line.strip() for line in f if line.strip()]
 
-def remove_from_queue(completed_genre):
-    if not os.path.exists(QUEUE_FILE): return
-    genres = load_queue()
-    remaining = [g for g in genres if g.lower() != completed_genre.lower()]
-    with open(QUEUE_FILE, "w", encoding="utf-8") as f:
-        f.write("\n".join(remaining) + ("\n" if remaining else ""))
-
 def git_save_and_push(commit_message):
     print(" -> Saving progress to GitHub...")
     try:
@@ -407,34 +398,36 @@ def git_save_and_push(commit_message):
 
 if __name__ == "__main__":
     migrate_database_schema()
-
     custom_genre = os.environ.get("CUSTOM_GENRE")
+    
     if custom_genre:
-        print(f"\n--- ON-DEMAND REQUEST LOGGED: {custom_genre} ---")
-        if custom_genre.lower() not in [g.lower() for g in load_genres() + load_queue()]:
-            with open(QUEUE_FILE, "a", encoding="utf-8") as f:
-                f.write(custom_genre + "\n")
-            git_save_and_push(f"User requested new genre: {custom_genre}")
-    else:
+        print(f"\n--- ON-DEMAND REQUEST: {custom_genre} ---")
+        # Use load_genres() which now reads from manifest
+        if custom_genre.lower() not in [g.lower() for g in load_genres()]:
+            add_genre_to_manifest(custom_genre)
+            git_save_and_push(f"User requested new genre via Manifest: {custom_genre}")
+        else:
+            print(f" [i] {custom_genre} already exists in manifest.")
+        else:
         print("\n--- BATCH PROCESSING STARTED ---")
-        queued_genres = load_queue()
-        if queued_genres:
-            for raw_genre in list(set(queued_genres)):
-                category = "Classical" if raw_genre.lower().startswith("classical ") else ""
-                if should_update_genre(raw_genre.strip())[0]:
-                    if generate_playlist_data(raw_genre.strip(), category):
-                        add_genre_to_manifest(raw_genre.strip())
-                        remove_from_queue(raw_genre) 
-                        git_save_and_push(f"Generated {category if category else 'Standard'} playlist for: {raw_genre}")
-                    time.sleep(60)
-
+        # We no longer load_queue(). 
+        # We just process everything currently in the manifest.
+        
         genres_to_process = load_genres()
         for genre in genres_to_process:
-            if should_update_genre(genre)[0]:
-                print(f"Routine Maintenance: Updating '{genre}'")
-                if generate_playlist_data(genre):
-                    git_save_and_push(f"Routine maintenance update: {genre}")
-                time.sleep(60)
+            should_up, reason = should_update_genre(genre)
+            if should_up:
+                print(f"[*] Processing '{genre}': {reason}")
+                
+                # Determine if it's classical
+                category = "Classical" if genre.lower().startswith("classical ") else ""
+                
+                if generate_playlist_data(genre, category):
+                    # We don't need to 'remove' from a queue anymore.
+                    # The file now exists, so should_update_genre will return False next time.
+                    git_save_and_push(f"Chef: Updated/Generated playlist for: {genre}")
+                    time.sleep(60) 
             else:
-                print(f"⏭️ SKIPPING '{genre}': reason ??")
+                print(f"⏭️ SKIPPING '{genre}': {reason}")
+
                 
