@@ -265,6 +265,14 @@
             ]
         },
         {
+            "name": "Keywords",
+            "genres": [
+                "make",                
+                "Sun",
+                "High"                
+            ]
+        },
+        {
             "name": "New Arrivals",
             "genres": [
                 "Cumbia",
@@ -312,16 +320,12 @@
                 "Motown",
                 "Mambo",
                 "New Age",
-                "High",
                 "Salsa Latin",
                 "Afrobeat",
                 "Salsa",
-                "make",
                 "Indie Rock",
-                "Sun",
-                "Quickstep",
-                "Roland Brant - Nuclear Sun (Parrini Rmx)"
-            ]
+                "Quickstep"
+             ]
         }
     ]
 }
