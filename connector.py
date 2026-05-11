@@ -408,7 +408,7 @@ if __name__ == "__main__":
             git_save_and_push(f"User requested new genre via Manifest: {custom_genre}")
         else:
             print(f" [i] {custom_genre} already exists in manifest.")
-        else:
+    else:
         print("\n--- BATCH PROCESSING STARTED ---")
         # We no longer load_queue(). 
         # We just process everything currently in the manifest.
