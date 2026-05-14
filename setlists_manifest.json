@@ -69,6 +69,12 @@
                 "Eve_2026-05-12T14-08-37-140Z_2026_05_12___flight_controller",
                 "Eve_2026-05-12T14-11-27-822Z_2026_05_11__2___flight_controller"
             ]
+        },
+        {
+            "name": "Mixed Genres",
+            "sets": [
+                "Eve_2026-05-14T10-49-01-138Z_2026_05_12__2___autodj_test"
+            ]
         }
     ]
 }
