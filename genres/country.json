@@ -4,8 +4,8 @@
     "Focus": "artist",
     "RefreshRate": 28,
     "AppendMode": "append",
-    "Timestamp": "2026-05-06T20:53:13Z",
-    "TotalTracks": 452,
+    "Timestamp": "2026-06-03T22:08:07Z",
+    "TotalTracks": 688,
     "Tracks": [
         {
             "TrackArtist": "Garth Brooks",
@@ -3170,6 +3170,1658 @@
             "MBID": "757243ee-cd69-4491-9a01-fca428267404",
             "Category": "Songs occuring most on playlists on soundcloud for this genre",
             "TrackComposer": ""
+        },
+        {
+            "TrackArtist": "Johnny Cash",
+            "TrackTitle": "I Walk the Line",
+            "TrackComposer": "Johnny Cash",
+            "MBID": "c3892291-b117-4f10-bd40-25428392eead",
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+        },
+        {
+            "TrackArtist": "Hank Williams",
+            "TrackTitle": "Your Cheatin\u2019 Heart",
+            "TrackComposer": "Hank Williams",
+            "MBID": "9d1b8fa5-6f5f-4942-a31e-9ca0fa4f9fbc",
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+        },
+        {
+            "TrackArtist": "Kenny Chesney",
+            "TrackTitle": "The Good Stuff",
+            "TrackComposer": "Jim Collins, Craig Wiseman",
+            "MBID": "fbd17fd7-89ed-4500-b5e6-14fd66cf6a80",
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+        },
+        {
+            "TrackArtist": "Travis Tritt",
+            "TrackTitle": "T-R-O-U-B-L-E",
+            "TrackComposer": "Jerry Chesnut",
+            "MBID": "4cff76d9-e24c-477f-b7f0-cde2b8d15d63",
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+        },
+        {
+            "TrackArtist": "Waylon Jennings",
+            "TrackTitle": "Good Ol\u2019 Boys",
+            "TrackComposer": "Waylon Jennings",
+            "MBID": "40fa5dee-9698-4f9d-9353-43dd8fe8f710",
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+        },
+        {
+            "TrackArtist": "Charley Pride",
+            "TrackTitle": "Kiss an Angel Good Mornin\u2019",
+            "TrackComposer": "Ben Peters",
+            "MBID": "25a0b665-c151-4b35-a192-6eaaa947633a",
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+        },
+        {
+            "TrackArtist": "Vince Gill",
+            "TrackTitle": "I Still Believe in You",
+            "TrackComposer": "Vince Gill, John Barlow Jarvis",
+            "MBID": "37f806a4-5138-48d3-afb8-82ded858e090",
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+        },
+        {
+            "TrackArtist": "Pure Prairie League",
+            "TrackTitle": "Amie",
+            "TrackComposer": "Craig Fuller",
+            "MBID": "0b4609cc-45ed-48ff-bc81-ad25bc698231",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "The Bellamy Brothers",
+            "TrackTitle": "Let Your Love Flow",
+            "TrackComposer": "Larry E. Williams",
+            "MBID": "be6794b4-5736-47a1-ab60-5197f823229d",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Vicki Lawrence",
+            "TrackTitle": "The Night the Lights Went Out in Georgia",
+            "TrackComposer": "Bobby Russell",
+            "MBID": "815334c0-0493-4437-b4f3-31f71a9fd7c8",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "C.W. McCall",
+            "TrackTitle": "Convoy",
+            "TrackComposer": "Bill Fries, Chip Davis",
+            "MBID": "95774926-c30c-48b5-b5a0-9a870e60fb2d",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Jeff Cook & The Allstar Goodtime Band",
+            "TrackTitle": "The End Is Not In Sight",
+            "TrackComposer": "Russell Smith",
+            "MBID": "deaa2566-a0a3-4788-a064-ffb7509377a1",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Starland Vocal Band",
+            "TrackTitle": "Afternoon Delight",
+            "TrackComposer": "Bill Danoff",
+            "MBID": "51f04d4f-efda-4d0c-b52d-b48ccea25423",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "oneboredjeu",
+            "TrackTitle": "Old Crown Road (Lil Nas X ft. Billy Ray Cyrus vs. Billie Eilish)",
+            "TrackComposer": "Lil Nas X, Billy Ray Cyrus, Jozzy, Atticus Ross, Trent Reznor, YoungKio",
+            "MBID": "15647a60-79d9-4629-88c6-f647846eb579",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Mickey Gilley",
+            "TrackTitle": "Stand by Me",
+            "TrackComposer": "Jerry Leiber, Mike Stoller, Ben E. King",
+            "MBID": "c516c583-f805-4846-a530-8fa10a22ccac",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Billy Swan",
+            "TrackTitle": "I Can Help",
+            "TrackComposer": "Billy Swan",
+            "MBID": "95d6d743-0344-48c3-8872-a356935513f2",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Joe South",
+            "TrackTitle": "Games People Play",
+            "TrackComposer": "Joe South",
+            "MBID": "509a6bd7-a450-408d-845e-faa3ccc47b60",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Commander Cody & His Lost Planet Airmen",
+            "TrackTitle": "Hot Rod Lincoln",
+            "TrackComposer": "George F. \"Charlie\" Ryan, W.S. Stevenson",
+            "MBID": "fcfecd00-9569-422c-92a4-e9bfacfdc119",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Red Sovine",
+            "TrackTitle": "Giddyup Go",
+            "TrackComposer": "Red Sovine, Tommy Hill",
+            "MBID": "d907f15e-d36d-4972-99e7-f94ab6bd62b8",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Bobbie Gentry",
+            "TrackTitle": "Ode To Billie Joe",
+            "TrackComposer": "Bobbie Gentry",
+            "MBID": "4c649505-7065-40da-8341-c6cd73884e52",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Lynn Anderson",
+            "TrackTitle": "I Never Promised You a Rose Garden",
+            "TrackComposer": "Joe South",
+            "MBID": "908bc17a-6bd0-43b8-b657-65fb069fa3e5",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Billie Jo Spears",
+            "TrackTitle": "Blanket on the Ground",
+            "TrackComposer": "Roger Bowling, Robert David Jones",
+            "MBID": "0b6cc8db-c645-4e34-9606-650bce01c434",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Juice Newton",
+            "TrackTitle": "Queen of Hearts",
+            "TrackComposer": "Hank DeVito",
+            "MBID": "32a5b325-39b2-4b82-93f6-08cbc78d6a9b",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Johnny Lee",
+            "TrackTitle": "Lookin\u2019 for Love",
+            "TrackComposer": "Wanda Mallette, Bob Morrison, Patti Ryan",
+            "MBID": "eb4a2851-832c-42b5-90d2-0215dc27b158",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "The Kendalls",
+            "TrackTitle": "Heaven's Just a Sin Away",
+            "TrackComposer": "Jerry Gillespie",
+            "MBID": "35b27eea-c15d-4e79-a514-03839959260a",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Leroy Van Dyke",
+            "TrackTitle": "Walk On By",
+            "TrackComposer": "Kendall Hayes",
+            "MBID": "fba209c9-a337-4859-b1d3-ea8767bef077",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Stonewall Jackson",
+            "TrackTitle": "Waterloo",
+            "TrackComposer": "John D. Loudermilk, Marijohn Wilkin",
+            "MBID": "c08bf231-6a71-4d94-8efc-808241623830",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Ed Bruce",
+            "TrackTitle": "Mammas, Don\u2019t Let Your Babies Grow Up to Be Cowboys",
+            "TrackComposer": "Ed Bruce, Patsy Bruce",
+            "MBID": "eebbb077-7fe1-4763-ab2b-dd16649e32ea",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Johnny Paycheck",
+            "TrackTitle": "Take This Job and Shove It",
+            "TrackComposer": "David Allan Coe",
+            "MBID": "5fe08ff6-8cb1-49e6-8c56-cf45aa9f47e0",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Billy \u201cCrash\u201d Craddock",
+            "TrackTitle": "Rub It In",
+            "TrackComposer": "Layng Martine Jr.",
+            "MBID": "a65ca7ea-f9a2-4e42-906a-4843af395615",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Gary Stewart",
+            "TrackTitle": "She\u2019s Actin\u2019 Single (I\u2019m Drinkin\u2019 Doubles)",
+            "TrackComposer": "Wayne Carson",
+            "MBID": "5914fbe8-c059-45fc-a5c8-7986e46620b8",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Jerry Reed",
+            "TrackTitle": "When You\u2019re Hot, You\u2019re Hot",
+            "TrackComposer": "Jerry Reed",
+            "MBID": "bc208988-3dcc-425c-8896-8aafb7a783bf",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Jim Stafford",
+            "TrackTitle": "Spiders and Snakes",
+            "TrackComposer": "Jim Stafford, David Bellamy",
+            "MBID": "00c6ed9b-9b98-403b-9934-23e645884b54",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Johnny Duncan",
+            "TrackTitle": "Stranger",
+            "TrackComposer": "Kenny O'Dell",
+            "MBID": "708b532f-8a4a-43a2-92e6-a25fa8cd42ce",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "David Frizzell & Shelly West",
+            "TrackTitle": "You\u2019re the Reason God Made Oklahoma",
+            "TrackComposer": "Larry Collins, Sandy Pinkard",
+            "MBID": "c113ddc5-4ccc-4b02-9894-b242c7770ad4",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "The Highwaymen",
+            "TrackTitle": "Highwayman",
+            "TrackComposer": "Jimmy Webb",
+            "MBID": "99c54c87-2f17-4fb8-881f-c9ceec38be0d",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Townes Van Zandt",
+            "TrackTitle": "Pancho and Lefty",
+            "TrackComposer": "Townes Van Zandt",
+            "MBID": "d9d9d17e-06b8-45aa-8187-836251bae446",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Gram Parsons",
+            "TrackTitle": "Return of the Grievous Angel",
+            "TrackComposer": "Gram Parsons, Tom Brown",
+            "MBID": "b57c54a1-8d80-4750-97cd-491b3e76d337",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Gillian Welch",
+            "TrackTitle": "Orphan Girl",
+            "TrackComposer": "Gillian Welch, David Rawlings",
+            "MBID": "a735fb5a-ff0d-422d-afb2-da60f61ea7d6",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Iris DeMent",
+            "TrackTitle": "Our Town",
+            "TrackComposer": "Iris DeMent",
+            "MBID": "9a60dff9-57ac-4660-8147-67fe904c4522",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Drive\u2010By Truckers",
+            "TrackTitle": "Goddamn Lonely Love",
+            "TrackComposer": "Jason Isbell",
+            "MBID": "8e3b5c47-be48-458e-b016-93b301da0ec3",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Uncle Tupelo",
+            "TrackTitle": "No Depression",
+            "TrackComposer": "Jay Farrar",
+            "MBID": "772b5fef-637d-4808-baf0-7fc7081ebdab",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Whiskeytown",
+            "TrackTitle": "16 Days",
+            "TrackComposer": "Ryan Adams, Caitlin Cary, Phil Wandscher, Jeff Rice, Steven Groth",
+            "MBID": "ee15f6b3-3564-4ec3-88f8-1b86a2169673",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Sarah Shook & the Disarmers",
+            "TrackTitle": "Dwight Yoakam",
+            "TrackComposer": "Harlan Howard, Wayne P. Walker",
+            "MBID": "bf522087-7ed7-44e2-ab80-55b9ddff6792",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Patty Griffin",
+            "TrackTitle": "Heavenly Day",
+            "TrackComposer": "Patty Griffin",
+            "MBID": "61537ae8-b144-463d-8467-fe671cac4ff4",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Lyle Lovett",
+            "TrackTitle": "Church",
+            "TrackComposer": "Lyle Lovett",
+            "MBID": "8721016c-6a23-4e67-8710-c6e8fb11a726",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Todd Snider",
+            "TrackTitle": "Alright Guy",
+            "TrackComposer": "Todd Snider",
+            "MBID": "0801831f-1429-41fb-80db-7a74c0d1f0d4",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Brandi Carlile",
+            "TrackTitle": "That Year",
+            "TrackComposer": "Brandi Carlile, Tim Hanseroth",
+            "MBID": "97795a3c-8a0b-43fc-9ec9-ce48e3999b0b",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "The Flatlanders",
+            "TrackTitle": "Dallas",
+            "TrackComposer": "Jimmie Dale Gilmore, Butch Hancock, Joe Ely",
+            "MBID": "5eacf442-c382-4794-bbb1-92e4f58e15af",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Tyler Childers",
+            "TrackTitle": "Purgatory",
+            "TrackComposer": "Tyler Childers",
+            "MBID": "a7236325-1ede-456f-8825-b3860a7932e1",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Kelsey Waldon",
+            "TrackTitle": "You Can\u2019t Ever Tell (live)",
+            "TrackComposer": "Kelsey Waldon",
+            "MBID": "2dc38858-871a-49b2-8292-59e965c779d3",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Ray Wylie Hubbard",
+            "TrackTitle": "Snake Farm",
+            "TrackComposer": "Ray Wylie Hubbard",
+            "MBID": "2e18597c-d586-41de-bcd2-8b40fffa5973",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Billy Joe Shaver",
+            "TrackTitle": "I Been to Georgia on a Fast Train",
+            "TrackComposer": "Billy Joe Shaver",
+            "MBID": "55bd7378-03f2-4619-8319-1d900cdca830",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Terry Allen",
+            "TrackTitle": "Gimme A Ride To Heaven Boy",
+            "TrackComposer": "Terry Allen",
+            "MBID": "c638c209-4978-4d13-81e2-fc2ebb37a0f5",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "The Louvin Brothers",
+            "TrackTitle": "The Tale of the Knoxville Girl",
+            "TrackComposer": "Traditional",
+            "MBID": "00f617c1-f77f-484a-86cd-8b8e6e52020f",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Doc Watson",
+            "TrackTitle": "Deep River Blues",
+            "TrackComposer": "Doc Watson, Traditional",
+            "MBID": "102f3166-2a21-42b4-8154-7c4102cc7912",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Willie Nelson",
+            "TrackTitle": "I Still Can\u2019t Believe You\u2019re Gone",
+            "TrackComposer": "Willie Nelson",
+            "MBID": "aeea5149-9245-4978-9334-4e1b7ca1301e",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Jamey Johnson",
+            "TrackTitle": "High Cost of Living",
+            "TrackComposer": "Jamey Johnson, James Slater",
+            "MBID": "e7d4f0db-4cc0-4c4e-aa38-1a18991a23c1",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Waylon Jennings",
+            "TrackTitle": "Nashville Bum",
+            "TrackComposer": "Waylon Jennings, Harlan Howard",
+            "MBID": "4a90b3e7-b94f-4aeb-be88-f74403aab63a",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Ernest Tubb",
+            "TrackTitle": "Waltz Across Texas",
+            "TrackComposer": "Johnny Gimble, Laura Lee McBride",
+            "MBID": "eeebc343-4c44-4339-8c90-2a321c5750f9",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Billy Ray Cyrix",
+            "TrackTitle": "Garth Brooks",
+            "TrackComposer": "Pat Alger, Garth Brooks",
+            "MBID": "8378180a-1980-48f5-a753-30d0ec1d2e6f",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Chris Stapleton",
+            "TrackTitle": "Traveller",
+            "TrackComposer": "Chris Stapleton",
+            "MBID": "d158525b-aaaf-49bf-928f-9a4ae143bb35",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "4 Barrel Ramblers",
+            "TrackTitle": "Folsom Prison Blues (Johnny Cash)",
+            "TrackComposer": "Johnny Cash",
+            "MBID": "8ab7abd9-cb54-4bb9-b5d1-33fec9427792",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Merle Haggard",
+            "TrackTitle": "Okie From Muskogee (Live)",
+            "TrackComposer": "Merle Haggard, Eddie Burris",
+            "MBID": "226ace15-5e93-411b-9c09-8eef6041da60",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Willie Nelson",
+            "TrackTitle": "On The Road Again (Live)",
+            "TrackComposer": "Willie Nelson",
+            "MBID": "35221e9d-81ac-4f94-9ad4-4c3efe4b75fa",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Barry & Jerry Van Wie",
+            "TrackTitle": "The Devil Went Down To Georgia",
+            "TrackComposer": "Charlie Daniels, Tom Crain, Taz DiGregorio, Fred Edwards, Jim Marshall, John Thomas",
+            "MBID": "05b142b3-1abf-4b40-8f12-62b1a261de45",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "David Allan Coe",
+            "TrackTitle": "Longhaired Redneck",
+            "TrackComposer": "David Allan Coe",
+            "MBID": "62940881-7a98-4697-a6fc-479cd6043871",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Waylon Jennings",
+            "TrackTitle": "Luckenback, Texas (Back to the Basics of Love)",
+            "TrackComposer": "Chip Moman, Bobby Emmons",
+            "MBID": "6e6aa65e-8e53-4aaf-bb23-b32dd5f475f8",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Jerry Reed",
+            "TrackTitle": "East Bound and Down",
+            "TrackComposer": "Jerry Reed, Dick Feller",
+            "MBID": "516ea90d-0d4a-476e-84b4-0305eb1460b7",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Kris Kristofferson",
+            "TrackTitle": "Sunday Mornin\u2019 Comin\u2019 Down",
+            "TrackComposer": "Kris Kristofferson",
+            "MBID": "35b2d7df-0406-4788-8f8e-94534332c1c5",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Hank Williams",
+            "TrackTitle": "I\u2019m So Lonesome I Could Cry",
+            "TrackComposer": "Hank Williams",
+            "MBID": "6b147341-131d-4eb3-be45-99376a61216c",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Conway Twitty",
+            "TrackTitle": "Hello Darlin\u2019",
+            "TrackComposer": "Conway Twitty",
+            "MBID": "740b5bc5-8589-4514-b712-f64f2a4a3b0c",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Steve Earle",
+            "TrackTitle": "Guitar Town (live)",
+            "TrackComposer": "Steve Earle",
+            "MBID": "00542020-fd26-406e-967d-69bdb4b8a4bb",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Bob Wills and His Texas Playboys",
+            "TrackTitle": "San Antonio Rose",
+            "TrackComposer": "Bob Wills",
+            "MBID": "e59b7ade-75db-4f4f-a8ed-bc48091efdf2",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Asleep at the Wheel",
+            "TrackTitle": "The Letter That Johnny Walker Read",
+            "TrackComposer": "Ray Benson, Chris O'Connell, LeRoy Preston",
+            "MBID": "646459ef-fe95-42a4-bc4a-3093df923b88",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Johnny Horton",
+            "TrackTitle": "North to Alaska",
+            "TrackComposer": "Tillman Franks",
+            "MBID": "51d54141-fd94-42e1-bf80-f70f83e00b15",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Zac Brown Band",
+            "TrackTitle": "The Wind",
+            "TrackComposer": "Zac Brown, Wyatt Durrette, Levi Lowrey, Coy Bowles",
+            "MBID": "ed4c9d86-4e6f-44ff-8f1a-b72008cb6ae2",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Lester Flatt & Earl Scruggs",
+            "TrackTitle": "Foggy Mountain Breakdown",
+            "TrackComposer": "Earl Scruggs",
+            "MBID": "cb0aaef7-507d-4b0e-a54f-8d7087f75ead",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Patsy Cline",
+            "TrackTitle": "I Fall to Pieces",
+            "TrackComposer": "Hank Cochran, Harlan Howard",
+            "MBID": "a831857b-bc7c-4a48-82b8-59ba0e69e9ae",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Loretta Lynn",
+            "TrackTitle": "You Ain\u2019t Woman Enough to Take My Man",
+            "TrackComposer": "Loretta Lynn",
+            "MBID": "1d52996e-ea50-415c-8246-bac914d9743f",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Lester Flatt & Earl Scruggs",
+            "TrackTitle": "Cripple Creek",
+            "TrackComposer": "Traditional",
+            "MBID": "aabaf32c-2bcd-41c4-b168-30d9338202c1",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Doc Watson",
+            "TrackTitle": "Shady Grove",
+            "TrackComposer": "Traditional",
+            "MBID": "cffa65e9-d805-4abb-be20-0dde737292f8",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Bob Dylan",
+            "TrackTitle": "Lay Lady Lay",
+            "TrackComposer": "Bob Dylan",
+            "MBID": "00575552-76bc-4e63-ab50-9c769a23c66c",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "John Prine",
+            "TrackTitle": "Illegal Smile",
+            "TrackComposer": "John Prine",
+            "MBID": "026f9fc8-63bf-402a-91a2-c7e2e56d1c94",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Steve Earle",
+            "TrackTitle": "Goodbye\u2019s All We\u2019ve Got Left",
+            "TrackComposer": "Steve Earle",
+            "MBID": "fd81ec16-9e56-4a1e-b94b-4d8f4c3c8768",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Lucinda Williams",
+            "TrackTitle": "Changed the Locks",
+            "TrackComposer": "Lucinda Williams",
+            "MBID": "c5336853-85b2-459b-ba34-4ff9e88c56ba",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Jason Isbell",
+            "TrackTitle": "Stockholm",
+            "TrackComposer": "Jason Isbell",
+            "MBID": "be8ee467-1f4a-41a8-9891-84c488c43fbf",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Sturgill Simpson",
+            "TrackTitle": "Living the Dream",
+            "TrackComposer": "Sturgill Simpson",
+            "MBID": "3154514e-6cbb-41c3-9263-2891228ade7f",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Tyler Childers",
+            "TrackTitle": "Universal Sound",
+            "TrackComposer": "Tyler Childers",
+            "MBID": "1ac288c0-6fd0-4ca1-aca2-6731b62a4d66",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Margo Price",
+            "TrackTitle": "Hurtin' (on the Bottle)",
+            "TrackComposer": "Margo Price, Jeremy Ivey, Caitlin Rose",
+            "MBID": "6b5ad6a5-69b0-426e-a571-29d5a507e615",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Kacey Musgraves",
+            "TrackTitle": "Slow Burn",
+            "TrackComposer": "Kacey Musgraves, Daniel Tashian, Ian Fitchuk",
+            "MBID": "ccc75637-6403-4760-9c97-d1688771f076",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Miranda Lambert",
+            "TrackTitle": "Miranda Lambert: Wildcard",
+            "TrackComposer": "Miranda Lambert, Luke Laird",
+            "MBID": "b2e2668e-7b29-4620-ad93-6157b1669903",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Eric Church",
+            "TrackTitle": "Pledge Allegiance to the Hag",
+            "TrackComposer": "Eric Church, Brett Beavers, Michael P. Heeney",
+            "MBID": "366ee595-2d9e-46be-bd97-457b417b80d8",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Jamey Johnson",
+            "TrackTitle": "Can\u2019t Cash My Checks",
+            "TrackComposer": "Jamey Johnson, Bobby Pinson",
+            "MBID": "8b3a4669-271c-42b6-a606-ed15e9bf250a",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Alejandro Escovedo",
+            "TrackTitle": "Pale Blue Eyes",
+            "TrackComposer": "Lou Reed",
+            "MBID": "5b561a5f-2843-4ff1-abfd-46486350def9",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Uncle Tupelo",
+            "TrackTitle": "Graveyard Shift",
+            "TrackComposer": "Jay Farrar, Jeff Tweedy",
+            "MBID": "08b21232-b398-460e-8966-e329fad6db3e",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Drive-By Truckers",
+            "TrackTitle": "Marry Me",
+            "TrackComposer": "Patterson Hood",
+            "MBID": "5d765d90-d376-4399-a976-a01d39e93f3e",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Radney Foster & Pat Green",
+            "TrackTitle": "Texas in 1880",
+            "TrackComposer": "Radney Foster",
+            "MBID": "2e1eafc2-9828-4730-a5b1-6e29defe8a35",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Identity",
+            "TrackTitle": "You Can Feel Alright",
+            "TrackComposer": "Matraca Berg, Gary Harrison",
+            "MBID": "76293477-9deb-403e-b581-019441fef696",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Cledus T. Judd",
+            "TrackTitle": "Vince Gill",
+            "TrackComposer": "Vince Gill",
+            "MBID": "029a34d5-5365-4b80-a3c6-9cd2d293319d",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Dwight Yoakam",
+            "TrackTitle": "Buenos Noches From a Lonely Room (She Wore Red Dresses)",
+            "TrackComposer": "Dwight Yoakam",
+            "MBID": "3b9db087-e638-4514-9746-402c0af2cffe",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Merle Haggard",
+            "TrackTitle": "Today I Started Loving You Again",
+            "TrackComposer": "Merle Haggard, Bonnie Owens",
+            "MBID": "79739dc5-2056-4a1c-b4a0-6184b3e5014c",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Loretta Lynn",
+            "TrackTitle": "The Pill",
+            "TrackComposer": "Shelby S. Singleton Jr., T.D. Bayless",
+            "MBID": "fb6e22ba-4c2c-4aaa-a45e-fc118a1847a7",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Conway Twitty",
+            "TrackTitle": "I May Never Get to Heaven",
+            "TrackComposer": "George Jones, Melba Montgomery",
+            "MBID": "8a2ce483-9e26-480a-84cc-787c1a5aa17c",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Willie Nelson",
+            "TrackTitle": "Medley: Blue Rock Montana/Red Headed Stranger",
+            "TrackComposer": "Willie Nelson",
+            "MBID": "56e97e9e-537e-405f-9b12-6d11ad2c516b",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Johnny Cash",
+            "TrackTitle": "Cocaine Blues",
+            "TrackComposer": "Traditional",
+            "MBID": "be430a4a-667e-4196-ba19-42affce6133f",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Patsy Cline",
+            "TrackTitle": "San Antonio Rose",
+            "TrackComposer": "Bob Wills",
+            "MBID": "e9d5780a-c7a3-4460-8d1a-4060d28a8a43",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "The Byrds",
+            "TrackTitle": "You Ain't Goin' Nowhere",
+            "TrackComposer": "Bob Dylan",
+            "MBID": "4a0e31b4-8177-49bd-9631-28a152ab431d",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Gram Parsons",
+            "TrackTitle": "She",
+            "TrackComposer": "Gram Parsons, Chris Ethridge",
+            "MBID": "e65161de-2e1e-4007-a8af-0ee62ecb1bcc",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Steve Goodman",
+            "TrackTitle": "You Never Even Call Me by My Name",
+            "TrackComposer": "Steve Goodman, John Prine",
+            "MBID": "33514210-df41-4ed9-96e0-f0fb911cb1fe",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "John Anderson",
+            "TrackTitle": "Chicken Truck",
+            "TrackComposer": "John Anderson, Ervan Parker",
+            "MBID": "9f750fce-c357-4c32-a038-8a546f2648e5",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Jerry Reed",
+            "TrackTitle": "The Legend",
+            "TrackComposer": "Jerry Reed",
+            "MBID": "69899b82-37da-4cf7-afa2-4096ed69e2e7",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Glen Campbell",
+            "TrackTitle": "Didn't We",
+            "TrackComposer": "Jimmy Webb",
+            "MBID": "23050592-5a49-4ac4-b5df-6ad85f32a333",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Garth Brooks",
+            "TrackTitle": "Ain't Goin' Down (Til The Sun Comes Up)",
+            "TrackComposer": "Garth Brooks, Kent Blazy",
+            "MBID": "a74ea89a-08b4-4558-b441-a9f35e6af1a7",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Brooks & Dunn",
+            "TrackTitle": "Brand New Man",
+            "TrackComposer": "Kix Brooks, Ronnie Dunn, Don Cook",
+            "MBID": "0c35e4c1-d07d-414a-b582-2adb6fb0eff0",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Luke Bryan",
+            "TrackTitle": "That\u2019s My Kind of Night",
+            "TrackComposer": "Dallas Davidson, Chris DeStefano, Ashley Gorley",
+            "MBID": "141c8038-ebe2-4aa3-88af-effc8621c7f9",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Florida Georgia Line feat. Luke Bryan",
+            "TrackTitle": "This Is How We Roll",
+            "TrackComposer": "Tyler Hubbard, Brian Kelley, Cole Swindell, Luke Bryan",
+            "MBID": "87229b01-9e92-4316-8f40-c97c442594ee",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Miranda Lambert",
+            "TrackTitle": "Gunpowder & Lead",
+            "TrackComposer": "Miranda Lambert, Allen Shamblin",
+            "MBID": "27b569a1-491b-4847-8aff-194df023dc5f",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Joe Diffie",
+            "TrackTitle": "Pickup Man",
+            "TrackComposer": "Howard Perdew, Kerry Kurt Phillips",
+            "MBID": "f2922d4e-f776-4261-9930-5b4da6bfdde6",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Travis Tritt",
+            "TrackTitle": "It\u2019s a Great Day to Be Alive",
+            "TrackComposer": "Darrell Scott",
+            "MBID": "9ae1f663-cad4-4aa5-a397-f01771460eae",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Montgomery Gentry",
+            "TrackTitle": "My Town",
+            "TrackComposer": "Jeffrey Steele, Reed Nielsen",
+            "MBID": "4b1454a8-d7c3-46d4-817a-d9028d5cb208",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Hank Williams, Jr.",
+            "TrackTitle": "Family Tradition",
+            "TrackComposer": "Hank Williams Jr.",
+            "MBID": "fa3148fe-f20c-4a49-a9ba-80760126f5ab",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Carrie Underwood",
+            "TrackTitle": "Last Name",
+            "TrackComposer": "Carrie Underwood, Luke Laird, Ashley Gorley",
+            "MBID": "d07db8c6-894b-440f-86df-d6f6641f0704",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Little Big Town",
+            "TrackTitle": "Pontoon",
+            "TrackComposer": "Barry Dean, Natalie Hemby, Luke Laird",
+            "MBID": "4f45343b-0d0d-4297-a846-7142589a9b00",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Thomas Rhett",
+            "TrackTitle": "T\u2010Shirt",
+            "TrackComposer": "Ashley Gorley, Shane McAnally, Luke Laird",
+            "MBID": "8841fc3c-afdf-42b6-baca-869c3e5c1f71",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Chris Young",
+            "TrackTitle": "Aw Naw",
+            "TrackComposer": "Chris Young, Ashley Gorley, Chris DeStefano",
+            "MBID": "aae1b543-c3ec-494f-9074-279228819c44",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Brantley Gilbert",
+            "TrackTitle": "Bottoms Up",
+            "TrackComposer": "Brantley Gilbert, Justin Weaver, Brett James",
+            "MBID": "c2f068bb-ada5-4ded-a5a7-915de0514c01",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Lonestar",
+            "TrackTitle": "Tequila Talkin\u2019",
+            "TrackComposer": "Steve Wariner, Billy Kirsch",
+            "MBID": "da820019-49a3-44f6-8a7b-85a3cee9cc40",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "George Strait",
+            "TrackTitle": "All My Ex's Live In Texas",
+            "TrackComposer": "Sanger D. Shafer, Lyndia J. Shafer",
+            "MBID": "8be28911-1d27-4157-83dc-fe8eaca50131",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Jerry Reed",
+            "TrackTitle": "Amos Moses",
+            "TrackComposer": "Jerry Reed",
+            "MBID": "55729ac8-a0ba-4aa0-a98f-4c1b908ddbdc",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Johnny Cash",
+            "TrackTitle": "One Piece at a Time",
+            "TrackComposer": "Wayne Kemp",
+            "MBID": "e8c2335b-996a-4c53-8c44-9054e2a6d89a",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Jimmy Buffett",
+            "TrackTitle": "Margaritaville",
+            "TrackComposer": "Jimmy Buffett",
+            "MBID": "fa5657d8-a681-4429-82be-75c671203471",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "George Strait",
+            "TrackTitle": "Check Yes or No",
+            "TrackComposer": "Dana Hunt, Danny Wells",
+            "MBID": "efcf2c77-bd43-4c43-b08b-47a30a22fbf8",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "John Denver",
+            "TrackTitle": "Take Me Home, Country Roads",
+            "TrackComposer": "John Denver, Bill Danoff, Taffy Nivert",
+            "MBID": "8c833b65-e156-4c0a-80cc-cff40408c8fa",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Patsy Cline",
+            "TrackTitle": "Walkin\u2019 After Midnight",
+            "TrackComposer": "Don Hecht, Alan Block",
+            "MBID": "d4ad2b21-5810-4fcb-8347-5d9d73722830",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Hank Williams",
+            "TrackTitle": "Jambalaya (On the Bayou)",
+            "TrackComposer": "Hank Williams",
+            "MBID": "b24ac264-0cd4-4367-80df-6bc17d5c78c8",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Merle Haggard",
+            "TrackTitle": "Workin\u2019 Man Blues",
+            "TrackComposer": "Merle Haggard",
+            "MBID": "b2578519-304b-4f5d-9e9e-073aca344322",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "George Jones",
+            "TrackTitle": "Tender Years",
+            "TrackComposer": "Darrell Edwards, George Jones",
+            "MBID": "4a75022a-ef95-4d9e-888c-0838bce05ec8",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Loretta Lynn",
+            "TrackTitle": "Fist City",
+            "TrackComposer": "Loretta Lynn",
+            "MBID": "80f7b78a-49ab-4af2-8924-c581b243bf43",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Conway Twitty",
+            "TrackTitle": "Linda on My Mind",
+            "TrackComposer": "Conway Twitty",
+            "MBID": "ad8233a0-af7c-42aa-8184-6e7cedc1f153",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Don Williams",
+            "TrackTitle": "Tulsa Time",
+            "TrackComposer": "Danny Flowers",
+            "MBID": "cd7bfe1a-a8bc-4368-8c83-e938bcfd9b82",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Trisha Yearwood",
+            "TrackTitle": "She\u2019s in Love With the Boy",
+            "TrackComposer": "Jon Ims",
+            "MBID": "37f885d7-b09f-4e89-bc0b-c3d9158f6a12",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "The Chicks",
+            "TrackTitle": "Landslide",
+            "TrackComposer": "Stevie Nicks",
+            "MBID": "704efd13-583c-4e22-be90-1f0c920e8644",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Brad Paisley",
+            "TrackTitle": "Letter to Me",
+            "TrackComposer": "Brad Paisley",
+            "MBID": "bb9f02dd-ff9a-4f8e-a17e-05262ad79706",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Dierks Bentley",
+            "TrackTitle": "I Hold On",
+            "TrackComposer": "Dierks Bentley, Brett James",
+            "MBID": "4144fa0c-adb5-4f17-899a-1a0ac71ac589",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Lady A",
+            "TrackTitle": "American Honey",
+            "TrackComposer": "Cary Barlowe, Hillary Lindsey, Shane Stevens",
+            "MBID": "aeb5662a-87f5-4da6-9c8c-e0df0821df22",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Chris Stapleton",
+            "TrackTitle": "Nobody to Blame",
+            "TrackComposer": "Chris Stapleton, Barry Bales, Ronnie Bowman",
+            "MBID": "6f1aa6d3-ae48-4efb-9fe7-3a8bb5adbc15",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Rascal Flatts",
+            "TrackTitle": "My Wish",
+            "TrackComposer": "Jeffrey Steele, Joe Don Rooney",
+            "MBID": "b5b9c74f-5ec8-46e9-abe1-9fc757e7587f",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Josh Turner",
+            "TrackTitle": "Your Man",
+            "TrackComposer": "Jace Everett, Chris DuBois, David Vincent Williams",
+            "MBID": "1ffe44e1-ccb5-430d-b950-bedd656b755f",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Trace Adkins",
+            "TrackTitle": "You\u2019re Gonna Miss This",
+            "TrackComposer": "Ashley Gorley, Jimmy Yeary",
+            "MBID": "8d1c4da7-6971-4909-b603-06baec7870a3",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Scotty McCreery",
+            "TrackTitle": "Five More Minutes",
+            "TrackComposer": "Scotty McCreery, Frank Rogers, Monty Criswell",
+            "MBID": "17862a5c-9390-4462-b796-8804923859e3",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Anne Murray",
+            "TrackTitle": "Snowbird",
+            "TrackComposer": "Gene MacLellan",
+            "MBID": "20c7f26c-0bcb-4bc5-87df-0425b748642e",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Charlie Rich",
+            "TrackTitle": "Behind Closed Doors",
+            "TrackComposer": "Kenny O'Dell",
+            "MBID": "31c1ae75-e704-4c1e-84e3-c34b305e757c",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Luke Combs",
+            "TrackTitle": "Even Though I\u2019m Leaving",
+            "TrackComposer": "Luke Combs, Wyatt Durrette, Ray Fulcher",
+            "MBID": "f83d1c45-322a-4337-a57a-1a23a93e4eea",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Bruce Robison",
+            "TrackTitle": "Travelin' Soldier",
+            "TrackComposer": "Bruce Robison",
+            "MBID": "7d3a63b8-6784-48cf-839b-0c8d77cb8e2e",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Olivia Newton\u2010John",
+            "TrackTitle": "I Honestly Love You",
+            "TrackComposer": "Peter Allen, Jeff Barry",
+            "MBID": "458d6a67-7e25-45e0-9f16-fcc02fdfb67b",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Barbara Mandrell",
+            "TrackTitle": "I Was Country When Country Wasn\u2019t Cool",
+            "TrackComposer": "Kye Fleming, Dennis Morgan",
+            "MBID": "625eced0-79cc-4c2b-9c9f-8a26b757e88d",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "[unknown]",
+            "TrackTitle": "Take It Easy (Acoustic Eagles)",
+            "TrackComposer": "Jackson Browne, Glenn Frey",
+            "MBID": "2b1a284c-29d8-40a1-898e-6061e30267eb",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Alabama",
+            "TrackTitle": "Love in the First Degree",
+            "TrackComposer": "Tim DuBois, Jim Hurt",
+            "MBID": "32b51290-8ec6-4e87-8fbd-9832f50e6580",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Ronnie Milsap",
+            "TrackTitle": "There\u2019s No Gettin Over Me",
+            "TrackComposer": "Walt Aldridge, Tom Brasfield",
+            "MBID": "1a9b555c-2d77-47b3-94dc-b90b0527bd8a",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Kane Brown feat. Lauren Alaina",
+            "TrackTitle": "What Ifs",
+            "TrackComposer": "Kane Brown, Matt McGinn, Jordan Schmidt",
+            "MBID": "6f7e8bc4-f040-47b6-bd7f-6e00f95bb8e9",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Blake Shelton",
+            "TrackTitle": "God Gave Me You",
+            "TrackComposer": "Dave Barnes",
+            "MBID": "71c2eea1-6a0a-4336-b822-cf020e743cb9",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Willie Nelson",
+            "TrackTitle": "Georgia on My Mind",
+            "TrackComposer": "Hoagy Carmichael, Stuart Gorrell",
+            "MBID": "46aabe46-8fd3-471a-af56-e65c5aedd78d",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Kris Kristofferson",
+            "TrackTitle": "Me and Bobby McGee",
+            "TrackComposer": "Kris Kristofferson, Fred Foster",
+            "MBID": "f9611e8d-4ca9-416d-9f63-b3b2742351c2",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Reba McEntire",
+            "TrackTitle": "The Night The Lights Went Out In Georgia",
+            "TrackComposer": "Bobby Russell",
+            "MBID": "b09a5c0d-bee4-4c31-8fcd-9c93e880813b",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Alan Jackson",
+            "TrackTitle": "Chasin' That Neon Rainbow",
+            "TrackComposer": "Alan Jackson, Jim McBride",
+            "MBID": "d3f65a69-92df-4265-8207-d69a28be7773",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Brooks & Dunn",
+            "TrackTitle": "Neon Moon",
+            "TrackComposer": "Ronnie Dunn",
+            "MBID": "8f3a58f2-eed9-4eca-a3de-a3437fa889c8",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Brad Paisley",
+            "TrackTitle": "Then",
+            "TrackComposer": "Brad Paisley, Chris DuBois, Ashley Gorley",
+            "MBID": "84fd51d3-faf0-4baa-98cb-9ff58c82d240",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Jason Isbell and the 400 Unit",
+            "TrackTitle": "Super 8",
+            "TrackComposer": "Jason Isbell",
+            "MBID": "03b234ce-9910-4611-b48c-95f8b8b61cd0",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Shania Twain",
+            "TrackTitle": "You\u2019re Still the One",
+            "TrackComposer": "Shania Twain, Robert John 'Mutt' Lange",
+            "MBID": "0c5a892e-cadd-4fd9-9b72-6caf19b0fa91",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Kenny Rogers",
+            "TrackTitle": "Lucille",
+            "TrackComposer": "Roger Bowling, Hal Bynum",
+            "MBID": "bb50b770-ef39-435d-bea8-1b39541ab363",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "John Denver",
+            "TrackTitle": "Annie's Song",
+            "TrackComposer": "John Denver",
+            "MBID": "cfb066fd-549b-4776-b1cc-e0f5b37fe947",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Trace Adkins",
+            "TrackTitle": "Honky Tonk Badonkadonk",
+            "TrackComposer": "Randy Houser, Jamey Johnson, Jeffrey Steele",
+            "MBID": "02d280d6-51ee-40e6-bfee-2a97223c2c2f",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Minimal List",
+            "TrackTitle": "Just a Kiss",
+            "TrackComposer": "Dave Haywood, Charles Kelley, Hillary Scott, Dallas Davidson",
+            "MBID": "166e61d8-c81d-42f4-b921-3cb20b1b9b64",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Brett Young",
+            "TrackTitle": "In Case You Didn't Know",
+            "TrackComposer": "Brett Young, Tyler Johnson, Trent Tomlinson, Justin Ebach",
+            "MBID": "912c53f3-2cb5-4f0a-93b3-c14f3d1be137",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Michael Ray",
+            "TrackTitle": "Kiss You in the Morning",
+            "TrackComposer": "Matthew Ramsey, Josh Osborne, Trevor Rosen",
+            "MBID": "9ab3d821-9990-43b9-967c-520035141ca4",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Carly Pearce",
+            "TrackTitle": "Every Little Thing",
+            "TrackComposer": "Carly Pearce, Emily Shackelton, busbee",
+            "MBID": "dbfcd144-57a0-4093-93f2-03b439550e54",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Dylan Scott",
+            "TrackTitle": "My Girl",
+            "TrackComposer": "Dylan Scott, Todd Clark",
+            "MBID": "95075184-ac8d-4a68-af57-2423288d9df0",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "George Jones",
+            "TrackTitle": "Choices",
+            "TrackComposer": "Mike Curtis, Billy Yates",
+            "MBID": "f8172236-234c-496e-a09b-f4b13bc18648",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Patsy Cline",
+            "TrackTitle": "Crazy Arms",
+            "TrackComposer": "Ralph Mooney, Chuck Seals",
+            "MBID": "e30aea84-4ccf-4fa8-876a-e0bc61ca2ba8",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Dustin Lynch",
+            "TrackTitle": "Good Girl",
+            "TrackComposer": "Justin Ebach, Andy Albert, Ashley Gorley",
+            "MBID": "98a1da94-13d9-4bcc-a0bd-820f9598b584",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Gabby Barrett",
+            "TrackTitle": "The Good Ones",
+            "TrackComposer": "Gabby Barrett, Zach Kale, Emily Landis, Jim McCormick",
+            "MBID": "4b499310-77d4-4ba8-9126-411df71e8919",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Michael Ray",
+            "TrackTitle": "Think a Little Less",
+            "TrackComposer": "Brandon Kinney, Luke Laird, Jeremy Stover",
+            "MBID": "6a2a128b-67ea-4aa9-9292-e166d326d243",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Kelsea Ballerini",
+            "TrackTitle": "half of my hometown",
+            "TrackComposer": "Kelsea Ballerini, Jimmy Robbins, Ross Copperman, Shane McAnally, Nicolle Galyon",
+            "MBID": "557a5ca9-6829-4fc5-aa9c-aa3a899b982f",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Cody Johnson",
+            "TrackTitle": "\u2019til You Can\u2019t",
+            "TrackComposer": "Matt Rogers, Ben Stennis",
+            "MBID": "85eef390-472a-40bc-859d-bed306537010",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Gnarls Oakley",
+            "TrackTitle": "Carrie Underwood",
+            "TrackComposer": "Chris DeStefano, Brett James, Zach Crowell",
+            "MBID": "acccedeb-0c73-40d4-b4d4-f3457975f611",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Blake Shelton",
+            "TrackTitle": "Came Here to Forget",
+            "TrackComposer": "Craig Wiseman, Deric Ruttan",
+            "MBID": "51e5e5bf-ae3e-449b-9105-092c29329223",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Chris Young",
+            "TrackTitle": "Think of You",
+            "TrackComposer": "Chris Young, Corey Crowder, Josh Hoge",
+            "MBID": "5a09851b-5d53-4457-978d-08badc8cb358",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "NEEDTOBREATHE & Jordan Davis",
+            "TrackTitle": "Buy Dirt",
+            "TrackComposer": "Jordan Davis, Jacob Davis, Matt Jenkins, Josh Jenkins",
+            "MBID": "848e101b-d559-454a-a439-a257af3c614b",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Brooks & Dunn",
+            "TrackTitle": "Believe",
+            "TrackComposer": "Craig Wiseman, Ronnie Dunn",
+            "MBID": "795a7c72-60e4-4e7f-b37e-c0fcab5a1c8d",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Travis Tritt",
+            "TrackTitle": "It\u2019s a Great Day to Be Alive",
+            "TrackComposer": "Darrell Scott",
+            "MBID": "9279da02-cc83-450d-a861-64daf053fd4a",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Luke Combs",
+            "TrackTitle": "Better Together",
+            "TrackComposer": "Luke Combs, Wyatt Durrette, Peter Good",
+            "MBID": "423e5b04-5aaa-4e5c-b34e-7958933394b9",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Morgan Wallen",
+            "TrackTitle": "You Proof",
+            "TrackComposer": "Morgan Wallen, Ashley Gorley, Ernest Keith Smith, Ryan Vojtesak",
+            "MBID": "479de3c2-2950-4c26-82ea-fbd1c63f84c4",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Gabby Barrett",
+            "TrackTitle": "Footprints on the Moon",
+            "TrackComposer": "Gabby Barrett, Zach Kale, Jonathan Smith",
+            "MBID": "7e2f08e1-aeda-436e-aec6-89082e53ddcb",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Brett Young",
+            "TrackTitle": "Here Tonight",
+            "TrackComposer": "Brett Young, Ben Stennis, Jon Nite, Justin Ebach",
+            "MBID": "5cacd244-9c0d-410b-be1c-2000ce659b94",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Michael Ray",
+            "TrackTitle": "Get Her Back",
+            "TrackComposer": "David Lee Murphy, Rhett Akins, Ben Hayslip",
+            "MBID": "d244d9b2-88f1-4a70-ae95-c2bf5353bdc6",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Russell Dickerson",
+            "TrackTitle": "Come to Jesus",
+            "TrackComposer": "Russell Dickerson, Casey Brown, Parker Welling",
+            "MBID": "d9d78f01-0380-491c-8d87-34fab5e4c5dc",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Maren Morris",
+            "TrackTitle": "Girl",
+            "TrackComposer": "Maren Morris, Greg Kurstin, Sarah Aaron",
+            "MBID": "21b84faf-c629-4cf7-a535-bfc7a7ef1f00",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Kelsea Ballerini",
+            "TrackTitle": "hole in the bottle",
+            "TrackComposer": "Kelsea Ballerini, Jesse Lee, Ashley Gorley, Fred Wilhelm, Steph Jones",
+            "MBID": "a1fd19c2-8077-4013-8364-0d0ae550e8fa",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Carrie Underwood",
+            "TrackTitle": "Denim & Rhinestones",
+            "TrackComposer": "Carrie Underwood, David Garcia, Josh Kear",
+            "MBID": "eea25336-601b-430b-be2f-fc59d1105883",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Luke Bryan",
+            "TrackTitle": "Strip It Down",
+            "TrackComposer": "Luke Bryan, Jon Nite, Ross Copperman",
+            "MBID": "df87620c-b05b-4f29-869a-28845d90cf10",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Blake Shelton featuring Gwen Stefani",
+            "TrackTitle": "Happy Anywhere",
+            "TrackComposer": "Ross Copperman, Nicolle Galyon, Jordan Schmidt",
+            "MBID": "b83043e6-d78e-4b8c-9140-799bbd62410d",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Keith Urban",
+            "TrackTitle": "The Fighter",
+            "TrackComposer": "Keith Urban, busbee",
+            "MBID": "45a212c2-4faa-46be-8fbf-07ca03d740eb",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Eric Church",
+            "TrackTitle": "Hell on the Heart",
+            "TrackComposer": "Eric Church, Deric Ruttan, Jeff Hyde",
+            "MBID": "d30fe7a4-bb84-4bb2-aaac-3ea659ba06ed",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Young Gunz",
+            "TrackTitle": "Young Chris",
+            "TrackComposer": "Chris Young, Kent Blazy, Cory Batten",
+            "MBID": "c1d32c07-63b9-433e-accb-04ffa6d3ec2f",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Tyler Childers",
+            "TrackTitle": "Shake the Frost",
+            "TrackComposer": "Tyler Childers",
+            "MBID": "580bc4dd-863e-47ce-9591-0801437b3ae2",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "8-Bit Arcade",
+            "TrackTitle": "Sing Along (8-Bit Sturgill Simpson Emulation)",
+            "TrackComposer": "Sturgill Simpson",
+            "MBID": "09326cca-ab43-43e6-909e-eaa2f1c1a330",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Parker McCollum",
+            "TrackTitle": "To Be Loved by You",
+            "TrackComposer": "Parker McCollum, Rhett Akins",
+            "MBID": "1fd63df3-899c-4d98-8893-27d136781788",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Riley Green",
+            "TrackTitle": "There Was This Girl",
+            "TrackComposer": "Riley Green, Erik Dylan",
+            "MBID": "fd1d671d-38c3-4a6c-8b34-1130d7d467d7",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Jordan Davis",
+            "TrackTitle": "Singles You Up",
+            "TrackComposer": "Jordan Davis, Justin Ebach, Steven Dale Jones",
+            "MBID": "5b40f9e2-1637-40c2-ae60-ab0e0fb2829c",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Lee Brice",
+            "TrackTitle": "I Don't Dance",
+            "TrackComposer": "Lee Brice, Rob Hatch, Dallas Davidson",
+            "MBID": "0cba338e-fbea-44f2-98ec-bad18d27223a",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "George Strait",
+            "TrackTitle": "Troubadour",
+            "TrackComposer": "Leslie Satcher, Monty Holmes",
+            "MBID": "25886dd8-2c84-483e-8c63-768e0afac1aa",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Zac Brown Band",
+            "TrackTitle": "Knee Deep",
+            "TrackComposer": "Zac Brown, Wyatt Durrette, Coy Bowles, John Driskell Hopkins",
+            "MBID": "92946ba2-b3b9-4141-9d6e-a0a46a836cc0",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Garth Brooks",
+            "TrackTitle": "Shameless",
+            "TrackComposer": "Billy Joel",
+            "MBID": "f48c069a-68a6-492c-bb59-68e80755069a",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Luke Combs",
+            "TrackTitle": "Hurricane",
+            "TrackComposer": "Luke Combs, Thomas Archer, Taylor Phillips",
+            "MBID": "8fe366aa-7632-4453-92cb-1ddc8341d3a7",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Dan + Shay & Justin Bieber",
+            "TrackTitle": "10,000 Hours",
+            "TrackComposer": "Dan Smyers, Shay Mooney, Justin Bieber, Jason Boyd, Jessie Jo Dillon, Jordan Reynolds",
+            "MBID": "de23cfb4-2bde-4d82-b922-20fcced4bcad",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Gabby Barrett",
+            "TrackTitle": "Pick Me Up",
+            "TrackComposer": "Gabby Barrett, Ross Copperman, Jon Nite",
+            "MBID": "62ebbbe4-8c97-4e1e-85e4-49fd27bec732",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "The Delano Orchestra",
+            "TrackTitle": "Pardi",
+            "TrackComposer": "Jon Pardi, Thomas Rhett, Jessi Alexander",
+            "MBID": "2c7b821a-3418-411f-8e44-88667f901e57",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Michael Ray",
+            "TrackTitle": "Whiskey and Rain",
+            "TrackComposer": "Jesse Frasure, Josh Thompson",
+            "MBID": "d9cb0d38-b408-4f11-96a8-626e22807d48",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Russell Dickerson",
+            "TrackTitle": "Home Sweet",
+            "TrackComposer": "Russell Dickerson, Casey Brown, Ashley Gorley, Parker Welling",
+            "MBID": "1bfe9ddb-543e-4e38-8b46-6ebf2203cbc9",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Maren Morris",
+            "TrackTitle": "Circles Around This Town",
+            "TrackComposer": "Maren Morris, Ryan Hurd, Julia Michaels, Jimmy Robbins",
+            "MBID": "ebe526ad-e49b-41ba-8bb3-a61e7f835469",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Kelsea Ballerini",
+            "TrackTitle": "Yeah Boy",
+            "TrackComposer": "Kelsea Ballerini, Forest Glen Whitehead, Jesse Lee",
+            "MBID": "6da26f25-c129-41f8-a4b0-834ae9536200",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Old Dominion",
+            "TrackTitle": "Hotel Key",
+            "TrackComposer": "Matthew Ramsey, Trevor Rosen, Josh Osborne",
+            "MBID": "2d38b5ab-4ce6-4586-b69a-8180a2482f1e",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Carrie Underwood",
+            "TrackTitle": "Dirty Laundry",
+            "TrackComposer": "Zach Crowell, Ashley Gorley, Hillary Lindsey",
+            "MBID": "fe16a833-52d1-482b-bf7f-223c2f9ab7e0",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Luke Bryan",
+            "TrackTitle": "Kick the Dust Up",
+            "TrackComposer": "Dallas Davidson, Chris DeStefano, Ashley Gorley",
+            "MBID": "2d329a5b-e471-450f-9ab1-6526dcb70bdd",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Jason Aldean",
+            "TrackTitle": "Got What I Got",
+            "TrackComposer": "Michael Tyler, Thomas Archer, Alex Palmer",
+            "MBID": "ecf99be5-329b-4ebd-a8ef-f710ec040c5a",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Blake Shelton",
+            "TrackTitle": "Ol\u2019 Red",
+            "TrackComposer": "Mark Collie, Donny Lowery, Vanessa Deaton",
+            "MBID": "612d69dc-0906-4860-b806-eb801bf4793f",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Kenny Chesney",
+            "TrackTitle": "When the Sun Goes Down",
+            "TrackComposer": "Brett James, Rivers Rutherford",
+            "MBID": "bbc06e42-33f2-4625-9ba2-fecffd0887eb",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Keith Urban",
+            "TrackTitle": "Wasted Time",
+            "TrackComposer": "Keith Urban, Greg Wells, James Abrahart",
+            "MBID": "93a36a28-e4c8-491b-8a7a-8b2f50daf0c4",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Eric Church",
+            "TrackTitle": "Give Me Back My Hometown",
+            "TrackComposer": "Eric Church, Luke Laird",
+            "MBID": "7b04485a-4ecb-43a0-ada6-8895301b7a2b",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Chris Young",
+            "TrackTitle": "Lonely Eyes",
+            "TrackComposer": "Chris Young, Johnny Bulford, Jason Matthews",
+            "MBID": "b384fc13-239f-47fc-a5fa-8eed633197a2",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Cody Jinks",
+            "TrackTitle": "Mamma Song",
+            "TrackComposer": "Cody Jinks",
+            "MBID": "67167422-9ede-415b-837c-fcc829066e0d",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Sturgill Simpson",
+            "TrackTitle": "Breakers Roar",
+            "TrackComposer": "Sturgill Simpson",
+            "MBID": "762c958d-b689-43a6-803d-d7014b134422",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Riley Green",
+            "TrackTitle": "Put 'Em On Mine",
+            "TrackComposer": "Riley Green",
+            "MBID": "fe2d42ad-6fc3-4fc0-a98d-c652f21b0e7c",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Jordan Davis",
+            "TrackTitle": "Take It From Me",
+            "TrackComposer": "Jordan Davis, Jason Gantt, Jacob Davis",
+            "MBID": "37b94577-62f8-4bab-8c60-6715fb9f9130",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Randy Travis",
+            "TrackTitle": "Diggin\u2019 Up Bones",
+            "TrackComposer": "Al Gore, Paul Overstreet, Nat Stuckey",
+            "MBID": "482867c9-bbd0-4039-b1ce-808098de6810",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
         }
     ]
 }
