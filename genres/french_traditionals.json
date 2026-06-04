@@ -4,8 +4,8 @@
     "Focus": "artist",
     "RefreshRate": 28,
     "AppendMode": "append",
-    "Timestamp": "2026-05-06T22:26:32Z",
-    "TotalTracks": 470,
+    "Timestamp": "2026-06-04T00:00:10Z",
+    "TotalTracks": 728,
     "Tracks": [
         {
             "TrackArtist": "\u00c9dith Piaf",
@@ -3296,6 +3296,1812 @@
             "MBID": "19ed0043-4196-4e2a-81fd-d12cb3ce35d4",
             "Category": "Songs occuring most on playlists on soundcloud for this genre",
             "TrackComposer": ""
+        },
+        {
+            "TrackArtist": "Joe Dassin",
+            "TrackTitle": "Les Champs\u2010\u00c9lys\u00e9es",
+            "TrackComposer": "Mike Deighan, Mike Wilsh, Pierre Delano\u00eb",
+            "MBID": "93d3810b-cb18-4dc1-9cce-7d9cce4f893f",
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+        },
+        {
+            "TrackArtist": "Dalida",
+            "TrackTitle": "Gigi l\u2019amoroso",
+            "TrackComposer": "Toto Cutugno, Vito Pallavicini, Micha\u00eble",
+            "MBID": "dde10812-6c43-4f3f-aa88-fc751668dee7",
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+        },
+        {
+            "TrackArtist": "Georges Brassens",
+            "TrackTitle": "Chanson pour l\u2019Auvergnat",
+            "TrackComposer": "Georges Brassens",
+            "MBID": "770ec0d8-04ea-45ac-917d-f381906fbc58",
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+        },
+        {
+            "TrackArtist": "Mireille Mathieu",
+            "TrackTitle": "Mille colombes",
+            "TrackComposer": "Christian Bruhn, Eddy Marnay",
+            "MBID": "f9343b0b-b616-4b7b-bdbb-16c2eb7ad9c5",
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+        },
+        {
+            "TrackArtist": "Johnny Hallyday",
+            "TrackTitle": "Que je t'aime",
+            "TrackComposer": "Jean Renard, Gilles Thibaut",
+            "MBID": "1cb4590a-b268-41ea-bab5-1b6c9fe7325f",
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+        },
+        {
+            "TrackArtist": "Barbara",
+            "TrackTitle": "L\u2019Aigle noir",
+            "TrackComposer": "Barbara",
+            "MBID": "0d202167-c026-4571-9784-2673108d6964",
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+        },
+        {
+            "TrackArtist": "Mike Brant",
+            "TrackTitle": "Laisse-moi t'aimer",
+            "TrackComposer": "Jean Renard, Michel Jourdan",
+            "MBID": "c06f6b72-b44c-4e3c-bd25-2caef504b1ee",
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+        },
+        {
+            "TrackArtist": "Fran\u00e7oise Hardy",
+            "TrackTitle": "Le Temps de l\u2019amour",
+            "TrackComposer": "Jacques Dutronc, Lucien Morisse, Andr\u00e9 Salvet",
+            "MBID": "07038f33-7fc2-4685-9f76-eb9895c67cc7",
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+        },
+        {
+            "TrackArtist": "\u00c9dith Piaf",
+            "TrackTitle": "Non, je ne regrette rien",
+            "TrackComposer": "Charles Dumont, Michel Vaucaire",
+            "MBID": "63975687-5bed-4e2d-af16-f7bcbccc374f",
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+        },
+        {
+            "TrackArtist": "Dar\u00edo Moreno",
+            "TrackTitle": "Quand elle danse",
+            "TrackComposer": "Jean Broussolle, Armand Seggian, Paul Misraki",
+            "MBID": "6717688f-42e1-44d5-ba1b-5fe4aef58f11",
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+        },
+        {
+            "TrackArtist": "Caterina Valente",
+            "TrackTitle": "Le chapeau de paille",
+            "TrackComposer": "Marcel Amont, Frank G\u00e9rald",
+            "MBID": "056d162f-3531-413a-984e-e75e82f9ec4b",
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+        },
+        {
+            "TrackArtist": "Pierre Perret",
+            "TrackTitle": "Le Zizi",
+            "TrackComposer": "Pierre Perret",
+            "MBID": "92efd32e-59eb-44ff-98f6-44bd26442aaf",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Georges Ulmer",
+            "TrackTitle": "Pigalle",
+            "TrackComposer": "Georges Ulmer, G\u00e9o Koger",
+            "MBID": "14f99c14-7b5e-457a-a071-bb4e21b25c5a",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Colette Renard",
+            "TrackTitle": "Irma la douce",
+            "TrackComposer": "Marguerite Monnot, Alexandre Breffort",
+            "MBID": "bbcef071-50d0-45e4-86b2-6e20859f90e4",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Philippe Clay",
+            "TrackTitle": "Le Danseur de charleston",
+            "TrackComposer": "Jean-Roger Caussimon, Philippe Clay",
+            "MBID": "7f4d5ef2-ed49-489e-98c4-5f93d801bdbf",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Marcel Zanini",
+            "TrackTitle": "Tu veux ou tu veux pas",
+            "TrackComposer": "Marcel Zanini",
+            "MBID": "24b50020-f88f-4997-8256-8b31498ff23e",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Serge Reggiani",
+            "TrackTitle": "Le Ch\u00eane et le Roseau",
+            "TrackComposer": "Henri Tachan, Jean de La Fontaine",
+            "MBID": "657757d5-ecc1-4c47-ae7f-9aa392dcb0a2",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Zizi Jeanmaire",
+            "TrackTitle": "Mon truc en plumes",
+            "TrackComposer": "Jean Constantin, Henri Salvador",
+            "MBID": "cd3509d0-fecb-4acc-bd79-71cd274a4bcf",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Thierry Le Luron",
+            "TrackTitle": "Darry Cowl",
+            "TrackComposer": "Claude Delecluze, Robert Vattier",
+            "MBID": "a77de9a8-f78f-44ee-acde-7f21e4ee7621",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Jacqueline Fran\u00e7ois",
+            "TrackTitle": "Mademoiselle de Paris",
+            "TrackComposer": "Henri Contet, Paul Durand",
+            "MBID": "b9c887e1-0c93-46d0-854d-292746156f82",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Bourvil",
+            "TrackTitle": "C'\u00e9tait bien (Le p'tit bal perdu)",
+            "TrackComposer": "Jean-Marie Guitton, Robert Chabrier",
+            "MBID": "fb4ba26d-8c0f-4def-b5d1-d914d54f240a",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Annie Cordy",
+            "TrackTitle": "Cigarettes, whisky et p\u2019tites p\u00e9p\u00e9es",
+            "TrackComposer": "Jacques Martin, Pierre Saka",
+            "MBID": "7ee378ba-7aa5-4a87-869b-f3137b27d559",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Kaitlyn Ni Donovan",
+            "TrackTitle": "Yves Montand",
+            "TrackComposer": "Jacques Pr\u00e9vert, Joseph Kosma",
+            "MBID": "b6554e2f-5421-4ce1-8288-e4ba8e2c4f01",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Claude Bolling",
+            "TrackTitle": "Plaisir d\u2019amour : Plaisir d\u2019amour",
+            "TrackComposer": "Jean-Paul-\u00c9gide Martini, Jean-Pierre Claris de Florian",
+            "MBID": "60c2721b-1e59-4731-8305-83e3e58e8e4c",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Wishmountain",
+            "TrackTitle": "Andrex",
+            "TrackComposer": "Henri Scotto, G\u00e9o Koger",
+            "MBID": "293c671b-70aa-4664-b5ba-3f86d0e57a4a",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Joe Dassin",
+            "TrackTitle": "Le Chemin de papa",
+            "TrackComposer": "Joe Dassin, Pierre Delano\u00eb",
+            "MBID": "f20b644f-d477-46b7-a895-7288cb3e6e3a",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Juliette Gr\u00e9co",
+            "TrackTitle": "Jolie M\u00f4me",
+            "TrackComposer": "L\u00e9o Ferr\u00e9",
+            "MBID": "1516e950-ab64-48e2-a6ba-8fdbf38e8f2a",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Boris Vian",
+            "TrackTitle": "La Java des bombes atomiques",
+            "TrackComposer": "Boris Vian, Alain Goraguer",
+            "MBID": "ff6e68a0-e507-46c6-911f-5f5a882202ad",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Brigitte Bardot",
+            "TrackTitle": "Contact",
+            "TrackComposer": "Serge Gainsbourg",
+            "MBID": "f7cc770c-a240-4540-95ff-12ef41b7a6d5",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Anna Karina",
+            "TrackTitle": "Sous le soleil exactement",
+            "TrackComposer": "Serge Gainsbourg",
+            "MBID": "ae50ba73-0a22-4055-9442-0b566562185f",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Vanessa Paradis & Jeanne Moreau",
+            "TrackTitle": "Le tourbillon de la vie",
+            "TrackComposer": "Serge Rezvani",
+            "MBID": "61841e28-e052-445d-b358-bf407bf6a00c",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Jean Ferrat",
+            "TrackTitle": "Nuit et brouillard",
+            "TrackComposer": "Jean Ferrat",
+            "MBID": "8d981a84-7792-4149-8f95-6fccf8f9fe7f",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Michel Polnareff",
+            "TrackTitle": "Love Me, Please Love Me",
+            "TrackComposer": "Michel Polnareff, Frank G\u00e9rald",
+            "MBID": "6398e250-6446-4380-8ff6-05bfa0440e6b",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Jacques Dutronc",
+            "TrackTitle": "Et moi, et moi, et moi",
+            "TrackComposer": "Jacques Dutronc, Jacques Lanzmann",
+            "MBID": "388e48af-48b5-46a5-8755-6f38611062c7",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Dalida",
+            "TrackTitle": "La Danse de Zorba",
+            "TrackComposer": "Mikis Theodorakis",
+            "MBID": "4e585542-5cad-4879-9b30-9ecc0f9c5f09",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Georges Moustaki",
+            "TrackTitle": "Le Temps de vivre",
+            "TrackComposer": "Georges Moustaki, Henri Colpi",
+            "MBID": "dc86d2ba-6079-4cea-9aa5-f440d339392a",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Barbara",
+            "TrackTitle": "Dis, quand reviendras\u2010tu",
+            "TrackComposer": "Barbara",
+            "MBID": "461a99ee-6c0b-4b45-a375-68f113c9e6d7",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Jacques Brel",
+            "TrackTitle": "Bruxelles",
+            "TrackComposer": "Jacques Brel, G\u00e9rard Jouannest",
+            "MBID": "90bdad8b-1e33-4def-8c44-beed6be31dbe",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Serge Gainsbourg & Brigitte Bardot",
+            "TrackTitle": "Bonnie and Clyde",
+            "TrackComposer": "Serge Gainsbourg",
+            "MBID": "192d39b3-d7d7-48e6-af8e-c244d77cf406",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Juliette Gr\u00e9co",
+            "TrackTitle": "La Chanson de Pr\u00e9vert",
+            "TrackComposer": "Serge Gainsbourg",
+            "MBID": "767aa722-35d0-4bfb-9336-bf26bff56e76",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Michel Jonasz",
+            "TrackTitle": "La Bo\u00eete de jazz",
+            "TrackComposer": "Michel Jonasz, Jean-Claude Vannier",
+            "MBID": "799ecda6-52d6-4530-bc97-986836532fba",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Hubert\u2010F\u00e9lix Thi\u00e9faine",
+            "TrackTitle": "La Fille du coupeur de joints",
+            "TrackComposer": "Hubert-F\u00e9lix Thi\u00e9faine",
+            "MBID": "a731b5cc-f7e2-4d70-a34f-404fd39bdbde",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Maxime Le Forestier",
+            "TrackTitle": "N\u00e9 quelque part",
+            "TrackComposer": "Maxime Le Forestier",
+            "MBID": "098d1440-4b15-4068-a7d8-e9326443b41c",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Jacques Higelin",
+            "TrackTitle": "Champagne",
+            "TrackComposer": "Jacques Higelin",
+            "MBID": "29e2bcc1-eb8f-4bc7-a567-c75dbd3e2976",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Anne Sylvestre",
+            "TrackTitle": "Non, tu n\u2019as pas de nom",
+            "TrackComposer": "Anne Sylvestre",
+            "MBID": "c3c619c2-aa32-43f1-8c24-3fcaefa18708",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Luis Mariano",
+            "TrackTitle": "Maman la plus belle du monde",
+            "TrackComposer": "Boby Lapointe",
+            "MBID": "d682c93f-9e05-4c28-94c9-452c9f4a8202",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Charles Trenet",
+            "TrackTitle": "Que reste\u2010t\u2010il de nos amours",
+            "TrackComposer": "Charles Trenet, L\u00e9o Chauliac",
+            "MBID": "dd2afef1-0146-4384-999b-2dbf6240b375",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Michel Polnareff",
+            "TrackTitle": "Holidays",
+            "TrackComposer": "Michel Polnareff, Pierre Delano\u00eb",
+            "MBID": "1c115cbc-aa30-40e3-b01c-1275a7811c85",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Joe Dassin",
+            "TrackTitle": "La Fleur aux dents",
+            "TrackComposer": "Joe Dassin, Claude Lemesle, Pierre Delano\u00eb",
+            "MBID": "7c0fa534-c75a-4a4f-81f6-335b6a3f6e3b",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Jacques Brel",
+            "TrackTitle": "La Valse \u00e0 mille temps",
+            "TrackComposer": "Jacques Brel",
+            "MBID": "aabb8cac-3879-46a0-8217-5d1103e62ed6",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Poupard",
+            "TrackTitle": "Tino Rossi",
+            "TrackComposer": "Antonio Vian, Vincenzo De Crescenzo",
+            "MBID": "38dc6754-a5d6-4a1f-9fb9-cf24868c088e",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Charles Trenet",
+            "TrackTitle": "Y\u2019a d\u2019la joie",
+            "TrackComposer": "Charles Trenet, Michel Emer",
+            "MBID": "18569a7b-6d95-4554-9aeb-6bd9c7e720d2",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Jos\u00e9phine Baker",
+            "TrackTitle": "J\u2019ai deux amours",
+            "TrackComposer": "Vincent Scotto, G\u00e9o Koger, Henri Varna",
+            "MBID": "45557ba6-d658-4771-8621-75218f7533fe",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Dalida",
+            "TrackTitle": "Ciao amore, ciao",
+            "TrackComposer": "Luigi Tenco, Jacques Lanzmann",
+            "MBID": "f83be3f1-f49b-4c92-ae05-787f7b721a5c",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Fran\u00e7oise Hardy",
+            "TrackTitle": "Voil\u00e0",
+            "TrackComposer": "Fran\u00e7oise Hardy",
+            "MBID": "0ce443c7-9313-4846-91dd-2cd6d776ee5c",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Michel Polnareff",
+            "TrackTitle": "Tout tout pour ma ch\u00e9rie",
+            "TrackComposer": "Michel Polnareff, Frank G\u00e9rald",
+            "MBID": "67a1e9c6-ec9f-43e6-a343-efde77e999ba",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Agn\u00e8s Chaumi\u00e9",
+            "TrackTitle": "Mirza (Nino Ferrer)",
+            "TrackComposer": "Nino Ferrer",
+            "MBID": "3888dd4d-9d9d-408b-823a-9164dcdb4aa5",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Sheila",
+            "TrackTitle": "L'\u00e9cole est finie",
+            "TrackComposer": "Guy Magenta, Claude Carr\u00e8re",
+            "MBID": "6062b8c1-fa2e-4a10-b41d-2796abb56c54",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Eddy Mitchell",
+            "TrackTitle": "Le P\u00e9nitencier",
+            "TrackComposer": "Johnny Cash, Merle Travis, Vline Buggy, Hugues Aufray",
+            "MBID": "fbfba112-42bf-4929-aa1f-75ca68498925",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Les Chaussettes Noires",
+            "TrackTitle": "Daniela",
+            "TrackComposer": "Georges Garvarentz, Georges Aber",
+            "MBID": "4796ef84-ecea-4c03-a413-a406baf7990e",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Richard Anthony",
+            "TrackTitle": "J\u2019entends siffler le train",
+            "TrackComposer": "Hedy West, Jacques Plante",
+            "MBID": "0c5d7819-2d2d-4941-9654-c35592948a21",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Hugues Aufray",
+            "TrackTitle": "Stewball",
+            "TrackComposer": "Traditional, Hugues Aufray",
+            "MBID": "7c9c79e3-93e6-4df3-bac4-83cee27a11d3",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Marcel Amont",
+            "TrackTitle": "Bleu blanc blond",
+            "TrackComposer": "Marcel Amont, Frank G\u00e9rald",
+            "MBID": "7a452017-3618-4239-8137-7806c1b4664d",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Petula Clark",
+            "TrackTitle": "Chariot",
+            "TrackComposer": "J.W. Stole, Del Roma, Jacques Plante",
+            "MBID": "df1ad290-299a-40e6-abc8-9734b34ae3ad",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Jacques Brel",
+            "TrackTitle": "Le Moribond",
+            "TrackComposer": "Jacques Brel",
+            "MBID": "b2894126-208d-477a-a7b5-6a103403ce7e",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Georges Brassens",
+            "TrackTitle": "Supplique pour \u00eatre enterr\u00e9 \u00e0 la plage de S\u00e8te",
+            "TrackComposer": "Georges Brassens",
+            "MBID": "247fae79-8ef0-413a-a56f-43bcd47a2f3a",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Juliette Gr\u00e9co",
+            "TrackTitle": "Accord\u00e9on",
+            "TrackComposer": "Serge Gainsbourg",
+            "MBID": "4db82f90-7f9e-4d5b-8350-955a14df03cf",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Boris Vian",
+            "TrackTitle": "On n\u2019est pas l\u00e0 pour se faire engueuler",
+            "TrackComposer": "Boris Vian",
+            "MBID": "ade0b2c7-84d0-45d3-9a68-3632bf756a6a",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Brigitte Bardot",
+            "TrackTitle": "Bubble Gum",
+            "TrackComposer": "Serge Gainsbourg",
+            "MBID": "e9df533b-ede0-4640-a2d8-3e27e36e32c2",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Anna Karina",
+            "TrackTitle": "Roller Girl",
+            "TrackComposer": "Serge Gainsbourg",
+            "MBID": "daf61243-42d8-46b9-b307-bab267295b7b",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Jeanne Moreau",
+            "TrackTitle": "J\u2019ai la m\u00e9moire qui flanche",
+            "TrackComposer": "Serge Rezvani",
+            "MBID": "2b8df648-1ce0-4add-b745-32f4c9acc799",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Fran\u00e7oise Hardy",
+            "TrackTitle": "V.I.P.",
+            "TrackComposer": "Fran\u00e7oise Hardy",
+            "MBID": "65110ac1-d34d-43f8-9e26-ba2109a992cc",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Michel Polnareff",
+            "TrackTitle": "\u00c2me c\u00e2line",
+            "TrackComposer": "Michel Polnareff, Frank G\u00e9rald",
+            "MBID": "eebabe57-1507-40bd-9757-16998e95ef03",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "France Gall",
+            "TrackTitle": "Le C\u0153ur qui jazze",
+            "TrackComposer": "Serge Gainsbourg",
+            "MBID": "5d86e4f6-46a0-497f-a4d4-86bad6459e9f",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Nino Ferrer",
+            "TrackTitle": "L\u2019Arbre noir",
+            "TrackComposer": "Nino Ferrer",
+            "MBID": "ec2d6f0d-d6c1-4235-a036-c948ff86d032",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Jacques Dutronc",
+            "TrackTitle": "Mini, mini, mini",
+            "TrackComposer": "Jacques Dutronc, Jacques Lanzmann",
+            "MBID": "30ce8391-3705-43ac-bdb1-945614cd1414",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Dalida",
+            "TrackTitle": "Les Gitans",
+            "TrackComposer": "Hubert Giraud, Pierre Cour",
+            "MBID": "aca1eb17-3e1b-4ec7-8bf0-0752e306b710",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Henri Salvador",
+            "TrackTitle": "Jardin d\u2019Hiver",
+            "TrackComposer": "Benjamin Biolay, Keren Ann",
+            "MBID": "d727a5c5-e2e5-4ddb-a26d-48a4bb1b33ff",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Georges Moustaki",
+            "TrackTitle": "Alexandrie",
+            "TrackComposer": "Georges Moustaki",
+            "MBID": "47c19387-d6da-4eef-85c6-2a01c761e3b8",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Barbara",
+            "TrackTitle": "Mon enfance",
+            "TrackComposer": "Barbara",
+            "MBID": "2e03bbb8-14c4-4aef-9f30-10fe4f533f3b",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "L\u00e9o Ferr\u00e9",
+            "TrackTitle": "Le Bateau ivre",
+            "TrackComposer": "L\u00e9o Ferr\u00e9, Arthur Rimbaud",
+            "MBID": "7754cc99-c84d-41e0-8f1f-2e226230c0a2",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Jacques Brel",
+            "TrackTitle": "Les Vieux",
+            "TrackComposer": "Jacques Brel, Jean Corti",
+            "MBID": "0a62b11b-5644-40dd-9a5b-666050a100c0",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Serge Gainsbourg",
+            "TrackTitle": "Black Trombone",
+            "TrackComposer": "Serge Gainsbourg",
+            "MBID": "23735d7a-0e19-4417-aad1-d01efd657d41",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Mireille Mathieu",
+            "TrackTitle": "Une femme amoureuse",
+            "TrackComposer": "Barry Gibb, Robin Gibb, Eddy Marnay",
+            "MBID": "b58c198c-d9cb-48e5-ae2a-094e815b7b17",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Claude Fran\u00e7ois",
+            "TrackTitle": "Belinda",
+            "TrackComposer": "Danny Daniel, Miguel Angel de Jesus, Eddy Marnay",
+            "MBID": "47a171c1-431e-414d-8cbf-df619a578810",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Sacha Distel",
+            "TrackTitle": "Scoubidou",
+            "TrackComposer": "Georges Ulmer, Sacha Distel",
+            "MBID": "1122719e-d5c0-4a9e-9d35-4ee9a9150d2c",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Fran\u00e7oise Hardy",
+            "TrackTitle": "La Question",
+            "TrackComposer": "Fran\u00e7oise Hardy, Tuca",
+            "MBID": "c994c017-8dd2-4486-ae6d-6b57621fa2da",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Christophe",
+            "TrackTitle": "Main dans la main",
+            "TrackComposer": "Christophe, Jean-Michel Jarre",
+            "MBID": "a35afb7c-ba89-4ebf-9b5b-b577b1618001",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Joe Dassin",
+            "TrackTitle": "Guantanamera",
+            "TrackComposer": "Jos\u00e9 Fern\u00e1ndez D\u00edaz, Claude Lemesle",
+            "MBID": "4eaefae9-19b3-4308-941c-afd230a9b754",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "\u00c9dith Piaf",
+            "TrackTitle": "La Foule",
+            "TrackComposer": "\u00c1ngel Cabral, Michel Rivgauche",
+            "MBID": "e1d68fa2-e41e-47d5-a51e-56d32676325a",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Yves Montand",
+            "TrackTitle": "Rue Lepic",
+            "TrackComposer": "Joseph Kosma, Jacques Pr\u00e9vert",
+            "MBID": "10049b27-fc22-4fe1-8382-cbd26b7dd1a7",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Tino Rossi",
+            "TrackTitle": "M\u00e9dit\u00e9rran\u00e9e",
+            "TrackComposer": "Francis Lopez, Raymond Vincy",
+            "MBID": "42d5ade5-30a6-4149-881c-085fcd5df2bd",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Mistinguett",
+            "TrackTitle": "Il M'a Vue Nue",
+            "TrackComposer": "Henri Christin\u00e9, Albert Willemetz",
+            "MBID": "54f6c865-1cf7-4d80-8bd9-8a76c377c618",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Claude Fran\u00e7ois",
+            "TrackTitle": "Magnolias for Ever",
+            "TrackComposer": "Claude Fran\u00e7ois, Jean-Pierre Bourtayre, \u00c9tienne Roda-Gil",
+            "MBID": "b0133d19-93f9-4fdf-aeda-d3f7f63fc1ef",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Gilles Brown",
+            "TrackTitle": "Toujours des beaux jours",
+            "TrackComposer": "Guy Magenta, Claude Carr\u00e8re",
+            "MBID": "075d83fc-9a84-46e0-b14e-e078a886955a",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Dalida",
+            "TrackTitle": "B\u00e9same mucho",
+            "TrackComposer": "Consuelo Vel\u00e1zquez, Marcel Stellman",
+            "MBID": "4c512674-6986-47b5-ae64-5a649aa659ea",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "\u00c9dith Piaf",
+            "TrackTitle": "Le Fanion de la l\u00e9gion",
+            "TrackComposer": "Raymond Asso, Marguerite Monnot",
+            "MBID": "ecd72d7e-b23b-4543-9f0b-6f541ba10a89",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Jacques Brel",
+            "TrackTitle": "Madeleine",
+            "TrackComposer": "Jacques Brel, G\u00e9rard Jouannest",
+            "MBID": "829a05c6-3c0d-4387-8214-b7d413669c15",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Georges Brassens",
+            "TrackTitle": "Le Pornographe",
+            "TrackComposer": "Georges Brassens",
+            "MBID": "ae933459-c27a-4d97-877b-4ca0f8a97532",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "The Snobs",
+            "TrackTitle": "Sacha Distel Is Dead",
+            "TrackComposer": "Jacques Plante, Billy Naughty",
+            "MBID": "3edd0b80-abea-4c88-8ee0-aca68f3293c0",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Rika Zara\u00ef",
+            "TrackTitle": "Casatchok",
+            "TrackComposer": "Richard G. Stephen, Boris Rubaschkin",
+            "MBID": "7ce02fff-c27e-43d8-9364-1cfd089ba1c1",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Annie Cordy",
+            "TrackTitle": "Frida Oum Papa",
+            "TrackComposer": "G\u00e9rard Gustin, Claude Carr\u00e8re, Georges Aber",
+            "MBID": "1ce430fa-0925-4cb5-a9f5-538ddbc12654",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Lucky Blondo",
+            "TrackTitle": "Sheila",
+            "TrackComposer": "Tommy Roe, Paul Mauriat, Andr\u00e9 Pascal",
+            "MBID": "c9d116bc-ba4a-4cca-bae9-67dfb3bc2660",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Breton-Cyr",
+            "TrackTitle": "Le grand Richard Cyr",
+            "TrackComposer": "Richard Anthony, Michel Jourdan",
+            "MBID": "ac401bba-0afa-4881-ab43-4fb031ce2ee6",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Claude Fran\u00e7ois",
+            "TrackTitle": "Alexandrie Alexandra",
+            "TrackComposer": "Claude Fran\u00e7ois, Jean-Pierre Bourtayre, \u00c9tienne Roda-Gil",
+            "MBID": "b49087e8-614b-4c43-aaa0-a153437e47d4",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Dalida",
+            "TrackTitle": "Laissez\u2010moi danser",
+            "TrackComposer": "Toto Cutugno, Pasquale Losito, Cristiano Minellono, Pierre Delano\u00eb",
+            "MBID": "17d4c72a-3f1d-4732-8a1d-1c7751105528",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Sheila",
+            "TrackTitle": "Patrick mon ch\u00e9ri",
+            "TrackComposer": "Pierre Groscolas, Claude Carr\u00e8re",
+            "MBID": "831b8ad2-4b38-4c6c-acc8-04f22d13bc03",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Johnny Hallyday",
+            "TrackTitle": "Noir c\u2019est noir",
+            "TrackComposer": "Steve Wonder, Vline Buggy",
+            "MBID": "87da2c9c-29b6-41a6-b643-dd6421c9ac9a",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Michel Polnareff",
+            "TrackTitle": "On ira tous au paradis",
+            "TrackComposer": "Michel Polnareff, Jean-Loup Dabadie",
+            "MBID": "fefe8e45-41a1-4c8d-9225-2bec570f9adb",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Pauline Bert",
+            "TrackTitle": "Le Grand Jeu",
+            "TrackComposer": "Christophe, Jean-Michel Jarre",
+            "MBID": "b373bc11-87e6-4907-a2ba-f0c87f2072cb",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Pierre Perret",
+            "TrackTitle": "Mon p\u2019tit loup",
+            "TrackComposer": "Pierre Perret",
+            "MBID": "1122b7fa-a64e-42b1-a852-98e58f489a7b",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Adamo",
+            "TrackTitle": "J\u2019aime",
+            "TrackComposer": "Adamo",
+            "MBID": "f40389b7-4f97-4a8b-8c63-226f701af608",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Marie Lafor\u00eat",
+            "TrackTitle": "Mon amour, mon ami",
+            "TrackComposer": "Andr\u00e9 Popp, Eddy Marnay",
+            "MBID": "0f6b2a18-3697-4e3e-a422-4dae675ceae7",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Annie Cordy",
+            "TrackTitle": "La Bonne du cur\u00e9",
+            "TrackComposer": "Charles Level, Tony Rallo",
+            "MBID": "a6e76b6f-e5c9-42d9-b11a-ee70ebc015ee",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Jean Vall\u00e9e",
+            "TrackTitle": "L\u2019amour \u00e7a fait chanter la vie",
+            "TrackComposer": "Marcel Amont, Gilbert B\u00e9caud",
+            "MBID": "ab697316-e68e-450e-b412-20b7c6e9c069",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "L'Apo ft. ELOW",
+            "TrackTitle": "Broie du noir",
+            "TrackComposer": "Henri Salvador, Bernard Dimey",
+            "MBID": "a6086c17-fb01-4491-bbc0-2e8c0f764454",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Claude Fran\u00e7ois",
+            "TrackTitle": "Chanson populaire (\u00c7a s\u2019en va et \u00e7a revient)",
+            "TrackComposer": "Jean-Pierre Bourtayre, Claude Fran\u00e7ois, Nicolas Skorsky",
+            "MBID": "9312263b-bbad-4fc0-932c-3a03be48c648",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Dalida avec la participation de Chico & the Gypsies",
+            "TrackTitle": "G\u00e9n\u00e9ration Dalida",
+            "TrackComposer": "",
+            "MBID": "93020402-2324-4857-996c-b29e6b02ad11",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Serge Gainsbourg",
+            "TrackTitle": "Le Physique et le Figur\u00e9",
+            "TrackComposer": "Serge Gainsbourg",
+            "MBID": "404f2a05-ac91-45c9-9e66-7137a481e864",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Fran\u00e7oise Hardy",
+            "TrackTitle": "La Maison o\u00f9 j\u2019ai grandi",
+            "TrackComposer": "Mogol, Giancarlo Colonnello, Fran\u00e7oise Hardy",
+            "MBID": "f543a58f-d898-4b2f-a648-62339555b20e",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "France Gall",
+            "TrackTitle": "Le Premier Chagrin d\u2019amour",
+            "TrackComposer": "Serge Gainsbourg",
+            "MBID": "ed692176-9477-4e41-87de-9ea5141de76e",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Charles Aznavour",
+            "TrackTitle": "Isabelle",
+            "TrackComposer": "Charles Aznavour",
+            "MBID": "5dae172b-07ac-4578-b654-dd88fcc91952",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "\u00c9dith Piaf",
+            "TrackTitle": "C\u2019est un gars",
+            "TrackComposer": "Michel Emer",
+            "MBID": "3455c65d-a0b3-422b-9939-854efa84a9b3",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Georges Brassens",
+            "TrackTitle": "Marinette",
+            "TrackComposer": "Georges Brassens",
+            "MBID": "4efaf590-39d6-4ac3-949b-b44d8aaeda90",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Yves Montand",
+            "TrackTitle": "La Chansonnette",
+            "TrackComposer": "Jean Renoir",
+            "MBID": "76197159-cc1b-4032-81d2-44d979890259",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "L\u2019Orchestre d\u2019Harmonie & Quintette de Percussions de la Haute Saintonge",
+            "TrackTitle": "Henri Salvador",
+            "TrackComposer": "Henri Salvador, Boris Vian",
+            "MBID": "d4f94d57-414e-4c5d-a5f6-1b5a9e077c6c",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Sacha Distel",
+            "TrackTitle": "Toute la pluie tombe sur moi",
+            "TrackComposer": "Burt Bacharach, Hal David, Maurice T\u00e9z\u00e9",
+            "MBID": "712cdf0a-27e2-44f8-a87d-f2adb3ea7466",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Barbara",
+            "TrackTitle": "Ma plus belle histoire d\u2019amour",
+            "TrackComposer": "Barbara",
+            "MBID": "50ae2fd0-fe23-4e8c-bd1d-394b07b76f04",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Claude Nougaro",
+            "TrackTitle": "\u00c0 bout de souffle",
+            "TrackComposer": "Claude Nougaro, Martial Solal",
+            "MBID": "31c2e778-ced2-4378-b635-ddfa246dcea3",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Michel Polnareff",
+            "TrackTitle": "Le Bal des Laze",
+            "TrackComposer": "Michel Polnareff, Pierre Delano\u00eb",
+            "MBID": "4653dcc6-2ae3-49ca-9b9d-89c949455389",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Gilbert B\u00e9caud",
+            "TrackTitle": "Je t\u2019appartiens",
+            "TrackComposer": "Gilbert B\u00e9caud, Pierre Delano\u00eb",
+            "MBID": "1a2883ff-e674-4ac6-b844-bdb1470940b0",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Adamo",
+            "TrackTitle": "C'est ma vie",
+            "TrackComposer": "Adamo",
+            "MBID": "f8c4b2e7-da3b-460e-bc1d-bab43a54cb9f",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Christophe",
+            "TrackTitle": "Les Paradis perdus",
+            "TrackComposer": "Christophe, Jean-Michel Jarre",
+            "MBID": "9f8b630d-93cc-4e6c-8952-df62a028f3f8",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Mike Brant",
+            "TrackTitle": "Qui saura",
+            "TrackComposer": "Mike Brant, Jean Renard, Michel Jourdan",
+            "MBID": "953140f2-2e6f-4939-8e7c-39d0a8741d3b",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Mireille Mathieu",
+            "TrackTitle": "Une histoire d'amour",
+            "TrackComposer": "Francis Lai, Carl Sigman, Catherine Desage",
+            "MBID": "e74dfff1-30b7-4819-9509-85befb925da3",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Johnny Hallyday",
+            "TrackTitle": "Requiem pour un fou",
+            "TrackComposer": "Gilles Thibaut, G\u00e9rard Layani",
+            "MBID": "1f431d5e-65fa-486e-a1ac-def589313a4e",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "R\u00e9gine",
+            "TrackTitle": "Les P\u2019tits Papiers",
+            "TrackComposer": "Serge Gainsbourg",
+            "MBID": "50e17508-18f5-4bb1-b5cd-b66f1a3638ab",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Rina Ketty",
+            "TrackTitle": "Sombreros et mantilles",
+            "TrackComposer": "Charlys, J. Leca",
+            "MBID": "8ee4571c-239f-4d16-8c27-4a54fe8e6345",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Marc Perrone",
+            "TrackTitle": "Rue Lucienne",
+            "TrackComposer": "Pierre Dudan, Jacques Lasry",
+            "MBID": "1eb09ddd-5589-47e9-8d99-b48d7147717c",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Galiardin",
+            "TrackTitle": "\u00c0 la Varenne",
+            "TrackComposer": "Francis Blanche, Jean-Jacques Robert",
+            "MBID": "63302a90-0db2-47a6-973c-59bb74bf2a83",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Francis Lemarque",
+            "TrackTitle": "La Chanson des rues",
+            "TrackComposer": "Jean Sorbier, Raoul Le Peltier",
+            "MBID": "098544f5-2b1b-4fbf-b6bb-b5b83f6cd6d6",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Fernand Gignac",
+            "TrackTitle": "Mon c\u0153ur est un violon",
+            "TrackComposer": "Henri Betti, Jacques Audran",
+            "MBID": "7bd36b88-ee4a-4248-aa59-d0a28dd4be11",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Ram\u00f3n Rodr\u00edguez",
+            "TrackTitle": "Le Plus Beau Tango du Monde",
+            "TrackComposer": "Vincent Scotto, \u00c9mile V. H. Vantard",
+            "MBID": "5bcbb935-84fb-48c7-be2f-39b4c8ee208e",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Manon S\u00e9guin",
+            "TrackTitle": "Ce n'\u00e9tait qu'un r\u00eave",
+            "TrackComposer": "Hugues Aufray",
+            "MBID": "42955fde-2aa3-480d-9a33-6f76a3214985",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Antoine",
+            "TrackTitle": "La Tramontane",
+            "TrackComposer": "Antoine",
+            "MBID": "0e9fc288-a637-4d46-b93b-ff51e26b5440",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Juliette Gr\u00e9co",
+            "TrackTitle": "D\u00e9shabillez\u2010moi",
+            "TrackComposer": "Robert Nyel, Gaby Verlor",
+            "MBID": "0ba47e72-0140-4bfc-9231-a721b7b02805",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Patricia Kaas",
+            "TrackTitle": "Mademoiselle chante le blues",
+            "TrackComposer": "Didier Barbelivien, Bob Mehdi",
+            "MBID": "04e401ca-9cbb-4777-a2ea-18bccdf7af03",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Jos\u00e9phine Baker",
+            "TrackTitle": "J\u2019ai deux amours",
+            "TrackComposer": "Vincent Scotto, Henri Varna, Georges Koger",
+            "MBID": "ba40725a-a2ac-4f44-bd73-e5eb844b1a90",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Lucienne Boyer",
+            "TrackTitle": "Parlez\u2010moi d\u2019amour",
+            "TrackComposer": "Jean Lenoir",
+            "MBID": "201b54bf-aebb-4926-9e1d-20c635b21b12",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Jane Birkin",
+            "TrackTitle": "Di doo dah",
+            "TrackComposer": "Serge Gainsbourg",
+            "MBID": "fdc91ac7-bd47-4b83-a1f7-147204fb4ba7",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Daniel Guichard",
+            "TrackTitle": "Mon vieux",
+            "TrackComposer": "Jean Ferrat, Mich\u00e8le Senlis, Daniel Guichard",
+            "MBID": "ee06a176-d2b2-4098-b632-e08c9599611c",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Dalida",
+            "TrackTitle": "Paroles\u2026 paroles\u2026",
+            "TrackComposer": "Giancarlo Del Re, Gianni Ferrio, Leo Chiosso",
+            "MBID": "2acb8ff0-f687-41c5-a170-ccbeba488170",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Claude Fran\u00e7ois",
+            "TrackTitle": "Belles, belles, belles",
+            "TrackComposer": "Phil Everly, Don Everly, Claude Fran\u00e7ois, Vline Buggy",
+            "MBID": "2529d1e5-47f7-4c06-8c2c-9abfcf7a41c4",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "France Gall",
+            "TrackTitle": "Ella, elle l\u2019a",
+            "TrackComposer": "Michel Berger",
+            "MBID": "421fe711-ced2-42a0-b1ec-a7f20c15c61e",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Mireille Mathieu",
+            "TrackTitle": "Pardonne\u2010moi ce caprice d\u2019enfant",
+            "TrackComposer": "Patricia Carli",
+            "MBID": "97900798-1513-4137-b871-226f4d699caf",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Patricia Kaas",
+            "TrackTitle": "Mon mec \u00e0 moi",
+            "TrackComposer": "Didier Barbelivien, Fran\u00e7ois Bernheim",
+            "MBID": "abc36b1e-2615-477a-84f3-19a634e7e3c8",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Sheila",
+            "TrackTitle": "Bang bang",
+            "TrackComposer": "Sonny Bono, Claude Carr\u00e8re, Georges Aber",
+            "MBID": "8cee76ae-4768-4883-8514-af0dee167197",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Brigitte Bardot",
+            "TrackTitle": "Bonnie and Clyde",
+            "TrackComposer": "Serge Gainsbourg",
+            "MBID": "b326df9c-5643-4734-a521-7f2947317338",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Dalida",
+            "TrackTitle": "J\u2019attendrai",
+            "TrackComposer": "Dino Olivieri, Nino Rastelli, Louis Poterat",
+            "MBID": "76127eda-c928-435a-962e-474ed7aee72e",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Carla Bruni",
+            "TrackTitle": "Quelqu\u2019un m\u2019a dit",
+            "TrackComposer": "Carla Bruni",
+            "MBID": "abe9d55b-7d19-4e12-9ec5-1cb5859187d1",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Rapha\u00ebl",
+            "TrackTitle": "Caravane",
+            "TrackComposer": "Rapha\u00ebl Haroche",
+            "MBID": "5d752b0d-d3fa-4e78-87ac-aa364a03ef90",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "B\u00e9nabar",
+            "TrackTitle": "Le D\u00eener",
+            "TrackComposer": "B\u00e9nabar",
+            "MBID": "211e587d-28d7-4ab7-a3ca-3bbcdaac23d5",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Les Rita Mitsouko",
+            "TrackTitle": "Marcia Baila",
+            "TrackComposer": "Catherine Ringer, Fred Chichin",
+            "MBID": "60287d78-d714-439b-93e7-afc2f4f9c3b0",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Louis, Matthieu, Joseph & Anna Ch\u00e9did",
+            "TrackTitle": "Machistador",
+            "TrackComposer": "Matthieu Chedid",
+            "MBID": "4a3b5eab-9b29-4cc4-8dc2-0270c0c9c1ee",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Pink Martini",
+            "TrackTitle": "Sympathique (Je ne veux pas travailler)",
+            "TrackComposer": "China Forbes, Thomas Lauderdale",
+            "MBID": "1d7f0a16-907d-4e13-b5ca-9841bd24b33c",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Barbara",
+            "TrackTitle": "Le Temps du lilas",
+            "TrackComposer": "Barbara",
+            "MBID": "be207841-1aca-4ce7-9a8b-ac09da1c152d",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Gilbert B\u00e9caud",
+            "TrackTitle": "L\u2019important c\u2019est la rose",
+            "TrackComposer": "Gilbert B\u00e9caud, Louis Amade",
+            "MBID": "ec23af86-01e6-4aa1-b453-4f53f13ae043",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Dalida",
+            "TrackTitle": "Il venait d\u2019avoir 18 ans",
+            "TrackComposer": "Pascal Sevran, Serge Lebrail, Pascal Auriat",
+            "MBID": "f7f4d74e-de78-46ea-a382-8f5d795ccc04",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Renaud",
+            "TrackTitle": "Hexagone",
+            "TrackComposer": "Renaud S\u00e9chan",
+            "MBID": "fd94a7d2-064d-43e7-8172-9617011f073d",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Cali",
+            "TrackTitle": "Alain Souchon",
+            "TrackComposer": "Alain Souchon, Laurent Voulzy",
+            "MBID": "adb9ee91-bd23-4435-93de-15e01b35f257",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Catherine Ringer",
+            "TrackTitle": "C\u2019est comme \u00e7a",
+            "TrackComposer": "Catherine Ringer, Fred Chichin",
+            "MBID": "9d43615a-3330-4288-be65-40f0bd36b80b",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Julien Clerc",
+            "TrackTitle": "Ma pr\u00e9f\u00e9rence",
+            "TrackComposer": "Julien Clerc, Jean-Loup Dabadie",
+            "MBID": "1ba2faa8-5293-432a-9f10-161e02daa2d4",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Bernard Lavilliers",
+            "TrackTitle": "On The Road Again",
+            "TrackComposer": "Bernard Lavilliers",
+            "MBID": "17cad4f5-6bf0-4a74-a1ca-7a0cdbeded3a",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Mano Solo",
+            "TrackTitle": "La Libert\u00e9",
+            "TrackComposer": "Mano Solo",
+            "MBID": "feddde21-6bc9-482d-85e6-ce9dd658d1b5",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Cali",
+            "TrackTitle": "C\u2019est quand le bonheur",
+            "TrackComposer": "Cali",
+            "MBID": "09a9b9bc-a8c5-4fb8-988b-386f8cf5497b",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Vincent Liben",
+            "TrackTitle": "Tes petits seins",
+            "TrackComposer": "Vincent Delerm",
+            "MBID": "d2dac69a-2b48-498a-bd45-995f13ff6a0e",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Keren Ann",
+            "TrackTitle": "La Disparition",
+            "TrackComposer": "Keren Ann, Benjamin Biolay",
+            "MBID": "c3dc5127-c765-439d-8563-87312b9c055e",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Olivia Ruiz",
+            "TrackTitle": "La Femme chocolat",
+            "TrackComposer": "Olivia Ruiz, Mathias Malzieu",
+            "MBID": "e5a83008-4097-4f25-a090-a90ae3774134",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Camille",
+            "TrackTitle": "Le Sac des filles",
+            "TrackComposer": "Camille Dalmais",
+            "MBID": "db494d9d-5d3d-46ad-bb46-3a20d0a59798",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Zazie",
+            "TrackTitle": "Zen",
+            "TrackComposer": "Zazie, Phil Baron",
+            "MBID": "d3c071a8-854e-4791-a29e-603d26f04cbe",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Alain Bashung",
+            "TrackTitle": "Osez Jos\u00e9phine",
+            "TrackComposer": "Alain Bashung, Jean Fauque",
+            "MBID": "2c79cb53-3226-4e0a-b9ac-4760d4925f1c",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Dick Annegarn",
+            "TrackTitle": "Bruxelles",
+            "TrackComposer": "Dick Annegarn",
+            "MBID": "e3551ee3-65b3-4f5d-93aa-d8df7e0a0876",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Charles Aznavour",
+            "TrackTitle": "Emmenez\u2010moi",
+            "TrackComposer": "Charles Aznavour",
+            "MBID": "c41785a0-2647-4c5c-a17c-0d6c0b4b5681",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Dalida",
+            "TrackTitle": "Laissez-moi danser (Monday, Tuesday)",
+            "TrackComposer": "Tot\u00f2 Cutugno, Cristiano Minellono, Pierre Delano\u00eb",
+            "MBID": "7abdfcf3-8cc2-4685-aa10-0cd52f0b2c06",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "France Gall",
+            "TrackTitle": "R\u00e9siste",
+            "TrackComposer": "Michel Berger",
+            "MBID": "48566f83-80e3-4f5f-b1e1-3f52b19b79a9",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Johnny Hallyday",
+            "TrackTitle": "Allumer le feu",
+            "TrackComposer": "Pascal Obispo, Zazie, Lionel Florence",
+            "MBID": "a5018d1b-aaa1-4bf3-845f-af530cede00d",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Daniel Balavoine",
+            "TrackTitle": "L\u2019Aziza",
+            "TrackComposer": "Daniel Balavoine",
+            "MBID": "43996166-ad2b-4b7e-bc5d-adee0eae278d",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Jean\u2010Jacques Goldman",
+            "TrackTitle": "Quand la musique est bonne",
+            "TrackComposer": "Jean-Jacques Goldman",
+            "MBID": "4c837184-b87c-48bb-ad60-ff244222b746",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Alain Souchon",
+            "TrackTitle": "J\u2019ai dix ans",
+            "TrackComposer": "Alain Souchon, Laurent Voulzy",
+            "MBID": "ce2d8fac-0406-4e0f-a1ee-f56b1b082090",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Yves Montand",
+            "TrackTitle": "La Bicyclette",
+            "TrackComposer": "Francis Lai, Pierre Barouh",
+            "MBID": "63237808-5fa7-4800-a913-16c44baa172f",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Juliette Gr\u00e9co",
+            "TrackTitle": "Si tu t\u2019imagines",
+            "TrackComposer": "Joseph Kosma, Raymond Queneau",
+            "MBID": "714f2d1b-9a0d-4b06-bffe-beeaadaa1a7a",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Maxime Le Forestier",
+            "TrackTitle": "Comme un arbre",
+            "TrackComposer": "Maxime Le Forestier",
+            "MBID": "7f03c304-4f02-4a2d-b985-1521c0021896",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Michel Fugain",
+            "TrackTitle": "Chante comme si tu devais mourir demain",
+            "TrackComposer": "Michel Fugain, Pierre Delano\u00eb",
+            "MBID": "a3bb4d20-8236-49b4-9ddd-8ef5a422580e",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Carlos",
+            "TrackTitle": "Big Bisou",
+            "TrackComposer": "Carlos, Jean-Jacques Debout",
+            "MBID": "5dba3ad3-a0db-4268-8d18-1af060d23da1",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Rika Zara\u00ef",
+            "TrackTitle": "Sans chemise, sans pantalon",
+            "TrackComposer": "Ricet Barrier",
+            "MBID": "6281169f-2097-40ac-9e14-3ef1967f21df",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Enrico Macias",
+            "TrackTitle": "Les Filles de mon pays",
+            "TrackComposer": "Enrico Macias, Jean Claudric",
+            "MBID": "f1e6668f-928d-43f4-8034-0e896c2981ea",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Joe Dassin",
+            "TrackTitle": "Les Dalton",
+            "TrackComposer": "Joe Dassin, Claude Lemesle",
+            "MBID": "8ff44061-9999-48fd-b694-f804433e28e3",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Georges Brassens",
+            "TrackTitle": "Mourir pour des id\u00e9es",
+            "TrackComposer": "Georges Brassens",
+            "MBID": "9e5a4449-dbe7-481f-8013-2bbcb975ced3",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Joe Dassin",
+            "TrackTitle": "L\u2019Am\u00e9rique",
+            "TrackComposer": "Joe Dassin, Claude Lemesle, Pierre Delano\u00eb",
+            "MBID": "857a6681-9b1d-4c27-9889-535e81d6e658",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "France Gall",
+            "TrackTitle": "Il jouait du piano debout",
+            "TrackComposer": "Michel Berger",
+            "MBID": "ea4c7cd3-d82e-4421-be04-bdcf33ef5121",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Johnny Hallyday",
+            "TrackTitle": "Ma gueule",
+            "TrackComposer": "Gilles Thibaut, Philippe Bretonni\u00e8re",
+            "MBID": "f383ef09-1579-4c2a-8f65-bc7943d7b17a",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Johnny Hallyday & Sylvie Vartan",
+            "TrackTitle": "J\u2019ai un probl\u00e8me",
+            "TrackComposer": "Jean Renard, Michel Mallory",
+            "MBID": "8f0c1a86-93b1-4338-a723-9d0ca372f5c2",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Daniel Balavoine",
+            "TrackTitle": "Mon fils, ma bataille",
+            "TrackComposer": "Daniel Balavoine",
+            "MBID": "2ff972cc-2dff-4dec-a3c9-f9a477140bf6",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Jean\u2010Jacques Goldman",
+            "TrackTitle": "Il suffira d\u2019un signe",
+            "TrackComposer": "Jean-Jacques Goldman",
+            "MBID": "290c3e66-d57a-4daf-8987-ebd0229172f3",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Alain Souchon",
+            "TrackTitle": "Sous les jupes des filles",
+            "TrackComposer": "Alain Souchon, Laurent Voulzy",
+            "MBID": "ac150d8f-96d4-4358-a1e2-f55f5e4daab2",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Michel Delpech",
+            "TrackTitle": "Que Marianne \u00e9tait jolie",
+            "TrackComposer": "Michel Delpech, Roland Vincent",
+            "MBID": "63afb68a-901a-47f3-b556-b6de87f727c3",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Tino Rossi",
+            "TrackTitle": "Le Chant du gardian",
+            "TrackComposer": "Vincent Scotto, Robert Valaire",
+            "MBID": "4909ae73-9b02-46d8-967b-014540eac2f8",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Gilbert B\u00e9caud",
+            "TrackTitle": "Un peu d\u2019amour et d\u2019amiti\u00e9",
+            "TrackComposer": "Gilbert B\u00e9caud, Louis Amade",
+            "MBID": "a0673bfd-1d27-46db-8029-1aaac2e3bb3f",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Charles Trenet",
+            "TrackTitle": "Le Jardin extraordinaire",
+            "TrackComposer": "Charles Trenet",
+            "MBID": "e68046d9-d080-43e6-bdef-1bb11283345b",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Maxime Le Forestier",
+            "TrackTitle": "\u00c9ducation sentimentale",
+            "TrackComposer": "Maxime Le Forestier",
+            "MBID": "129e64a2-1522-4705-8e1d-cb40e0d93627",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Jacques Higelin",
+            "TrackTitle": "Tomb\u00e9 du ciel",
+            "TrackComposer": "Jacques Higelin",
+            "MBID": "3c4a70a7-2aaa-4147-a509-fce051be0349",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Florent Pagny",
+            "TrackTitle": "Savoir aimer",
+            "TrackComposer": "Pascal Obispo, Lionel Florence",
+            "MBID": "baffeb31-e78b-467a-b8a7-ebf6205e7b21",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Michel Fugain",
+            "TrackTitle": "Fais comme l\u2019oiseau",
+            "TrackComposer": "Michel Fugain, Jean-Michel Jarre, Jean-Loup Dabadie",
+            "MBID": "7a556204-d7e3-4d30-8ebc-e09cf1cc24a9",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Les Choristes",
+            "TrackTitle": "Vois sur ton chemin",
+            "TrackComposer": "Bruno Coulais, Christophe Barratier",
+            "MBID": "a1b34ae4-2432-45ee-b910-d4662f055da5",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Pomme",
+            "TrackTitle": "Ceux qui r\u00eavent",
+            "TrackComposer": "Claire Pommet",
+            "MBID": "15f88fe4-b808-43d4-94ab-b367ed065b85",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Grand Corps Malade",
+            "TrackTitle": "Dimanche soir",
+            "TrackComposer": "Grand Corps Malade",
+            "MBID": "c8cfdd78-08d7-470f-9add-5355538b7df7",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Bourvil",
+            "TrackTitle": "La Tendresse",
+            "TrackComposer": "Jacques Ferte, Hubert Giraud, No\u00ebl Roux",
+            "MBID": "c8ca41a7-f826-45da-a0d0-d72223fda983",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "\u00c9dith Piaf",
+            "TrackTitle": "L\u2019Accord\u00e9oniste",
+            "TrackComposer": "Michel Emer",
+            "MBID": "ce287ba5-69e3-42b9-a3c7-fe30801668fa",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "France Gall",
+            "TrackTitle": "\u00c9videmment",
+            "TrackComposer": "Michel Berger",
+            "MBID": "08ad851f-5fe5-48bf-b84a-0461be151d34",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Claude Fran\u00e7ois",
+            "TrackTitle": "Le t\u00e9l\u00e9phone pleure",
+            "TrackComposer": "Claude Fran\u00e7ois, Jean-Pierre Bourtayre, Frank Thomas",
+            "MBID": "b6d37f05-5cde-4ece-bf80-0dd93099d706",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Johnny Hallyday",
+            "TrackTitle": "Le P\u00e9nitencier",
+            "TrackComposer": "Jean-Philippe Smet, Vline Buggy (Traditional)",
+            "MBID": "2514d1e3-d3f1-4b4a-aa0e-a25f5399072a",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Sheila",
+            "TrackTitle": "Papa t\u2019es plus dans l\u2019coup",
+            "TrackComposer": "Claude Carr\u00e8re, Georges Aber",
+            "MBID": "12408fd4-d812-4685-88e4-f4bb7f0393a3",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Michel Sardou",
+            "TrackTitle": "Je vais t\u2019aimer",
+            "TrackComposer": "Jacques Revaux, Pierre Delano\u00eb, Michel Sardou",
+            "MBID": "6431f8ba-269d-4bd6-b7fe-75248b7eb14e",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Daniel Balavoine",
+            "TrackTitle": "Quand on arrive en ville",
+            "TrackComposer": "Michel Berger, Luc Plamondon",
+            "MBID": "bb95362c-622b-4fef-82d2-165e8695dd99",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Jean\u2010Jacques Goldman",
+            "TrackTitle": "Encore un matin",
+            "TrackComposer": "Jean-Jacques Goldman",
+            "MBID": "96ae97b2-5c1c-4527-a5fa-ba6b70a870ab",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Francis Cabrel",
+            "TrackTitle": "La Cabane du p\u00eacheur",
+            "TrackComposer": "Francis Cabrel",
+            "MBID": "2d3e9dc2-c5ef-4e9b-9621-64aecaf6d4a0",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Renaud",
+            "TrackTitle": "Laisse b\u00e9ton",
+            "TrackComposer": "Renaud S\u00e9chan",
+            "MBID": "cea665cc-6c42-49b1-b17b-b50dddf49081",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Alain Souchon",
+            "TrackTitle": "Rame",
+            "TrackComposer": "Alain Souchon, Laurent Voulzy",
+            "MBID": "c7e6c785-3c9a-4dbf-9d2c-23b2b5ec7aca",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Michel Delpech",
+            "TrackTitle": "Wight Is Wight",
+            "TrackComposer": "Michel Delpech, Roland Vincent",
+            "MBID": "a52f253f-93d6-43cd-9bce-8dc6dc7719f7",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "L\u00e9o Ferr\u00e9",
+            "TrackTitle": "Est\u2010ce ainsi que les hommes vivent ?",
+            "TrackComposer": "L\u00e9o Ferr\u00e9, Louis Aragon",
+            "MBID": "439eb9c9-1606-478e-94a5-c630e5bd0f48",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Yves Montand",
+            "TrackTitle": "Le Temps des cerises",
+            "TrackComposer": "Antoine Renard, Jean-Baptiste Cl\u00e9ment",
+            "MBID": "abefd671-b899-4723-a834-52c192114155",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Charles Trenet",
+            "TrackTitle": "La Folle Complainte",
+            "TrackComposer": "Charles Trenet",
+            "MBID": "f8756aad-8d83-4f20-b92d-877ee05c2d08",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Booboo'zzz All Stars",
+            "TrackTitle": "N\u00e9 Quelque Part (Maxime Le Forestier Cover)",
+            "TrackComposer": "Maxime Le Forestier",
+            "MBID": "65163813-5846-4032-b851-8cda74c3af49",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Christophe",
+            "TrackTitle": "Les mots bleus",
+            "TrackComposer": "Christophe, Jean-Michel Jarre",
+            "MBID": "50f484ce-9c35-4f64-b674-061a825fc8a6",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "\u00c9dith Piaf",
+            "TrackTitle": "Mon legionnaire",
+            "TrackComposer": "Raymond Asso, Marguerite Monnot",
+            "MBID": "1a9275ad-eaa2-47b1-b92a-f99163bf1262",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Jacques Brel",
+            "TrackTitle": "Au suivant",
+            "TrackComposer": "Jacques Brel",
+            "MBID": "be5d4c6b-f872-474a-a924-b51409a6d5b8",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Joe Dassin",
+            "TrackTitle": "Le moustique",
+            "TrackComposer": "Joe Dassin, Claude Lemesle",
+            "MBID": "129a0064-709c-45d5-a6b0-caea4730da43",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "France Gall",
+            "TrackTitle": "Babacar",
+            "TrackComposer": "Michel Berger",
+            "MBID": "c3b67606-0a41-4c2a-b575-df1279b1dbc4",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Johnny Hallyday",
+            "TrackTitle": "Je te promets",
+            "TrackComposer": "Jean-Jacques Goldman",
+            "MBID": "f115a913-d11a-40f5-865e-4211cb6eddb7",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Sheila",
+            "TrackTitle": "Petite Fille de Fran\u00e7ais moyen",
+            "TrackComposer": "Jean-Marie Gu\u00e9rin, Claude Carr\u00e8re",
+            "MBID": "ebe0168d-d7ba-4a41-943a-1f4aa3eddaf3",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Sylvie Vartan",
+            "TrackTitle": "Irr\u00e9sistiblement",
+            "TrackComposer": "Jean Renard, Gilles Thibaut",
+            "MBID": "31b6a599-56b6-490e-a6f7-d7fc758191e1",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Daniel Balavoine",
+            "TrackTitle": "Tous les cris les S.O.S.",
+            "TrackComposer": "Daniel Balavoine",
+            "MBID": "d836ab03-5600-4e07-a477-0d14bd1151a3",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Jean\u2010Jacques Goldman",
+            "TrackTitle": "Je marche seul",
+            "TrackComposer": "Jean-Jacques Goldman",
+            "MBID": "e2edd9cb-b4dd-4617-b226-b7498c8f9cd3",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Francis Cabrel",
+            "TrackTitle": "African Tour",
+            "TrackComposer": "Francis Cabrel",
+            "MBID": "0f565781-3d0b-4234-8c67-983268f720ef",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Renaud",
+            "TrackTitle": "Manhattan\u2010Kaboul",
+            "TrackComposer": "Jean-Pierre Bucolo, Renaud S\u00e9chan",
+            "MBID": "44f13cef-25f7-4c3b-9e60-9b751b4dc128",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Alain Souchon",
+            "TrackTitle": "La Ballade de Jim",
+            "TrackComposer": "Alain Souchon, Laurent Voulzy",
+            "MBID": "31d44991-1e34-45f8-aeff-49df6546e30f",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Michel Delpech",
+            "TrackTitle": "Inventaire 66",
+            "TrackComposer": "Michel Delpech, Roland Vincent",
+            "MBID": "b72b3222-35a3-46e4-88e8-5466ecad82fb",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Barbara",
+            "TrackTitle": "Le Mal de vivre",
+            "TrackComposer": "Barbara",
+            "MBID": "ff50fee9-8602-4f00-bab3-73d8c199c59e",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Alphonse Daudet lu par Fernandel",
+            "TrackTitle": "Le Secret de Ma\u00eetre Cornille",
+            "TrackComposer": "Henri Bourtayre, Jean Manse",
+            "MBID": "022963a4-776d-45d8-a255-3e02fea6c1fe",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Gilbert B\u00e9caud",
+            "TrackTitle": "L\u2019Orange",
+            "TrackComposer": "Gilbert B\u00e9caud, Pierre Delano\u00eb",
+            "MBID": "d33f074a-9225-40c9-8a5c-6cff2935e11b",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Yves Montand",
+            "TrackTitle": "Paris canaille",
+            "TrackComposer": "L\u00e9o Ferr\u00e9",
+            "MBID": "5b1593a9-477a-4254-b348-6b5515690f33",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Juliette Gr\u00e9co",
+            "TrackTitle": "J\u2019arrive",
+            "TrackComposer": "Jacques Brel, G\u00e9rard Jouannest",
+            "MBID": "bc6e3019-da66-4808-9fbc-a622a2b05ff5",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Charles Trenet",
+            "TrackTitle": "Le Serpent python",
+            "TrackComposer": "Charles Trenet",
+            "MBID": "45aff57c-73f0-4ff5-a18f-8a148c02fc48",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Georges Moustaki",
+            "TrackTitle": "Votre fille a vingt ans",
+            "TrackComposer": "Georges Moustaki",
+            "MBID": "8d52a045-4c31-4c71-a622-79e0bd64bef5",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Maxime Le Forestier",
+            "TrackTitle": "Passer ma route",
+            "TrackComposer": "Maxime Le Forestier",
+            "MBID": "641f8135-abd2-4130-87d2-e8bb293a34ed",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Aristide Bruant",
+            "TrackTitle": "Nini peau d\u2019chien",
+            "TrackComposer": "Aristide Bruant",
+            "MBID": "c3d71dfd-5a48-4eee-a4a1-a06655401e82",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Cl\u00e9ment Grenier",
+            "TrackTitle": "La danse du cordonnier",
+            "TrackComposer": "",
+            "MBID": "cd0f51cd-c134-4525-9516-81a14180c8f5",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Carlos",
+            "TrackTitle": "Le Tirelipimpon (version courte)",
+            "TrackComposer": "Carlos, Jean-Jacques Debout",
+            "MBID": "a446731d-bf04-404e-96f6-0be03beba09b",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
         }
     ]
 }
