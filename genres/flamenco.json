@@ -4,8 +4,8 @@
     "Focus": "artist",
     "RefreshRate": 28,
     "AppendMode": "append",
-    "Timestamp": "2026-05-07T03:39:10Z",
-    "TotalTracks": 454,
+    "Timestamp": "2026-06-04T04:17:16Z",
+    "TotalTracks": 770,
     "Tracks": [
         {
             "TrackArtist": "Gipsy Kings",
@@ -3184,6 +3184,2218 @@
             "MBID": "69164e20-48c4-429f-ac6c-57ea197658be",
             "Category": "Songs occuring most on playlists on soundcloud for this genre",
             "TrackComposer": ""
+        },
+        {
+            "TrackArtist": "Gipsy Kings",
+            "TrackTitle": "Bamboleo",
+            "TrackComposer": "J. Baliardo, N. Reyes, T. Reyes",
+            "MBID": "484c6294-514d-4b04-b836-0ba429408354",
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+        },
+        {
+            "TrackArtist": "Gipsy Kings",
+            "TrackTitle": "Volare",
+            "TrackComposer": "Domenico Modugno, Franco Migliacci",
+            "MBID": "3e5e4466-1a73-4494-b2e0-e861a1876930",
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+        },
+        {
+            "TrackArtist": "Leonardo Badinella",
+            "TrackTitle": "Cort\u00e9s",
+            "TrackComposer": "Joaqu\u00edn Cort\u00e9s",
+            "MBID": "8d710fab-6146-4699-a6cb-534b33857e97",
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+        },
+        {
+            "TrackArtist": "Chambao",
+            "TrackTitle": "Lo mejor pa ti",
+            "TrackComposer": "Mar\u00eda del Mar Rodr\u00edguez Carnero",
+            "MBID": "a55f7c12-33a0-4248-b52d-e3c9797ffbbb",
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+        },
+        {
+            "TrackArtist": "Ketama",
+            "TrackTitle": "Vente pa' Madrid",
+            "TrackComposer": "Antonio Carmona, Juan Jos\u00e9 Carmona, Josemi Carmona",
+            "MBID": "729b59a3-0efc-4547-a0c4-fe36912f2d69",
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+        },
+        {
+            "TrackArtist": "Ketama",
+            "TrackTitle": "Llorar\u00e9",
+            "TrackComposer": "Antonio Carmona, Juan Jos\u00e9 Carmona, Josemi Carmona",
+            "MBID": "a6c55abc-8e51-4e0b-9b14-4b7715a69ad3",
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+        },
+        {
+            "TrackArtist": "Joaqu\u00edn Sabina",
+            "TrackTitle": "Por el bulevar de los sue\u00f1os rotos",
+            "TrackComposer": "Joaqu\u00edn Sabina, Antonio Garc\u00eda de Diego",
+            "MBID": "7f53c78c-6a65-41dd-a121-596522f73995",
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+        },
+        {
+            "TrackArtist": "Mirabai Ceiba",
+            "TrackTitle": "Flores de colores",
+            "TrackComposer": "Rosario Flores, Fernando Ill\u00e1n",
+            "MBID": "9692af24-0e39-4dff-831c-7fd7aa45a4e3",
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+        },
+        {
+            "TrackArtist": "Lola Beltr\u00e1n, Mariachi Guadalajara de Silvestre Vargas",
+            "TrackTitle": "Qu\u00e9 bonito, qu\u00e9 bonito",
+            "TrackComposer": "Rosario Flores",
+            "MBID": "c6a71256-ef1a-47cd-a1ee-245d9be442d9",
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+        },
+        {
+            "TrackArtist": "Los Natas",
+            "TrackTitle": "Tomatito",
+            "TrackComposer": "Tomatito",
+            "MBID": "b6184a47-558f-41cc-ab42-7a5574db4752",
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+        },
+        {
+            "TrackArtist": "Enrique Morente",
+            "TrackTitle": "Alegr\u00eda sabicas",
+            "TrackComposer": "Enrique Morente",
+            "MBID": "6679269d-8cb6-43aa-b85d-6833f7d5b534",
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+        },
+        {
+            "TrackArtist": "Bebo & Cigala",
+            "TrackTitle": "Gitanos de la cava",
+            "TrackComposer": "Duquende, Chicuelo",
+            "MBID": "1e520993-b087-4012-be72-03bb403ef170",
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+        },
+        {
+            "TrackArtist": "Andr\u00e9s Sud\u00f3n",
+            "TrackTitle": "Agua de lim\u00f3n",
+            "TrackComposer": "Antonio Carmona, Juan Jos\u00e9 Carmona, Josemi Carmona",
+            "MBID": "6654a703-c541-4122-881b-5a41e44a10a6",
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+        },
+        {
+            "TrackArtist": "Los Huasos Quincheros",
+            "TrackTitle": "Algo contigo",
+            "TrackComposer": "Chico Novarro",
+            "MBID": "545e0cde-9325-4f72-ba0c-a6ad39c88bb9",
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+        },
+        {
+            "TrackArtist": "Los Chunguitos",
+            "TrackTitle": "Baila con Los Chunguitos",
+            "TrackComposer": "Jos\u00e9 Salazar",
+            "MBID": "6ec7ca5f-337d-41d6-bbf9-c39290321cf5",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Az\u00facar Moreno",
+            "TrackTitle": "Solo se vive una vez",
+            "TrackComposer": "Luis Migu\u00e9lez, J. L. De La Pe\u00f1a",
+            "MBID": "aaab11c7-ec83-47de-8da3-28326f529a6c",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Azucar Moreno",
+            "TrackTitle": "Dev\u00f3rame Otra Vez",
+            "TrackComposer": "Palmer Hern\u00e1ndez",
+            "MBID": "89a5ad49-2b93-4039-b6c7-d5f8176c7592",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Triana",
+            "TrackTitle": "Todo es de color",
+            "TrackComposer": "Jes\u00fas de la Rosa",
+            "MBID": "abca19a3-3d80-4569-8dda-965778dc7cdb",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "La Bruja Gata",
+            "TrackTitle": "La mar salada",
+            "TrackComposer": "Chico Oca\u00f1a",
+            "MBID": "efc602f8-0465-4c5b-8689-d88d8fc81d15",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Ni\u00f1o Josele",
+            "TrackTitle": "Calle ancha",
+            "TrackComposer": "Vicente Amigo",
+            "MBID": "9379e60f-a4ca-4f0c-900e-11c18c1bab11",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Manu feat. Nuria",
+            "TrackTitle": "Noches de bohemia",
+            "TrackComposer": "Diego Carrasco",
+            "MBID": "1915ccd1-b02d-4ff4-83b5-17bac1c613de",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Ro*Cola Bacalao",
+            "TrackTitle": "El Pastel de mi Abuela",
+            "TrackComposer": "Gualberto Garc\u00eda",
+            "MBID": "33a3b99c-4d8f-4490-95bf-24a9c52b82ea",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Lendakaris Muertos",
+            "TrackTitle": "Miguel Bos\u00e9",
+            "TrackComposer": "Agust\u00edn P. de Blas, Miguel Bos\u00e9",
+            "MBID": "ae5657d0-141f-4e88-b3d6-66c8de03290b",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Corina",
+            "TrackTitle": "El viento",
+            "TrackComposer": "Juan Pe\u00f1a 'El Lebrijano'",
+            "MBID": "25a990ae-e3f9-4ccd-85b8-f370e4229bc8",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Celtas Cortos",
+            "TrackTitle": "El emigrante",
+            "TrackComposer": "Juan Valderrama, Antonio Murillo",
+            "MBID": "449da672-09ea-41a4-9a7b-ed644795be82",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Los Delinq\u00fcentes",
+            "TrackTitle": "El aire de la calle",
+            "TrackComposer": "M. Ben\u00edtez, M. C. Romero, M. Rodr\u00edguez",
+            "MBID": "bff36bef-b9b6-4b4c-a0e8-cd2fa9d87565",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Piter-G",
+            "TrackTitle": "Por ti ser\u00e9",
+            "TrackComposer": "Juana la Macanita",
+            "MBID": "61fb93df-3cc3-486f-9716-4baa8c7498b1",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Chiquetete",
+            "TrackTitle": "A la puerta de Toledo",
+            "TrackComposer": "Chiquetete",
+            "MBID": "108b2ea4-99ba-4164-a3bd-f6edc0e33553",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Charlie Callthrop All Stars",
+            "TrackTitle": "No me quites tu amor",
+            "TrackComposer": "Parrita",
+            "MBID": "31ff266e-1912-4108-aca7-95a5f86399ae",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Flaco Jim\u00e9nez y Su Conjunto",
+            "TrackTitle": "Los botes de aluminio",
+            "TrackComposer": "Pepe Heredia, Enrique Heredia",
+            "MBID": "cf9c93fc-035c-4171-b16b-ca256df28544",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Paco Cepero",
+            "TrackTitle": "Agua marina (Rumba)",
+            "TrackComposer": "Paco Cepero",
+            "MBID": "c6a124c6-a1f5-470d-890b-3967046504fb",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Solskala",
+            "TrackTitle": "...el mar no tiene el due\u00f1o",
+            "TrackComposer": "El Pele",
+            "MBID": "f1920cad-5c51-4d80-b39a-3a6fec996073",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Los Amaya",
+            "TrackTitle": "Vete",
+            "TrackComposer": "Los Amaya",
+            "MBID": "f6738d6d-40b4-4c35-aae1-c1ba25470e86",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Miguel Bos\u00e9",
+            "TrackTitle": "El sitio de mi recreo",
+            "TrackComposer": "Antonio Vega",
+            "MBID": "45209fc0-2ec4-4f30-833d-ce34211d7318",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "The Pandicorns",
+            "TrackTitle": "La Flaca (Jarabe de Palo Cover)",
+            "TrackComposer": "Pau Don\u00e9s",
+            "MBID": "ca195d33-7ac2-4db2-8042-843e5b50499b",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Lorenzo de Monteclaro",
+            "TrackTitle": "C\u00farame",
+            "TrackComposer": "Pitingo",
+            "MBID": "c3bc9095-7940-4507-aab7-f5ab7aaff0bd",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Pastora Soler",
+            "TrackTitle": "Diki, diki",
+            "TrackComposer": "Lole Montoya",
+            "MBID": "1cbdccae-cf4d-413b-acd9-4039e4b8dc16",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Las Migas",
+            "TrackTitle": "Tangos de la repompa",
+            "TrackComposer": "Tradicional",
+            "MBID": "fe66e216-5369-401e-a1d1-6174621a7327",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Hillsong en Espa\u00f1ol",
+            "TrackTitle": "De gracia en gracia",
+            "TrackComposer": "Sabicas",
+            "MBID": "e35a1f72-e03f-496b-bfc0-12166ab6cb9a",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Luis Delgado",
+            "TrackTitle": "La luna nueva",
+            "TrackComposer": "Manuel Molina",
+            "MBID": "3fb8cab9-d231-44aa-a15e-eb1dc5c5a3d4",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Dermis Tat\u00fa",
+            "TrackTitle": "Sordera",
+            "TrackComposer": "Tradicional",
+            "MBID": "d84a2335-4cc0-4fe3-a153-9d1cdd159773",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Pitingo",
+            "TrackTitle": "A Fernanda de Utrera",
+            "TrackComposer": "Tradicional",
+            "MBID": "621257fe-01a8-491a-a39b-6005404ed589",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Pippo Franco",
+            "TrackTitle": "Bernarda",
+            "TrackComposer": "Tradicional",
+            "MBID": "0a396557-40cb-4d16-89f9-63687d7699ea",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Paco de Luc\u00eda",
+            "TrackTitle": "Plaza de San Juan (Alegr\u00edas)",
+            "TrackComposer": "Tradicional",
+            "MBID": "4e1e92e5-642f-4e29-b7e8-f3295dcc05b6",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "La Paquera de Jerez",
+            "TrackTitle": "Bulerias de la Paquera de Jerez (Bulerias)",
+            "TrackComposer": "Tradicional",
+            "MBID": "3f6fa1a1-17b5-44d5-85d7-bae540d9242e",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Remundo",
+            "TrackTitle": "Del Chocolate",
+            "TrackComposer": "Tradicional",
+            "MBID": "ae3b2f3a-e359-4781-af77-bde1ee179671",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Luiz Caldas",
+            "TrackTitle": "Lobato",
+            "TrackComposer": "Tradicional",
+            "MBID": "2a9bb586-0120-4914-97a7-c09b41dd3576",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Kadeho",
+            "TrackTitle": "El duende",
+            "TrackComposer": "Israel Galv\u00e1n",
+            "MBID": "6ae06241-f3e2-45d4-99e9-4dd163c15bf4",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "La Banda Chula",
+            "TrackTitle": "Que cante",
+            "TrackComposer": "Tradicional",
+            "MBID": "6e8de0ac-d80e-4e8b-bace-4f0747703ab1",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Forastero",
+            "TrackTitle": "Por La Calle De La Amargura",
+            "TrackComposer": "Tradicional",
+            "MBID": "c8dbc791-05c7-4010-b1a3-a87da610698b",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Atomu Shinzo",
+            "TrackTitle": "Heredia",
+            "TrackComposer": "Tradicional",
+            "MBID": "47b23294-e43d-47db-be77-8dca58f8fc95",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Night Watch",
+            "TrackTitle": "Vals del Albaic\u00edn",
+            "TrackComposer": "Tradicional",
+            "MBID": "db0fd007-75df-4b09-9760-992c21489d34",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Fernando de la Morena",
+            "TrackTitle": "Canti\u00f1as del Guadalete (Canti\u00f1as)",
+            "TrackComposer": "Tradicional",
+            "MBID": "d49a70ff-5d8e-4eb6-8640-90927d96c180",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Antonio Rey, Chaboli & Diego Amador",
+            "TrackTitle": "Nuevo Horizonte (Con Diego Amador)",
+            "TrackComposer": "Diego Amador",
+            "MBID": "d2c6b308-021b-45c1-9327-de13750fa541",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Alain Mion",
+            "TrackTitle": "Montse",
+            "TrackComposer": "Tradicional",
+            "MBID": "9fcdd2c3-a3a5-4793-b0ca-627e72f7dd4a",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Jos\u00e9 Menese",
+            "TrackTitle": "Mira como vengo (mirabras)",
+            "TrackComposer": "Tradicional",
+            "MBID": "90ec84ac-5290-46a8-99a6-9c64f4b74ae2",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Miles Davis & Freddie Hubbard",
+            "TrackTitle": "Curro\u2019s",
+            "TrackComposer": "Tradicional",
+            "MBID": "019912fc-446e-4bb9-9897-091af4ad69ed",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Los Hermanos Rinc\u00f3n",
+            "TrackTitle": "El cojo",
+            "TrackComposer": "Tradicional",
+            "MBID": "9e94e381-62f6-4da5-9e25-8843dfffe9a9",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Melchor de Marchena",
+            "TrackTitle": "Tanguillos de Cadiz",
+            "TrackComposer": "Tradicional",
+            "MBID": "3a32b2ca-7472-4935-aad4-efefa41b17b5",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "El Ni\u00f1o Miguel",
+            "TrackTitle": "Vals flamenco",
+            "TrackComposer": "Ni\u00f1o Miguel",
+            "MBID": "0ff3d87a-95bb-4cfe-93c3-9350a977a3dd",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Los del Caney",
+            "TrackTitle": "Tomasa y Jos\u00e9",
+            "TrackComposer": "Tradicional",
+            "MBID": "c1b01e95-09db-4e99-984d-67130e2ecc51",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Tom\u00e1s de Perrate",
+            "TrackTitle": "Buler\u00edas de Perrate (buler\u00edas de Utrera)",
+            "TrackComposer": "Tradicional",
+            "MBID": "24a1ee8f-43d4-4b9a-aed4-a53ee0fd1c5a",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Captain Jack feat. the Gipsy Kings",
+            "TrackTitle": "Get Up! (extended dance mix)",
+            "TrackComposer": "J. Baliardo, N. Reyes, T. Reyes",
+            "MBID": "1fe27801-b19c-464a-8136-7636c2cc0a68",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Gipsy Kings",
+            "TrackTitle": "Bamboleo (Latin extended version)",
+            "TrackComposer": "Domenico Modugno, Franco Migliacci",
+            "MBID": "d71b45ad-06f4-4304-ba6d-dc4779755b04",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Chambao",
+            "TrackTitle": "Pokito a Poko",
+            "TrackComposer": "Mar\u00eda del Mar Rodr\u00edguez Carnero, Daniel Casares, Enrique Heredia",
+            "MBID": "126979d3-23f1-45fe-b67f-41ad25426323",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Ojos de Brujo",
+            "TrackTitle": "Corre Lola Corre (Piano version)",
+            "TrackComposer": "Ojos de Brujo",
+            "MBID": "ebaff783-1c98-41df-9559-2076aa78381b",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "La Maravillosa Orquesta del Alcohol",
+            "TrackTitle": "La cuerda floja",
+            "TrackComposer": "Vicente Ariza, Benjam\u00edn Escoriza, Fa\u00edn S. Due\u00f1as",
+            "MBID": "2b4c06d9-41ee-47d2-9123-56c7718cfc8b",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "The Paco de Luc\u00eda Project",
+            "TrackTitle": "Mora\u00edto Siempre (Buler\u00edas)",
+            "TrackComposer": "Ni\u00f1a Pastori, Chaboli",
+            "MBID": "9e8c17da-8683-4912-a108-93fb4c6c5e70",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Isabel Pantoja",
+            "TrackTitle": "Por un beso",
+            "TrackComposer": "Rosario Flores, Fernando Ill\u00e1n",
+            "MBID": "41814a71-a2f1-4051-83bd-0f07ce0ebd94",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "David Palomar",
+            "TrackTitle": "La calle Priego (buler\u00eda)",
+            "TrackComposer": "Tomatito",
+            "MBID": "0cffce5a-a7cd-4e1a-94fb-69eac1e3da3f",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Los Yaguar\u00fa",
+            "TrackTitle": "Baila mi comp\u00e1s",
+            "TrackComposer": "Duquende, Chicuelo",
+            "MBID": "83a37e04-5d4d-47c1-a3f8-f1ba3125af12",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Alvaro Scaramelli",
+            "TrackTitle": "Ojos de ventana",
+            "TrackComposer": "Ojos de Brujo",
+            "MBID": "2c08d768-f23a-41b8-b357-57d2efbc4343",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Gerardo N\u00fa\u00f1ez",
+            "TrackTitle": "Tarifa (Buler\u00eda)",
+            "TrackComposer": "Vicente Ariza, Benjam\u00edn Escoriza, Fa\u00edn S. Due\u00f1as",
+            "MBID": "60f4eafb-8a36-43d4-be0e-560cf9c65989",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Vicente Amigo",
+            "TrackTitle": "Tres notas para decir te quiero",
+            "TrackComposer": "Vicente Amigo",
+            "MBID": "4065bf39-9669-4831-b5eb-03992fdd58e8",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "HoodBlaq",
+            "TrackTitle": "Ketama",
+            "TrackComposer": "Antonio Carmona, Juan Jos\u00e9 Carmona, Josemi Carmona",
+            "MBID": "7a5f667e-939a-4788-81ea-792c8d98db4b",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Mango",
+            "TrackTitle": "Mediterraneo (live)",
+            "TrackComposer": "Joan Manuel Serrat",
+            "MBID": "b177cc16-d58c-4127-8745-1497cedcd4e6",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Macaco",
+            "TrackTitle": "Amor marinero (feat. Rosario Flores)",
+            "TrackComposer": "Rosario Flores, Fernando Ill\u00e1n",
+            "MBID": "c8b1c8b2-1ec4-4002-ac45-c7b793e8d599",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Jos\u00e9 Alfredo Jim\u00e9nez",
+            "TrackTitle": "Te quiero, te quiero, te quiero",
+            "TrackComposer": "Augusto Alguer\u00f3, Rafael de Le\u00f3n",
+            "MBID": "2196d52c-a584-4576-a514-b38c8c8fb4ba",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Vera Fauna",
+            "TrackTitle": "Luna Mora",
+            "TrackComposer": "Tomatito",
+            "MBID": "4b975a78-7a20-4395-8a59-2f6f523db020",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Julio Jaramillo",
+            "TrackTitle": "Siete pu\u00f1ales",
+            "TrackComposer": "Miguel Poveda",
+            "MBID": "c7f8271e-e571-40a4-86e5-0fd16b5d7274",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Juan Martin",
+            "TrackTitle": "Canto a C\u00e1diz (Canti\u00f1a)",
+            "TrackComposer": "Mar\u00eda del Mar Rodr\u00edguez Carnero",
+            "MBID": "39e478e9-c068-451b-8277-00b9749f2450",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Ojos de Brujo",
+            "TrackTitle": "Corre Lola corre",
+            "TrackComposer": "Ojos de Brujo",
+            "MBID": "c2cd815a-863d-44de-96aa-2f5e2d307e39",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Radio Tarifa",
+            "TrackTitle": "Rumba argelina",
+            "TrackComposer": "Vicente Ariza, Benjam\u00edn Escoriza, Fa\u00edn S. Due\u00f1as",
+            "MBID": "33394f80-dd43-44c5-ba79-d753a2829f0c",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Gipsy Kings",
+            "TrackTitle": "Pida Me La",
+            "TrackComposer": "J. Baliardo, N. Reyes, T. Reyes",
+            "MBID": "0897eb99-66ac-4ab9-9ba2-fdbad000c1c2",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Gipsy Kings",
+            "TrackTitle": "Este mundo",
+            "TrackComposer": "J. Baliardo, N. Reyes, T. Reyes",
+            "MBID": "29185c3c-a156-40b6-9919-14dba81aeaab",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Vicente Amigo con Enrique Morente",
+            "TrackTitle": "Autorretrato",
+            "TrackComposer": "Vicente Amigo",
+            "MBID": "e55c7d65-a8f2-4df4-9c53-08f1ea88493e",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Sugarless",
+            "TrackTitle": "El patio",
+            "TrackComposer": "Antonio Carmona, Juan Jos\u00e9 Carmona, Josemi Carmona",
+            "MBID": "f1080bf9-aff9-49f8-9c7b-188a4f46409c",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Ni\u00f1a Pastori",
+            "TrackTitle": "Cuando te beso",
+            "TrackComposer": "Ni\u00f1a Pastori, Chaboli",
+            "MBID": "b218c79b-3a0a-471e-a364-443da12558fe",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Rosario",
+            "TrackTitle": "Muchas flores",
+            "TrackComposer": "Rosario Flores, Fernando Ill\u00e1n",
+            "MBID": "8c0d4ac9-22d9-4fe7-97ba-6ab9f0abbde8",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Demencia",
+            "TrackTitle": "Ca\u00f1a dulce",
+            "TrackComposer": "Tomatito",
+            "MBID": "53feadc8-04f5-4d22-9fd8-57cfc11578e6",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Paco de Luc\u00eda",
+            "TrackTitle": "Percusion flamenca",
+            "TrackComposer": "Paco de Luc\u00eda",
+            "MBID": "6e5953e8-56a8-4a9f-8263-f4778da3190d",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Sabicas",
+            "TrackTitle": "Mi Solea",
+            "TrackComposer": "Sabicas",
+            "MBID": "a046bc52-da5b-40cb-9c0e-6cd1607f0667",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Ram\u00f3n Montoya",
+            "TrackTitle": "Guajiras",
+            "TrackComposer": "Ram\u00f3n Montoya",
+            "MBID": "ba0222f9-68f5-4bc0-9e68-4889c95afd80",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Enrique Morente & Lagartija Nick feat. Estrella Morente & Juan Manuel Ca\u00f1izares",
+            "TrackTitle": "Manhattan (First We Take Manhattan)",
+            "TrackComposer": "Enrique Morente, Leonard Cohen",
+            "MBID": "5b71918c-fd94-40e2-bacc-49c1b41d6dfc",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Conjunto Cuncum\u00e9n",
+            "TrackTitle": "Canci\u00f3n del minero",
+            "TrackComposer": "Antonio Carmona, Juan Jos\u00e9 Carmona, Josemi Carmona",
+            "MBID": "747e6858-71d2-40ab-90aa-324cada1a002",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Ray Heredia",
+            "TrackTitle": "Alegr\u00eda de vivir",
+            "TrackComposer": "Ray Heredia",
+            "MBID": "034f5715-710d-4ea2-911e-671eeee7fa31",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Mayte Mart\u00edn",
+            "TrackTitle": "Ni quien se acuerde de m\u00ed Malague\u00f1as y fandangos de Hierbabuena",
+            "TrackComposer": "Tradicional",
+            "MBID": "f2f0b2c8-333c-4a2a-b42e-0597ba6017f7",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Vicente Amigo",
+            "TrackTitle": "De mi coraz\u00f3n al aire",
+            "TrackComposer": "Vicente Amigo",
+            "MBID": "45c22640-af10-4322-90d2-2d01aa220e74",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Diego el Cigala",
+            "TrackTitle": "Luna de plata - Gitana (Buler\u00eda)",
+            "TrackComposer": "Tradicional",
+            "MBID": "6b454741-9079-421a-9bcb-eb448a8403d2",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Bana Congo - Papa Noel",
+            "TrackTitle": "Tomatito",
+            "TrackComposer": "Tomatito",
+            "MBID": "67e58095-3994-4099-8e98-37dbee61f4b7",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Ni\u00f1a Pastori",
+            "TrackTitle": "Desde La Azotea",
+            "TrackComposer": "Ni\u00f1a Pastori, Chaboli",
+            "MBID": "e2f690e5-6ccf-49b4-a63d-9fdfb07bef89",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Millo Torres y El Tercer Planeta",
+            "TrackTitle": "Alguien Ha Visto",
+            "TrackComposer": "Rosario Flores",
+            "MBID": "fc09c7e3-ac88-4da3-9fcc-bdb97b210bf5",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Cuentos Borgeanos",
+            "TrackTitle": "Canci\u00f3n del agua",
+            "TrackComposer": "Vicente Ariza, Benjam\u00edn Escoriza, Fa\u00edn S. Due\u00f1as",
+            "MBID": "089e9a7d-5669-437b-9fd2-c0ebb9e179f4",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Pepe de Luc\u00eda",
+            "TrackTitle": "Como el agua (feat. Remedios Amaya)",
+            "TrackComposer": "Remedios Amaya",
+            "MBID": "c5bbdeda-a1fc-4da9-9d94-66bb15c39e55",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Los Aut\u00e9nticos Decadentes!",
+            "TrackTitle": "El chorro",
+            "TrackComposer": "Juan Pe\u00f1a 'El Lebrijano'",
+            "MBID": "445f476e-75ba-47af-a670-509bb78f1e38",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Camar\u00f3n de la Isla",
+            "TrackTitle": "Campanas de alba",
+            "TrackComposer": "Pepe Habichuela",
+            "MBID": "dcdbe6f5-dc37-4653-910e-9c535a26d962",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Jos\u00e9 Menese",
+            "TrackTitle": "Son grandes fatigas dobles (Martinetes)",
+            "TrackComposer": "Tradicional",
+            "MBID": "e8366e22-9dc9-4fd4-bbbf-419b68c71635",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Naranjito de Triana",
+            "TrackTitle": "Hermana malena (Siguiriya)",
+            "TrackComposer": "Tradicional",
+            "MBID": "120b6981-fd86-4cd3-9b2e-84f9c284783a",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Ultra High Flamenco",
+            "TrackTitle": "A Manuel Torre",
+            "TrackComposer": "Tradicional",
+            "MBID": "df82a5b7-3544-4757-867e-21b0c1090141",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "El Agujetas",
+            "TrackTitle": "Tientos de la corona",
+            "TrackComposer": "Tradicional",
+            "MBID": "40d92905-0506-4fd5-9fb2-3fee24645e0d",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "El Chocolate",
+            "TrackTitle": "Buler\u00edas",
+            "TrackComposer": "Tradicional",
+            "MBID": "a62794e0-8952-4e80-8127-b8d49b647b3d",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "El Tri",
+            "TrackTitle": "Llama de los callejones",
+            "TrackComposer": "Gualberto Garc\u00eda",
+            "MBID": "a451db9f-71ac-42ce-b0d0-a315a87482e9",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Utopians",
+            "TrackTitle": "Entre luces",
+            "TrackComposer": "Diego el Morao",
+            "MBID": "dbaf00e2-5b40-4f29-b1af-54267a084d60",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Silvania",
+            "TrackTitle": "Arc\u00e1ngel",
+            "TrackComposer": "Tradicional",
+            "MBID": "c6c79f4c-3795-46f6-bd59-11d56928a02d",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Azido Sulfurico",
+            "TrackTitle": "Quej\u00edo",
+            "TrackComposer": "Roc\u00edo M\u00e1rquez",
+            "MBID": "ec0b8e57-7ce9-464f-a963-963cbf2fa6e7",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Gipsy Kings",
+            "TrackTitle": "La Dona",
+            "TrackComposer": "J. Baliardo, N. Reyes, T. Reyes",
+            "MBID": "3caf253e-bf66-40fd-8b3b-7ce0f8228349",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "R\u00e3o Kyao con Ketama",
+            "TrackTitle": "Delirios ib\u00e9ricos",
+            "TrackComposer": "Antonio Carmona, Juan Jos\u00e9 Carmona, Josemi Carmona",
+            "MBID": "d2ce1a95-2230-436f-9028-5c863d3c200a",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Ni\u00f1a Pastori",
+            "TrackTitle": "Dime qui\u00e9n soy yo",
+            "TrackComposer": "Ni\u00f1a Pastori, Chaboli",
+            "MBID": "eff6ad2f-f2fd-4226-9e9d-c09f4376cd26",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Lisandro Meza y su Conjunto",
+            "TrackTitle": "Sal y agua",
+            "TrackComposer": "Rosario Flores, Fernando Ill\u00e1n",
+            "MBID": "901fb5cb-5901-4da2-a3a8-a5ef5912d7a9",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Rosario",
+            "TrackTitle": "Mucho por vivir",
+            "TrackComposer": "Rosario Flores, Fernando Ill\u00e1n",
+            "MBID": "bb928031-0ffe-4d66-a45e-5a4b3cb49f5a",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Chambao",
+            "TrackTitle": "\u00a1Ah\u00ed est\u00e1s t\u00fa!",
+            "TrackComposer": "Mar\u00eda del Mar Rodr\u00edguez Carnero",
+            "MBID": "ad0e2888-4680-4f64-b2a5-6e53913dfd7f",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Banda Conmoci\u00f3n",
+            "TrackTitle": "D\u00edas y noches",
+            "TrackComposer": "Mar\u00eda del Mar Rodr\u00edguez Carnero",
+            "MBID": "61fa5a92-504c-439f-b5f7-2e8b8ef01d57",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Ojos de Brujo",
+            "TrackTitle": "N\u00e1 en la nevera",
+            "TrackComposer": "Ojos de Brujo",
+            "MBID": "cf647a22-225b-49a1-a386-cbf872eb9327",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Ojos de Brujo",
+            "TrackTitle": "Tesoro",
+            "TrackComposer": "Ojos de Brujo",
+            "MBID": "56ec7524-bb98-4956-a7db-5225e353c202",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Finis Africae",
+            "TrackTitle": "Radio Tarifa",
+            "TrackComposer": "Vicente Ariza, Benjam\u00edn Escoriza, Fa\u00edn S. Due\u00f1as",
+            "MBID": "7565298c-0933-4226-bea9-dc05f85d5d2e",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Finis Africae",
+            "TrackTitle": "Radio Tarifa",
+            "TrackComposer": "Vicente Ariza, Benjam\u00edn Escoriza, Fa\u00edn S. Due\u00f1as",
+            "MBID": "805b34f0-b3c7-4726-929c-c5ba2679bf6b",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Mar\u00eda Carrasco",
+            "TrackTitle": "Buler\u00edas de la isla",
+            "TrackComposer": "Tradicional",
+            "MBID": "ab2b193d-4802-439a-a220-b1c2a33dadcf",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Los Romeros",
+            "TrackTitle": "Buler\u00edas (Fiesta)",
+            "TrackComposer": "Tradicional",
+            "MBID": "24e3b744-f284-4dd4-b2bd-57d0f1c5f9da",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Boy Wonder CF, Joel Melody & Mark Poow",
+            "TrackTitle": "Me la llev\u00e9",
+            "TrackComposer": "Raimundo Amador",
+            "MBID": "abf90dea-1909-4131-ba6a-1058b07b8ad2",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Az\u00facar Moreno",
+            "TrackTitle": "Mambo",
+            "TrackComposer": "Luis Migu\u00e9lez, J. L. De La Pe\u00f1a",
+            "MBID": "d9a4c8e8-cb97-4f1f-808d-f93013b7234f",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Los Arcanos del Desierto",
+            "TrackTitle": "Noche de brujas",
+            "TrackComposer": "Navajita Plate\u00e1",
+            "MBID": "17f9231b-ddd5-4121-83c7-b979995bac00",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Estopa",
+            "TrackTitle": "Tu calorro",
+            "TrackComposer": "David Mu\u00f1oz, Jos\u00e9 Manuel Mu\u00f1oz",
+            "MBID": "1f7e4a89-1cb1-40c2-b70b-ce4239f30744",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Macaco",
+            "TrackTitle": "Con la mano levant\u00e1",
+            "TrackComposer": "Dani Carbonell 'Macaco'",
+            "MBID": "eec45d73-d654-47b7-b2cc-4901bd07fede",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Kiko Veneno",
+            "TrackTitle": "En un mercedes blanco",
+            "TrackComposer": "Kiko Veneno",
+            "MBID": "6baf3f59-3c28-4a9a-83fc-e2b53bfbce9f",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Las Migas",
+            "TrackTitle": "Calma",
+            "TrackComposer": "Marta Robles, Carolina La O",
+            "MBID": "add07037-6a04-4452-b24a-9c031fc4daae",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Circo",
+            "TrackTitle": "Capullo",
+            "TrackComposer": "Tradicional",
+            "MBID": "4217f459-0efc-429a-82e5-95e9b4abf44e",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Familia de los Zambos",
+            "TrackTitle": "Tio Borrico",
+            "TrackComposer": "Tradicional",
+            "MBID": "95d500b1-0a6c-4db3-9782-d4d6ec6fc493",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Poyake & Pimp Chicken",
+            "TrackTitle": "Dale Candela",
+            "TrackComposer": "Antonio Carmona, Fernando Ill\u00e1n",
+            "MBID": "7bb63f33-e4e5-4298-92c5-d3badebe45d3",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Paco de Luc\u00eda",
+            "TrackTitle": "Fuente Nueva",
+            "TrackComposer": "Paco de Luc\u00eda",
+            "MBID": "a9615efd-daab-46d7-b8c2-7b1c2c5feeaf",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Vicente Amigo",
+            "TrackTitle": "Bolero de Vicente",
+            "TrackComposer": "Vicente Amigo",
+            "MBID": "7454f8d5-bc16-4294-aeb9-7f7e5c41f984",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Vicente Amigo",
+            "TrackTitle": "Un momento en el sonido",
+            "TrackComposer": "Vicente Amigo",
+            "MBID": "61b6a9c9-dfde-46e0-96eb-014173c257db",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Gipsy Kings",
+            "TrackTitle": "A tu vera",
+            "TrackComposer": "Rafael de Le\u00f3n, Manuel Quiroga",
+            "MBID": "44827ab6-6838-4b52-a00a-fc8c4f189821",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Charlie Zaa",
+            "TrackTitle": "Con los a\u00f1os que me quedan",
+            "TrackComposer": "Gloria Estefan",
+            "MBID": "25916ac3-4db9-4418-89f9-8b33e62857b6",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Carlos Di Sarli",
+            "TrackTitle": "Verdemar",
+            "TrackComposer": "Antonio Carmona, Juan Jos\u00e9 Carmona, Josemi Carmona",
+            "MBID": "7a188e04-488f-45ab-a49f-8c3de24d2526",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Ni\u00f1a Pastori",
+            "TrackTitle": "Qui\u00e9n te va a querer",
+            "TrackComposer": "Ni\u00f1a Pastori, Chaboli",
+            "MBID": "5420d592-f2e9-456f-8bec-bed6be513472",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Tinta Roja",
+            "TrackTitle": "Amor de cuentos",
+            "TrackComposer": "Rosario Flores, Fernando Ill\u00e1n",
+            "MBID": "b6e1fe7f-f1f4-4ada-adea-ddf6ad36dad2",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Last of the Juanitas",
+            "TrackTitle": "Como un Perro",
+            "TrackComposer": "Rosario Flores, Fernando Ill\u00e1n",
+            "MBID": "e2d9a12d-6b3f-4cc8-92cc-e46015c7c8b2",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Falgar",
+            "TrackTitle": "Donde duerme el sol",
+            "TrackComposer": "Ojos de Brujo",
+            "MBID": "f77cd339-4704-47f1-be8e-7cff9ca5eb0a",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Paco de Luc\u00eda",
+            "TrackTitle": "Lamento minero",
+            "TrackComposer": "Ojos de Brujo",
+            "MBID": "59e8cd24-a8a7-41ef-bc48-fd4a847868c5",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Radio Tarifa",
+            "TrackTitle": "Soledad",
+            "TrackComposer": "Vicente Ariza, Benjam\u00edn Escoriza, Fa\u00edn S. Due\u00f1as",
+            "MBID": "b8736329-1768-4b8e-8897-619232d85ae0",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Diego el Cigala",
+            "TrackTitle": "Si te contara",
+            "TrackComposer": "Felix B. Caignet",
+            "MBID": "a289c7a7-e1fb-4c09-9c7f-f82bbe5fd665",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Aaron Goldberg",
+            "TrackTitle": "En la orilla del mundo",
+            "TrackComposer": "Jaime Sabines, Ricardo Arjona",
+            "MBID": "d7d613c7-483e-481d-865c-6e7477484738",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Mal Momento",
+            "TrackTitle": "Vuelve primavera",
+            "TrackComposer": "Tomatito",
+            "MBID": "fe77ca35-2717-4602-ac97-b947307183e1",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "El Agujetas",
+            "TrackTitle": "Fandangos de Cepero y Manuel Torre",
+            "TrackComposer": "Tradicional",
+            "MBID": "9de08e7e-d027-4283-873a-3c048abf4502",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Yves Paquelier",
+            "TrackTitle": "La vida Poveda",
+            "TrackComposer": "Antonio Machado, Joan Manuel Serrat",
+            "MBID": "2d8e99f7-85fb-4a01-8b40-b6b812ff8156",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Rafael Buend\u00eda",
+            "TrackTitle": "Los invitados (El maridillo)",
+            "TrackComposer": "Kiko Veneno",
+            "MBID": "8bee4502-016c-428f-9372-3c52f8fbe6a8",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "La Dame Blanche",
+            "TrackTitle": "A La Verita Tuya (Shang\u00f3 Remix)",
+            "TrackComposer": "Rafael de Le\u00f3n, Antonio Quintero, Manuel Quiroga",
+            "MBID": "b56bc238-811b-4626-a6db-d96180ff4bae",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Marina Heredia",
+            "TrackTitle": "Me duele, me duele",
+            "TrackComposer": "Marina Heredia",
+            "MBID": "381e02f7-b278-4a1e-9cb7-8b5f68248a15",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Camar\u00f3n",
+            "TrackTitle": "Nana del caballo grande (Nana)",
+            "TrackComposer": "Federico Garc\u00eda Lorca",
+            "MBID": "0a572f17-98d3-4d05-af04-9d07ce4d1e41",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Vinicio Capossela",
+            "TrackTitle": "Canci\u00f3n de las simples cosas",
+            "TrackComposer": "C\u00e9sar Isella, Armando Tejada G\u00f3mez",
+            "MBID": "c3217bce-f243-435f-8851-79568756be40",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Guillermo Pesoa",
+            "TrackTitle": "El \u00e1rbol de los cuentos",
+            "TrackComposer": "Pepe Habichuela",
+            "MBID": "00ccee91-e044-4f49-b56c-86e212c6f7d3",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Yarea",
+            "TrackTitle": "Las Esquinas",
+            "TrackComposer": "Antonio Carmona",
+            "MBID": "c3991598-f9e5-4039-8315-0dc08d2c7b23",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "David DeMar\u00eda",
+            "TrackTitle": "Caminos de ida y vuelta",
+            "TrackComposer": "Antonio Rey",
+            "MBID": "3b45c8e6-8436-4cc5-9f0c-aff25feda279",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Chico & Rita New York Band & Orchestra",
+            "TrackTitle": "Lily (con Estrella Morente)",
+            "TrackComposer": "Enrique Morente (lyrics), Vicente Amigo (music)",
+            "MBID": "5f95a18a-55b6-4d21-bb02-85bf4070ec56",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Rafael Riqueni",
+            "TrackTitle": "Herencia",
+            "TrackComposer": "Rafael Riqueni",
+            "MBID": "ad9e25a8-9944-4708-a1c2-0d671996661e",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Chewelche",
+            "TrackTitle": "A mi tata",
+            "TrackComposer": "Traditional",
+            "MBID": "0450ef38-8293-475a-8cc3-5ed645b45f33",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Icaro",
+            "TrackTitle": "El pez muere por la boca",
+            "TrackComposer": "Arc\u00e1ngel",
+            "MBID": "a694b7ae-86a5-4934-8765-192a0b622a20",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Los Planetas",
+            "TrackTitle": "Alegr\u00edas de Gran\u00e1",
+            "TrackComposer": "Traditional",
+            "MBID": "d6ceca88-ca50-4e12-a3f8-4fc6dc429c3d",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Tojo Instrumental",
+            "TrackTitle": "Ya no me quieres",
+            "TrackComposer": "Traditional",
+            "MBID": "fcac9218-fbdf-4bfb-8d5d-7099f7fea626",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Ash Reiter",
+            "TrackTitle": "La Bahia",
+            "TrackComposer": "Traditional",
+            "MBID": "a9c9dac4-624a-4534-b5a5-16335ddbab47",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Benny Sadel",
+            "TrackTitle": "Yo te daba amor",
+            "TrackComposer": "Traditional",
+            "MBID": "dc58e715-2fcd-4c04-8d9e-53c074501330",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Tommy Olivencia feat. Lalo Rodr\u00edguez",
+            "TrackTitle": "Vengo del monte",
+            "TrackComposer": "Jeromo Segura",
+            "MBID": "bfde79b7-0937-49f8-b53f-a8e605a25655",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Dark Polo Gang",
+            "TrackTitle": "Toro bravo",
+            "TrackComposer": "Israel Fern\u00e1ndez",
+            "MBID": "98666571-d5fe-43df-bed4-cd9a731a2180",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Ana Gabriel",
+            "TrackTitle": "Que te vaya bonito",
+            "TrackComposer": "Kiki Morente",
+            "MBID": "a64f7e28-7912-46d5-a648-7f8eb7744621",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "4hands",
+            "TrackTitle": "Alba calma",
+            "TrackComposer": "Alba Carmona",
+            "MBID": "d553f985-3fea-44bd-bf5f-6ce1b5593df8",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "The New Raemon",
+            "TrackTitle": "Un posible final (feat. Roc\u00edo M\u00e1rquez)",
+            "TrackComposer": "Roc\u00edo M\u00e1rquez",
+            "MBID": "6111682f-9869-459b-9ac8-e505e4246d59",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Ni\u00f1o de Elche",
+            "TrackTitle": "Narraci\u00f3n de Ni\u00f1o de Elche",
+            "TrackComposer": "Ni\u00f1o de Elche",
+            "MBID": "cc247ec6-95a5-4703-8ead-a8bcc6e8641d",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Jonna Torres",
+            "TrackTitle": "El sello",
+            "TrackComposer": "Gualberto Garc\u00eda",
+            "MBID": "bf82542d-3e34-4421-a874-b7c19466c7af",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Les Fr\u00e8res Guiss\u00e9",
+            "TrackTitle": "Mi Dani",
+            "TrackComposer": "Dani de Mor\u00f3n",
+            "MBID": "268a9ab2-8756-4680-9c4e-d39e183f9022",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Fernando de la Morena",
+            "TrackTitle": "Los gitanos y los pastores",
+            "TrackComposer": "Ricardo Pach\u00f3n",
+            "MBID": "373dfef2-bb72-4c31-b89d-0b73c72d4294",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Paolo Conte",
+            "TrackTitle": "La zarzamora",
+            "TrackComposer": "Rafael de Le\u00f3n, Antonio Quintero, Manuel Quiroga",
+            "MBID": "524be562-a8cf-4119-826c-31873abfb3dd",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Banda el Recodo",
+            "TrackTitle": "El ni\u00f1o perdido",
+            "TrackComposer": "Traditional",
+            "MBID": "86a6d915-1865-4d59-8219-5049499025cd",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "El Pele",
+            "TrackTitle": "Vengo del Moro",
+            "TrackComposer": "Diego Carrasco",
+            "MBID": "59ca2d8f-4f27-4de1-8d58-e4a2a66ff71b",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Los Hermanos Cubero",
+            "TrackTitle": "El aire",
+            "TrackComposer": "Juan Pe\u00f1a 'El Lebrijano'",
+            "MBID": "f24715e3-9a1e-4637-b47f-5f561da52cbf",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "La Paquera de Jerez",
+            "TrackTitle": "Fandangos de la Paquera de Jerez [Fandangos]",
+            "TrackComposer": "Traditional",
+            "MBID": "5ef756f2-6baa-4232-826e-e69762217ccb",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Terremoto de Jerez",
+            "TrackTitle": "Al de la puerta real",
+            "TrackComposer": "Traditional",
+            "MBID": "1c4a21c7-1c78-499a-8330-7c253407775d",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Chambao",
+            "TrackTitle": "Ah\u00ed est\u00e1s t\u00fa",
+            "TrackComposer": "Mar\u00eda del Mar Rodr\u00edguez Carnero 'La Mari'",
+            "MBID": "899f9e99-1503-4119-aa6f-edff17da3ed5",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Jacobo Ramos",
+            "TrackTitle": "Tu me amas",
+            "TrackComposer": "Ni\u00f1a Pastori, Chaboli",
+            "MBID": "06134ed8-9800-4545-baab-99d79a00eeb6",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Antonio Carmona",
+            "TrackTitle": "Vengo venenoso",
+            "TrackComposer": "Antonio Carmona, Javier Lim\u00f3n",
+            "MBID": "95b4bfc4-4241-44a0-963a-b992c93466b6",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Los Chunguitos",
+            "TrackTitle": "\u00a1Ay! Que pena",
+            "TrackComposer": "Los Chunguitos",
+            "MBID": "425749d7-28a5-437c-9263-8ef4a13859d1",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Los Chichos",
+            "TrackTitle": "Son ilusiones",
+            "TrackComposer": "Juan Antonio Jim\u00e9nez Mu\u00f1oz",
+            "MBID": "fe4e67a1-b9ee-4e7f-ba17-96df2ecfafef",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Bambino",
+            "TrackTitle": "Procuro olvidarte",
+            "TrackComposer": "Manuel Alejandro, Ana Magdalena",
+            "MBID": "6ff99343-3a81-4929-b94a-fa586314df6a",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Raimundo Amador",
+            "TrackTitle": "Pata palo",
+            "TrackComposer": "Raimundo Amador",
+            "MBID": "13775dab-9b47-443c-b0a6-30b9f6fc5449",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Raimundo Amador",
+            "TrackTitle": "Ay! Qu\u00e9 gustito pa' mis orejas",
+            "TrackComposer": "Raimundo Amador",
+            "MBID": "9af6e622-0813-4e5f-9c5b-0eb92fb33fda",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Pablo Cebri\u00e1n & Ismael Guijarro",
+            "TrackTitle": "Gades",
+            "TrackComposer": "Jos\u00e9 Luis Figuereo Franco 'El Barrio'",
+            "MBID": "5e9e8d2f-ba4f-4049-a910-c1046ae213fb",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Ojos de Brujo",
+            "TrackTitle": "Sultanas de Merkaillo",
+            "TrackComposer": "Ojos de Brujo",
+            "MBID": "aa9257d0-eef8-4c5b-8c69-1c9db956bc2b",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Bebe",
+            "TrackTitle": "Malo Malo",
+            "TrackComposer": "Bebe",
+            "MBID": "0e5df0ce-57b6-4a68-a1f2-f9fc213ecf0c",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Rosana",
+            "TrackTitle": "El talism\u00e1n",
+            "TrackComposer": "Rosana Arbelo",
+            "MBID": "0c20e6df-b585-413e-8968-5530b7d58b0e",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "David Bisbal",
+            "TrackTitle": "Buler\u00eda",
+            "TrackComposer": "David Bisbal, Kike Santander",
+            "MBID": "4b1dcab6-13a2-457b-bcec-ab550c40afe3",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Manu Chao",
+            "TrackTitle": "Me gustas tu",
+            "TrackComposer": "Manu Chao",
+            "MBID": "746f6d9f-e728-4437-bb9e-5ff01da4cb9f",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Mystic Changos",
+            "TrackTitle": "Soy un perro",
+            "TrackComposer": "Chico Oca\u00f1a",
+            "MBID": "048e2497-f997-4319-81e7-4f5adc6a8d78",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Carlos Montoya",
+            "TrackTitle": "Zambra",
+            "TrackComposer": "Duquende",
+            "MBID": "3d791aff-8bff-4272-bb94-87fcf3eb3acb",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Peret",
+            "TrackTitle": "Borriquito",
+            "TrackComposer": "Peret",
+            "MBID": "4872a70e-853c-4b14-a97a-f09be3a22615",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Pastora Soler",
+            "TrackTitle": "Luna nueva",
+            "TrackComposer": "Tomatito",
+            "MBID": "3c1080d7-fddc-4939-9fd0-ab62d6c184f5",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Estrella Morente",
+            "TrackTitle": "Calle del aire",
+            "TrackComposer": "Estrella Morente, Ni\u00f1o Josele",
+            "MBID": "a7fce54e-eaee-406b-a0ec-cca23d7b70b4",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "La Argentinita feat. Federico Garc\u00eda Lorca",
+            "TrackTitle": "En el caf\u00e9 de chinitas",
+            "TrackComposer": "Federico Garc\u00eda Lorca (lyrics), traditional (music)",
+            "MBID": "9e217275-4d58-4375-8733-61f30c6593a2",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Dantesco",
+            "TrackTitle": "Intro: Tiempo de calma",
+            "TrackComposer": "Dorantes",
+            "MBID": "0e5d32bc-efc4-48ef-a84d-f139868cbf6a",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Jos\u00e9 Mar\u00eda Gallardo, Rafael Riqueni",
+            "TrackTitle": "Suite Sevilla: Cuaderno 4 \"Realidad\": Esplante",
+            "TrackComposer": "Rafael Riqueni",
+            "MBID": "8d9d54d5-9efc-4ab2-8203-dd19effc7617",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Pepe Habichuela",
+            "TrackTitle": "Habichuela en Rama (Buler\u00edas)",
+            "TrackComposer": "Pepe Habichuela",
+            "MBID": "e23953cb-3007-4331-a0d9-025230fd26b0",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Tr\u00edo Los Jaibos con Guitarras y Ritmos",
+            "TrackTitle": "Por querer y querer",
+            "TrackComposer": "Traditional",
+            "MBID": "cdc1c634-be4b-4462-be79-67e3544f6b2c",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Rosario",
+            "TrackTitle": "Mi gato",
+            "TrackComposer": "Marina Heredia",
+            "MBID": "3bde03c1-1377-4681-96da-23f2ee281767",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "EYSA",
+            "TrackTitle": "Por buler\u00edas",
+            "TrackComposer": "Mayte Mart\u00edn",
+            "MBID": "741d82cf-584b-48f3-bacc-db6b6b3be623",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Juan Carlos Baglietto, Alejandro Dolina",
+            "TrackTitle": "El encuentro",
+            "TrackComposer": "Juan Pe\u00f1a 'El Lebrijano'",
+            "MBID": "fc738b86-ae3d-4d14-b7cd-fff4f0585126",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Paco de Luc\u00eda",
+            "TrackTitle": "Aires de Linares",
+            "TrackComposer": "Paco de Luc\u00eda",
+            "MBID": "8990cc7a-58dc-44bf-9c28-166af949b88d",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Gritos De Histeria",
+            "TrackTitle": "Sue\u00f1o En Mi Sue\u00f1o",
+            "TrackComposer": "Estrella Morente, Ni\u00f1o Josele",
+            "MBID": "726078db-6e35-43c3-b417-6083da3d8b4b",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Conjunto \u00c1frica",
+            "TrackTitle": "El camaronero",
+            "TrackComposer": "Jos\u00e9 Merc\u00e9, Vicente Amigo",
+            "MBID": "368aa601-2455-4b13-9bc2-6f55e6b23272",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Paco de Luc\u00eda",
+            "TrackTitle": "T\u00edo sabas",
+            "TrackComposer": "Paco de Luc\u00eda",
+            "MBID": "3d5154d4-546e-43a1-8085-e7c1f868a942",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Camar\u00f3n de la Isla",
+            "TrackTitle": "Camar\u00f3n en montilla (buler\u00edas)",
+            "TrackComposer": "Jos\u00e9 Monge Cruz 'Camar\u00f3n de la Isla'",
+            "MBID": "610a8099-429d-4eba-9bf9-6305de64d0c3",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "El Jilguero del Huascar\u00e1n",
+            "TrackTitle": "Al comp\u00e1s de mi guitarra",
+            "TrackComposer": "Moraito Chico",
+            "MBID": "cad4d2a6-d208-482a-889d-de99de957c84",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Gipsy Kings",
+            "TrackTitle": "Ritmo de la noche",
+            "TrackComposer": "Gipsy Kings",
+            "MBID": "e0306f4c-3fa2-48c9-8fd2-fd897b467ed2",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Tomatito",
+            "TrackTitle": "Ca\u00f1ailla (alegr\u00edas)",
+            "TrackComposer": "Traditional",
+            "MBID": "2c8f01ff-7025-497b-849f-0a8cadcb1fa7",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Ni\u00f1a Pastori",
+            "TrackTitle": "Cartita de amor",
+            "TrackComposer": "Ni\u00f1a Pastori, Chaboli",
+            "MBID": "328ab44f-2037-4867-90d6-328162334a58",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Chambao",
+            "TrackTitle": "Chambao",
+            "TrackComposer": "Mar\u00eda del Mar Rodr\u00edguez Carnero 'La Mari'",
+            "MBID": "16705166-94ed-4cfd-b299-d078b61ac4ad",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Intocable",
+            "TrackTitle": "Por un beso",
+            "TrackComposer": "Rosario Flores",
+            "MBID": "f228f44a-2969-430b-b466-8a9ea873006d",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Los Chichos",
+            "TrackTitle": "Mujer cruel",
+            "TrackComposer": "Juan Antonio Jim\u00e9nez Mu\u00f1oz",
+            "MBID": "42be878f-4a15-4592-823b-49efb4264c0a",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Las Grecas",
+            "TrackTitle": "Achilip\u00fa",
+            "TrackComposer": "Felipe Campuzano, Jose Luis de la Osa",
+            "MBID": "91d9b221-1f2c-448d-9218-187b058369e9",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Los Yimbola Combo",
+            "TrackTitle": "Una l\u00e1grima cayo en la arena",
+            "TrackComposer": "Peret",
+            "MBID": "44e0e5fc-f36e-4fd0-be02-c1bf0d8ca501",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Peret",
+            "TrackTitle": "Gitana hechicera",
+            "TrackComposer": "Peret",
+            "MBID": "d70e5090-3773-49ea-9f27-1c46409696c4",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Juana Molina y Alejandro Franov",
+            "TrackTitle": "La m\u00e1s grande",
+            "TrackComposer": "Antonio Flores",
+            "MBID": "a09d8554-c438-432c-baec-e0d8afd377ab",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Raimundo Amador",
+            "TrackTitle": "Blues de la frontera (live)",
+            "TrackComposer": "Raimundo Amador",
+            "MBID": "aa6c9b78-d23a-4dbf-a950-abd5302d2d73",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Carmela Montes",
+            "TrackTitle": "Las cuatro esquinas",
+            "TrackComposer": "Chico Oca\u00f1a",
+            "MBID": "ededcfbd-db70-4379-b918-5143c5505cb1",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Radio Futura",
+            "TrackTitle": "Escuela de calor",
+            "TrackComposer": "Radio Futura",
+            "MBID": "fc7a0b5a-a393-4b73-9944-8dda01fa037c",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Summer Factory",
+            "TrackTitle": "Las Migas",
+            "TrackComposer": "Marta Robles, Alicia Grillo",
+            "MBID": "e87418c3-c457-4304-8513-246d79880a4f",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Benedetti & Svoboda",
+            "TrackTitle": "Gitanita",
+            "TrackComposer": "Traditional",
+            "MBID": "774ec031-7ed8-4ded-b2a9-f08a7e12061e",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Miki N\u00fa\u00f1ez",
+            "TrackTitle": "De ida y vuelta",
+            "TrackComposer": "Arc\u00e1ngel",
+            "MBID": "38fd3821-fb58-4677-9306-c416eeaae543",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Manuel Carrasco",
+            "TrackTitle": "Qui\u00e9reme",
+            "TrackComposer": "Manuel Carrasco",
+            "MBID": "112098c9-461b-442e-960b-23f48c4ee194",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "J Balvin",
+            "TrackTitle": "Lo que Dios quiera",
+            "TrackComposer": "Ni\u00f1a Pastori, Chaboli",
+            "MBID": "a1087108-069f-452d-9e1b-b7aba87b4a61",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Jyve V",
+            "TrackTitle": "No Me Digas Que No",
+            "TrackComposer": "Miguel Poveda",
+            "MBID": "4fb803a8-b076-488f-8a5f-4bf7618cd46b",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Camar\u00f3n de la Isla",
+            "TrackTitle": "Gitana te quiero",
+            "TrackComposer": "Antonio Flores",
+            "MBID": "9b10fb36-2c72-4f62-9023-827148d52267",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Jos\u00e9 Capmany",
+            "TrackTitle": "La bella durmiente",
+            "TrackComposer": "Raimundo Amador, Rafael Amador",
+            "MBID": "7513e58e-0860-45f4-a1f6-67ef98d81ce9",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "[unknown]",
+            "TrackTitle": "Pel\u00e9 (\u00c9l Rey)",
+            "TrackComposer": "El Pele",
+            "MBID": "037e016c-031d-42f3-af81-6c3e32122edf",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Ni\u00f1a Pastori",
+            "TrackTitle": "Ave Mar\u00eda",
+            "TrackComposer": "Ni\u00f1a Pastori, Chaboli",
+            "MBID": "2c173679-6a34-472e-afb1-f158d4c4ec0a",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "El Gran Combo de Puerto Rico",
+            "TrackTitle": "Por ah\u00ed, por ah\u00ed, por ah\u00ed",
+            "TrackComposer": "Ketama",
+            "MBID": "3cff101b-0c29-4296-8b21-c0c7e446555b",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Ketama",
+            "TrackTitle": "Mi\u00e9nteme",
+            "TrackComposer": "Ketama",
+            "MBID": "5cb58383-be6d-4489-8284-3430b82de50e",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Chambao",
+            "TrackTitle": "Pokito A Poko (David Ferrero Housepark Sing Remix)",
+            "TrackComposer": "Mar\u00eda del Mar Rodr\u00edguez Carnero 'La Mari'",
+            "MBID": "5c61105a-2d2d-4e65-925b-77f40d643774",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Rosario",
+            "TrackTitle": "Al son del tambor",
+            "TrackComposer": "Rosario Flores",
+            "MBID": "6ff41202-13a5-41f2-9492-503e86f69a9a",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Antonio Carmona",
+            "TrackTitle": "Para que tu no llores",
+            "TrackComposer": "Antonio Carmona",
+            "MBID": "c9baae6b-c2da-41f4-821b-267b9701b314",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Los Chunguitos",
+            "TrackTitle": "Soy un perro callejero",
+            "TrackComposer": "Los Chunguitos",
+            "MBID": "de007cb1-1c4d-44c8-bb63-894354552a97",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Los Chichos",
+            "TrackTitle": "Amor de Compra Y Venta",
+            "TrackComposer": "Juan Antonio Jim\u00e9nez Mu\u00f1oz",
+            "MBID": "6b396dbf-4dd8-4282-8861-cf1658d40a48",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Las Grecas",
+            "TrackTitle": "Anabalina",
+            "TrackComposer": "Jose Luis de la Osa, Felipe Campuzano",
+            "MBID": "1027b72f-7661-478d-8437-effe1be78674",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Peret",
+            "TrackTitle": "Canta y s\u00e9 feliz",
+            "TrackComposer": "Peret",
+            "MBID": "bcbff1e0-3ecb-4da2-b9f2-07409ed4ae90",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Peret",
+            "TrackTitle": "El muerto vivo",
+            "TrackComposer": "Guillermo Rodriguez Fiffe",
+            "MBID": "f4a546a3-ddd5-44c9-aeb3-df09588f3f12",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "David DeMar\u00eda",
+            "TrackTitle": "Lo que pudo ser",
+            "TrackComposer": "Manuel Alejandro",
+            "MBID": "ad059e73-630f-4733-9236-53993c201b4c",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Mocedades",
+            "TrackTitle": "Un poco de amor",
+            "TrackComposer": "Raimundo Amador",
+            "MBID": "f2757c17-e3be-4ca1-97cb-fb5ccaf8f0c8",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Parrita",
+            "TrackTitle": "Me marcho",
+            "TrackComposer": "Jos\u00e9 Luis Figuereo Franco 'El Barrio'",
+            "MBID": "2a2643c0-a4f3-4937-b217-e3c2cf968497",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Fito & Fitipaldis",
+            "TrackTitle": "La casa por el tejado",
+            "TrackComposer": "Kiko Veneno",
+            "MBID": "2b8d232e-ae0d-4a34-a25c-cb4d182c20f0",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Tito Puente y su Orquesta",
+            "TrackTitle": "Si te contara",
+            "TrackComposer": "Chico Oca\u00f1a",
+            "MBID": "ed39694f-f816-4000-8577-865b0126b8f6",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Banda el Recodo",
+            "TrackTitle": "Una pura y dos con sal",
+            "TrackComposer": "Navajita Plate\u00e1",
+            "MBID": "7cd66d64-c655-4e6f-a82e-919e090ba9cc",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Alma Chillout",
+            "TrackTitle": "La alegr\u00eda de vivir",
+            "TrackComposer": "Marta Robles, Carolina La O",
+            "MBID": "700523ee-4e93-4ac6-8c25-6b8c69a62ea3",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Califato \u00be",
+            "TrackTitle": "Buler\u00ed\u00e2 del aire acondi\u00e7ionao",
+            "TrackComposer": "Traditional",
+            "MBID": "bfba16e0-193e-4abc-8842-cc40e31389f1",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Javi Cantero con Los Chichos",
+            "TrackTitle": "El amor es una droga",
+            "TrackComposer": "Arc\u00e1ngel",
+            "MBID": "2a0a0079-d8bd-4eeb-8b67-f2fee9848912",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Agustin Pantoja",
+            "TrackTitle": "Que Bonita Que Es Mi Ni\u00f1a",
+            "TrackComposer": "Traditional",
+            "MBID": "4f69a09d-b802-4490-a456-00dc62d26d6b",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "David Calzado & La Charanga Habanera",
+            "TrackTitle": "No estamos locos",
+            "TrackComposer": "Ketama",
+            "MBID": "d67ad531-a2d5-4488-a2a4-7f0c4454a67a",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "The O-Zone",
+            "TrackTitle": "El Fuente",
+            "TrackComposer": "El Pele",
+            "MBID": "e815b060-feca-4f08-b2c3-211e649edb72",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "La Paquera de Jerez",
+            "TrackTitle": "Romance de Juan Osuna",
+            "TrackComposer": "Lole Montoya, Manuel Molina",
+            "MBID": "57b82ed9-7939-4333-85e5-063b3b24ff41",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Los del R\u00edo",
+            "TrackTitle": "Macarena",
+            "TrackComposer": "Antonio Romero, Rafael Ruiz",
+            "MBID": "764174bf-9e11-482a-ad1e-463059fffb4c",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Estopa",
+            "TrackTitle": "Como Camar\u00f3n",
+            "TrackComposer": "Estopa",
+            "MBID": "16fb2073-8f64-4025-a85c-45d1bc4ffe62",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Gipsy Kings",
+            "TrackTitle": "Sin ella",
+            "TrackComposer": "Gipsy Kings",
+            "MBID": "ac21529b-044b-4525-bea8-dfb546a59189",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Santiago Benavides, Na Morales & Jaison Neutra",
+            "TrackTitle": "Noche De Luna",
+            "TrackComposer": "Tomatito",
+            "MBID": "da811b45-0bed-449b-985d-cd068031a1b1",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Kolera",
+            "TrackTitle": "Pastori",
+            "TrackComposer": "Ni\u00f1a Pastori, Chaboli",
+            "MBID": "c4058bd6-ea9a-4ac5-bb02-2f552cdb5a6c",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Calle 13",
+            "TrackTitle": "Un beso de desayuno",
+            "TrackComposer": "Antonio Carmona, Josemi Carmona",
+            "MBID": "6427d769-8b9e-4c99-9c1b-944db090c2e0",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Chambao",
+            "TrackTitle": "No te pierdas",
+            "TrackComposer": "Mar\u00eda del Mar Rodr\u00edguez Carnero 'La Mari'",
+            "MBID": "8a1eaebd-2fd8-4022-b793-ab5198466ee5",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Cord\u00e3o do Boitat\u00e1",
+            "TrackTitle": "Marcha das flores",
+            "TrackComposer": "Rosario Flores",
+            "MBID": "68275618-6b21-47fc-baeb-2426fc6114bf",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Antonio Carmona",
+            "TrackTitle": "Gitana t\u00fa",
+            "TrackComposer": "Antonio Carmona",
+            "MBID": "19ead420-cc5c-4a69-a244-7e451d1ef7fd",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Mar\u00eda Conchita Alonso",
+            "TrackTitle": "Dame un poquito de tu amor",
+            "TrackComposer": "Los Chunguitos",
+            "MBID": "fe6a5b86-88c7-443f-bdba-288b11921309",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Los Chichos",
+            "TrackTitle": "La historia de Juan Castillo",
+            "TrackComposer": "Juan Antonio Jim\u00e9nez Mu\u00f1oz",
+            "MBID": "a7d887f4-7ab0-473c-a2af-b3f9f06e590e",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Fuckaine",
+            "TrackTitle": "Grecas",
+            "TrackComposer": "Jose Luis de la Osa, Felipe Campuzano",
+            "MBID": "2c2f1e00-1e83-4755-9a4e-f72f9fcc224f",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Peret",
+            "TrackTitle": "El garrotin",
+            "TrackComposer": "Peret",
+            "MBID": "3aab1257-1573-45bb-a2b5-85750ccd6cca",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Miles de Alba\u00f1iles",
+            "TrackTitle": "Peret",
+            "TrackComposer": "Peret",
+            "MBID": "146202ef-a73d-484d-aa4d-800b3a0e174a",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Yamil el Player feat. Joan & Bola",
+            "TrackTitle": "Yo soy de la calle",
+            "TrackComposer": "Bambino",
+            "MBID": "6c0dd20d-8f7b-42f5-98de-573b4d084345",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Iv\u00e1n",
+            "TrackTitle": "Yo me quedo aqu\u00ed",
+            "TrackComposer": "Raimundo Amador",
+            "MBID": "0790ca0c-9c15-4cd3-9aec-533f09117902",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "El Barrio",
+            "TrackTitle": "La fuente del deseo",
+            "TrackComposer": "Jos\u00e9 Luis Figuereo Franco 'El Barrio'",
+            "MBID": "1110f5c5-0e04-4c3a-bb37-ea27067363f5",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Ojos de Brujo",
+            "TrackTitle": "Intro",
+            "TrackComposer": "Ojos de Brujo",
+            "MBID": "4950c4c3-d7ae-4c9e-aa68-627fcc8da1ab",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Strategas",
+            "TrackTitle": "Aqu\u00ed no hay quien viva",
+            "TrackComposer": "Chico Oca\u00f1a",
+            "MBID": "0302c488-fb85-4f0b-92a5-05ace626d418",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Navajita Plate\u00e1",
+            "TrackTitle": "Se termin\u00f3",
+            "TrackComposer": "Navajita Plate\u00e1",
+            "MBID": "6e4cd641-a551-49b9-a2c8-c803bb770fed",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "La Barber\u00eda del Sur",
+            "TrackTitle": "Serenata a Lolita",
+            "TrackComposer": "Enrique Heredia 'El Negri'",
+            "MBID": "04129ef3-2ae5-4125-afa7-4b245a44c53f",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Pedro Soler, Renaud Garcia\u2010Fons",
+            "TrackTitle": "Barrio de Santiago",
+            "TrackComposer": "Traditional",
+            "MBID": "1cec75ce-d8cb-4655-aea8-22f287f2ced1",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "La Mono",
+            "TrackTitle": "Hereje",
+            "TrackComposer": "Ketama",
+            "MBID": "83109c0f-f502-45bf-a099-5bc7948ddb99",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Memo Lugo",
+            "TrackTitle": "Y yo que te quiero",
+            "TrackComposer": "El Pele",
+            "MBID": "e4fbf29d-7816-426f-a1b7-9b09dcccdafb",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Los del R\u00edo",
+            "TrackTitle": "Sevilla tiene un color especial",
+            "TrackComposer": "Rafael Ruiz, Antonio Romero",
+            "MBID": "73f028f1-fd95-4b8e-90c3-198939a09fbe",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Estopa",
+            "TrackTitle": "Pastillas de freno",
+            "TrackComposer": "Estopa",
+            "MBID": "7ff2e6fc-dcc7-48c0-a300-626ff3b18132",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Paco de Luc\u00eda",
+            "TrackTitle": "Gitanos Andaluces",
+            "TrackComposer": "Paco de Luc\u00eda",
+            "MBID": "8938ae5a-5d73-42d9-865d-41dc187cb963",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Carlos Leresche",
+            "TrackTitle": "Guitarra Flamenca",
+            "TrackComposer": "Tomatito",
+            "MBID": "db457d42-82a9-404f-965b-4681681bb532",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Dante Lucero",
+            "TrackTitle": "Quino",
+            "TrackComposer": "Ketama",
+            "MBID": "b294aa18-0ee4-47e8-8d53-c024442b764e",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Diego el Cigala",
+            "TrackTitle": "En esta tarde gris",
+            "TrackComposer": "Jos\u00e9 Mar\u00eda Contursi, Jos\u00e9 Dames",
+            "MBID": "42d4e5bb-18dd-41ea-99a2-ba66c1df020a",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Serrat",
+            "TrackTitle": "Romance de Curro \u00abEl Palmo\u00bb",
+            "TrackComposer": "Enrique Morente, Traditional",
+            "MBID": "ab36e3dd-2892-48d2-8433-76a1c224b301",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Pedro de Dios & Antonio Fernandez",
+            "TrackTitle": "La Zambra",
+            "TrackComposer": "Traditional",
+            "MBID": "80461fbc-6442-40eb-90b9-57a52b8e5698",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Los Golden Boys",
+            "TrackTitle": "Que Miguel",
+            "TrackComposer": "Miguel Poveda",
+            "MBID": "c435e781-6e3e-4055-853e-05777efcaeb8",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "El Yunke",
+            "TrackTitle": "Fandangos del Carbonerillo",
+            "TrackComposer": "Traditional",
+            "MBID": "ffaecac6-77c8-45e6-9c7a-7b51945b6091",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Antonio Mairena",
+            "TrackTitle": "... por Sole\u00e1 (Sole\u00e1)",
+            "TrackComposer": "Arc\u00e1ngel",
+            "MBID": "02a7422d-0b7b-4706-929d-76eb33adeaf7",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Banda el Recodo",
+            "TrackTitle": "La gitanilla",
+            "TrackComposer": "Traditional",
+            "MBID": "da1cffc9-8165-419e-b6d0-9fd0c1a9375d",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Abigail",
+            "TrackTitle": "Aquella noche",
+            "TrackComposer": "Mayte Mart\u00edn",
+            "MBID": "b7c316a5-ec86-488b-bc55-230b5b8e3802",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Rubalcaba & Luis Frank Arias",
+            "TrackTitle": "A mi padre",
+            "TrackComposer": "Rancapino Chico",
+            "MBID": "8770e89f-8b75-4df3-b67c-597b1e56c6aa",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Os 3 do Nordeste",
+            "TrackTitle": "Segura Segura",
+            "TrackComposer": "Jeromo Segura",
+            "MBID": "39f68c26-ac37-497e-ba7d-39f673bb1da2",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Sentime Dominga",
+            "TrackTitle": "Fern\u00e1ndez",
+            "TrackComposer": "Israel Fern\u00e1ndez",
+            "MBID": "3371cd09-62f3-4d8d-b42d-a2f949b59ac8",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "La K'onga",
+            "TrackTitle": "El mismo aire",
+            "TrackComposer": "Kiki Morente",
+            "MBID": "c2cd266a-cf5a-4f1f-8501-a1a4a23335be",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Gustavo Toker & Juan Pablo Dobal",
+            "TrackTitle": "De Mis Amores",
+            "TrackComposer": "Alba Carmona",
+            "MBID": "33e735c5-9a34-42e2-a788-618e8d757abe",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Dora Libia",
+            "TrackTitle": "Que Venga Lo Que Venga",
+            "TrackComposer": "Roc\u00edo M\u00e1rquez",
+            "MBID": "75fedf63-e3eb-4a78-be0a-865967b37c33",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Aerol\u00edneas Federales",
+            "TrackTitle": "Gualberto",
+            "TrackComposer": "Gualberto Garc\u00eda",
+            "MBID": "1b57fdcf-cec4-4fbe-bdf6-1dc530cbad8a",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Guano Padano",
+            "TrackTitle": "Del Rey",
+            "TrackComposer": "Antonio Rey",
+            "MBID": "f64a7d16-3858-44ac-a092-f96476cde420",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Encarna Anillo & Jos\u00e9 Anillo",
+            "TrackTitle": "Tangos de los Peines (tangos)",
+            "TrackComposer": "Ricardo Pach\u00f3n",
+            "MBID": "60a8d573-489f-4996-900d-a4524038b92f",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Maxi Baratas",
+            "TrackTitle": "Amanecer En El Sacromonte",
+            "TrackComposer": "Ca\u00f1izares",
+            "MBID": "5ca76109-2e2a-4c55-90e0-9a684ce52bba",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Ana Crism\u00e1n Arpa Flamenca",
+            "TrackTitle": "Alegr\u00eda de Girasoles (feat. La Macanita)",
+            "TrackComposer": "Traditional",
+            "MBID": "cb8cf12a-522c-4988-8af8-b9c0b82445b0",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Culto Oculto",
+            "TrackTitle": "Palo Seco",
+            "TrackComposer": "Diego Carrasco",
+            "MBID": "222138bc-0a9c-4b6c-a517-ce0b5d27ae73",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Victor Kolstee",
+            "TrackTitle": "Tocaor",
+            "TrackComposer": "Juan Pe\u00f1a 'El Lebrijano'",
+            "MBID": "a9a3da10-9732-43b2-8a48-74aecf65356d",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Terremoto de Jerez",
+            "TrackTitle": "Siempre Estoy So\u00f1ando (Seguiriyas)",
+            "TrackComposer": "Traditional",
+            "MBID": "242505f2-2b92-4da2-8d55-ca5084c9cdaa",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
         }
     ]
 }
