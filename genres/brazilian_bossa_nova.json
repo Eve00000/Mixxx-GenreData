@@ -4,8 +4,8 @@
     "Focus": "artist",
     "RefreshRate": 28,
     "AppendMode": "append",
-    "Timestamp": "2026-05-07T13:58:23Z",
-    "TotalTracks": 463,
+    "Timestamp": "2026-06-04T18:15:05Z",
+    "TotalTracks": 771,
     "Tracks": [
         {
             "TrackArtist": "8-Bit Arcade",
@@ -3247,6 +3247,2162 @@
             "MBID": "dc205622-9609-4381-a918-12f9c0cec694",
             "Category": "Songs occuring most on playlists on soundcloud for this genre",
             "TrackComposer": ""
+        },
+        {
+            "TrackArtist": "Stan Getz & Jo\u00e3o Gilberto",
+            "TrackTitle": "Gar\u00f4ta de Ipanema (The Girl from Ipanema)",
+            "TrackComposer": "Ant\u00f4nio Carlos Jobim, Vinicius de Moraes",
+            "MBID": "5dfca6e0-fdeb-4767-8bd1-128dca46b3cb",
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+        },
+        {
+            "TrackArtist": "Antonio Carlos Jobim",
+            "TrackTitle": "Corcovado (Quiet Nights of Quiet Stars)",
+            "TrackComposer": "Ant\u00f4nio Carlos Jobim",
+            "MBID": "4ecac464-2619-46e3-984d-99957600a781",
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+        },
+        {
+            "TrackArtist": "Astrud Gilberto",
+            "TrackTitle": "How Insensitive",
+            "TrackComposer": "Ant\u00f4nio Carlos Jobim, Vinicius de Moraes",
+            "MBID": "c822b309-4600-4f54-8e6a-da5ff033e627",
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+        },
+        {
+            "TrackArtist": "Stan Getz/Charlie Byrd",
+            "TrackTitle": "Samba de uma nota s\u00f3",
+            "TrackComposer": "Ant\u00f4nio Carlos Jobim, Newton Mendon\u00e7a",
+            "MBID": "1468ccef-d786-4ddb-b2ad-576a7e19dbde",
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+        },
+        {
+            "TrackArtist": "Antonio Carlos Jobim",
+            "TrackTitle": "Wave",
+            "TrackComposer": "Ant\u00f4nio Carlos Jobim",
+            "MBID": "88f136e8-66f8-4f7d-9453-59c766dd76f8",
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+        },
+        {
+            "TrackArtist": "Antonio Carlos Jobim",
+            "TrackTitle": "Triste",
+            "TrackComposer": "Ant\u00f4nio Carlos Jobim",
+            "MBID": "c15cad66-0d5a-433a-a4d6-ac851c9b291e",
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+        },
+        {
+            "TrackArtist": "Frank Sinatra & Ant\u00f4nio Carlos Jobim",
+            "TrackTitle": "Drinking Water (\u00c1gua de Beber)",
+            "TrackComposer": "Ant\u00f4nio Carlos Jobim, Vinicius de Moraes",
+            "MBID": "0a634d9a-f7e3-457a-bffe-21c0ff86e6fd",
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+        },
+        {
+            "TrackArtist": "Stan Getz & Jo\u00e3o Gilberto",
+            "TrackTitle": "O grande amor",
+            "TrackComposer": "Ant\u00f4nio Carlos Jobim, Vinicius de Moraes",
+            "MBID": "949839aa-3e68-4412-84da-3c0fa96a5979",
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+        },
+        {
+            "TrackArtist": "Marcos Valle",
+            "TrackTitle": "So Nice (Summer Samba)",
+            "TrackComposer": "Marcos Valle, Paulo S\u00e9rgio Valle",
+            "MBID": "2f0502e0-6131-4d02-bf7d-e9807043d170",
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+        },
+        {
+            "TrackArtist": "Antonio Carlos Jobim & Elis Regina",
+            "TrackTitle": "Fotografia",
+            "TrackComposer": "Ant\u00f4nio Carlos Jobim",
+            "MBID": "1eb07495-f159-4e6d-b611-ad3d3d657450",
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+        },
+        {
+            "TrackArtist": "Stacey Kent & Marcos Valle feat. Jim Tomlinson",
+            "TrackTitle": "Summer Samba (Samba de Ver\u00e3o)",
+            "TrackComposer": "Marcos Valle, Paulo S\u00e9rgio Valle",
+            "MBID": "58f7c77f-8e9e-45db-9c94-f5f9dd1d29a0",
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+        },
+        {
+            "TrackArtist": "Ant\u00f4nio Carlos Jobim",
+            "TrackTitle": "Meditation (Medita\u00e7\u00e3o) (Remastered)",
+            "TrackComposer": "Ant\u00f4nio Carlos Jobim, Newton Mendon\u00e7a",
+            "MBID": "0f696175-6dae-486b-a067-9000cdf8c315",
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+        },
+        {
+            "TrackArtist": "Edu Lobo & Maria Beth\u00e2nia",
+            "TrackTitle": "Pra dizer adeus",
+            "TrackComposer": "Edu Lobo, Torquato Neto",
+            "MBID": "99bfdffb-ebce-4ab1-942f-71f2324f5855",
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+        },
+        {
+            "TrackArtist": "Elis Regina",
+            "TrackTitle": "Upa, Neguinho",
+            "TrackComposer": "Edu Lobo, Gianfrancesco Guarnieri",
+            "MBID": "264e5205-7fb8-4f4d-873d-bbd878ceb8d9",
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+        },
+        {
+            "TrackArtist": "Antonio Carlos Jobim",
+            "TrackTitle": "Felicidade",
+            "TrackComposer": "Ant\u00f4nio Carlos Jobim, Vinicius de Moraes",
+            "MBID": "ec0d0131-5048-4db6-abcd-7740690190c4",
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+        },
+        {
+            "TrackArtist": "Jo\u00e3o Gilberto",
+            "TrackTitle": "\u00c9 preciso perdoar: \u00c9 Preciso Perdoar",
+            "TrackComposer": "Carlos Lyra, Alcir Prata",
+            "MBID": "561aeec9-49c0-4cf5-8130-1025c9251628",
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+        },
+        {
+            "TrackArtist": "Antonio Carlos Jobim",
+            "TrackTitle": "Vivo sonhando (Dreamer)",
+            "TrackComposer": "Ant\u00f4nio Carlos Jobim",
+            "MBID": "66b8de7c-9f36-41a0-b5e6-8c069b2ceb6c",
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+        },
+        {
+            "TrackArtist": "Vinicius de Moraes",
+            "TrackTitle": "Lamento no Morro",
+            "TrackComposer": "Ant\u00f4nio Carlos Jobim, Vinicius de Moraes",
+            "MBID": "cbedd410-71fc-4457-a734-fc53eb0babeb",
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+        },
+        {
+            "TrackArtist": "Nara Le\u00e3o",
+            "TrackTitle": "Voc\u00ea e eu",
+            "TrackComposer": "Carlos Lyra, Vinicius de Moraes",
+            "MBID": "09882f7c-0fcb-497c-933d-fda92213f2bf",
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+        },
+        {
+            "TrackArtist": "Simone",
+            "TrackTitle": "Samba pro Jo\u00e3o Gilberto",
+            "TrackComposer": "Carlos Lyra, Aloysio de Oliveira",
+            "MBID": "ce8ace30-e4d5-4373-80d8-405bd4e36c5d",
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+        },
+        {
+            "TrackArtist": "Antonio Carlos Jobim & Elis Regina",
+            "TrackTitle": "\u00c1guas de mar\u00e7o (Waters of March)",
+            "TrackComposer": "Ant\u00f4nio Carlos Jobim",
+            "MBID": "789e3c70-3a3b-4e29-9719-f88e9a363914",
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+        },
+        {
+            "TrackArtist": "Jo\u00e3o Gilberto",
+            "TrackTitle": "Brigas, nunca mais",
+            "TrackComposer": "Ant\u00f4nio Carlos Jobim, Vinicius de Moraes",
+            "MBID": "5e4325a3-d478-4948-bae3-5f196d1e3332",
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+        },
+        {
+            "TrackArtist": "Jo\u00e3o Gilberto",
+            "TrackTitle": "Coisa mais linda",
+            "TrackComposer": "Carlos Lyra, Vinicius de Moraes",
+            "MBID": "6f96e9ff-827d-4a03-ba1c-5ae833d6184c",
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+        },
+        {
+            "TrackArtist": "Antonio Carlos Jobim & Elis Regina",
+            "TrackTitle": "S\u00f3 tinha de ser com voc\u00ea",
+            "TrackComposer": "Ant\u00f4nio Carlos Jobim, Aloysio de Oliveira",
+            "MBID": "25e8d8f0-3c59-42ef-8eec-244a07a6bc86",
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+        },
+        {
+            "TrackArtist": "Sylvia Telles",
+            "TrackTitle": "Caminhos Cruzados",
+            "TrackComposer": "Ant\u00f4nio Carlos Jobim, Newton Mendon\u00e7a",
+            "MBID": "ad45d250-fb9c-418b-a28d-e7be9322228b",
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+        },
+        {
+            "TrackArtist": "Os Cariocas",
+            "TrackTitle": "Ela \u00e9 carioca",
+            "TrackComposer": "Ant\u00f4nio Carlos Jobim, Vinicius de Moraes",
+            "MBID": "a0b45520-b93f-4cf6-8898-bcdf887679fc",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Elis Regina",
+            "TrackTitle": "Aquarela Do Brasil",
+            "TrackComposer": "Ary Barroso",
+            "MBID": "3143b713-b4fb-4fce-a95f-6781f8d4e02f",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Leila Pinheiro & Roberto Menescal",
+            "TrackTitle": "Agarradinhos",
+            "TrackComposer": "Luis Carlos S\u00e1",
+            "MBID": "a1ff2073-b7bd-4b7a-9a9f-11ddd74ce654",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Quarteto Brasil",
+            "TrackTitle": "Bossa Nova U.S.A.",
+            "TrackComposer": "Paul Desmond",
+            "MBID": "a030eb08-1f78-4654-81ba-96888520be19",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Jair Rodrigues",
+            "TrackTitle": "Nair \u2013 & Jair Rodrigues",
+            "TrackComposer": "Jorge Ben Jor",
+            "MBID": "c9d789dc-aa67-43ab-97fb-e387d992cac6",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Jair Rodrigues",
+            "TrackTitle": "Berimbau \u2013 & Jair Rodrigues",
+            "TrackComposer": "Baden Powell, Paulo C\u00e9sar Pinheiro",
+            "MBID": "44c9439a-896a-45e8-a62e-ebd892cb3061",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Marcos Valle",
+            "TrackTitle": "Batucada surgiu (Batucada)",
+            "TrackComposer": "Marcos Valle, Paulo S\u00e9rgio Valle",
+            "MBID": "263f9b2a-35d0-4645-915f-79ecd7dbf64f",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Paul Mauriat",
+            "TrackTitle": "Ponteio (Lobo; Capinan)",
+            "TrackComposer": "Edu Lobo, Jos\u00e9 Carlos Capinan",
+            "MBID": "8cece14b-7075-40d9-a3c7-ae111596ca75",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Tito Madi",
+            "TrackTitle": "Balanco Zona Sul",
+            "TrackComposer": "Tito Madi",
+            "MBID": "3676d166-b2ce-4e7e-8def-f55b4ab0de67",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Maysa",
+            "TrackTitle": "Voc\u00ea",
+            "TrackComposer": "Roberto Menescal, Ronaldo B\u00f4scoli",
+            "MBID": "156daa0f-c34f-40a5-a6af-0f28e82287b4",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Maysa",
+            "TrackTitle": "Medita\u00e7\u00e3o",
+            "TrackComposer": "Ant\u00f4nio Carlos Jobim, Newton Mendon\u00e7a",
+            "MBID": "759d8cb8-cf7c-4670-9c6d-15c0058d7567",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Dori Caymmi",
+            "TrackTitle": "O Cantador",
+            "TrackComposer": "Dori Caymmi, Nelson Motta",
+            "MBID": "ae1d09f7-9997-49e4-90ed-20980a41a9be",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Baden Powell",
+            "TrackTitle": "Feitinha Pro Poeta",
+            "TrackComposer": "Toquinho, Vinicius de Moraes",
+            "MBID": "dc473876-f917-4d36-b5ac-7edcaac01412",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Chico Buarque",
+            "TrackTitle": "Samba de Orly",
+            "TrackComposer": "Chico Buarque, Toquinho, Vinicius de Moraes",
+            "MBID": "20759e9d-df96-4eaf-bd9b-e2be2e6e2151",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Walter Wanderley",
+            "TrackTitle": "The Crickets Sing for Anamaria",
+            "TrackComposer": "Marcos Valle, Paulo S\u00e9rgio Valle",
+            "MBID": "e6bcb574-6275-49cc-b1cf-9bbe9ed95e49",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Jo\u00e3o Donato & Paulo Moura",
+            "TrackTitle": "Copacabana",
+            "TrackComposer": "Jo\u00e3o Donato",
+            "MBID": "f7f95273-c62b-41ed-b9fc-0618ef1bfb51",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Dave Pike",
+            "TrackTitle": "Serenade Jo\u00e3o Donato",
+            "TrackComposer": "Jo\u00e3o Donato",
+            "MBID": "c827d1ba-84e7-4731-aaff-1711e67cadb5",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Tunari",
+            "TrackTitle": "Que ser\u00e1, que ser\u00e1",
+            "TrackComposer": "Chico Buarque",
+            "MBID": "b41baadc-8ad1-44f6-a975-928b9641b849",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "T\u00falio Mour\u00e3o",
+            "TrackTitle": "Valsa de Sete Punhais",
+            "TrackComposer": "Bola Sete",
+            "MBID": "bcb9c683-b178-4e57-8ebb-ad347ab8d495",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Chico Buarque",
+            "TrackTitle": "Sonho De Um Carnaval",
+            "TrackComposer": "Chico Buarque",
+            "MBID": "7d86ef3a-9ea3-42c1-836d-7e2e9e082bf9",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Paul Winter Consort",
+            "TrackTitle": "Canta Canta Mais",
+            "TrackComposer": "Joyce, Maur\u00edcio Maestro",
+            "MBID": "c85858ea-283d-44af-9c7a-4254ecce0553",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Dorival Caymmi",
+            "TrackTitle": "Saudade da Bahia",
+            "TrackComposer": "Dorival Caymmi",
+            "MBID": "ffade97e-a063-4d57-a763-aca795b55759",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Geraldo Vandr\u00e9",
+            "TrackTitle": "Pra n\u00e3o dizer que n\u00e3o falei das flores (Caminhando)",
+            "TrackComposer": "Geraldo Vandr\u00e9",
+            "MBID": "dbbe77fa-8370-4a1e-bd20-e206ff89e540",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Tom Jobim",
+            "TrackTitle": "O Morro N\u00e3o Tem Vez",
+            "TrackComposer": "Ant\u00f4nio Carlos Jobim, Vinicius de Moraes",
+            "MBID": "19aac343-92bd-4e3c-ae77-84e2a7a9b7fc",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Joyce & Toninho Horta",
+            "TrackTitle": "Vivo sonhando",
+            "TrackComposer": "Ant\u00f4nio Carlos Jobim",
+            "MBID": "c442a131-1ecc-4e69-bc9c-adc7dafd25ce",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Carlos Lyra",
+            "TrackTitle": "Maria Ningu\u00e9m",
+            "TrackComposer": "Carlos Lyra",
+            "MBID": "381a38bc-ac83-466b-a7c5-b9303baa874f",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Bob Dylan",
+            "TrackTitle": "Elis Regina",
+            "TrackComposer": "Ant\u00f4nio Carlos Jobim",
+            "MBID": "3301712d-8a64-4eb6-b38b-c61f891e830f",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Elizeth Cardoso",
+            "TrackTitle": "Can\u00e7\u00e3o do Amor Demais",
+            "TrackComposer": "Ant\u00f4nio Carlos Jobim, Vinicius de Moraes",
+            "MBID": "c9a5604e-19a0-4bea-ab8a-1a1b20221db7",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Alex North",
+            "TrackTitle": "Lalo Schifrin",
+            "TrackComposer": "Eumir Deodato, Paulo S\u00e9rgio Valle",
+            "MBID": "43e17799-7a0b-44c2-af56-deef06827140",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Roberto Menescal e seu Conjunto",
+            "TrackTitle": "Influ\u00eancia do jazz",
+            "TrackComposer": "Roberto Menescal",
+            "MBID": "ec6d8cac-cce5-4173-94a0-80363286d8fd",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Walter Wanderley",
+            "TrackTitle": "Chove chuva",
+            "TrackComposer": "Durval Ferreira, Pedro Camargo",
+            "MBID": "626da02c-aa8c-47a4-9089-9b0cfd6bb243",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "MPB4",
+            "TrackTitle": "Samba do avi\u00e3o",
+            "TrackComposer": "Ant\u00f4nio Carlos Jobim",
+            "MBID": "bcb5d368-0fc9-4326-933b-6a45cf4984de",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Djavan",
+            "TrackTitle": "Meu bem querer",
+            "TrackComposer": "Djavan",
+            "MBID": "cb28ab34-7bb4-4290-b44d-52431faeb8aa",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Monte Zion",
+            "TrackTitle": "Voz do Le\u00e3o",
+            "TrackComposer": "Z\u00e9 K\u00e9ti",
+            "MBID": "29e28aa5-6de1-49b3-9160-7edb49a8d161",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Gilberto Gil",
+            "TrackTitle": "Roda",
+            "TrackComposer": "Gilberto Gil",
+            "MBID": "6c594930-bd77-4c9a-8a9a-31c615f16b17",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Paulo Braga",
+            "TrackTitle": "Arrasta A Sand\u00e1lia",
+            "TrackComposer": "Roberto Menescal, Chico Feitosa",
+            "MBID": "3c13ff99-c0c7-43c2-a395-82e707a8a20c",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Baden Powell",
+            "TrackTitle": "Consola\u00e7\u00e3o",
+            "TrackComposer": "Baden Powell, Vinicius de Moraes",
+            "MBID": "7dc8b6c9-567f-4764-8231-9f9875b8174e",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Ela \u00e9 Carioca",
+            "TrackTitle": "Sergio Mendes e Bossa Rio",
+            "TrackComposer": "Luiz Bonf\u00e1",
+            "MBID": "8612ff72-c4f8-469f-a8f8-043893afb6ca",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Benito di Paula",
+            "TrackTitle": "Dom Salvador",
+            "TrackComposer": "Dom Salvador",
+            "MBID": "cc1d4d0a-f754-4655-a1e0-023bab358f33",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Walter Wanderley",
+            "TrackTitle": "O ganso",
+            "TrackComposer": "Luiz Bonf\u00e1, Jos\u00e9 de Oliveira",
+            "MBID": "f35e74cd-fd00-4f22-b7c2-def0c9c9d127",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Eduardo Gudin & Noticias dum Brasil",
+            "TrackTitle": "Jongo Trio",
+            "TrackComposer": "Jadir de Castro",
+            "MBID": "397a0994-54eb-4494-8c79-9e75bfc8d0a9",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Cape & Nico F\u00f6rster",
+            "TrackTitle": "Bebeto",
+            "TrackComposer": "Bebeto",
+            "MBID": "e5eb547b-ce23-4cec-87a7-0363cd566d18",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Evinha",
+            "TrackTitle": "Tema de ad\u00e3o",
+            "TrackComposer": "Luiz E\u00e7a",
+            "MBID": "82d8be38-a4ce-460d-91e2-a54b21ad6479",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Eumir Deodato",
+            "TrackTitle": "Raz\u00e3o de viver (A Little Tear)",
+            "TrackComposer": "Eumir Deodato, Paulo S\u00e9rgio Valle",
+            "MBID": "e0b51cf9-fc59-46b2-a2ed-8536b22ee2a3",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "BossaCucaNova feat. Zuco 103",
+            "TrackTitle": "Samba da minha terra",
+            "TrackComposer": "Dorival Caymmi",
+            "MBID": "c92b89af-2038-4884-a1bd-89abdaebf75a",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Jo\u00e3o Donato",
+            "TrackTitle": "Nana das Aguas",
+            "TrackComposer": "Jo\u00e3o Donato",
+            "MBID": "c4fa7543-9222-4f6a-91cb-44a1d75f42d1",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Nara Le\u00e3o",
+            "TrackTitle": "Vento De Maio",
+            "TrackComposer": "Eumir Deodato, Luiz E\u00e7a",
+            "MBID": "90b5efd9-3849-4293-a5de-a395a3c1d871",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Ol\u00edvia Hime",
+            "TrackTitle": "O fio da meada",
+            "TrackComposer": "Toninho Horta",
+            "MBID": "18856c70-69b2-45a0-8004-a5ee31cdcdda",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Tamba Trio",
+            "TrackTitle": "Ela \u00e9 carioca",
+            "TrackComposer": "Ant\u00f4nio Carlos Jobim, Vinicius de Moraes",
+            "MBID": "896fd7e7-38c2-46c3-b1c4-9f85359677dd",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Caio Mesquita",
+            "TrackTitle": "Samba De Verao",
+            "TrackComposer": "Marcos Valle, Paulo S\u00e9rgio Valle",
+            "MBID": "ee07e5ca-a99b-4e64-9502-db9f44873c98",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Azymuth",
+            "TrackTitle": "Batucada Em Marte",
+            "TrackComposer": "Jos\u00e9 Roberto Bertrami",
+            "MBID": "d35abcc3-8a24-4268-9dd1-7c23290d05f4",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Nonato Buzar",
+            "TrackTitle": "Pelo Amor de Deus",
+            "TrackComposer": "Durval Ferreira, Maur\u00edcio Einhorn",
+            "MBID": "57b0b372-8aca-46f7-956f-a95789285a54",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Silvio Anastacio",
+            "TrackTitle": "Deixa Pra L\u00e1",
+            "TrackComposer": "Alberto Paz, Ed Lincoln",
+            "MBID": "68506157-f658-4674-84f6-2306356589ec",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Pedro Caldeira Cabral",
+            "TrackTitle": "Tema c/ varia\u00e7\u00f5es",
+            "TrackComposer": "Rosinha de Valen\u00e7a",
+            "MBID": "67eaab3d-9b04-410d-982c-fe2fef892ef5",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Roberto Menescal e seu Conjunto",
+            "TrackTitle": "Quem quiser encontrar o amor",
+            "TrackComposer": "Carlos Lyra, Geraldo Vandr\u00e9",
+            "MBID": "4578e033-8906-43c4-8b97-86565d40cf37",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Nouvelle Cuisine",
+            "TrackTitle": "Se \u00e9 tarde, me perdoa",
+            "TrackComposer": "Carlos Lyra, Ronaldo B\u00f4scoli",
+            "MBID": "c3183157-b891-469f-b6b4-0b1c2087994e",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Charlie Brown Jr.",
+            "TrackTitle": "Quebra-mar",
+            "TrackComposer": "Arthur Verocai",
+            "MBID": "2f62156b-0e64-40e7-afbb-e730024dcb75",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Marcos Valle",
+            "TrackTitle": "Crickets Sing For Anamaria",
+            "TrackComposer": "Marcos Valle, Paulo S\u00e9rgio Valle",
+            "MBID": "19233e78-e63b-42f5-9f8c-e15e286fff96",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Walter Wanderley",
+            "TrackTitle": "Summer Samba (So Nice) (single version)",
+            "TrackComposer": "Walter Wanderley",
+            "MBID": "5c4e26ae-bc0d-45a2-b010-141692ae9de5",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Ithamara Koorax",
+            "TrackTitle": "Summer Samba (Samba de Ver\u00e3o)",
+            "TrackComposer": "Marcos Valle, Paulo S\u00e9rgio Valle",
+            "MBID": "c57d2fe9-0e57-4794-94f8-388571c162af",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Geraldo Pereira",
+            "TrackTitle": "Falsa baiana",
+            "TrackComposer": "Geraldo Azevedo",
+            "MBID": "8445607e-ce25-4a9f-a7d9-a23b07d34724",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "D\u00f3ris Monteiro",
+            "TrackTitle": "Ao amigo Tom",
+            "TrackComposer": "Luiz E\u00e7a",
+            "MBID": "5e3ed20f-892e-41f0-8852-c814fb24ca7d",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Wilson Simoninha",
+            "TrackTitle": "Vinheta Wilson Simonal",
+            "TrackComposer": "Jorge Ben Jor",
+            "MBID": "3c52905c-1233-450e-ae1e-e727c821e95a",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Jo\u00e3o Donato",
+            "TrackTitle": "A Paz",
+            "TrackComposer": "Jo\u00e3o Donato",
+            "MBID": "b191c11e-52e6-4218-bbdf-696e281c4f3c",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Juku Ares",
+            "TrackTitle": "Chico Buarque",
+            "TrackComposer": "Chico Buarque, Jos\u00e9 Carlos Capinan",
+            "MBID": "cb57a171-d6d8-459b-a844-b2397346092c",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Alcymar Monteiro",
+            "TrackTitle": "Mo\u00e7a Menina Mo\u00e7a",
+            "TrackComposer": "Luiz E\u00e7a",
+            "MBID": "231fcdd8-73ee-490e-a184-8393c1d1edc5",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "S\u00e9rgio Mendes & Brasil '65",
+            "TrackTitle": "Caminho de casa",
+            "TrackComposer": "Eumir Deodato",
+            "MBID": "e64e5d85-4ca9-476a-8f03-9d073b42a6d4",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "S\u00e9rgio Mendes & Bossa Rio",
+            "TrackTitle": "Ela \u00e9 carioca",
+            "TrackComposer": "Ant\u00f4nio Carlos Jobim, Vinicius de Moraes",
+            "MBID": "d060758b-76d2-4028-9e3b-4ebd449a5f54",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Leo Gandelman",
+            "TrackTitle": "Na Baixa do Sapateiro",
+            "TrackComposer": "Ary Barroso",
+            "MBID": "da3c5496-c7da-4d78-8c40-50646706fbf0",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Timbalada",
+            "TrackTitle": "Saci",
+            "TrackComposer": "Hermeto Pascoal",
+            "MBID": "d3a17882-f8e0-47f2-9fd7-b19b25644db6",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Bebel Gilberto",
+            "TrackTitle": "Deixa (Joyce Muniz Remix)",
+            "TrackComposer": "Baden Powell, Vinicius de Moraes",
+            "MBID": "212862d0-5094-4c47-9b05-0844fb3ff556",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Marcos Valle",
+            "TrackTitle": "Os grilos",
+            "TrackComposer": "Marcos Valle, Paulo S\u00e9rgio Valle",
+            "MBID": "4df16674-ff5a-44b5-ac27-9de15423154f",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Halim Talahari",
+            "TrackTitle": "Samba pra voc\u00e9",
+            "TrackComposer": "Jorge Ben Jor",
+            "MBID": "4cdff1c9-c94c-4e39-b1d6-a5eb1615fcfe",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Jorge Ben Jor & Toquinho",
+            "TrackTitle": "Que maravilha",
+            "TrackComposer": "Jorge Ben Jor, Toquinho",
+            "MBID": "0d7d3ecf-340d-40d8-a325-38095f827876",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Teresa del Pozo & Jos\u00e9 Luis Mont\u00f3n feat. Javier Ruibal",
+            "TrackTitle": "Nana de Carlos",
+            "TrackComposer": "Carlos Lyra",
+            "MBID": "30aa91d3-5d29-4edc-83a3-33f253ea889e",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Edmundo Ros",
+            "TrackTitle": "Rio Batucada",
+            "TrackComposer": "Ant\u00f4nio Adolfo",
+            "MBID": "4bff66e5-fe13-4809-8ee1-f4e348a4bfac",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Patricia Marx",
+            "TrackTitle": "Canta Brasil",
+            "TrackComposer": "Alcyr Pires Vermelho, David Nasser",
+            "MBID": "894fc183-b420-4aa7-8941-be8bb270d415",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Marcos Valle",
+            "TrackTitle": "Sonho de Maria",
+            "TrackComposer": "Jo\u00e3o Donato",
+            "MBID": "0d70acdf-aca9-4865-87b6-52436f3d2357",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Han\u00f3i-Han\u00f3i, Fausto Fawcett & Ivo Meirelles",
+            "TrackTitle": "H\u00e9lio",
+            "TrackComposer": "H\u00e9lio Celso",
+            "MBID": "9c59dc5b-12b2-4ccd-91bf-967cc77422c5",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "A Bossa El\u00e9trica",
+            "TrackTitle": "Brazuka",
+            "TrackComposer": "Antonio Adolfo",
+            "MBID": "37aad762-4829-4015-8f0f-15d532a58ccc",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Carlos Lyra",
+            "TrackTitle": "Chora Tua Tristeza",
+            "TrackComposer": "Luiz Bonf\u00e1, Vinicius de Moraes",
+            "MBID": "d108115e-ff3b-4a0b-985a-15a8d6068b81",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Vinicius de Moraes",
+            "TrackTitle": "Samba da B\u00ean\u00e7\u00e3o",
+            "TrackComposer": "Baden Powell, Vinicius de Moraes",
+            "MBID": "726c1c19-610e-468e-9e2f-d59fe3be5efc",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Marcos Valle",
+            "TrackTitle": "Nega Do Balaio",
+            "TrackComposer": "Marcos Valle, Paulo S\u00e9rgio Valle",
+            "MBID": "a73a877a-81dd-4717-9b94-18dd1444572a",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Jo\u00e3o Gilberto",
+            "TrackTitle": "Pra Machucar Meu Cora\u00e7\u00e3o",
+            "TrackComposer": "Ary Barroso",
+            "MBID": "9b1f115a-bf74-4d69-8acf-f664756a3a47",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "China",
+            "TrackTitle": "Can\u00e7\u00e3o que n\u00e3o morre no ar",
+            "TrackComposer": "Carlos Lyra, Ronaldo B\u00f4scoli",
+            "MBID": "6706471e-abcf-43bb-98a6-a30c165cce82",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Roberto Menescal",
+            "TrackTitle": "Vagamente",
+            "TrackComposer": "Roberto Menescal, Ronaldo B\u00f4scoli",
+            "MBID": "cdac7b98-bca2-410b-a14a-c8f85039fcef",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Leny Andrade",
+            "TrackTitle": "Estamos a\u00ed",
+            "TrackComposer": "Luiz Bonf\u00e1",
+            "MBID": "7a73d06d-d82a-4557-834e-03ab37227f37",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Ary Lobo",
+            "TrackTitle": "Tema de Amor",
+            "TrackComposer": "Carlos Lyra",
+            "MBID": "b468aa26-7e9e-4f21-a571-7c5f3b44d1a2",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Rosa Passos & Ron Carter",
+            "TrackTitle": "Feitio de ora\u00e7\u00e3o",
+            "TrackComposer": "Vadico, Noel Rosa",
+            "MBID": "d048f9c5-131d-4236-b6c8-955163bdefcb",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Dave Pike",
+            "TrackTitle": "Carnaval Samba Jo\u00e3o Donato",
+            "TrackComposer": "Jo\u00e3o Donato, Lysias \u00canio",
+            "MBID": "b8592feb-cec9-4fd2-ab8b-e20316f1ce8d",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Os seis em Ponto",
+            "TrackTitle": "O Menino Das Laranjas",
+            "TrackComposer": "Edu Lobo, Th\u00e9o de Barros",
+            "MBID": "c5c77eb9-e450-4104-984c-f328936668a1",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Mike Marshall & Choro Famoso",
+            "TrackTitle": "Choro Da Gafieira (Gafieira Choro)",
+            "TrackComposer": "Tito Madi",
+            "MBID": "cf47d57e-6ea1-4e04-8bde-e9c6bf2dbb0f",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Zeca Baleiro",
+            "TrackTitle": "Geraldo Vandr\u00e9",
+            "TrackComposer": "Geraldo Vandr\u00e9",
+            "MBID": "3312b87f-7c94-4577-88fb-e2f166d53b52",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Ala\u00edde Costa & Baden Powell",
+            "TrackTitle": "Samba de N\u00f3s Dois",
+            "TrackComposer": "Eumir Deodato, Paulo S\u00e9rgio Valle",
+            "MBID": "74a870c6-4ee6-4b4b-85d9-41a778e1860b",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Tamba Trio",
+            "TrackTitle": "Tristeza de n\u00f3s dois",
+            "TrackComposer": "Durval Ferreira, Maur\u00edcio Einhorn, Oct\u00e1vio de Moraes",
+            "MBID": "c120341a-ba5e-42be-ae58-9d5a1dbfbe96",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Bossa All Stars",
+            "TrackTitle": "Balada P'ra Luiz E\u00e7a",
+            "TrackComposer": "Luiz E\u00e7a",
+            "MBID": "6a248b3d-c1e8-463c-932e-5b74af8b504a",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Jo\u00e3o Gilberto",
+            "TrackTitle": "Um Abra\u00e7o no Bonf\u00e1",
+            "TrackComposer": "Jo\u00e3o Gilberto",
+            "MBID": "b34e817b-9c30-4a8a-83b4-223c27304088",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "S\u00e9rgio Mendes",
+            "TrackTitle": "O amor em paz",
+            "TrackComposer": "Ant\u00f4nio Carlos Jobim, Vinicius de Moraes",
+            "MBID": "3f598254-f782-4bcf-b2d1-f88f7affad42",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Walter Wanderley",
+            "TrackTitle": "Garota moderna",
+            "TrackComposer": "Marcos Valle, Paulo S\u00e9rgio Valle",
+            "MBID": "5f3a04a9-fa9c-41c2-8715-e28caeb903dc",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Degredo",
+            "TrackTitle": "O Caminho Do Lobo",
+            "TrackComposer": "Edu Lobo, Ruy Guerra",
+            "MBID": "832da6b1-4900-4f1b-bfbf-986467aa6ec6",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Carlos Lyra",
+            "TrackTitle": "Samba do carioca",
+            "TrackComposer": "Carlos Lyra, Vinicius de Moraes",
+            "MBID": "0f835469-21c7-433e-8809-6abe11ead6a1",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Ney & Nando",
+            "TrackTitle": "Saudade De Voc\u00ea",
+            "TrackComposer": "Carlos Lyra, Vinicius de Moraes",
+            "MBID": "006bb1b9-b985-4eb8-8e78-5c12b58e9872",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Kleber Lucas",
+            "TrackTitle": "Aos P\u00e9s Da Cruz",
+            "TrackComposer": "Marino Pinto, Z\u00e9 da Zilda",
+            "MBID": "edfec2c8-9e8e-4d86-898e-7463e5af7bc8",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Lisa Ono",
+            "TrackTitle": "Pela luz dos olhos teus",
+            "TrackComposer": "Vinicius de Moraes",
+            "MBID": "702216c4-f512-4ce5-8d93-004fb5f10b74",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Os Brasas",
+            "TrackTitle": "Tema sem nome",
+            "TrackComposer": "Luiz Bonf\u00e1",
+            "MBID": "2cec621a-b7dd-4912-b497-74f3d05d9803",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "S\u00e9rgio Mendes & Brasil \u201966",
+            "TrackTitle": "Can\u00e7\u00e3o do nosso amor",
+            "TrackComposer": "Johnny Alf",
+            "MBID": "97932251-e4e8-49e7-a69b-90ed57d761ba",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Rita Lee",
+            "TrackTitle": "Balada do louco",
+            "TrackComposer": "Luiz E\u00e7a",
+            "MBID": "341f24d8-016d-4133-a011-59b061784b4f",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Luiz Bonf\u00e1",
+            "TrackTitle": "Menina Flor",
+            "TrackComposer": "Carlos Lyra, Vinicius de Moraes",
+            "MBID": "bd3e41dd-4ce3-4452-a92c-fab86f97918e",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Toquinho & Vinicius de Moraes",
+            "TrackTitle": "Onde anda voc\u00ea",
+            "TrackComposer": "Vinicius de Moraes, Toquinho",
+            "MBID": "a07e1d71-e1ed-45f2-aac4-aa4f2c0c49e6",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Ant\u00f4nio Carlos Jobim",
+            "TrackTitle": "Passarim",
+            "TrackComposer": "Ant\u00f4nio Carlos Jobim",
+            "MBID": "1416dc57-be8e-4efc-98ca-d5f7a16b5d7a",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "[unknown]",
+            "TrackTitle": "Brasil: O' Barquinho",
+            "TrackComposer": "Roberto Menescal, Ronaldo B\u00f4scoli",
+            "MBID": "eaee19db-a6ea-4091-8e62-12043765af5c",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Marisa Gata Mansa",
+            "TrackTitle": "Eu S\u00f3 Queria Ser",
+            "TrackComposer": "Jorginho Barreto",
+            "MBID": "9516bbfb-6494-47a5-af77-1bde3dc39fc2",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Moc\u00e1bo",
+            "TrackTitle": "Canto de Ossanha",
+            "TrackComposer": "Baden Powell, Vinicius de Moraes",
+            "MBID": "6c62f90a-f1ad-47ba-85a8-10ea46904397",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Duke Pearson",
+            "TrackTitle": "Upa Neguinho",
+            "TrackComposer": "Edu Lobo, Gianfrancesco Guarnieri",
+            "MBID": "778f20c4-dcfc-42a9-8cdf-35be6b95139a",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Marion",
+            "TrackTitle": "Mas Que Nada - Jorge Ben Jor",
+            "TrackComposer": "Jorge Ben Jor",
+            "MBID": "8761eb74-c5e0-4d36-97d9-3b59dc98bc7b",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Marcos Valle",
+            "TrackTitle": "Samba de Ver\u00e3o - Marcos Valle",
+            "TrackComposer": "Marcos Valle, Paulo S\u00e9rgio Valle",
+            "MBID": "8661d6d1-5221-47e4-9f27-3a4c3686295a",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Moacir Santos",
+            "TrackTitle": "Coisa n\u00ba 2",
+            "TrackComposer": "Jo\u00e3o Donato, Caetano Veloso",
+            "MBID": "63993bcb-8436-45da-bf03-560af9bc7e66",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Nonato Luiz",
+            "TrackTitle": "Bai\u00e3o da Rua (feat. Geraldo Azevedo)",
+            "TrackComposer": "Jo\u00e3o Gilberto, Jayme Silva",
+            "MBID": "8a01cc4c-8291-4078-8f41-cabafdb20f35",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "The Uniques",
+            "TrackTitle": "Bossa Nova Cha Cha Cha",
+            "TrackComposer": "Lalo Schifrin",
+            "MBID": "c1c44ab2-c948-414e-bbf8-64d297a66a4c",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Carlinhos Felix",
+            "TrackTitle": "Raz\u00e3o de Viver",
+            "TrackComposer": "Eumir Deodato, Paulo S\u00e9rgio Valle",
+            "MBID": "2d707269-abfa-4c44-8de5-c620232a1e91",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Zimbo Trio",
+            "TrackTitle": "Balan\u00e7o Zona Sul",
+            "TrackComposer": "Tito Madi",
+            "MBID": "9b7da005-49cf-493e-80a5-e28a6cd3a7b6",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Lane Quinto",
+            "TrackTitle": "O samba da minha terra (Dorival Caymmi)",
+            "TrackComposer": "Dori Caymmi, Jorge Amado",
+            "MBID": "a17e050a-05cb-41ec-97c2-2aec75aae6bf",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Marcos Valle",
+            "TrackTitle": "Nova bossa nova (New Bossa)",
+            "TrackComposer": "Marcos Valle, Paulo S\u00e9rgio Valle",
+            "MBID": "c8e3825f-cc17-492d-a265-bfb7ec7c8e26",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "S\u00e9rgio Mendes",
+            "TrackTitle": "Oba-la-l\u00e1",
+            "TrackComposer": "Jo\u00e3o Gilberto",
+            "MBID": "efbcbe9a-51b2-4af9-887e-38b2e4abd879",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Osvaldinho da Cu\u00edca",
+            "TrackTitle": "Simples Batucada",
+            "TrackComposer": "Durval Ferreira",
+            "MBID": "bdc8fcac-1536-46f3-bc1e-289420702399",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Charles Holgate",
+            "TrackTitle": "Lively Samba",
+            "TrackComposer": "Marcos Valle, Paulo S\u00e9rgio Valle",
+            "MBID": "3dda7186-1ad4-4bbe-b819-ea7bdceac5f0",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Jorge Ben Jor",
+            "TrackTitle": "Que pena (Ela j\u00e1 n\u00e3o gosta mais de mim)",
+            "TrackComposer": "Jorge Ben Jor",
+            "MBID": "3fedbd13-4bc5-48eb-806f-9ec06c726514",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "\u6e21\u8fba\u8c9e\u592b",
+            "TrackTitle": "Eu E A Brisa",
+            "TrackComposer": "Johnny Alf",
+            "MBID": "5164a935-ad84-47e9-807e-5c808684a1b0",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Chico Buarque",
+            "TrackTitle": "bossa nova story - Chico Buarque Jobim - Sabia.aiff",
+            "TrackComposer": "Ant\u00f4nio Carlos Jobim, Chico Buarque",
+            "MBID": "e7b9683a-5d2b-4a95-b2b1-5e09979e429d",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Maui & Cristal",
+            "TrackTitle": "Seu Telefone",
+            "TrackComposer": "Roberto Menescal, Ronaldo B\u00f4scoli",
+            "MBID": "4b9619c5-4e32-4587-8323-8fd48dc330dc",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Gretchen Parlato",
+            "TrackTitle": "Ela \u00e9 Carioca",
+            "TrackComposer": "Ant\u00f4nio Carlos Jobim, Vinicius de Moraes",
+            "MBID": "e74fd259-dea5-401c-8f3b-b90c481baab2",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Joyce",
+            "TrackTitle": "Pelo telefone",
+            "TrackComposer": "Donga, Mauro Almeida",
+            "MBID": "b91165b2-4c80-4a13-957a-8a40eb7fdc0a",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Jane Monheit",
+            "TrackTitle": "Caminhos cruzados",
+            "TrackComposer": "Ant\u00f4nio Carlos Jobim, Newton Mendon\u00e7a",
+            "MBID": "d6590f0a-655e-4080-a506-68cbfef50dec",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Raghav",
+            "TrackTitle": "Quincy Jones",
+            "TrackComposer": "Paul Desmond",
+            "MBID": "2a1d0999-a920-4def-9d6f-e990b3ee4e51",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Tania Maria",
+            "TrackTitle": "\u00c1gua De Beber",
+            "TrackComposer": "Ant\u00f4nio Carlos Jobim, Vinicius de Moraes",
+            "MBID": "2dd3f0c6-cfe2-4245-88ae-334560cbcba8",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Astrud Gilberto",
+            "TrackTitle": "O morro n\u00e3o tem vez",
+            "TrackComposer": "Ant\u00f4nio Carlos Jobim, Vinicius de Moraes",
+            "MBID": "46b9a8ac-953f-4956-b904-3ce9bc62b9b9",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Nana Caymmi",
+            "TrackTitle": "Can\u00e7\u00e3o do Amor Demais",
+            "TrackComposer": "Ant\u00f4nio Carlos Jobim, Vinicius de Moraes",
+            "MBID": "9c90298b-5070-4a59-b628-6a0e082ac91c",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Maria Toledo",
+            "TrackTitle": "Saudade Vem Correndo",
+            "TrackComposer": "Durval Ferreira, Lu\u00eds Fernando Freire",
+            "MBID": "c980d8f2-613d-4448-ab49-ac4dfb91210b",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Vocal Divas",
+            "TrackTitle": "Desafinado",
+            "TrackComposer": "Ant\u00f4nio Carlos Jobim, Newton Mendon\u00e7a",
+            "MBID": "26740704-07e6-49e3-8fcd-128233f2eafd",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Tom Jobim",
+            "TrackTitle": "L\u00edgia",
+            "TrackComposer": "Ant\u00f4nio Carlos Jobim",
+            "MBID": "0b79a612-cbcd-45bc-a242-72e9ee08831e",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Vocal Band",
+            "TrackTitle": "Eu sei que vou te amar",
+            "TrackComposer": "Ant\u00f4nio Carlos Jobim, Vinicius de Moraes",
+            "MBID": "c5d034c2-f34d-4de8-8b71-bdba8a6c929a",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Duo Brasil: Corda & Vento & Ramiro Pinheiro",
+            "TrackTitle": "Voc\u00ea e Eu (Carlos Lyra & Vinicius de Moraes)",
+            "TrackComposer": "Carlos Lyra, Vinicius de Moraes",
+            "MBID": "c43319ed-829d-4f93-97c1-fb3d117680c0",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Spiderlegs",
+            "TrackTitle": "UNDERSTATED",
+            "TrackComposer": "Ant\u00f4nio Carlos Jobim, Vinicius de Moraes",
+            "MBID": "858d6976-f3c9-4e2f-b2b8-2746fd2b3de5",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Banda de Pau e Corda",
+            "TrackTitle": "O cantador",
+            "TrackComposer": "Dori Caymmi, Nelson Motta",
+            "MBID": "1d248c6b-f601-43db-8782-0cd6452ae197",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Jo\u00e3o Gilberto",
+            "TrackTitle": "Samba de uma nota s\u00f3",
+            "TrackComposer": "Ant\u00f4nio Carlos Jobim, Newton Mendon\u00e7a",
+            "MBID": "a1b00477-abdd-4cb0-8239-0e7337ad063c",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Sylvia Telles",
+            "TrackTitle": "Chora Tua Tristeza",
+            "TrackComposer": "Haroldinho Silva",
+            "MBID": "1a17e053-e830-4cd2-b643-c483e0b1ace3",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "CCCN Jazz Orchestra & Hendrik Meurkens",
+            "TrackTitle": "Brigas nunca mais",
+            "TrackComposer": "Ant\u00f4nio Carlos Jobim, Vinicius de Moraes",
+            "MBID": "f68c5ae2-84c4-4426-b5fd-dd351bbef36e",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Edu Lobo",
+            "TrackTitle": "Estrada branca",
+            "TrackComposer": "Ant\u00f4nio Carlos Jobim, Vinicius de Moraes",
+            "MBID": "afb0c965-e786-446b-a775-5f1b890c743a",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Brian Bromberg",
+            "TrackTitle": "Black Orpheus (Luiz Bonfa)",
+            "TrackComposer": "Luiz Bonf\u00e1, Ant\u00f4nio Maria",
+            "MBID": "98e36729-4727-418a-ba32-7d0a07b292c7",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Tom Jobim",
+            "TrackTitle": "Se Todos Fossem Iguais a Voc\u00ea",
+            "TrackComposer": "Ant\u00f4nio Carlos Jobim, Vinicius de Moraes",
+            "MBID": "cefc1f75-995b-4681-8a1f-edfe6b023069",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Luiz Bonf\u00e1",
+            "TrackTitle": "Concerto for Guitar",
+            "TrackComposer": "Luiz Bonf\u00e1",
+            "MBID": "8edf9afe-90ed-41f0-8244-ba0f484995ea",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Filipe Catto",
+            "TrackTitle": "Maysa",
+            "TrackComposer": "Roberto Menescal, Ronaldo B\u00f4scoli",
+            "MBID": "a6711977-be74-4392-86e2-f59aa72b01be",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Marissa",
+            "TrackTitle": "Saudade fez um samba",
+            "TrackComposer": "Carlos Lyra, Ronaldo B\u00f4scoli",
+            "MBID": "ddedf913-e320-4bf9-bca6-95980ab4b8c3",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Paulo Flores",
+            "TrackTitle": "Perto Do Fim",
+            "TrackComposer": "Marcos Valle, Paulo S\u00e9rgio Valle",
+            "MBID": "779718a6-ae0f-4d46-88f8-bc9b6262cf52",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Elizeth Cardoso e Cyro Monteiro",
+            "TrackTitle": "Pot-pourri: N\u00eaga do cabelo duro / Ando cheio de conversa / Cansei de pedir / Tahi / N\u00e3o quero mais / Se a saudade me apertar / Adeus batucada / Arrasta a sand\u00e1lia",
+            "TrackComposer": "Sinval Silva",
+            "MBID": "49c3921c-18d3-4dd6-8e34-37e7ba73a6d1",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Art Pepper feat. Breno Mello",
+            "TrackTitle": "Medley: Manhe de Carnaval /Scene Du Lever Du Soleil - Antonio Carlos Jobim & Luiz Bonfa",
+            "TrackComposer": "Luiz Bonf\u00e1, Ant\u00f4nio Maria",
+            "MBID": "d09a917f-23d5-4d39-97b1-ebabbaf31a5b",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Ant\u00f4nio Carlos Jobim",
+            "TrackTitle": "Garota de Ipanema Ant\u00f4nio Carlos Jobim",
+            "TrackComposer": "Ant\u00f4nio Carlos Jobim, Vinicius de Moraes",
+            "MBID": "ab6955ff-6e40-4733-8781-eff0381b23b8",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Rita Lee",
+            "TrackTitle": "Maria Ningu\u00e9m",
+            "TrackComposer": "Carlos Lyra",
+            "MBID": "c14383af-1ec2-453c-969d-d99a75a99310",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Astrud Gilberto",
+            "TrackTitle": "Meditation",
+            "TrackComposer": "Ant\u00f4nio Carlos Jobim, Newton Mendon\u00e7a",
+            "MBID": "fb300ad3-aa2d-46a3-a25b-6fa573f1034d",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Wanda S\u00e1",
+            "TrackTitle": "Vivo sonhando",
+            "TrackComposer": "Ant\u00f4nio Carlos Jobim",
+            "MBID": "59a9b6b3-ffdd-40f2-8517-9c0a8df48cd0",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Wanda S\u00e1 feat. S\u00e9rgio Mendes",
+            "TrackTitle": "Samba de ver\u00e3o",
+            "TrackComposer": "Marcos Valle, Paulo S\u00e9rgio Valle",
+            "MBID": "ad10c5b9-47ee-4542-8705-111f1741ae0d",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Tamba Trio",
+            "TrackTitle": "O barquinho",
+            "TrackComposer": "Roberto Menescal, Ronaldo B\u00f4scoli",
+            "MBID": "6213a6ad-0603-4e98-9bcc-284d70240b89",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Cascabulho",
+            "TrackTitle": "Vov\u00f3 Ala\u00edde",
+            "TrackComposer": "Baden Powell, Vinicius de Moraes",
+            "MBID": "3d27bb5a-3dca-44ba-8e8f-479444dc06b1",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Milton Banana Trio",
+            "TrackTitle": "chega de saudade, desafinado and corcovado",
+            "TrackComposer": "Ant\u00f4nio Carlos Jobim",
+            "MBID": "cf292ac3-37b0-4a53-bbf5-58f2c34c520c",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Astrud Gilberto",
+            "TrackTitle": "The Gentle Rain",
+            "TrackComposer": "Luiz Bonf\u00e1, Matt Dubey",
+            "MBID": "6cd00ddf-32f0-46fa-bed6-34b3bcde74ad",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Jo\u00e3o Gilberto",
+            "TrackTitle": "Caminhos cruzados",
+            "TrackComposer": "Ant\u00f4nio Carlos Jobim, Newton Mendon\u00e7a",
+            "MBID": "933dc546-5d0d-4528-900b-8e2496e0fd90",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Elis Regina",
+            "TrackTitle": "Inutil paisagem",
+            "TrackComposer": "Ant\u00f4nio Carlos Jobim, Aloysio de Oliveira",
+            "MBID": "dccf1487-6369-4f39-93f5-da465ae434f0",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Gilberto Gil",
+            "TrackTitle": "Preciso aprender a s\u00f3 ser",
+            "TrackComposer": "Marcos Valle, Paulo S\u00e9rgio Valle",
+            "MBID": "ac2709ae-e356-4fe2-8240-a4891701df4e",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Roberto Menescal",
+            "TrackTitle": "N\u00f3s E O Mar",
+            "TrackComposer": "Roberto Menescal, Ronaldo B\u00f4scoli",
+            "MBID": "6b39f227-22bc-4c6f-a312-45aff2ccbf83",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Carlos Lyra",
+            "TrackTitle": "Maria Moita",
+            "TrackComposer": "Carlos Lyra, Vinicius de Moraes",
+            "MBID": "31fe7bd6-ec62-45d0-8162-0a7e57c46320",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Luiz Bonf\u00e1",
+            "TrackTitle": "Saudade Vem Correndo",
+            "TrackComposer": "Luiz Bonf\u00e1, Maria Helena Toledo",
+            "MBID": "3b61ce6b-3103-4553-a3de-0e36c0b34544",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Marcos Valle",
+            "TrackTitle": "Viagem",
+            "TrackComposer": "Marcos Valle, Paulo S\u00e9rgio Valle",
+            "MBID": "74dba752-ac16-4fb5-9534-d7992ca0bbae",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Antonio Carlos Jobim",
+            "TrackTitle": "Triste",
+            "TrackComposer": "Ant\u00f4nio Carlos Jobim",
+            "MBID": "32ecd7cb-f57c-407a-9d7a-3f55d89b8271",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Jo\u00e3o Gilberto",
+            "TrackTitle": "Se \u00e9 tarde, me perdoa",
+            "TrackComposer": "Carlos Lyra, Ronaldo B\u00f4scoli",
+            "MBID": "09346b7e-3da4-4fb2-aae8-8ee3c700f005",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Roberto Menescal",
+            "TrackTitle": "A Volta",
+            "TrackComposer": "Roberto Menescal, Ronaldo B\u00f4scoli",
+            "MBID": "d22669c2-ec3c-4aec-bf0b-67db29bb1075",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Quarteto Maogani",
+            "TrackTitle": "O morro n\u00e3o tem vez",
+            "TrackComposer": "Ant\u00f4nio Carlos Jobim, Vinicius de Moraes",
+            "MBID": "36f4e3f0-ba1b-413d-9d33-436f4ece9d88",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Maysa",
+            "TrackTitle": "Bronzes e cristais",
+            "TrackComposer": "Luiz Bonf\u00e1",
+            "MBID": "ea7d4a77-8d86-4f47-b172-aa513cf16b9d",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Stan Getz, Jo\u00e3o Gilberto, Astrud Gilberto, AC Jobim",
+            "TrackTitle": "The Girl From Ipanema",
+            "TrackComposer": "Ant\u00f4nio Carlos Jobim, Vinicius de Moraes",
+            "MBID": "d6283465-cff0-4695-85bb-9d38f93220ec",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "S\u00e9rgio Mendes & Brasil \u201966",
+            "TrackTitle": "Mas que nada",
+            "TrackComposer": "Jorge Ben Jor",
+            "MBID": "06323324-4c28-481b-a048-3530ab2034f7",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Astrud Gilberto with Stan Getz",
+            "TrackTitle": "Corcovado (Quiet Nights of Quiet Stars)",
+            "TrackComposer": "Ant\u00f4nio Carlos Jobim",
+            "MBID": "b5571eb2-5b25-474e-87f2-8ac8bd6a052f",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Walter Wanderley",
+            "TrackTitle": "Call Me",
+            "TrackComposer": "Marcos Valle, Paulo S\u00e9rgio Valle",
+            "MBID": "9440298f-b42c-4a3e-bcd4-d953f37ca282",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Astrud Gilberto",
+            "TrackTitle": "One Note Samba",
+            "TrackComposer": "Ant\u00f4nio Carlos Jobim, Newton Mendon\u00e7a",
+            "MBID": "e138def9-d69c-4e7f-99bc-77cce78bcd28",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Ant\u00f4nio Carlos Jobim",
+            "TrackTitle": "One Note Samba",
+            "TrackComposer": "Ant\u00f4nio Carlos Jobim, Newton Mendon\u00e7a",
+            "MBID": "918ecd3e-cfea-47d3-9c15-62dc670210b4",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Stan Getz & Charlie Byrd",
+            "TrackTitle": "Samba de Uma Nota So",
+            "TrackComposer": "Ant\u00f4nio Carlos Jobim, Newton Mendon\u00e7a",
+            "MBID": "89dbd31a-a6c2-45f5-a627-f431be47e64b",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "S\u00e9rgio Mendes & Brasil \u201966",
+            "TrackTitle": "The Look of Love",
+            "TrackComposer": "Burt Bacharach, Hal David",
+            "MBID": "b637ef41-bc6b-42c1-9314-d224542748c7",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Jo\u00e3o Gilberto",
+            "TrackTitle": "O pato",
+            "TrackComposer": "Jayme Silva, Neuza Teixeira",
+            "MBID": "8bd354fe-3d7c-4448-9483-fad0ad3e6384",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Antonio Carlos Jobim",
+            "TrackTitle": "O Grande Amor",
+            "TrackComposer": "Ant\u00f4nio Carlos Jobim, Vinicius de Moraes",
+            "MBID": "ba6dc5f2-54f9-4dfd-9bef-f09c77905843",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Stan Getz & Jo\u00e3o Gilberto",
+            "TrackTitle": "S\u00f3 dan\u00e7o samba",
+            "TrackComposer": "Ant\u00f4nio Carlos Jobim, Vinicius de Moraes",
+            "MBID": "797e530b-69a5-48c5-8da5-cd33c2a62d91",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Antonio Carlos Jobim",
+            "TrackTitle": "Samba Do Aviao",
+            "TrackComposer": "Ant\u00f4nio Carlos Jobim",
+            "MBID": "88d68eac-b799-4ef1-9652-bfaca69f93a1",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Stan Getz & Jo\u00e3o Gilberto",
+            "TrackTitle": "Meditation",
+            "TrackComposer": "Ant\u00f4nio Carlos Jobim, Newton Mendon\u00e7a",
+            "MBID": "4c6612b5-c815-4585-997c-a43ecd091ca2",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Sergio Mendes & Brasil '66",
+            "TrackTitle": "Like a Lover",
+            "TrackComposer": "Dori Caymmi, Alan Bergman, Marilyn Bergman, Nelson Motta",
+            "MBID": "34443148-4328-4cd9-9cfd-8eab80d173ae",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Colin Hemmingsen",
+            "TrackTitle": "Gilberto Getz a Samba",
+            "TrackComposer": "Marcos Valle, Paulo S\u00e9rgio Valle",
+            "MBID": "7020877c-b215-4fc7-a201-ca531ae9bcda",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "S\u00e9rgio Mendes & Brasil \u201966",
+            "TrackTitle": "The Fool on the Hill",
+            "TrackComposer": "John Lennon, Paul McCartney",
+            "MBID": "bd5a1048-a374-4a1e-a9a6-02a6e3bd26b3",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Luiz Bonf\u00e1",
+            "TrackTitle": "Non-Stop to Brazil",
+            "TrackComposer": "Luiz Bonf\u00e1",
+            "MBID": "b7b182fc-c949-463d-88a4-e995309c3161",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Jo\u00e3o Gilberto & Astrud Gilberto",
+            "TrackTitle": "So danco samba",
+            "TrackComposer": "Ant\u00f4nio Carlos Jobim, Vinicius de Moraes",
+            "MBID": "a480265e-5e80-44fe-8f09-62e5fd6b5107",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "S\u00e9rgio Mendes & Brasil \u201966",
+            "TrackTitle": "The Joker",
+            "TrackComposer": "Leslie Bricusse",
+            "MBID": "1761a703-01fa-4c11-8ad8-9c87ab84c968",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "S\u00e9rgio Mendes",
+            "TrackTitle": "Ela \u00e9 carioca",
+            "TrackComposer": "Ant\u00f4nio Carlos Jobim, Vinicius de Moraes",
+            "MBID": "74996701-2c16-42fe-92b2-33dbf0f9300d",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "S\u00e9rgio Mendes & Brasil \u201966",
+            "TrackTitle": "Night and Day",
+            "TrackComposer": "Cole Porter",
+            "MBID": "4983df76-42a2-44c1-8626-de3936a02c2f",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Jo\u00e3o Gilberto",
+            "TrackTitle": "Ela E Carioca",
+            "TrackComposer": "Ant\u00f4nio Carlos Jobim, Vinicius de Moraes",
+            "MBID": "fb3a6644-2df2-4ec2-9f27-a24ea0e46582",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Antonio Carlos Jobim",
+            "TrackTitle": "Chega de saudade (instrumental)",
+            "TrackComposer": "Ant\u00f4nio Carlos Jobim, Vinicius de Moraes",
+            "MBID": "30db31d7-e814-4b7d-b710-913e9799079c",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Elis Regina & Tom Jobim",
+            "TrackTitle": "Retrato em Branco e Preto",
+            "TrackComposer": "Ant\u00f4nio Carlos Jobim, Chico Buarque",
+            "MBID": "01ed5c5a-edf1-473f-9f46-100f98796393",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Carlos Lyra",
+            "TrackTitle": "Lobo Bobo",
+            "TrackComposer": "Carlos Lyra, Ronaldo B\u00f4scoli",
+            "MBID": "bcd0ac63-be06-4a3d-a192-6e2ec8b06752",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Luiz Bonf\u00e1",
+            "TrackTitle": "Saudade vem correndo",
+            "TrackComposer": "Luiz Bonf\u00e1",
+            "MBID": "e7f3f23e-4e17-4261-96e4-861b96c141d1",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Sylvia Telles",
+            "TrackTitle": "Por causa de voc\u00ea",
+            "TrackComposer": "Ant\u00f4nio Carlos Jobim, Aloysio de Oliveira",
+            "MBID": "f6db72f5-f659-4388-8882-539fabdb8e0e",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Wanda S\u00e1",
+            "TrackTitle": "To Say Goodbye (Pra dizer adeus)",
+            "TrackComposer": "Edu Lobo, Torquato Neto",
+            "MBID": "95c82428-c4fd-44f7-8b54-ebf270e4e4b1",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Maria Creuza, Toquinho & Vinicius de Moraes",
+            "TrackTitle": "A felicidade",
+            "TrackComposer": "Ant\u00f4nio Carlos Jobim, Vinicius de Moraes",
+            "MBID": "3dbd42d2-1923-4759-88d6-3313e71c0bf5",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Chico C\u00e9sar",
+            "TrackTitle": "Onde estar\u00e1 o meu amor",
+            "TrackComposer": "L\u00facio Alves",
+            "MBID": "61c1408e-a66d-4932-aa91-47f405d69210",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Elza Soares",
+            "TrackTitle": "Se acaso voc\u00ea chegasse",
+            "TrackComposer": "Lupic\u00ednio Rodrigues, Felisberto Martins",
+            "MBID": "30233cc5-a122-4591-a108-be75146462bf",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Elis Regina & Toots Thielemans",
+            "TrackTitle": "Five for Elis",
+            "TrackComposer": "Ant\u00f4nio Carlos Jobim, Vinicius de Moraes",
+            "MBID": "aafebb3f-4f86-4f49-a46d-5b6881a9c799",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Astrud Gilberto",
+            "TrackTitle": "Agua de beber (Water to Drink)",
+            "TrackComposer": "Ant\u00f4nio Carlos Jobim, Vinicius de Moraes",
+            "MBID": "85205c46-6a91-4718-b312-12ed78fb61c2",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Ant\u00f4nio Carlos Jobim",
+            "TrackTitle": "Dreamer (Vivo Sonhando)",
+            "TrackComposer": "Ant\u00f4nio Carlos Jobim",
+            "MBID": "2bb777ae-a762-4e02-a265-5de06a6ad877",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Jo\u00e3o Neto & Frederico",
+            "TrackTitle": "Pra dizer adeus",
+            "TrackComposer": "Edu Lobo, Torquato Neto",
+            "MBID": "50c687a9-1aaa-4cce-af01-bb88f85b2711",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Memphis Slim",
+            "TrackTitle": "Bye Bye Bye Blues",
+            "TrackComposer": "Roberto Menescal, Ronaldo B\u00f4scoli",
+            "MBID": "e5f0a951-c98d-4a3d-bd13-a8c48f2c69ae",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Carlos Lyra",
+            "TrackTitle": "Voc\u00ea E Eu",
+            "TrackComposer": "Carlos Lyra, Vinicius de Moraes",
+            "MBID": "594d76cb-f6a3-4339-b149-5d3c98369801",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Baden Powell",
+            "TrackTitle": "Berimbau",
+            "TrackComposer": "Baden Powell, Vinicius de Moraes",
+            "MBID": "7ba8129d-15f1-437d-b5a0-145fb417f192",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Friends from Rio",
+            "TrackTitle": "Os Grilos (feat. Marcos Valle)",
+            "TrackComposer": "Marcos Valle, Paulo S\u00e9rgio Valle",
+            "MBID": "fa5d1270-97d2-4956-b925-16b0b96491b6",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Bossa 3",
+            "TrackTitle": "Samba de ver\u00e3o",
+            "TrackComposer": "Marcos Valle, Paulo S\u00e9rgio Valle",
+            "MBID": "636d2632-575f-4cdd-92c5-254224ab643d",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Elza Soares",
+            "TrackTitle": "Sambou sambou (Sambou\u2026 sambou)",
+            "TrackComposer": "Jo\u00e3o Donato, Carlos Alberto",
+            "MBID": "08d182e0-866b-495f-8756-efc2e7fc8452",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Toninho Nascimento",
+            "TrackTitle": "Tarde Em Itapu\u00e3",
+            "TrackComposer": "Toquinho, Vinicius de Moraes",
+            "MBID": "b31c40c7-c9a0-4b29-949f-8f69fb5b0040",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Ant\u00f4nio Carlos Jobim",
+            "TrackTitle": "Sabi\u00e1",
+            "TrackComposer": "Ant\u00f4nio Carlos Jobim, Chico Buarque",
+            "MBID": "013c909a-4223-471b-81ab-dea5c818c0ae",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Elis Regina",
+            "TrackTitle": "Fotografia",
+            "TrackComposer": "Ant\u00f4nio Carlos Jobim",
+            "MBID": "a34cd084-4cc7-445a-ba7c-bc40a87c1c14",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Nara Le\u00e3o",
+            "TrackTitle": "Berimbau",
+            "TrackComposer": "Baden Powell, Vinicius de Moraes",
+            "MBID": "367d4eac-0673-46fd-9258-eeaecbc6811c",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Nana Caymmi",
+            "TrackTitle": "Saudade de amar",
+            "TrackComposer": "Carlos Lyra, Ronaldo B\u00f4scoli",
+            "MBID": "0e7ab8bb-6de8-4e16-89d6-85ea350e98a6",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Caetano Veloso",
+            "TrackTitle": "Chega de Saudade",
+            "TrackComposer": "Ant\u00f4nio Carlos Jobim, Vinicius de Moraes",
+            "MBID": "e51e2d11-c313-4251-91b8-2e8d86559582",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Antonio Carlos Jobim",
+            "TrackTitle": "Garota de Ipanema (instrumental)",
+            "TrackComposer": "Ant\u00f4nio Carlos Jobim, Vinicius de Moraes",
+            "MBID": "ad43613b-0660-4314-98e3-575266e932bf",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Astrud Gilberto",
+            "TrackTitle": "corcovado (Quiet Nights)",
+            "TrackComposer": "Ant\u00f4nio Carlos Jobim",
+            "MBID": "d759c9c3-d641-4077-b7e5-b5474fa0de3c",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "The Charlie Byrd Quintet",
+            "TrackTitle": "Desafinado - The Stan Getz",
+            "TrackComposer": "Ant\u00f4nio Carlos Jobim, Newton Mendon\u00e7a",
+            "MBID": "caca0c66-3fca-4249-9ca3-55d81827cc47",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Paula Morelenbaum",
+            "TrackTitle": "\u00e1guas de mar\u00e7o",
+            "TrackComposer": "Ant\u00f4nio Carlos Jobim",
+            "MBID": "38197410-5058-4c44-a7ca-cc75c76c7a23",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "S\u00e9rgio Mendes & Brasil \u201966",
+            "TrackTitle": "Mas que nada (original Sergio Mendes & Brasil \u201966 version)",
+            "TrackComposer": "Jorge Ben Jor",
+            "MBID": "d50d5b45-8c7e-4bb3-896f-4e46d73cdd43",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Andrea Monarda",
+            "TrackTitle": "Manh\u00e3 de Carnaval (orig. by Luiz Bonf\u00e1)",
+            "TrackComposer": "Luiz Bonf\u00e1, Ant\u00f4nio Maria",
+            "MBID": "811ccfa0-412e-4b17-a023-de5ac4cdcce8",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "SOOKArag",
+            "TrackTitle": "Nara, nara",
+            "TrackComposer": "Roberto Menescal, Ronaldo B\u00f4scoli",
+            "MBID": "6569bf68-4a75-40eb-bb85-a862b90a1a53",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Jo\u00e3o Gilberto",
+            "TrackTitle": "Lobo bobo",
+            "TrackComposer": "Carlos Lyra, Ronaldo B\u00f4scoli",
+            "MBID": "2fef71dd-117b-4ed9-99c1-c654b63f356b",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Edu Lobo",
+            "TrackTitle": "Upa Neguinho",
+            "TrackComposer": "Edu Lobo, Gianfrancesco Guarnieri",
+            "MBID": "98d30941-182f-4872-99a1-87b4b5f2cf00",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Jo\u00e3o Donato",
+            "TrackTitle": "A R\u00e3 - Jo\u00e3o Donato",
+            "TrackComposer": "Jo\u00e3o Donato",
+            "MBID": "7dd2bc68-c0cd-4f1d-b13c-6227fc13417f",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Thiago Delegado Trio",
+            "TrackTitle": "Eu queria ser o Jo\u00e3o Gilberto",
+            "TrackComposer": "Jayme Silva, Neuza Teixeira",
+            "MBID": "9ec4c089-6099-4840-8f63-431dd3f9cbfa",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Oleg Kireyev",
+            "TrackTitle": "Wave (Antonio Carlos Jobim)",
+            "TrackComposer": "Ant\u00f4nio Carlos Jobim",
+            "MBID": "6c3464c3-4a9e-4970-a7eb-7fa507876780",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Peter Herbolzheimer Rhythm Combination & Brass",
+            "TrackTitle": "Pra Dizer Adeus",
+            "TrackComposer": "Edu Lobo, Torquato Neto",
+            "MBID": "f926c8da-1c93-4a94-a1b3-5e522f19b400",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "S\u00e9rgio Mendes & Brasil \u201966",
+            "TrackTitle": "Mais que nada (album version)",
+            "TrackComposer": "Burt Bacharach, Hal David",
+            "MBID": "bb21cf70-df9a-4d21-924e-9467d549c534",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Caterina Valente",
+            "TrackTitle": "Saudade vem correndo",
+            "TrackComposer": "Luiz Bonf\u00e1, Maria Helena Toledo",
+            "MBID": "b8e0495e-1563-4302-a218-06d60efc02d2",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Roberto Menescal e seu Conjunto",
+            "TrackTitle": "Preciso aprender a ser s\u00f3",
+            "TrackComposer": "Marcos Valle, Paulo S\u00e9rgio Valle",
+            "MBID": "6f6fc464-eb77-498a-8a0c-c2607a124c32",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Roberto Menescal e seu Conjunto",
+            "TrackTitle": "N\u00f3s e o mar",
+            "TrackComposer": "Roberto Menescal, Ronaldo B\u00f4scoli",
+            "MBID": "d51f23c0-6966-42d3-a462-313afc30b010",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Arnaldo Antunes",
+            "TrackTitle": "Lugar comum",
+            "TrackComposer": "Jo\u00e3o Donato, Gilberto Gil",
+            "MBID": "48dd9329-c8b4-48f6-b027-9f84c2913cd6",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Wanda S\u00e1",
+            "TrackTitle": "Desafinado (English Version)",
+            "TrackComposer": "Roberto Menescal, Ronaldo B\u00f4scoli",
+            "MBID": "06faac78-f79f-45b3-9c33-c7da2facf551",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Elliott Smith",
+            "TrackTitle": "Antonio Carlos Jobim",
+            "TrackComposer": "Ant\u00f4nio Carlos Jobim",
+            "MBID": "7114c3e0-ddde-4978-8caf-b8a3a9f48685",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Jo\u00e3o Gilberto",
+            "TrackTitle": "Este Seu Olhar (Live In San Francisco, 2003)",
+            "TrackComposer": "Ant\u00f4nio Carlos Jobim",
+            "MBID": "797d047c-43a2-4434-b5b8-422120ccf010",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Stan Forebee",
+            "TrackTitle": "Elis Regina - Fotografia (SF rework)",
+            "TrackComposer": "Ant\u00f4nio Carlos Jobim",
+            "MBID": "0e6b9f79-aa79-44ce-ad41-cd840ea7c901",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Stan Getz",
+            "TrackTitle": "Desafinado with Joao Gilberto",
+            "TrackComposer": "Ant\u00f4nio Carlos Jobim, Newton Mendon\u00e7a",
+            "MBID": "7fc3796f-6a24-42b8-9974-b0e2f9bf2077",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Ant\u00f4nio Carlos Jobim",
+            "TrackTitle": "\u00c1guas de mar\u00e7o (Elis e Tom)",
+            "TrackComposer": "Ant\u00f4nio Carlos Jobim",
+            "MBID": "2bcaad1d-5e9c-49b9-8276-d76bb871caea",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Antonio Carlos Jobim",
+            "TrackTitle": "One Note Samba",
+            "TrackComposer": "Ant\u00f4nio Carlos Jobim, Vinicius de Moraes",
+            "MBID": "333c3deb-b717-4014-9cfb-e475f01a52df",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Perla",
+            "TrackTitle": "Dez anos depois",
+            "TrackComposer": "Roberto Menescal, Ronaldo B\u00f4scoli",
+            "MBID": "e8f6dce0-f190-4cae-8ca0-b0489caf32bf",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Roberto Menescal",
+            "TrackTitle": "Surfboard",
+            "TrackComposer": "Roberto Menescal, Ronaldo B\u00f4scoli",
+            "MBID": "b2812df6-cdce-4ac0-ad1e-074d08b8f85a",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Banda Bossa Nova",
+            "TrackTitle": "Coisa mais linda",
+            "TrackComposer": "Carlos Lyra, Vinicius de Moraes",
+            "MBID": "6bcf174b-a151-4abe-95d9-efb701a5c6ae",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Baden Powell",
+            "TrackTitle": "Tristeza",
+            "TrackComposer": "Baden Powell, Vinicius de Moraes",
+            "MBID": "02f989e7-9b63-4654-93ee-4133cff8a7a3",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Jo\u00e3o Donato E Donatinho",
+            "TrackTitle": "Quem \u00c9 Quem",
+            "TrackComposer": "Jo\u00e3o Donato",
+            "MBID": "572567c5-ffd4-493e-bb52-2d9d1626abe3",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Antonio Carlos Jobim",
+            "TrackTitle": "Vivo sonhando",
+            "TrackComposer": "Ant\u00f4nio Carlos Jobim",
+            "MBID": "0450690d-d8b7-419c-a663-82546af9d5ca",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Andre Kostelanetz And His Orchestra",
+            "TrackTitle": "The Gentle Rain [From \"The Gentle Rain\"]",
+            "TrackComposer": "Luiz Bonf\u00e1, Matt Dubey",
+            "MBID": "69e0980c-f58e-40d7-8c65-1babb84b772d",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "O Quarteto",
+            "TrackTitle": "Preciso Aprender A Ser S\u00f3",
+            "TrackComposer": "Marcos Valle, Paulo S\u00e9rgio Valle",
+            "MBID": "533bb7ae-90ba-48dc-b125-b13853f0ebcb",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Manfredo e Seu Conjunto",
+            "TrackTitle": "N\u00f3s e o Mar",
+            "TrackComposer": "Roberto Menescal, Ronaldo B\u00f4scoli",
+            "MBID": "01839902-6839-4221-a976-1f3f63a4229c",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Edu Lobo",
+            "TrackTitle": "Cantiga de longe",
+            "TrackComposer": "Edu Lobo, Ruy Guerra",
+            "MBID": "c8b9c672-cba8-43a1-a16a-4cc3f07730aa",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Raul de Souza",
+            "TrackTitle": "Lugar Comum",
+            "TrackComposer": "Jo\u00e3o Donato, Gilberto Gil",
+            "MBID": "b6741466-2180-454b-a9b8-348e86b2a8e8",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Wanda S\u00e1",
+            "TrackTitle": "Vagamente",
+            "TrackComposer": "Roberto Menescal, Ronaldo B\u00f4scoli",
+            "MBID": "fadd482e-a94f-46bc-9823-c33080ff6f63",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Astrud Gilberto",
+            "TrackTitle": "The Shadow of Your Smile",
+            "TrackComposer": "Bart Howard",
+            "MBID": "836dfe0f-1513-4367-a78e-4c4993cace5f",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Jo\u00e3o Gilberto",
+            "TrackTitle": "Saudade fez um samba",
+            "TrackComposer": "Carlos Lyra, Ronaldo B\u00f4scoli",
+            "MBID": "201fa40f-250a-4277-8aa7-260c77d91236",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Marcos Valle",
+            "TrackTitle": "Vento sul",
+            "TrackComposer": "Marcos Valle, Paulo S\u00e9rgio Valle",
+            "MBID": "f6c813e1-6056-46c9-892b-a4e96a40e600",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Astrud Gilberto",
+            "TrackTitle": "Manha De Carnaval",
+            "TrackComposer": "Luiz Bonf\u00e1, Ant\u00f4nio Maria",
+            "MBID": "a9b558be-f399-4a0f-8f58-dc85c4b4bc37",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Angela Hagenbach",
+            "TrackTitle": "Retrato em Branco e Preto",
+            "TrackComposer": "Ant\u00f4nio Carlos Jobim, Chico Buarque",
+            "MBID": "dd80da7b-0b0b-4404-a074-22b026952834",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Nara Le\u00e3o",
+            "TrackTitle": "Diz que fui por a\u00ed",
+            "TrackComposer": "Luiz Bonf\u00e1, Herm\u00ednio Bello de Carvalho",
+            "MBID": "1bad3160-f3ab-46e8-a968-80109b59b0ee",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Fl\u00e1via Dantas",
+            "TrackTitle": "Lobo Bobo",
+            "TrackComposer": "Carlos Lyra, Ronaldo B\u00f4scoli",
+            "MBID": "cea29016-85a0-4fe9-89b7-7a4db0decf33",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Baden Powell",
+            "TrackTitle": "Tristeza",
+            "TrackComposer": "Baden Powell, Billy Blanco",
+            "MBID": "5985ace3-219f-45fb-912e-bcb07bd16617",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Charles Beale",
+            "TrackTitle": "Antonio Carlos Jobim, \u2018One Note Samba\u2019",
+            "TrackComposer": "Ant\u00f4nio Carlos Jobim, Newton Mendon\u00e7a",
+            "MBID": "0eb380b9-204c-4a30-932b-32df00283bce",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Emilie\u2010Claire Barlow",
+            "TrackTitle": "\u00c1guas de Mar\u00e7o",
+            "TrackComposer": "Ant\u00f4nio Carlos Jobim",
+            "MBID": "83a71b85-7c5c-4389-8773-872041649487",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Luiz Bonfa",
+            "TrackTitle": "Bahia Soul (album version)",
+            "TrackComposer": "Luiz Bonf\u00e1",
+            "MBID": "dbef91f3-2c29-4f17-87b2-9f0b2f72a2ac",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Ze Ketti",
+            "TrackTitle": "Opini\u00e3o",
+            "TrackComposer": "Z\u00e9 K\u00e9ti",
+            "MBID": "958c79a9-a041-4d4b-82fc-4553e3c5df63",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Tim Maia & Claudinho & Buchecha",
+            "TrackTitle": "Eu e voc\u00ea, voc\u00ea e eu",
+            "TrackComposer": "Carlos Lyra, Vinicius de Moraes",
+            "MBID": "3cc53664-502d-455f-bac5-9ea107a3aaa2",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Astrud Gilberto",
+            "TrackTitle": "Beach Samba",
+            "TrackComposer": "Haroldo Lobo, Niltinho",
+            "MBID": "565f12cd-7f3e-4dc1-9aa1-64f5752bd806",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Antonio Carlos Jobim",
+            "TrackTitle": "Insensatez",
+            "TrackComposer": "Ant\u00f4nio Carlos Jobim, Vinicius de Moraes",
+            "MBID": "ba73bada-a3b0-420e-952b-927cae39eb56",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Jo\u00e3o Gilberto",
+            "TrackTitle": "Ela \u00e9 carioca",
+            "TrackComposer": "Ant\u00f4nio Carlos Jobim, Vinicius de Moraes",
+            "MBID": "0f6311e9-6d2d-4654-b15d-ea5eb3204a1a",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Em\u00edlio Santiago",
+            "TrackTitle": "Elis, Elis",
+            "TrackComposer": "Ant\u00f4nio Carlos Jobim, Vinicius de Moraes",
+            "MBID": "702ae701-1809-40cb-8a52-05cb311d8f1f",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Jo\u00e3o Donato",
+            "TrackTitle": "Muito \u00c0 Vontade",
+            "TrackComposer": "Jo\u00e3o Donato",
+            "MBID": "d932b248-b601-4201-aa9f-b18102e7329a",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Lisa Ono",
+            "TrackTitle": "Garota de Ipanema",
+            "TrackComposer": "Ant\u00f4nio Carlos Jobim, Vinicius de Moraes",
+            "MBID": "56ed44e5-701b-456b-a89c-c009d525d6f1",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Ant\u00f4nio Carlos Jobim",
+            "TrackTitle": "Stone Flower",
+            "TrackComposer": "Ant\u00f4nio Carlos Jobim",
+            "MBID": "4ed6abdc-7d75-4ab8-a9c7-b5fc7ed6f465",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Ant\u00f4nio Carlos Jobim",
+            "TrackTitle": "Fotografia (Elis e Tom)",
+            "TrackComposer": "Ant\u00f4nio Carlos Jobim",
+            "MBID": "8ba0a99e-ba30-4cd8-802d-1ba220a27775",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Marcos Valle",
+            "TrackTitle": "Vento sul",
+            "TrackComposer": "Marcos Valle, Paulo S\u00e9rgio Valle",
+            "MBID": "1bf28fad-5c10-4128-93e3-5a299e5867dd",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
         }
     ]
 }
