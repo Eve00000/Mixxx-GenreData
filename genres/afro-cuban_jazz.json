@@ -4,8 +4,8 @@
     "Focus": "artist",
     "RefreshRate": 28,
     "AppendMode": "append",
-    "Timestamp": "2026-05-08T12:39:05Z",
-    "TotalTracks": 397,
+    "Timestamp": "2026-06-05T17:37:37Z",
+    "TotalTracks": 668,
     "Tracks": [
         {
             "TrackArtist": "Dizzy Gillespie & Chano Pozo",
@@ -2784,6 +2784,1903 @@
             "TrackTitle": "Mama Guela",
             "TrackComposer": "Machito",
             "MBID": "a887dd94-e64d-4d1a-acda-78ef6e4c9934",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Dizzy Gillespie",
+            "TrackTitle": "Manteca",
+            "TrackComposer": "Dizzy Gillespie, Chano Pozo",
+            "MBID": "73ffddd4-f0e5-4481-9788-3f549225ba83",
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+        },
+        {
+            "TrackArtist": "Mongo Santamar\u00eda",
+            "TrackTitle": "Afro Blue",
+            "TrackComposer": "Mongo Santamar\u00eda",
+            "MBID": "87c757e5-2f65-495f-a363-597e304ace5c",
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+        },
+        {
+            "TrackArtist": "Dizzy Gillespie",
+            "TrackTitle": "Cubano Be Cubano Bop",
+            "TrackComposer": "George Russell, Dizzy Gillespie, Chano Pozo",
+            "MBID": "8ed9f8b8-2d61-4f4f-858a-8569d3f88228",
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+        },
+        {
+            "TrackArtist": "Art Blakey & The Jazz Messengers",
+            "TrackTitle": "Caravan",
+            "TrackComposer": "Duke Ellington, Juan Tizol, Irving Mills",
+            "MBID": "377b98d3-fa24-40e8-b8bb-15225a4b4446",
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+        },
+        {
+            "TrackArtist": "Kenny Dorham",
+            "TrackTitle": "Tin Tin Deo",
+            "TrackComposer": "Chano Pozo, Gil Fuller",
+            "MBID": "99e14290-93bf-4c1d-8f36-b8ae75ebfe53",
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+        },
+        {
+            "TrackArtist": "Eddie Palmieri",
+            "TrackTitle": "La malanga",
+            "TrackComposer": "Eddie Palmieri",
+            "MBID": "a2d79fbb-c4df-41c7-a1c7-20d60f034ae8",
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+        },
+        {
+            "TrackArtist": "Bud Powell",
+            "TrackTitle": "Un Poco Loco",
+            "TrackComposer": "Bud Powell",
+            "MBID": "b9c925db-febe-42ae-9495-86ad81caa7ae",
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+        },
+        {
+            "TrackArtist": "Sonny Rollins",
+            "TrackTitle": "St. Thomas",
+            "TrackComposer": "Sonny Rollins",
+            "MBID": "5d69a350-cfc1-482a-9cac-839210755b92",
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+        },
+        {
+            "TrackArtist": "Chick Corea",
+            "TrackTitle": "Spain",
+            "TrackComposer": "Chick Corea",
+            "MBID": "8bb937b0-5552-4e11-95d7-65c44018bbe9",
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+        },
+        {
+            "TrackArtist": "Chick Corea",
+            "TrackTitle": "La Fiesta",
+            "TrackComposer": "Chick Corea",
+            "MBID": "2cceff43-1119-490e-bf8f-8390311e68da",
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+        },
+        {
+            "TrackArtist": "Miguelito Vald\u00e9s with Tito Puente\u2019s Orchestra",
+            "TrackTitle": "Guantanamera",
+            "TrackComposer": "Jose\u00edto Fern\u00e1ndez D\u00edaz",
+            "MBID": "fd99f627-cfa9-4e52-9ea2-4560374cabb2",
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+        },
+        {
+            "TrackArtist": "Tito Puente & La Lupe",
+            "TrackTitle": "Lamento borincano",
+            "TrackComposer": "Rafael Hern\u00e1ndez Mar\u00edn",
+            "MBID": "e8eef76e-53af-4528-a2e8-9c789571f887",
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+        },
+        {
+            "TrackArtist": "Mongo Santamar\u00eda",
+            "TrackTitle": "Mambo mongo",
+            "TrackComposer": "Mongo Santamar\u00eda",
+            "MBID": "79fa223a-f4d1-409f-ade6-cb41d89ef063",
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+        },
+        {
+            "TrackArtist": "Bebo Vald\u00e9s",
+            "TrackTitle": "Bebo Blues",
+            "TrackComposer": "Bebo Vald\u00e9s",
+            "MBID": "21979504-dd2d-4ce8-bed0-764c03d9db53",
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+        },
+        {
+            "TrackArtist": "Stan Kenton and His Orchestra",
+            "TrackTitle": "El manisero (The Peanut Vendor)",
+            "TrackComposer": "Moises Simons",
+            "MBID": "a5ff0736-af8a-455f-bee0-6ee014d5f0fd",
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+        },
+        {
+            "TrackArtist": "P\u00e9rez Prado",
+            "TrackTitle": "Patricia",
+            "TrackComposer": "P\u00e9rez Prado",
+            "MBID": "1cc79372-0989-4adb-b1da-323f67dbdca9",
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+        },
+        {
+            "TrackArtist": "Jan Gunnar Hoff, Jasper Somsen & Carsten Lindholm",
+            "TrackTitle": "Rubalcaba",
+            "TrackComposer": "Ernesto Lecuona",
+            "MBID": "632fe94e-efc4-4158-9f9f-d254ce1bd014",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "P\u00e9rez Prado",
+            "TrackTitle": "Mambo #8",
+            "TrackComposer": "P\u00e9rez Prado",
+            "MBID": "231beb40-2ca3-4140-b455-54b5f3eddd73",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "P\u00e9rez Prado",
+            "TrackTitle": "Mambo Jambo (Qu\u00e9 rico el mambo)",
+            "TrackComposer": "P\u00e9rez Prado",
+            "MBID": "26c15383-9a5b-4002-ad1d-d47535d1fc62",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Tito Puente",
+            "TrackTitle": "Cuban Pete",
+            "TrackComposer": "Jos\u00e9 Norman",
+            "MBID": "5f252f49-89ae-4fc4-a4ce-148c2ac2f99f",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Irakere",
+            "TrackTitle": "Irakere",
+            "TrackComposer": "Chucho Vald\u00e9s",
+            "MBID": "afcc9d74-57de-4f14-ac2f-866b5e8d6ef9",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Nat King Cole",
+            "TrackTitle": "Don't Go (feat George Shearing Quintet)",
+            "TrackComposer": "George Shearing",
+            "MBID": "30e000ea-7900-45ed-a2ed-d31e74f30bc8",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Machito & His Afro-Cuban Jazz Ensemble",
+            "TrackTitle": "The Continental (You Kiss While You're Dancing)",
+            "TrackComposer": "Con Conrad, Herb Magidson",
+            "MBID": "a924814a-eac6-4cb3-b77c-3c3743a63943",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Brave Combo",
+            "TrackTitle": "Cha Cha for Two",
+            "TrackComposer": "Xavier Cugat",
+            "MBID": "f9feab71-dd1e-4e28-87b9-f7119b428e1f",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Xavier Cugat",
+            "TrackTitle": "Cuban Love Song",
+            "TrackComposer": "Jimmy McHugh, Dorothy Fields, Herb Nacio Brown",
+            "MBID": "ce853283-f424-450b-b166-02b1151a6a03",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Tito Puente",
+            "TrackTitle": "Mambo",
+            "TrackComposer": "Nacio Herb Brown, Arthur Freed",
+            "MBID": "26d6479c-995a-4530-8410-712f91570e53",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Richard Eg\u00fces",
+            "TrackTitle": "El bodeguero",
+            "TrackComposer": "Richard Eg\u00fces",
+            "MBID": "d937893e-2ea9-4ff5-8ee5-f0b8cd504bf5",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Orquesta de Enrique Jorr\u00edn",
+            "TrackTitle": "La enga\u00f1adora",
+            "TrackComposer": "Enrique Jorr\u00edn",
+            "MBID": "ff0ecb51-e38a-4b08-88fd-6f38dad0a0ad",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Orchester Ambros Seelos",
+            "TrackTitle": "Viva El Mambo",
+            "TrackComposer": "Tito Rodriguez",
+            "MBID": "91f60edb-1b02-4b88-89a2-c3cf8e6d478b",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "La Barber\u00eda del Sur",
+            "TrackTitle": "Sabor sabor",
+            "TrackComposer": "Mongo Santamar\u00eda",
+            "MBID": "b3cec1d5-f09a-4338-8596-39d756af533b",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Jimmy Powells",
+            "TrackTitle": "The Breeze and I (Lecuona/Stillman)",
+            "TrackComposer": "Ernesto Lecuona",
+            "MBID": "342037e1-62ef-4fe7-80b8-135b40e323c9",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Ernesto Lecuona",
+            "TrackTitle": "Malaguena",
+            "TrackComposer": "Ernesto Lecuona",
+            "MBID": "78b07485-a432-4989-83c6-b0485cac41ab",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Mexican Institute of Sound",
+            "TrackTitle": "Drume negrita",
+            "TrackComposer": "Ernesto Lecuona",
+            "MBID": "dcf5548b-b61f-47e5-9ff0-c2a3d8d89b66",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Mark Dresser",
+            "TrackTitle": "Bacahaonne (for Israel \"Cachao\" Lopez)",
+            "TrackComposer": "Israel \"Cachao\" L\u00f3pez",
+            "MBID": "0bc5396a-9e65-4fde-9e05-14a509ba009f",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Eladio Rein\u00f3n, Bebo Vald\u00e9s",
+            "TrackTitle": "Cachao",
+            "TrackComposer": "Israel \"Cachao\" L\u00f3pez",
+            "MBID": "81dbd8b3-d403-47ae-a181-51bb7fcb8a6e",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Sauveur Eloheem",
+            "TrackTitle": "Charlie Parker",
+            "TrackComposer": "Dizzy Gillespie, Chano Pozo",
+            "MBID": "1770570c-2ba8-4527-aec5-1633814ad596",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Missiego",
+            "TrackTitle": "Baila baila conmigo",
+            "TrackComposer": "Eddie Palmieri",
+            "MBID": "f228576f-526d-49a8-86fd-bae7cf44410a",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Israel \u201cCachao\u201d L\u00f3pez",
+            "TrackTitle": "Descarga Cachao",
+            "TrackComposer": "Israel \"Cachao\" L\u00f3pez",
+            "MBID": "4bdaeb67-1083-43ba-a20b-9000bbf4b5f2",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Tito Puente",
+            "TrackTitle": "Rico vacil\u00f3n",
+            "TrackComposer": "Rosendo Ruiz Jr.",
+            "MBID": "ec1da7c2-6b31-4b3e-8548-a6078f0444c5",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Damien Groleau",
+            "TrackTitle": "Para Bebo (To Bebo Vald\u00e9s)",
+            "TrackComposer": "Bebo Vald\u00e9s",
+            "MBID": "a21f41f1-957c-47fb-881f-b7015dbeeaad",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Johnny Col\u00f3n",
+            "TrackTitle": "Son montuno",
+            "TrackComposer": "Charlie Palmieri",
+            "MBID": "b547574d-0106-402c-bc19-5cd5541bc126",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Ricardo Ray & Bobby Cruz",
+            "TrackTitle": "Yo soy Babal\u00fa",
+            "TrackComposer": "Mongo Santamar\u00eda",
+            "MBID": "06a22d02-5cd2-4de4-a5f8-fee6eb97ff15",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Mongo Santamar\u00eda",
+            "TrackTitle": "Chango",
+            "TrackComposer": "Mongo Santamar\u00eda",
+            "MBID": "09826fee-eaca-4b29-b4aa-4dae22694e27",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Beny Mor\u00e9 y Orquesta Rafael de Paz",
+            "TrackTitle": "Yiri-yiri-bom",
+            "TrackComposer": "Mario Bauz\u00e1",
+            "MBID": "8677938e-ad6f-4d34-a22a-df6791749447",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Caterina Valente & Silvio Francesco",
+            "TrackTitle": "Cha-cha-cha flamenco",
+            "TrackComposer": "Cal Tjader",
+            "MBID": "b8514c45-7e6f-4aa2-8cf0-6aada0069d50",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Tito Puente",
+            "TrackTitle": "Mambo gallego",
+            "TrackComposer": "Tito Puente",
+            "MBID": "4989fd15-ebb0-4317-a998-1cd0b19364bd",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Bebo Vald\u00e9s y Su Orquestra Sabor de Cuba",
+            "TrackTitle": "Mi Parranda -Bebo Vald\u00e9s",
+            "TrackComposer": "Bebo Vald\u00e9s",
+            "MBID": "4dee2f2c-83a2-46c4-badb-646f4aec6c49",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Bebo Vald\u00e9s",
+            "TrackTitle": "Con poco coco",
+            "TrackComposer": "Bebo Vald\u00e9s",
+            "MBID": "e9d42fa1-8caa-4c62-b84e-75f401241e5b",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Eddie Torres and His Mambo Kings Orchestra",
+            "TrackTitle": "Pa\u2019 gozar",
+            "TrackComposer": "Chico O'Farrill",
+            "MBID": "61d50ddc-ab97-4a1c-b9ea-d4ce3706b27d",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Eddie Palmieri",
+            "TrackTitle": "\u00d3yelo que te conviene",
+            "TrackComposer": "Eddie Palmieri",
+            "MBID": "426ff94c-df59-4683-ad4e-c9233e607f4f",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Cal Tjader",
+            "TrackTitle": "Descarga cubano",
+            "TrackComposer": "Frank Emilio Flynn",
+            "MBID": "5a54042b-83f5-4b05-ba3a-bbfaf562460a",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Oscar D\u2019Le\u00f3n y su Salsa Mayor",
+            "TrackTitle": "El baile del suavecito",
+            "TrackComposer": "Frank Emilio Flynn",
+            "MBID": "e63d63b2-732f-471e-97fe-3f481b505b13",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Grupo Chang\u00fci de Guantanamo",
+            "TrackTitle": "La Rumba Est\u00e1 Buena",
+            "TrackComposer": "Tata G\u00fcines",
+            "MBID": "b9799f89-8ed0-4b91-9c12-8d5bf55afae4",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Art Pepper",
+            "TrackTitle": "Mambo De La Pinta",
+            "TrackComposer": "Pedro Justiz",
+            "MBID": "bd3f546e-30a1-4e4c-a9c5-19a1e1d4f6de",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Poncho Sanchez",
+            "TrackTitle": "Peruch\u00edn",
+            "TrackComposer": "Pedro Justiz",
+            "MBID": "9096e438-a687-43bc-a049-491b7b907503",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "St\u00e9phane Joly",
+            "TrackTitle": "Chico Chico",
+            "TrackComposer": "Chico O'Farrill",
+            "MBID": "4a14057e-c972-4569-9058-9b423b1fe669",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Los Mocosos",
+            "TrackTitle": "Tito Puente",
+            "TrackComposer": "Tito Puente",
+            "MBID": "59de0b4e-7a7c-48e0-aa7e-c64f21f981ee",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Chano Pozo con Ritmo de Tambores",
+            "TrackTitle": "Ritmo afro-cubano no. 2",
+            "TrackComposer": "Mario Bauz\u00e1",
+            "MBID": "60d5be20-a129-41db-8179-4d3f45cbfe3a",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Cal Tjader",
+            "TrackTitle": "Viva Cepeda",
+            "TrackComposer": "Eddie Palmieri",
+            "MBID": "0a4e5e83-db0f-4f3a-90c5-3a415de2aad2",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Till Br\u00f6nner",
+            "TrackTitle": "Dizzy Gillespie",
+            "TrackComposer": "Dizzy Gillespie",
+            "MBID": "2ab60746-2907-40e8-a6e7-f2b1dc8c2c4e",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Pete Rugolo and His Orchestra",
+            "TrackTitle": "Manhattan Mambo",
+            "TrackComposer": "Johnny Pacheco",
+            "MBID": "70c26871-8103-4eaa-a741-d4a399599e74",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Tito Puente",
+            "TrackTitle": "Mambo diablo",
+            "TrackComposer": "Tito Puente",
+            "MBID": "1a17e348-bb07-414a-99cc-5321ca6fefc4",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Descarga Total",
+            "TrackTitle": "Maraca",
+            "TrackComposer": "Orlando \"Maraca\" Valle",
+            "MBID": "3164d5cc-11c2-41fc-b3fb-9b3e902a790c",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Willie Lopez Orchestra con Ruben de Alvarado",
+            "TrackTitle": "En casa de Pedro el Cojo",
+            "TrackComposer": "Jes\u00fas Alemany",
+            "MBID": "11ea6d20-f049-4ba7-a0d5-2dcdbf79f3f6",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Dizzy Gillespie",
+            "TrackTitle": "Ool Ya Koo (Live At Carnegie Hall / 1961)",
+            "TrackComposer": "Dizzy Gillespie, Chano Pozo",
+            "MBID": "678c194b-006d-42e7-ac13-68d1b0f5ec59",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Tito Puente & His Latin Jazz All Stars",
+            "TrackTitle": "Afro Blue",
+            "TrackComposer": "Mongo Santamar\u00eda",
+            "MBID": "ca5447cb-a2d2-42db-8bf7-41710f8e2092",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Poncho Sanchez",
+            "TrackTitle": "Watermelon Man (feat. Mongo Santamaria)",
+            "TrackComposer": "Herbie Hancock",
+            "MBID": "98220887-7ded-48d3-9407-1c32237e6ec0",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "[unknown]",
+            "TrackTitle": "Oye Como Va Tito Puente Santana",
+            "TrackComposer": "Tito Puente",
+            "MBID": "3e6d73b2-6266-4f9a-9b4e-fbdd743eb92f",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Pacific Mambo Orchestra",
+            "TrackTitle": "Ran Kan Kan",
+            "TrackComposer": "Tito Puente",
+            "MBID": "c74045a6-7ac8-4618-8c62-a2243059a12c",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Ben Sidran",
+            "TrackTitle": "Art Blakey on the Jazz Messengers",
+            "TrackComposer": "Duke Ellington, Juan Tizol, Irving Mills",
+            "MBID": "11f3e422-5241-42da-8084-ce6b7fa0fd45",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Alexandra Lerta & Vasilis Stefanopoulos",
+            "TrackTitle": "Tin Tin Deo",
+            "TrackComposer": "Chano Pozo, Gil Fuller",
+            "MBID": "1c6c6a60-a820-4e61-a03d-52e5213791f4",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Ray Kennedy",
+            "TrackTitle": "Dizzy Gillespie Story",
+            "TrackComposer": "Dizzy Gillespie",
+            "MBID": "5a8e7f39-5de1-4fb6-976b-e361f6350f74",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Tito Puente",
+            "TrackTitle": "Palladium Days",
+            "TrackComposer": "Tito Puente",
+            "MBID": "bdb14ee0-1d56-43e0-a853-283be993dc37",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Billy Joel",
+            "TrackTitle": "Shout (live at Yankee Stadium)",
+            "TrackComposer": "Eddie Palmieri",
+            "MBID": "b1d99755-2318-49fc-8851-dbb737ae149b",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Wlodzimierz Gula, Andreas von Wangenheim, Anette Maiburg, Juan Lama, Luis Llorente & Jes\u00fas Gonz\u00e1lez Brito",
+            "TrackTitle": "Spain (Chick Corea)",
+            "TrackComposer": "Chick Corea",
+            "MBID": "70ba9c85-9dd1-4698-8ef0-c386fc946ee2",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Andy LaVerne \u2212 John Abercrombie, Marc Johnson, Mark Egan, Danny Gottlieb",
+            "TrackTitle": "Chick Corea",
+            "TrackComposer": "Chick Corea",
+            "MBID": "48cbd92e-47db-466e-a982-f6519ce88be1",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Big Red Pep Band",
+            "TrackTitle": "Para Los Rumberos",
+            "TrackComposer": "Tito Puente",
+            "MBID": "904a3253-5f37-46ce-b65a-55a7025d0413",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "David S\u00e1nchez",
+            "TrackTitle": "Cuban Fantasy",
+            "TrackComposer": "Eddie Palmieri",
+            "MBID": "e95c099b-b364-4b61-bee5-0813e84c46cc",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Machito and His Orchestra",
+            "TrackTitle": "Afro-Cuban Suite",
+            "TrackComposer": "Chico O'Farrill",
+            "MBID": "2df339db-9509-4151-a8e6-330976e7197f",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Mongo Santamar\u00eda",
+            "TrackTitle": "Mambo Mongo",
+            "TrackComposer": "Mongo Santamar\u00eda",
+            "MBID": "102bd31d-5cb7-4d16-8f7d-4a55c11f538e",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "[unknown]",
+            "TrackTitle": "Big Works Dizzy Gillespie Dizzy Gillespie",
+            "TrackComposer": "Chano Pozo",
+            "MBID": "6427431c-42e2-472a-976a-623f566e527f",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Cal Tjader",
+            "TrackTitle": "Descarga Cachao",
+            "TrackComposer": "Israel \"Cachao\" L\u00f3pez",
+            "MBID": "7fe2f1c7-3e21-417f-801d-c1d25e5e184c",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Silver Birds Steel Orchestra",
+            "TrackTitle": "Peanut Vendor",
+            "TrackComposer": "Moises Simons",
+            "MBID": "84f19277-2bed-408d-8214-a654368bb583",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Perujazz",
+            "TrackTitle": "Homenaje a P\u00e9rez Prado",
+            "TrackComposer": "P\u00e9rez Prado",
+            "MBID": "cf43cf9f-8015-4240-9d9e-c2ee374a875a",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Patato & Totico",
+            "TrackTitle": "Dilo Como Yo (Antibalas remix)",
+            "TrackComposer": "Patato Vald\u00e9s",
+            "MBID": "47a40fe9-c130-403a-9e3d-2d5727fb2651",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Chico O\u2019Farrill",
+            "TrackTitle": "Jamaiquino",
+            "TrackComposer": "Chico O'Farrill",
+            "MBID": "c84be04a-3469-43f7-b61b-eab272ea9fd0",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Bebo Vald\u00e9s",
+            "TrackTitle": "El solar de Bebo",
+            "TrackComposer": "Bebo Vald\u00e9s",
+            "MBID": "1dd389b6-cd75-4666-8368-dc01a7d161c9",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Andy Hague",
+            "TrackTitle": "For Kenny Dorham",
+            "TrackComposer": "Kenny Dorham",
+            "MBID": "7de57513-2af7-477e-8120-b1652d073ec1",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Tito Puente",
+            "TrackTitle": "Mi guaguanc\u00f3",
+            "TrackComposer": "Patato Vald\u00e9s",
+            "MBID": "e90e86bf-45ca-4a8f-8956-877e6835d9e5",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Machito",
+            "TrackTitle": "The Afro\u2010Cuban Jazz Suite",
+            "TrackComposer": "Mario Bauz\u00e1",
+            "MBID": "7f1185d2-9587-4ea9-adfe-8cf335f0590b",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Bebo Vald\u00e9s y Chucho Vald\u00e9s",
+            "TrackTitle": "Son de la loma",
+            "TrackComposer": "Miguel Matamoros",
+            "MBID": "0d21f67a-5658-418b-80c6-7d88c19118d4",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Ray Barretto",
+            "TrackTitle": "El quinto",
+            "TrackComposer": "Ray Barretto",
+            "MBID": "d8110799-9785-4344-a5b9-d600eb03b5b7",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Frank Emilio, Tata G\u00fcines, Grupo Cubano De Musica Moderna",
+            "TrackTitle": "Gandinga, Mondongo y Sandunga",
+            "TrackComposer": "Chucho Vald\u00e9s",
+            "MBID": "8afb3390-703c-4e30-a366-ef23631d697c",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Chucho Vald\u00e9s",
+            "TrackTitle": "Claudia",
+            "TrackComposer": "Chucho Vald\u00e9s",
+            "MBID": "25d061fc-f257-41e7-a562-727587dac5ec",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Jazz on the Latin Side Allstars",
+            "TrackTitle": "Descarga Cachao",
+            "TrackComposer": "Israel \"Cachao\" L\u00f3pez",
+            "MBID": "7bd40a04-5b9a-465a-8365-50fb6a254a46",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Chucho Vald\u00e9s",
+            "TrackTitle": "Mambo influenciado",
+            "TrackComposer": "Chucho Vald\u00e9s",
+            "MBID": "0c2a4437-b620-44c5-b135-11e99a555091",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Joo Kraus / Omar Sosa / Gustavo Ovalles",
+            "TrackTitle": "Moforibale",
+            "TrackComposer": "Mario Bauz\u00e1",
+            "MBID": "cf8742db-d491-4b61-9b82-41aacc87e803",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Anthony Oca\u00f1a",
+            "TrackTitle": "Pa' Michel (dedicada a Michel Camilo)",
+            "TrackComposer": "Rafael Hern\u00e1ndez Mar\u00edn",
+            "MBID": "d726b4c0-8bcf-49cb-a7df-ccfeba0b0d12",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Soneros de Verdad present Rubalcaba & Cesar 'Pupy' Pedroso",
+            "TrackTitle": "Rubalcaba",
+            "TrackComposer": "Gonzalo Rubalcaba",
+            "MBID": "378a3516-744c-4685-926a-49ae59363644",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Marlon Simon and Nagual Spirits",
+            "TrackTitle": "Rumba a La Patato",
+            "TrackComposer": "Patato Vald\u00e9s",
+            "MBID": "81c64e04-eee8-4772-af66-b6e73a77a2cc",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Grupo Danson",
+            "TrackTitle": "Conga cubana",
+            "TrackComposer": "Chucho Vald\u00e9s",
+            "MBID": "0d98ad4f-0d69-495a-8193-19e4d99df2fa",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Michel Camilo",
+            "TrackTitle": "Descarga for Tito (Puente)",
+            "TrackComposer": "Tito Puente",
+            "MBID": "5befa97e-8a63-44c9-8052-d70c2f316cb0",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Tito Puente",
+            "TrackTitle": "Tito Mambo",
+            "TrackComposer": "Tito Puente",
+            "MBID": "99929a4d-7994-4d26-a7f2-a3c0d27c3eaa",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Los Demonios de Corocochay",
+            "TrackTitle": "Cumbia del puerto",
+            "TrackComposer": "Mongo Santamar\u00eda",
+            "MBID": "1ccb8cb8-f873-4731-8aeb-e309646d4fd9",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Position Alpha",
+            "TrackTitle": "Woody Herman",
+            "TrackComposer": "Woody Herman, Ralph Burns",
+            "MBID": "3517dc03-0a9b-4698-bea3-19c97daf6cd2",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Christian McBride feat. Eddie Palmieri",
+            "TrackTitle": "Guajeo y tumbao",
+            "TrackComposer": "Eddie Palmieri",
+            "MBID": "830b844e-7ef0-4a87-a285-bae59c09c5e2",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Francesco Chiapperini Extemporary Vision Ensemble",
+            "TrackTitle": "Palmieri",
+            "TrackComposer": "Eddie Palmieri",
+            "MBID": "b27f1da8-7c35-4ddc-9e90-dd2e5cb3f63c",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Humberto Morales and His Rhythm",
+            "TrackTitle": "Mambo De La Selva",
+            "TrackComposer": "P\u00e9rez Prado",
+            "MBID": "c1dd8d75-195e-4ce0-85e0-9606cc7f7e44",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "P\u00e9rez Prado",
+            "TrackTitle": "Voodoo Suite",
+            "TrackComposer": "P\u00e9rez Prado",
+            "MBID": "e2ea0998-0252-4b48-9ac4-5c84ebc03232",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Mario Bauz\u00e1",
+            "TrackTitle": "Mambo",
+            "TrackComposer": "Mario Bauz\u00e1",
+            "MBID": "4d3449ab-c851-4eaf-8be9-e05fd40d22cb",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Cal Tjader",
+            "TrackTitle": "Ritmo africano",
+            "TrackComposer": "Mario Bauz\u00e1",
+            "MBID": "36495839-c7e5-4ec3-8a56-73cc06a0475d",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Eddie Palmieri",
+            "TrackTitle": "Mi novia (interludio de Eddie Palmieri)",
+            "TrackComposer": "Eddie Palmieri",
+            "MBID": "5871ab2f-ac08-4928-bd9e-a17a89cacb55",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Ray Bryant",
+            "TrackTitle": "Cubano Chant",
+            "TrackComposer": "Ray Bryant",
+            "MBID": "fee8ab9c-810c-4dde-8e07-7a252b5c0522",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Ray Barretto",
+            "TrackTitle": "Watusi '65",
+            "TrackComposer": "Ray Barretto",
+            "MBID": "8fcd1680-87c0-4764-9cd0-3b003ad99f39",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Pirulo y La Tribu",
+            "TrackTitle": "Pa' gozar",
+            "TrackComposer": "Machito",
+            "MBID": "dc5eb97d-2a7c-48da-9ce8-c7778f829eff",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Lecuona Cuban Boys",
+            "TrackTitle": "La Conga Blicoti",
+            "TrackComposer": "Chico O'Farrill",
+            "MBID": "e774b66d-e7b8-41b2-818a-5085efc5f5de",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Tito Puente with Santos Col\u00f3n",
+            "TrackTitle": "Timbalito",
+            "TrackComposer": "Tito Puente",
+            "MBID": "c929784c-468c-43d3-95ca-9c4f3bcf147a",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Apr\u00e8s la classe",
+            "TrackTitle": "Alma latina",
+            "TrackComposer": "Eddie Palmieri",
+            "MBID": "ff6858e7-39dc-4b31-aa64-e7fedb4c16d3",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Peter Lehel",
+            "TrackTitle": "Lullaby Of Birdland (George Shearing)",
+            "TrackComposer": "George Shearing, George David Weiss",
+            "MBID": "da1e9596-1567-496c-82c4-c7115af1ef92",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Horace Silver",
+            "TrackTitle": "Nica's Dream",
+            "TrackComposer": "Horace Silver",
+            "MBID": "ce3ed746-4023-4998-978a-8372f60227fd",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "The Key Sessions Quartet",
+            "TrackTitle": "Take Five - The Dave Brubeck Quartet",
+            "TrackComposer": "Paul Desmond",
+            "MBID": "467ed96c-8abd-49d8-9064-7e126c25e137",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Horace Silver",
+            "TrackTitle": "Moon Rays",
+            "TrackComposer": "Horace Silver",
+            "MBID": "40b56745-dafc-44c3-b771-3966b68ffcbd",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Israel \u201cCachao\u201d L\u00f3pez",
+            "TrackTitle": "Tres lindas cubanas",
+            "TrackComposer": "Guillermo Castillo",
+            "MBID": "328d0cea-620e-4e6e-99c5-975a6dacc87c",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "The Craig Russo Latin Jazz Project",
+            "TrackTitle": "Besame mucho",
+            "TrackComposer": "Consuelo Vel\u00e1zquez",
+            "MBID": "1dacb68f-03c6-4382-aead-c6cae7243f81",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Gonzalo Rubalcaba",
+            "TrackTitle": "Oshun (short version)",
+            "TrackComposer": "Ernesto Lecuona",
+            "MBID": "ddfc4f68-3f73-4ea6-be0b-6406179c9baf",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Chico O\u2019Farrill",
+            "TrackTitle": "Afro-Cuban Jazz Suite",
+            "TrackComposer": "Chico O'Farrill",
+            "MBID": "8a878e90-b2d0-4a57-bef3-c73a5cbb38c8",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Tito Puente",
+            "TrackTitle": "El tamborilero (The Little Drummer Boy)",
+            "TrackComposer": "Tito Puente",
+            "MBID": "87371aa5-ab56-44dc-8741-15c53134001e",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Narda & DBL-C",
+            "TrackTitle": "Ritmo Cubano",
+            "TrackComposer": "Mario Bauz\u00e1",
+            "MBID": "00ee6da2-dca2-4a08-99c9-cb2b754696a0",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Tito Rodriguez & His Orchestra",
+            "TrackTitle": "Cosas del alma",
+            "TrackComposer": "Chucho Vald\u00e9s",
+            "MBID": "41216a3c-0cd1-42ac-a5a2-3b937a4bdad9",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Acerina y su Danzonera",
+            "TrackTitle": "P\u00e9rez Prado Ni Hablar",
+            "TrackComposer": "P\u00e9rez Prado",
+            "MBID": "5c60eca1-02f3-48b2-badd-1ddeedc1dab9",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Sidirum",
+            "TrackTitle": "Caribe Azul",
+            "TrackComposer": "Michel Camilo",
+            "MBID": "f3e37f37-21ed-47d3-85b1-d78760b729c7",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Cal Tjader",
+            "TrackTitle": "Manteca",
+            "TrackComposer": "Dizzy Gillespie, Chano Pozo",
+            "MBID": "d041793d-2430-4934-b8fc-36b836792e18",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Machito",
+            "TrackTitle": "Kenya",
+            "TrackComposer": "Mario Bauz\u00e1",
+            "MBID": "9f5d79f9-dcc8-4eaf-aa2f-c83f7f94a6b0",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Chico O\u2019Farrill",
+            "TrackTitle": "Cuban Blues",
+            "TrackComposer": "Chico O'Farrill",
+            "MBID": "e5d0cddf-3943-4f67-bbf5-29ec5e541dc7",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Oscar Pettiford",
+            "TrackTitle": "Titoro",
+            "TrackComposer": "Carlos 'Patato' Vald\u00e9s",
+            "MBID": "997d588f-831e-4d58-99a4-88773dab63be",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Timbre Cubano Sexteto",
+            "TrackTitle": "El cuarto de Tula",
+            "TrackComposer": "Luis Carbonell",
+            "MBID": "f7f395fb-1f88-405c-add1-f1eac67345d3",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Pragas\u00f3n",
+            "TrackTitle": "La vida es un carnaval",
+            "TrackComposer": "Ralph Mercado, Victor Daniel",
+            "MBID": "4e932163-f3af-45ae-a2bd-2a0c27a50669",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Afro-Cuban All Stars",
+            "TrackTitle": "Elegia a Rub\u00e9n Gonz\u00e1lez",
+            "TrackComposer": "Mois\u00e9s Simons",
+            "MBID": "8b44d888-7d6f-4431-a8fe-d08816b68c71",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Bebo Vald\u00e9s",
+            "TrackTitle": "L\u00e1grimas negras",
+            "TrackComposer": "Miguel Matamoros",
+            "MBID": "040b0c16-84bb-418a-b2dd-fa6e734b0b78",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Mario Bauz\u00e1 and The Afro-Cuban Jazz Orchestra",
+            "TrackTitle": "Cuban Lullaby/Mambo",
+            "TrackComposer": "Mario Bauz\u00e1",
+            "MBID": "3beabe5a-5ddc-4b20-ac22-127384a0e8c3",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Sabu Martinez",
+            "TrackTitle": "Para ti, Tito Rodriguez",
+            "TrackComposer": "Alfredo Rodriguez",
+            "MBID": "2b3f60d7-69ed-43ba-beb5-b38faf846268",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "DJ_banana",
+            "TrackTitle": "Cielo Y Azules / Omar Sosa",
+            "TrackComposer": "Omar Sosa",
+            "MBID": "5ca48ace-6ec3-407b-9c35-9c680964edad",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Fania All-Stars",
+            "TrackTitle": "Bembe colora",
+            "TrackComposer": "Jane Bunnett",
+            "MBID": "82528bd3-b6f3-4b88-9ac4-db266f5ea194",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Danilo P\u00e9rez",
+            "TrackTitle": "Panama Blues",
+            "TrackComposer": "Danilo P\u00e9rez",
+            "MBID": "e764a531-208a-4cd9-861a-4bac1a6e1376",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "George Shearing",
+            "TrackTitle": "Drume Negrita",
+            "TrackComposer": "Eliseo Grenet",
+            "MBID": "98be3ec1-f381-4bdb-97ee-3abddae28e09",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Carole Farley, John Constable",
+            "TrackTitle": "Conga Cuba",
+            "TrackComposer": "Giovanni Hidalgo",
+            "MBID": "dcea25fc-b9f1-40e4-8d9a-ea8073f5f41e",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Jerry Gonzalez & The Fort Apache Band",
+            "TrackTitle": "Earthdance",
+            "TrackComposer": "Jerry Gonzalez",
+            "MBID": "afcc5bcb-dd23-4804-bd47-72a1a936c9da",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "The Zawinul Syndicate",
+            "TrackTitle": "San Sebastian",
+            "TrackComposer": "Steve Turre",
+            "MBID": "37c84284-dff9-40a7-965b-4c50455a8041",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Dafnis Prieto Sextet",
+            "TrackTitle": "Two for One",
+            "TrackComposer": "Dafnis Prieto",
+            "MBID": "a17e2749-224f-453f-a16a-7b8c272a5fbe",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Richie Ray & Bobby Cruz",
+            "TrackTitle": "Ag\u00fazate",
+            "TrackComposer": "Ricardo Ray, Bobby Cruz",
+            "MBID": "d8238ee0-60a4-4b89-8225-c2553649def2",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Jerry Gonzalez & The Fort Apache Band",
+            "TrackTitle": "Evidence",
+            "TrackComposer": "Thelonious Monk",
+            "MBID": "cf0172ca-512b-46a6-aaf1-143e40a6138b",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "The Marian McPartland Trio",
+            "TrackTitle": "Bemsha Swing",
+            "TrackComposer": "Thelonious Monk",
+            "MBID": "3e443cd3-4bab-4f95-b23d-01d0e738b594",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "from tokyo to honolulu",
+            "TrackTitle": "LATIN ALL-STARS MIX",
+            "TrackComposer": "Sonny Rollins",
+            "MBID": "5b43e73f-5d7f-48cc-b3b5-5e049c9daa00",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Dave Valentin",
+            "TrackTitle": "Obsession",
+            "TrackComposer": "Dave Valentin",
+            "MBID": "01f20b7e-53d8-4fa0-b4ad-f21b55879108",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Kuusankosken musiikkiluokat",
+            "TrackTitle": "Miami Beach rumba",
+            "TrackComposer": "Irving Fields, Albert Gamse",
+            "MBID": "d9b8cc6b-e202-4334-9343-a25433b244d4",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Rock Goddess",
+            "TrackTitle": "Jerry",
+            "TrackComposer": "Jerry Gonzalez",
+            "MBID": "4b066ba5-709d-4ede-95b6-73c196ac6fe1",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Chucho Vald\u00e9s & The Afro\u2010Cuban Messengers",
+            "TrackTitle": "Chucho's Steps",
+            "TrackComposer": "Chucho Vald\u00e9s",
+            "MBID": "5d370ea5-518a-44f1-938d-41d59f2bd933",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Mongo Santamar\u00eda",
+            "TrackTitle": "Yeh-Yeh!",
+            "TrackComposer": "Rodgers, Jones",
+            "MBID": "1a94fa1f-0a4f-4245-a433-9cffd771c7b1",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "The Iguanas",
+            "TrackTitle": "Para Donde Vas",
+            "TrackComposer": "Clare Fischer",
+            "MBID": "383b33ca-d128-43ac-b9e9-ebd5bab9326d",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Buena Vista Social Club",
+            "TrackTitle": "Candela",
+            "TrackComposer": "Faustino Oramas",
+            "MBID": "16c11b1d-162e-4b9e-a3c0-fc74546b4520",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Machito et son Orchestre Afro-Cubain",
+            "TrackTitle": "Mambo mucho mambo",
+            "TrackComposer": "Mario Bauz\u00e1",
+            "MBID": "0330c99c-07e0-42d6-939b-6d3647a42e2f",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Mongo Santamar\u00eda",
+            "TrackTitle": "Para Ti",
+            "TrackComposer": "Mongo Santamar\u00eda",
+            "MBID": "6f6437d5-58e2-45d6-8833-b2315cb449c6",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Machito y Su Orquesta",
+            "TrackTitle": "Mambo Inn",
+            "TrackComposer": "Mario Bauz\u00e1, Bobby Woodlen, Grace Sampson, Chico O'Farrill",
+            "MBID": "4adb55ae-0ea8-49ba-a4a0-cea6cb1842b5",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Ray Barretto",
+            "TrackTitle": "Descarga criolla",
+            "TrackComposer": "Ray Barretto",
+            "MBID": "508de6cf-10ae-453e-916a-b7a532ba4e9e",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Irakere",
+            "TrackTitle": "Chequer\u00e9-son",
+            "TrackComposer": "Chucho Vald\u00e9s",
+            "MBID": "0a2ee955-4b84-482c-aada-33a31aaac2eb",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Hilton Ruiz",
+            "TrackTitle": "Sunrise Over Madarao",
+            "TrackComposer": "Hilton Ruiz",
+            "MBID": "bdabdc2c-f84a-4ede-89e0-5647bdf1184f",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Michel Camilo",
+            "TrackTitle": "On Fire",
+            "TrackComposer": "Michel Camilo",
+            "MBID": "0f9d4b87-bbc6-47aa-9ddc-0ce4b764cf39",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Paquito D\u2019Rivera",
+            "TrackTitle": "Song For Maura",
+            "TrackComposer": "Paquito D'Rivera",
+            "MBID": "90a62bbe-d42c-4e28-8e6b-a00cf97c01e9",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Izzy And The Catastrophics",
+            "TrackTitle": "Ay Mami Mami",
+            "TrackComposer": "Omar Sosa",
+            "MBID": "8b9a58be-3b68-4c78-8245-9e236e1d7083",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Color Tango",
+            "TrackTitle": "Para dos",
+            "TrackComposer": "Jane Bunnett",
+            "MBID": "85b9e770-08c2-4aed-89ec-dcc8b8052f49",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Pieter K",
+            "TrackTitle": "Central Avenue",
+            "TrackComposer": "Danilo P\u00e9rez",
+            "MBID": "32811603-2f89-4ca5-8ee5-85a5c9b1f900",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Mongo Santamar\u00eda",
+            "TrackTitle": "Conga Pa Gozar",
+            "TrackComposer": "Giovanni Hidalgo",
+            "MBID": "b325e616-0303-4c34-b85a-9fd7fde9b233",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Criterion",
+            "TrackTitle": "Fort Apache",
+            "TrackComposer": "Jerry Gonzalez",
+            "MBID": "199f5cbd-21e7-4399-ae4a-cb1001d44332",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Steve Turre",
+            "TrackTitle": "Mercury (TURRE)",
+            "TrackComposer": "Steve Turre",
+            "MBID": "d7adfe94-0640-4779-bc7e-efd443b29b06",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Dafnis Prieto",
+            "TrackTitle": "Mechanical Movement",
+            "TrackComposer": "Dafnis Prieto",
+            "MBID": "d49b9c18-c3ad-4285-a7f8-e8cdfbc1dd94",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Richie Ray & Bobby Cruz",
+            "TrackTitle": "Sonido bestial",
+            "TrackComposer": "Ricardo Ray, Bobby Cruz",
+            "MBID": "787bc29f-c440-4979-b203-aab189292013",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Chico O\u2019Farrill",
+            "TrackTitle": "Afro-Cuban Jazz Suite",
+            "TrackComposer": "Chico O'Farrill",
+            "MBID": "59fdc683-d434-431f-92da-3070d4da22e5",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Cal Tjader",
+            "TrackTitle": "Mambo Sangria",
+            "TrackComposer": "Cal Tjader",
+            "MBID": "8fcf76be-587f-4f5f-b6a1-4e1d623e5a40",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Gonzalo Rubalcaba",
+            "TrackTitle": "El Manisero",
+            "TrackComposer": "Mois\u00e9s Simons",
+            "MBID": "84a15d6c-e1a4-420f-9c1b-8fc1d5b79c57",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Paquito D\u2019Rivera",
+            "TrackTitle": "Havana Cafe,",
+            "TrackComposer": "Paquito D'Rivera",
+            "MBID": "955a9c20-1d44-43d8-9a87-e2a04295d423",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Chucho Vald\u00e9s",
+            "TrackTitle": "B\u00e9same mucho",
+            "TrackComposer": "Consuelo Vel\u00e1zquez",
+            "MBID": "cb2d731b-9ca9-42d0-87a8-7be2fe9e3c26",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Michel Camilo",
+            "TrackTitle": "Spirit of the Moment",
+            "TrackComposer": "Michel Camilo",
+            "MBID": "27dd2c46-a6ef-4af4-8bb0-aca2dc8c847b",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Danilo P\u00e9rez",
+            "TrackTitle": "Panama 2000",
+            "TrackComposer": "Danilo P\u00e9rez",
+            "MBID": "35e8faa9-4d7c-43ee-8f5f-b0495445471e",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Omar Sosa",
+            "TrackTitle": "Bembon",
+            "TrackComposer": "Omar Sosa",
+            "MBID": "9474261e-8122-477b-aeab-ee98d7bca3af",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Jane Bunnett",
+            "TrackTitle": "Spirits of Havana",
+            "TrackComposer": "Jane Bunnett",
+            "MBID": "160c5c1c-89f6-46df-a849-a650e2934013",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Dafnis Prieto",
+            "TrackTitle": "About The Monks",
+            "TrackComposer": "Dafnis Prieto",
+            "MBID": "0a5069fd-5caf-4fc6-ad06-8dee10760d5b",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Tanya Donelly",
+            "TrackTitle": "Hidalgo Street",
+            "TrackComposer": "Giovanni Hidalgo",
+            "MBID": "fdf03f88-dce0-45fc-a797-17a12b332bde",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Flaminio Maphia",
+            "TrackTitle": "Fort Apache",
+            "TrackComposer": "Jerry Gonzalez",
+            "MBID": "9e239684-d303-450c-ae60-80e362eedf3c",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Steve Turre",
+            "TrackTitle": "Brother Ray",
+            "TrackComposer": "Steve Turre",
+            "MBID": "ba1190f4-1d68-4392-bf2d-2b27ee98c3f2",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Los Gatos",
+            "TrackTitle": "El \u00faltimo beso",
+            "TrackComposer": "Bebo Vald\u00e9s",
+            "MBID": "d7255b6e-3977-46f3-be65-6b7f5ff13a40",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Tito Rodr\u00edguez",
+            "TrackTitle": "Descarga cachao",
+            "TrackComposer": "Israel 'Cachao' L\u00f3pez",
+            "MBID": "188e01cc-2525-414d-9948-e7c70fd92994",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Kiyoharu",
+            "TrackTitle": "Carnival of spirits",
+            "TrackComposer": "Papo Vazquez",
+            "MBID": "85182e3a-fe62-4b69-af84-5fdc4daa83e5",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Ray Barretto",
+            "TrackTitle": "La Cuna",
+            "TrackComposer": "Ray Barretto",
+            "MBID": "c5d26acb-f773-4936-ac08-287e604f9767",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Eno \u00b7 Hyde",
+            "TrackTitle": "Big Band Song",
+            "TrackComposer": "Bobby Sanabria",
+            "MBID": "70430212-b981-42e5-a3c8-53f5cf8a121e",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "S\u00e9rgio Mendes",
+            "TrackTitle": "Latin Jazz",
+            "TrackComposer": "Juan Tizol, Duke Ellington",
+            "MBID": "661ba852-a7e9-42a0-bd6a-5c297353095e",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Alberto G\u00f3mez & Orquesta de Belloto",
+            "TrackTitle": "Yo soy miguel",
+            "TrackComposer": "Miguel Zen\u00f3n",
+            "MBID": "1b0a7426-1aae-4e45-8384-b9e9951a1ea7",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Chuy Reyes & His Orchestra",
+            "TrackTitle": "Blen, blen, blen",
+            "TrackComposer": "Chano Pozo",
+            "MBID": "bed4c005-64d4-49ff-bc99-051e60aeb903",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Eddie Palmieri",
+            "TrackTitle": "Puerto Rico",
+            "TrackComposer": "Eddie Palmieri",
+            "MBID": "979613b0-92fd-4b87-bcde-e0e08718cb10",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Michel Camilo",
+            "TrackTitle": "Suntan",
+            "TrackComposer": "Michel Camilo",
+            "MBID": "f1b009e2-36e5-4572-bc4e-54b806c8de0e",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Harold L\u00f3pez\u2010Nussa",
+            "TrackTitle": "Una Tarde Cualquiera En Paris (to Bebo Valdes)",
+            "TrackComposer": "Harold L\u00f3pez-Nussa",
+            "MBID": "e7f5154f-ddd4-4d71-b8e0-cd22b229fdaf",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Alfredo Rodr\u00edguez",
+            "TrackTitle": "The Invasion Parade",
+            "TrackComposer": "Alfredo Rodriguez",
+            "MBID": "505ce208-6256-4983-8e9b-252db352f3f1",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "L\u00e9o Santana",
+            "TrackTitle": "Cheguei cheguei",
+            "TrackComposer": "Omar Sosa",
+            "MBID": "a9be6ad8-1ff3-41d4-908d-be644fa14639",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "[unknown]",
+            "TrackTitle": "Caf\u00e9 Cubano",
+            "TrackComposer": "Jane Bunnett",
+            "MBID": "012d9d77-a635-4c9e-88c3-18f910d72b92",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Magela Herrera",
+            "TrackTitle": "Danzon Para",
+            "TrackComposer": "Dafnis Prieto",
+            "MBID": "b533275e-f054-4b1a-9c5e-81e9d1e61c2b",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Horacio \u2018El Negro\u2019 Hern\u00e1ndez",
+            "TrackTitle": "90 Miles to Miles",
+            "TrackComposer": "Horacio Hern\u00e1ndez",
+            "MBID": "e3770d04-fd04-4f14-87d5-09d327b93e85",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Billy Taylor",
+            "TrackTitle": "Candido Mambo",
+            "TrackComposer": "C\u00e1ndido Camero",
+            "MBID": "9e844d91-1fe9-4f2e-993c-510238c1aa0d",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Ed Bickert",
+            "TrackTitle": "Nica's Dream",
+            "TrackComposer": "Horace Silver",
+            "MBID": "a45115cc-2f58-43eb-b1a7-b3c58b41e2d9",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Papo Vazquez",
+            "TrackTitle": "Carnival in San Juan",
+            "TrackComposer": "Papo Vazquez",
+            "MBID": "baead3ba-b90e-4b5f-ac98-e503d1ef5d01",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "The Dave Brubeck Quartet",
+            "TrackTitle": "Bossa Nova U.S.A.",
+            "TrackComposer": "Dave Brubeck",
+            "MBID": "7b71ec8e-c191-4393-9b3a-ba03f1da7388",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Riccardo Cocciante",
+            "TrackTitle": "A pesar de todo",
+            "TrackComposer": "Chucho Vald\u00e9s",
+            "MBID": "dc5f152d-a606-40f8-b496-6adbd2eea7d2",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Paquito D\u2019Rivera",
+            "TrackTitle": "Vals Venezolano",
+            "TrackComposer": "Paquito D'Rivera",
+            "MBID": "460d3e71-7310-4110-8884-d3de909db7b8",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Dave Valentin",
+            "TrackTitle": "Do It Again",
+            "TrackComposer": "Dave Valentin",
+            "MBID": "782c361d-8f3a-46d1-bc39-449965f99b16",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Ray Barretto",
+            "TrackTitle": "Guarar\u00e9",
+            "TrackComposer": "Orlando 'Cachaito' L\u00f3pez",
+            "MBID": "96fe4a73-5738-4146-bf78-3e2275329ba3",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Gonzalo Rubalcaba",
+            "TrackTitle": "El Guerrillero",
+            "TrackComposer": "Gonzalo Rubalcaba",
+            "MBID": "9bf9cc30-2e81-4cab-aceb-2756fd4a6bd0",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Michel Camilo",
+            "TrackTitle": "From Within",
+            "TrackComposer": "Michel Camilo",
+            "MBID": "7dde473d-ae09-472f-b6d3-10a0eb626f61",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Cal Tjader",
+            "TrackTitle": "Cal's Bluedo",
+            "TrackComposer": "Cal Tjader",
+            "MBID": "9ea3331f-999b-459d-b95f-f020f4a63e83",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Alfredo Rodr\u00edguez",
+            "TrackTitle": "Coral Way",
+            "TrackComposer": "Alfredo Rodriguez",
+            "MBID": "4dba1074-c3bc-46c5-a9c6-6fabaaf945df",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Omar Sosa",
+            "TrackTitle": "Light in the Sky",
+            "TrackComposer": "Omar Sosa",
+            "MBID": "00e98be4-2298-40da-afd5-02687f9bd027",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Los Nemus del Pac\u00edfico",
+            "TrackTitle": "Chiquitica",
+            "TrackComposer": "Jane Bunnett",
+            "MBID": "fd994bb8-8861-4b05-93c5-cabe046a88fe",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Segismundo Toxic\u00f3mano",
+            "TrackTitle": "Sigue la luz",
+            "TrackComposer": "Dafnis Prieto",
+            "MBID": "591f06aa-3a6d-4b63-919c-cbd70f01179b",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Horacio \u2018El Negro\u2019 Hern\u00e1ndez",
+            "TrackTitle": "Tropical Madrid",
+            "TrackComposer": "Horacio Hern\u00e1ndez",
+            "MBID": "4eece459-fdc7-4263-bae6-7aea86f796c0",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "The Subdudes",
+            "TrackTitle": "Big Chief",
+            "TrackComposer": "Earl King",
+            "MBID": "9510b1ea-040c-4839-9641-148d259dd5c3",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "The Derek Trucks Band",
+            "TrackTitle": "Mr. P.C.",
+            "TrackComposer": "John Coltrane",
+            "MBID": "ff118a4c-c892-41ec-9ea4-7382c3bfe588",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Mongo Santamar\u00eda",
+            "TrackTitle": "Bacoso",
+            "TrackComposer": "Mongo Santamar\u00eda",
+            "MBID": "1bfd10ec-4e66-4fad-b2b3-2492148549f5",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Machito y Su Orquesta",
+            "TrackTitle": "Mango Mangue",
+            "TrackComposer": "Machito",
+            "MBID": "22cddf34-33d4-4049-992c-6e59f1c9c214",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Tito Puente",
+            "TrackTitle": "Four Beat Mambo",
+            "TrackComposer": "Tito Puente",
+            "MBID": "96a0dc92-f902-4861-b5ec-de2b0dd5f91d",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Puerto Rico All-Stars",
+            "TrackTitle": "Pa' la ocha",
+            "TrackComposer": "Eddie Palmieri",
+            "MBID": "af930611-036d-4920-b2b2-f85244131ed7",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Poncho Sanchez",
+            "TrackTitle": "Ven morena",
+            "TrackComposer": "Papo Luca",
+            "MBID": "223b2543-eb09-4831-aa26-35d7108c60cc",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Irakere",
+            "TrackTitle": "Calzada del cerro",
+            "TrackComposer": "Chucho Vald\u00e9s",
+            "MBID": "b8106cc4-18e3-4630-ba7c-db88b4e2fdfd",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Ambkor",
+            "TrackTitle": "Hola y Adios",
+            "TrackComposer": "Michel Camilo",
+            "MBID": "1f692e3a-dc81-4129-ba4a-79956cfe8171",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "The Brecker Brothers",
+            "TrackTitle": "African Skies",
+            "TrackComposer": "Dave Valentin",
+            "MBID": "c9968c4d-8583-49f6-bdf7-9226edeebdf4",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Poncho Sanchez",
+            "TrackTitle": "Poncho's Mambo",
+            "TrackComposer": "Poncho Sanchez",
+            "MBID": "c4433f46-ef8a-4c14-bf1a-5252d99287cc",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Chucho Vald\u00e9s",
+            "TrackTitle": "Pilar",
+            "TrackComposer": "Chucho Vald\u00e9s",
+            "MBID": "ab406ace-0662-41d7-8d26-13fac77e809c",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Michel Camilo",
+            "TrackTitle": "See You Later",
+            "TrackComposer": "Michel Camilo",
+            "MBID": "eff9f4e7-8b35-4fba-bb3b-43c1e8411379",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Cal Tjader",
+            "TrackTitle": "Shoshana",
+            "TrackComposer": "Cal Tjader",
+            "MBID": "6c870859-48e4-4734-a75a-6227f4480ec4",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Milva",
+            "TrackTitle": "Rodriguez [Rodriguez Pena]",
+            "TrackComposer": "Alfredo Rodriguez",
+            "MBID": "3d153367-37ab-419b-83d6-0a8e3e8c8f66",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Bobby Sanabria Multiverse Big Band featuring Antoinette Montague, Janis Siegel, Jennifer Jade Ledesna",
+            "TrackTitle": "Mi Congo",
+            "TrackComposer": "Omar Sosa",
+            "MBID": "febd3913-1349-462f-b61d-0143e4caa005",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Sumiko Fukatsu",
+            "TrackTitle": "Blues Para Chano",
+            "TrackComposer": "Jane Bunnett",
+            "MBID": "337ced69-29f8-47ab-a8a0-622cf5aa17ff",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Horacio \u2018El Negro\u2019 Hern\u00e1ndez",
+            "TrackTitle": "Only With Me",
+            "TrackComposer": "Horacio Hern\u00e1ndez",
+            "MBID": "22a0837f-74c2-43a1-b626-daf56766c6e0",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Louie Ram\u00edrez",
+            "TrackTitle": "Juan Gonzalez",
+            "TrackComposer": "Jerry Gonzalez",
+            "MBID": "ffcad726-1e1d-4fdd-942f-dc737507d9bd",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Chico O\u2019Farrill",
+            "TrackTitle": "Afro-Cuban Suite",
+            "TrackComposer": "Bobby Sanabria",
+            "MBID": "8d9f0aed-2bdb-4dbb-80c9-0bc3d32654fe",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Larry Hern\u00e1ndez",
+            "TrackTitle": "El Papo",
+            "TrackComposer": "Papo Vazquez",
+            "MBID": "fd609c6d-ce50-43dc-88d9-1f1d8ca488fb",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Ray Barretto",
+            "TrackTitle": "Manha de Carnaval",
+            "TrackComposer": "Ray Barretto",
+            "MBID": "a304cb5c-b3aa-43c8-ab5d-98a898364446",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Willie Bobo",
+            "TrackTitle": "Felicidad",
+            "TrackComposer": "Willie Bobo",
+            "MBID": "e3cdfed8-baec-442c-aedb-98145dbc9366",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Stan Kenton and His Orchestra",
+            "TrackTitle": "Machito",
+            "TrackComposer": "Mario Bauz\u00e1",
+            "MBID": "071f17d8-1871-4a61-a37a-87bd079e00ff",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Dizzy Gillespie",
+            "TrackTitle": "Hot House",
+            "TrackComposer": "Tadd Dameron",
+            "MBID": "6f83436b-f38b-4c07-bff2-bb70c2de0d3b",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Irakere",
+            "TrackTitle": "Juana 1600",
+            "TrackComposer": "Chucho Vald\u00e9s",
+            "MBID": "651f6a97-959d-431b-9f4c-a26c87626a5a",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Chucho Vald\u00e9s",
+            "TrackTitle": "Obatala",
+            "TrackComposer": "Chucho Vald\u00e9s",
+            "MBID": "86a47716-1ee7-45e8-a95c-d120db210b56",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Michel Camilo",
+            "TrackTitle": "Just Kidding",
+            "TrackComposer": "Michel Camilo",
+            "MBID": "9703d312-e396-486d-a7c5-d5bf428fa893",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Dave Valentin",
+            "TrackTitle": "The Hawk",
+            "TrackComposer": "Dave Valentin",
+            "MBID": "00ae3bc9-5d15-4662-b882-a66f5df468c9",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Machito & His Afro Cubans",
+            "TrackTitle": "Rico Vacilon",
+            "TrackComposer": "Mario Bauz\u00e1",
+            "MBID": "cb095790-07ab-40e8-bb32-31a23eb5ca8c",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Eddie Palmieri",
+            "TrackTitle": "Palo pa' rumba",
+            "TrackComposer": "Eddie Palmieri",
+            "MBID": "560db606-2087-4faf-8a90-62f8d226305d",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Decisi\u00f3n Final",
+            "TrackTitle": "Siempre habr\u00e1",
+            "TrackComposer": "Poncho Sanchez",
+            "MBID": "5aae7039-6d7f-4e3a-86e9-709029f77d13",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Chucho Vald\u00e9s",
+            "TrackTitle": "Yansa",
+            "TrackComposer": "Chucho Vald\u00e9s",
+            "MBID": "59aadb91-70b0-47a2-a0df-4e1578f38c31",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Michel Camilo",
+            "TrackTitle": "Mano a Mano",
+            "TrackComposer": "Michel Camilo",
+            "MBID": "7fbc1e2e-34e5-4e8f-a503-deabb87436ad",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Montana",
+            "TrackTitle": "El Rodriguez",
+            "TrackComposer": "Alfredo Rodriguez",
+            "MBID": "1e0e2fe0-0085-48e3-ac3a-ccc4444f6f6b",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Omar Sosa",
+            "TrackTitle": "Dos Caminos",
+            "TrackComposer": "Omar Sosa",
+            "MBID": "ac8b0272-ea5e-4cb8-a28d-587e10638297",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "El Palomo y El Gorri\u00f3n",
+            "TrackTitle": "Elpidio pazo",
+            "TrackComposer": "Jane Bunnett",
+            "MBID": "5c54904d-cd58-49b6-ba19-c61e5ddcb1e8",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Dafnis Prieto Big Band",
+            "TrackTitle": "The Triumphant Journey",
+            "TrackComposer": "Dafnis Prieto",
+            "MBID": "62dd3a8a-290a-4871-b674-8190d75d5d30",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Patricia Salas",
+            "TrackTitle": "Mi Negro Ta'Contento (Afro-Cuban)",
+            "TrackComposer": "Horacio Hern\u00e1ndez",
+            "MBID": "653c8d13-96a6-4b19-afd1-69fa08601038",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Glen Gray",
+            "TrackTitle": "Smoke Rings",
+            "TrackComposer": "Steve Turre",
+            "MBID": "5805f2d1-611a-4548-853b-c14801a887af",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Lester Young",
+            "TrackTitle": "Jumpin' With Symphony Sid",
+            "TrackComposer": "Lester Young",
+            "MBID": "9b319311-dee7-4510-8a63-9497bbf1cbdf",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Papo Vazquez",
+            "TrackTitle": "Baila Piena",
+            "TrackComposer": "Papo Vazquez",
+            "MBID": "f17b4196-408a-447d-b572-76c1269dd365",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Willie Bobo",
+            "TrackTitle": "Roots",
+            "TrackComposer": "Willie Bobo",
+            "MBID": "c34f3839-a3c7-43c0-a549-8d1195c7ce10",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "\u00c1ngel Lebron y Su Sabor Latino",
+            "TrackTitle": "Mama Guela",
+            "TrackComposer": "Tito Puente",
+            "MBID": "c0c8c2a1-c221-444a-bd8a-7739643900dc",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Cal Tjader",
+            "TrackTitle": "Walk On By",
+            "TrackComposer": "Burt Bacharach, Hal David",
+            "MBID": "54527a31-5c3d-4f4a-b4fd-96915b3768b4",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Poncho Sanchez",
+            "TrackTitle": "Bien sabroso",
+            "TrackComposer": "Poncho Sanchez",
+            "MBID": "9a623141-2733-4e96-bd04-7b2cb52b3b45",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Cyril Jackson",
+            "TrackTitle": "Rumba Abierta",
+            "TrackComposer": "Chucho Vald\u00e9s",
+            "MBID": "1ee7b363-8228-4553-a396-56019c9954b0",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "David Bisbal",
+            "TrackTitle": "Como la primera vez",
+            "TrackComposer": "Arturo Sandoval",
+            "MBID": "13be1b19-7005-483f-93e8-b4662fbfd6db",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Paquito D\u2019Rivera",
+            "TrackTitle": "Brazil Blues (Backing Tracks)",
+            "TrackComposer": "Ary Barroso",
+            "MBID": "59b50e61-7cd1-4314-95de-a43584182fc8",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Bad Boys Batucada",
+            "TrackTitle": "Maracatu",
+            "TrackComposer": "Dave Valentin",
+            "MBID": "0b9ee1b7-21a5-48ec-82b0-ee6057c25755",
             "Category": "Songs occuring most on playlists on soundcloud for this genre"
         }
     ]
