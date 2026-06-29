@@ -4,8 +4,8 @@
     "Focus": "artist",
     "RefreshRate": 28,
     "AppendMode": "append",
-    "Timestamp": "2026-06-01T18:36:28Z",
-    "TotalTracks": 577,
+    "Timestamp": "2026-06-29T20:26:27Z",
+    "TotalTracks": 883,
     "Tracks": [
         {
             "TrackArtist": "Falco",
@@ -4045,6 +4045,2148 @@
             "TrackComposer": "Jen Bender, Raphael Schall, Chriz Falk",
             "MBID": "f60e513d-0c7e-4385-b8c8-3f519b2e6418",
             "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Modern Talking",
+            "TrackTitle": "You\u2019re My Heart, You\u2019re My Soul",
+            "TrackComposer": "Dieter Bohlen",
+            "MBID": "7d61f4b5-2455-4968-b4be-afcad2aafeae",
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+        },
+        {
+            "TrackArtist": "Alphaville",
+            "TrackTitle": "Forever Young",
+            "TrackComposer": "Marian Gold, Bernhard Lloyd, Frank Mertens",
+            "MBID": "2ee2e2e1-7f07-4e40-800e-d6148a40bdea",
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+        },
+        {
+            "TrackArtist": "Rammstein",
+            "TrackTitle": "Du hast",
+            "TrackComposer": "Rammstein",
+            "MBID": "f140f178-4ba1-4797-bcf5-0590f9db4e54",
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+        },
+        {
+            "TrackArtist": "Andrea Berg",
+            "TrackTitle": "Du hast mich tausendmal belogen",
+            "TrackComposer": "Eugen R\u00f6mer, Andrea Berg",
+            "MBID": "7fcb1091-d02a-46e8-b953-9dcd269bbe37",
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+        },
+        {
+            "TrackArtist": "Lou Bega",
+            "TrackTitle": "Mambo No. 5 (A Little Bit of\u2026)",
+            "TrackComposer": "Perez Prado, Christian Pletschacher, Zippy Davids",
+            "MBID": "59320d3e-0e6e-4722-a3ec-a7e9a30c0992",
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+        },
+        {
+            "TrackArtist": "Matthias Reim",
+            "TrackTitle": "Verdammt ich lieb dich",
+            "TrackComposer": "Matthias Reim",
+            "MBID": "b16a84e3-fa3e-4c44-af44-d2d8d9b3823a",
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+        },
+        {
+            "TrackArtist": "Bl\u00fcmchen",
+            "TrackTitle": "Herz an Herz",
+            "TrackComposer": "Frank Oberpichler, Marc Paparone",
+            "MBID": "c4eb4588-cd01-4874-bca0-69bd84ea372f",
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+        },
+        {
+            "TrackArtist": "Lilly Wood and The Prick",
+            "TrackTitle": "Prayer in C (Robin Schulz remix)",
+            "TrackComposer": "Nili Hadida, Olivia Merilahti",
+            "MBID": "4b110255-0fff-4787-b216-94cc7e95283a",
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+        },
+        {
+            "TrackArtist": "UKW",
+            "TrackTitle": "Sommersprossen",
+            "TrackComposer": "Peter Hubert",
+            "MBID": "ea32279d-a2a6-4164-b963-89eb0f40695d",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Lucilectric",
+            "TrackTitle": "M\u00e4dchen",
+            "TrackComposer": "Luci van Org, Ralf Goldkind",
+            "MBID": "92a624fd-d460-4c59-a98f-aa63dfa53690",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Liquido",
+            "TrackTitle": "Narcotic",
+            "TrackComposer": "Wolfgang Schr\u00f6dl",
+            "MBID": "9b49066d-04de-4b9e-a046-fec73e3e4da4",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Bellini",
+            "TrackTitle": "Samba de Janeiro",
+            "TrackComposer": "Gottfried Engels, Airto Moreira, Ramon Zenker",
+            "MBID": "72e1955e-6086-46d5-8959-d80ec2398ac4",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Mark \u2019Oh",
+            "TrackTitle": "Tears Don\u2019t Lie",
+            "TrackComposer": "Marko Albrecht",
+            "MBID": "2604826f-4764-4b7b-a9ee-e9ac4e97b0e0",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Dune",
+            "TrackTitle": "Can't Stop Raving",
+            "TrackComposer": "Oliver Froning, Jens Oettrich, Bernd Burhoff",
+            "MBID": "cdf6a2be-41f6-44de-85c9-18a13f63bb98",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Red 5",
+            "TrackTitle": "Da Beat Goes",
+            "TrackComposer": "Thomas Kukula, Christian Ullrich",
+            "MBID": "33c8f819-72d6-4933-b650-d688d6235048",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Marquess",
+            "TrackTitle": "Vayamos Companeros",
+            "TrackComposer": "Marquess",
+            "MBID": "1ae0cc9d-930b-4fb0-bd9a-ba54a261188a",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "E\u2010Rotic",
+            "TrackTitle": "Max Don\u2019t Have Sex With Your Ex",
+            "TrackComposer": "David Brandes, Felix J. Gauder, John O'Flynn",
+            "MBID": "f78d2ad5-437c-4005-a836-a3ee66384812",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Magic Affair",
+            "TrackTitle": "OMEN III",
+            "TrackComposer": "Mike Staab, Bernd Meinunger",
+            "MBID": "61211d14-8b95-4df1-9673-29fdaa2499a3",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Dschinghis Khan",
+            "TrackTitle": "Dschinghis Khan",
+            "TrackComposer": "Ralph Siegel, Bernd Meinunger",
+            "MBID": "34056678-d077-4521-88b0-8bc302af178a",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Aqua",
+            "TrackTitle": "Barbie Girl",
+            "TrackComposer": "S\u00f8ren Rasted, Claus Norreen, Ren\u00e9 Dif, Lene Nystr\u00f8m",
+            "MBID": "1e68dbaf-5fcb-4f4d-b10b-927d28f33d41",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "DJ BoBo",
+            "TrackTitle": "Chihuahua",
+            "TrackComposer": "Ren\u00e9 Baumann, Axel Breitung",
+            "MBID": "36308204-d633-48bd-8f99-75fe1511b43d",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Vengaboys",
+            "TrackTitle": "We Like to Party! (The Vengabus)",
+            "TrackComposer": "Wessel van Diepen, Dennis van den Driesschen",
+            "MBID": "ed4f67a1-8580-4395-80f8-21dc48830f82",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Hermes House Band",
+            "TrackTitle": "I Will Survive",
+            "TrackComposer": "Frederick Perren, Dino Fekaris",
+            "MBID": "d8eb90ad-3a92-4eca-b962-23334c11779b",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Scatman John",
+            "TrackTitle": "Scatman (Ski Ba Bop Ba Dop Bop)",
+            "TrackComposer": "John Larkin, Antonio Catania",
+            "MBID": "4a63f7ec-05f4-4bea-b682-66bf8c3d7c94",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Gala",
+            "TrackTitle": "Freed From Desire",
+            "TrackComposer": "Gala Rizzatto, Filippo Andrea Carmeni, Maurizio Molella",
+            "MBID": "f392f0e9-602a-4967-8528-e3a3d0266f1b",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Darude",
+            "TrackTitle": "Sandstorm",
+            "TrackComposer": "Ville Virtanen",
+            "MBID": "9852e000-3810-4c50-bc3c-e3ea49727118",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Sch\u00e4fer Heinrich",
+            "TrackTitle": "Das Sch\u00e4ferlied",
+            "TrackComposer": "Christian L\u00f6sch, Andreas Wojcic",
+            "MBID": "8a182b16-e5af-4230-820f-06e5a667303c",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Kraftwerk",
+            "TrackTitle": "Trans Europe Express",
+            "TrackComposer": "Ralf H\u00fctter, Florian Schneider, Emil Schult",
+            "MBID": "0ca09c6a-51dd-4816-9191-a90f346e0507",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "And One",
+            "TrackTitle": "Military Fashion Show",
+            "TrackComposer": "Steve Naghavi",
+            "MBID": "b0126fd1-04eb-4bb1-93c4-7d7fbc105cda",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Eddie Izzard",
+            "TrackTitle": "Starship Enterprise",
+            "TrackComposer": "Honey, Fr\u00e4ulein Venus",
+            "MBID": "dd1a9f6a-8a39-4dca-a470-e211647e09ad",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Xmal Deutschland",
+            "TrackTitle": "Incubus Succubus II",
+            "TrackComposer": "Xmal Deutschland",
+            "MBID": "068ca428-0a31-43e4-adfc-1b715c75a456",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Stereo Total",
+            "TrackTitle": "I Love You, Ono",
+            "TrackComposer": "Fran\u00e7oise Cactus, Brezel G\u00f6ring",
+            "MBID": "5c3c3a0b-8a7e-441a-ab29-d32d0afb1054",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Ellen Allien",
+            "TrackTitle": "Stadtkind",
+            "TrackComposer": "Ellen Allien, Sascha Funke",
+            "MBID": "ea3c9dcf-1ef6-4133-b1c3-3de735238396",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Paul Kalkbrenner",
+            "TrackTitle": "Sky and Sand",
+            "TrackComposer": "Paul Kalkbrenner, Fritz Kalkbrenner",
+            "MBID": "9142ce8c-9d04-49f5-962d-c323041d32ad",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Sven V\u00e4th",
+            "TrackTitle": "Harlequin: The Beauty and the Beast (club mix)",
+            "TrackComposer": "Sven V\u00e4th, Ralf Hildenbeutel",
+            "MBID": "bb76eb51-e7d5-4f28-806b-d4b7ea01f10b",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "I.F.O.",
+            "TrackTitle": "Agharta, the City of Shambala",
+            "TrackComposer": "Maximilian Lenz",
+            "MBID": "063adda4-ae08-46b1-8ecf-b824b903673f",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Marusha",
+            "TrackTitle": "It Takes Me Away",
+            "TrackComposer": "Marusha Aphrodite Glei\u00df, Klaus Jankuhn",
+            "MBID": "26aa9767-4b68-41a3-92d5-7e1ebd6c0878",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Cosmic Baby",
+            "TrackTitle": "Heaven's Tears",
+            "TrackComposer": "Harald Bl\u00fcchel",
+            "MBID": "f306c4e9-a095-4b83-8b35-ac6282df7c06",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Jam & Spoon",
+            "TrackTitle": "Follow Me",
+            "TrackComposer": "Markus L\u00f6ffel, Rolf Ellmer",
+            "MBID": "f83af76d-f67b-406b-ae24-ce10ed37c058",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Dr. Motte & WestBam",
+            "TrackTitle": "One World One Loveparade",
+            "TrackComposer": "Dr. Motte, Westbam",
+            "MBID": "012ed26a-47c1-4707-ae0f-efb87c25d72c",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Underworld",
+            "TrackTitle": "Crocodile (Oliver Huntemann remix)",
+            "TrackComposer": "Oliver Huntemann",
+            "MBID": "f27794e5-3798-41a7-b2d7-1426794159b5",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Stephan Bodzin",
+            "TrackTitle": "Powers of Ten",
+            "TrackComposer": "Stephan Bodzin",
+            "MBID": "b3a6b6ed-837e-462e-adf8-350a02fe906d",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Boris Brejcha",
+            "TrackTitle": "Up Down Jumper",
+            "TrackComposer": "Boris Brejcha",
+            "MBID": "79f57a3a-2700-4a84-a101-15f76dd62d59",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Gregor Tresher",
+            "TrackTitle": "A Thousand Nights",
+            "TrackComposer": "Gregor Tresher",
+            "MBID": "462a1f2f-709f-49f9-828d-934c7b142611",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Moderat",
+            "TrackTitle": "Bad Kingdom",
+            "TrackComposer": "Sascha Ring, Gernot Bronsert, Sebastian Szary",
+            "MBID": "7806eacc-a3c9-4566-bbf9-de3248176c38",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Apparat",
+            "TrackTitle": "Goodbye",
+            "TrackComposer": "Sascha Ring",
+            "MBID": "0b9dd39c-c380-4a3b-8869-c92b8e280979",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Client",
+            "TrackTitle": "Drive (Lexy & K-Paul remix)",
+            "TrackComposer": "Alexander Gerlach, Kai Paul",
+            "MBID": "cd60d76c-6909-4ba9-813f-9f9b517eed7a",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "M\u00e4rtini Br\u00f6s.",
+            "TrackTitle": "The Biggest Fan",
+            "TrackComposer": "Christian Martin, Stefan Br\u00fcgesch",
+            "MBID": "da89f3f3-d1c7-4b79-bef2-10b6b157c3d3",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Wighnomy Brothers",
+            "TrackTitle": "Wombat",
+            "TrackComposer": "Robag Wruhme, Monkey Maffia",
+            "MBID": "dea0934e-f447-4cd7-90e2-e4a9cb7aadd0",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Robag Wruhme",
+            "TrackTitle": "Thora Vukk",
+            "TrackComposer": "Gabor Schablitzki",
+            "MBID": "f67365ff-79cc-4ae9-ac18-b3162fa1b080",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Dominik Eulberg",
+            "TrackTitle": "Sansula (Oder Der Letzte Grund)",
+            "TrackComposer": "Dominik Eulberg",
+            "MBID": "5e62c6d3-3834-4352-8064-2e81fa566f50",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Recondite",
+            "TrackTitle": "PSY",
+            "TrackComposer": "Lorenz Brunner",
+            "MBID": "7ba60093-8500-4229-ace8-b069a54f714a",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Peter Belli & De Nye Rivaler",
+            "TrackTitle": "Keep On Running",
+            "TrackComposer": "Helmut Geier",
+            "MBID": "3bc96cb2-8ee5-4806-8cee-e06452e41461",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Jeff Scott Soto",
+            "TrackTitle": "Forever Young (Alphaville)",
+            "TrackComposer": "Marian Gold, Bernhard Lloyd, Frank Mertens",
+            "MBID": "9350e920-84a0-432c-a8dd-9c0569b145df",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Fancy",
+            "TrackTitle": "Slice Me Nice",
+            "TrackComposer": "Anthony Monn, Grant Miller",
+            "MBID": "632b4ad2-5ce7-4c24-9e6e-4026bcf72479",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Bad Boys Blue",
+            "TrackTitle": "You're A Woman (Long Version)",
+            "TrackComposer": "Tony Hendrik, Karin Hartmann",
+            "MBID": "15a09aa4-6f2d-45e7-a9d0-dfc6431f0a51",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Modern Talking",
+            "TrackTitle": "Brother Louie (special long version)",
+            "TrackComposer": "Dieter Bohlen",
+            "MBID": "1b00f67d-6672-4e32-b74d-ac4e94312bd1",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Blue System",
+            "TrackTitle": "My Bed Is Too Big",
+            "TrackComposer": "Dieter Bohlen",
+            "MBID": "c45e7b1a-7143-4deb-8c94-4b78fc02351c",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Fancy",
+            "TrackTitle": "Disco (extended version)",
+            "TrackComposer": "Anthony Monn, Grant Miller",
+            "MBID": "78181d08-4325-4b11-a6e3-a20826ea2f1f",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "La Bouche",
+            "TrackTitle": "Sweet Dreams (club mix)",
+            "TrackComposer": "Frank Farian, Manuel Reuter, Uli Brenner",
+            "MBID": "ce1a3b69-1045-46a4-869d-28cb0d82109c",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Culture Beat",
+            "TrackTitle": "Mr. Vain (Vain mix)",
+            "TrackComposer": "Frank Farian, Nosie Katzmann, Jay Supreme",
+            "MBID": "d05c2e19-e9cd-491c-adbc-f02fa1343d3a",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Dharma Bum",
+            "TrackTitle": "What Is Love (Haddaway)",
+            "TrackComposer": "Dee Dee Halligan, Junior Torello",
+            "MBID": "9edc930a-b835-4548-8fb7-ac6a24be102b",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Original Hamster",
+            "TrackTitle": "More and More",
+            "TrackComposer": "Tony Dawson-Harrison, Nosie Katzmann, Giora Schein",
+            "MBID": "4a527bab-e516-483b-851b-567aed8c656f",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Masterboy",
+            "TrackTitle": "Masterboy Mega Mix (Maxi Cut): Feel The Heat Of The Night / I Got To Give It Up / Different Dreams / Is This The Love",
+            "TrackComposer": "Tommy Schleh, Enrico Zabler, Beatrice Opecar",
+            "MBID": "833a3037-1867-4a36-9d7e-246923b469b9",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Pharao",
+            "TrackTitle": "I Show You Secrets",
+            "TrackComposer": "Alexander Hawking, Djambi, Deon Blue",
+            "MBID": "b0420232-4470-4aa2-935a-b2c5e9eb5d9a",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "E\u2010Rotic",
+            "TrackTitle": "Max Don't Have Sex With Your Ex (extended version)",
+            "TrackComposer": "David Brandes, Felix J. Gauder, John O'Flynn",
+            "MBID": "9ffcfd36-1173-48cf-b8f9-424cf7b0cb32",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Sash!",
+            "TrackTitle": "Encore une fois (Future Breeze mix)",
+            "TrackComposer": "Sascha Lappessen, Thomas L\u00fcdke, Ralf Kappmeier",
+            "MBID": "40c05b74-693c-47ea-977a-c66de44f8a4a",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Cosmic Gate",
+            "TrackTitle": "Fire Wire (club mix)",
+            "TrackComposer": "Claus Terhoeven, Stefan Bossems",
+            "MBID": "34de045b-e681-4b88-86ad-5e56a196ea0d",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Blank & Jones",
+            "TrackTitle": "Cream (PvD radio mix)",
+            "TrackComposer": "Piet Blank, Jaspa Jones, Andreas Kaufhold",
+            "MBID": "2784620c-5c6a-4726-a3ca-6e160a6fb232",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Schiller",
+            "TrackTitle": "Das Glockenspiel (X/tended)",
+            "TrackComposer": "Christopher von Deylen, Mirko von Schlieffen",
+            "MBID": "4de87477-0390-4661-a698-a86d8ec1d5c2",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Fragma",
+            "TrackTitle": "Toca\u2019s Miracle (club mix)",
+            "TrackComposer": "Dirk Duderstadt, Marco Duderstadt, Ramon Zenker, Coco Star",
+            "MBID": "aaa79ba0-24b5-4d3d-9aa2-9bd907ad3033",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Scooter",
+            "TrackTitle": "Hyper Hyper",
+            "TrackComposer": "H.P. Baxxter, Rick J. Jordan, Ferris Bueller, Jens Thele",
+            "MBID": "6c2d6676-b461-4cd0-a489-76fec0637335",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Sultan + Shepard feat. Andreas Moss",
+            "TrackTitle": "Where Are You? (extended mix)",
+            "TrackComposer": "Ramon Zenker, Hubertus Weiler",
+            "MBID": "fbea604a-4a63-4037-8d0c-7d793f889c93",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Aquagen",
+            "TrackTitle": "Ihr Seid So Leise",
+            "TrackComposer": "Gino Montesano, Olaf Dieckmann, Christian Staschinski",
+            "MBID": "fdedcff5-c9d2-4f00-a71c-ae27c85d5264",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "DJ Quicksilver",
+            "TrackTitle": "Belissima (original 12\u2033 mix)",
+            "TrackComposer": "Orhan Terzi, Tommaso De Donatis",
+            "MBID": "592a0c5f-223e-4920-8d39-fafb95653b8d",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Members of Mayday",
+            "TrackTitle": "Members of Mayday Live at the Sonic Empire",
+            "TrackComposer": "Paul van Dyk, Westbam",
+            "MBID": "a76fb4c3-4a78-4f1a-9e1a-3eb7807d2f99",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Dune vs. Trubblemaker",
+            "TrackTitle": "Hardcore Vibes (original mix)",
+            "TrackComposer": "Oliver Froning, Jens Oettrich, Bernd Burhoff",
+            "MBID": "146abd6c-f193-409d-8d59-f2c8e649b2ca",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Interactive",
+            "TrackTitle": "Forever Young (extended version)",
+            "TrackComposer": "Andreas Schmidt, Marc Dornscheidt",
+            "MBID": "e96aa913-76d3-42ed-82fb-10faebeb3ff0",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Mark \u2019Oh",
+            "TrackTitle": "Randy (Never Stop That Feeling) (original mix)",
+            "TrackComposer": "Marko Albrecht",
+            "MBID": "7abb731e-7fc5-4741-ab98-edb27889a3fc",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "General Base",
+            "TrackTitle": "Poison (extended version)",
+            "TrackComposer": "Thomas E. Schreyer, Jens W. Thele",
+            "MBID": "f4dd1ef5-bc89-4ada-9359-65cef9fea8fa",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "WestBam",
+            "TrackTitle": "Celebration Generation (original mix)",
+            "TrackComposer": "Maximilian Lenz",
+            "MBID": "439953a0-9082-4282-be91-23c36b145276",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Marusha",
+            "TrackTitle": "Over the Rainbow (Somewhere Over the Rainbow) (video version)",
+            "TrackComposer": "Harold Arlen, E.Y. Harburg",
+            "MBID": "d614ffec-7931-499a-9d72-04beebad8732",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Kraftwerk",
+            "TrackTitle": "Tour de France (Fran\u00e7ois Kevorkian remix)",
+            "TrackComposer": "Ralf H\u00fctter, Florian Schneider, Maxime Schmitt",
+            "MBID": "70488240-bd61-46d1-a7e0-b6cf3d893c9a",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Der Dritte Raum",
+            "TrackTitle": "Hale Bopp (Original Mix)",
+            "TrackComposer": "Andreas Kr\u00fcger, Ralf Uhrlandt, Armin Kowatsch",
+            "MBID": "fdc22872-ae13-41dd-ad03-a9fe914bbac8",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Cosmic Gate",
+            "TrackTitle": "Crushed (original mix)",
+            "TrackComposer": "Claus Terhoeven, Stefan Bossems",
+            "MBID": "d7a0bc24-dc29-4083-90c9-4c097dfa502f",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Kraftwerk",
+            "TrackTitle": "Computer World",
+            "TrackComposer": "Ralf H\u00fctter, Florian Schneider, Karl Bartos, Emil Schult",
+            "MBID": "fc15c975-67f0-489c-b6dc-98567ed373d2",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Can",
+            "TrackTitle": "Mother Sky",
+            "TrackComposer": "Holger Czukay, Michael Karoli, Jaki Liebezeit, Irmin Schmidt, Damo Suzuki",
+            "MBID": "309095f1-fff9-4e52-95f3-2562df0e0b7a",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Neu!",
+            "TrackTitle": "Negativland",
+            "TrackComposer": "Klaus Dinger, Michael Rother",
+            "MBID": "3a4e8190-aa38-4717-9b51-0a128731da71",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "La D\u00fcsseldorf",
+            "TrackTitle": "Geld",
+            "TrackComposer": "Klaus Dinger",
+            "MBID": "a7afc144-6979-489f-a1c1-e39b52c29eb0",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Michael Rother",
+            "TrackTitle": "Feuerland",
+            "TrackComposer": "Michael Rother",
+            "MBID": "bb0f254c-f2cd-4239-a513-269c7afdc967",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Klaus Nomi",
+            "TrackTitle": "Can\u2019t Help Falling in Love",
+            "TrackComposer": "Frederick Hollander, Sammy Lerner",
+            "MBID": "7b5cb9ca-ed98-4f32-a936-1896c6e06253",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Extrabreit",
+            "TrackTitle": "Kleptomanie",
+            "TrackComposer": "Stefan Klein, Rolf M\u00f6ller",
+            "MBID": "cda5e97b-320e-41ee-8d72-ad9ac04542c1",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Joachim Witt",
+            "TrackTitle": "Gloria",
+            "TrackComposer": "Joachim Witt",
+            "MBID": "c8af6b39-2727-4b29-b271-8a61d34f698d",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Die Lunikoff Verschw\u00f6rung",
+            "TrackTitle": "Was wird aus Deutschland?",
+            "TrackComposer": "Stephan Remmler, Gert Krawinkel",
+            "MBID": "fd7c21bf-5431-478f-87f6-d4f1b7092584",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Hubert Kah mit Kapelle",
+            "TrackTitle": "Interview mit Hubert Kah",
+            "TrackComposer": "Hubert Kemmler, Markus L\u00f6hr",
+            "MBID": "841b878b-8ef6-4ca8-a6b4-40a954798bcb",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Nena",
+            "TrackTitle": "Fragezeichen",
+            "TrackComposer": "Uwe Fahrenkrog-Petersen, Nena Kerner",
+            "MBID": "c4934b7c-baa1-4768-b50f-bf15f141d374",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Sandra",
+            "TrackTitle": "Loreen",
+            "TrackComposer": "Frank Peterson, Michael Cretu",
+            "MBID": "41cc5bee-d1e3-42af-808d-748f620f86d4",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Modern Talking",
+            "TrackTitle": "Do You Wanna",
+            "TrackComposer": "Dieter Bohlen",
+            "MBID": "ede6c18a-70d5-496f-85ed-0e0ad08c46b5",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Alphaville",
+            "TrackTitle": "Summer Rain",
+            "TrackComposer": "Marian Gold, Bernhard Lloyd",
+            "MBID": "b5f7a27c-ea28-46a0-b158-518e37fdfb17",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Propaganda",
+            "TrackTitle": "Dr. Mabuse",
+            "TrackComposer": "Ralf D\u00f6rper, Andreas Thein, Michael Mertens",
+            "MBID": "88826cd9-6fc8-44c4-8385-8b56873424c1",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Die \u00c4rzte",
+            "TrackTitle": "Zu sp\u00e4t",
+            "TrackComposer": "Farin Urlaub",
+            "MBID": "97714cc2-4974-4088-ac6f-9e7f5d724214",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Sommerseit\u2019n Trio",
+            "TrackTitle": "La\u00dft die Korken knallen",
+            "TrackComposer": "Die Fantastischen Vier",
+            "MBID": "a312ea6c-0f26-4005-bc8f-05b4e8982da6",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "JokA feat. Sebastian H\u00e4mer",
+            "TrackTitle": "Freundeskreis",
+            "TrackComposer": "Max Herre, Don Philippe, DJ Friction",
+            "MBID": "5c25e973-7add-45fe-943d-067a6c1384b4",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Georg Danzer",
+            "TrackTitle": "Morgenrot",
+            "TrackComposer": "Denyo, Ei\u00dffeldt, DJ Mad",
+            "MBID": "f4a28737-43e6-41b2-89c2-256c71a01178",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Sido",
+            "TrackTitle": "Hol Doch Die Polizei",
+            "TrackComposer": "Paul W\u00fcrdig, Marek Stastny",
+            "MBID": "8bec849e-4acd-4ad9-8a32-ad93078a0e36",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Not for Sale",
+            "TrackTitle": "Rockstars",
+            "TrackComposer": "Carlo Waibel, Shindy",
+            "MBID": "295d9919-ab53-4224-94f0-6716d9249e64",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Fettes Brot",
+            "TrackTitle": "An Tagen wie diesen",
+            "TrackComposer": "Fettes Brot",
+            "MBID": "75ddcc57-7c78-4c09-9e6e-7f2daeb23320",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Ich",
+            "TrackTitle": "Zwerge + L\u00e4nder",
+            "TrackComposer": "Blumentopf",
+            "MBID": "80fcca89-6b23-4fa9-88f7-44f13f941379",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Pisse",
+            "TrackTitle": "Tocotronic an",
+            "TrackComposer": "Dirk von Lowtzow, Jan M\u00fcller, Arne Zank",
+            "MBID": "99976379-4b2e-4cd4-a528-8e535f95b608",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Blumfeld",
+            "TrackTitle": "Die Diktatur der Angepassten",
+            "TrackComposer": "Jochen Distelmeyer",
+            "MBID": "24d50dbb-3f9a-492c-bddd-61e3e6e77c2f",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Milliarden",
+            "TrackTitle": "\u00dcber die Kante",
+            "TrackComposer": "Kante",
+            "MBID": "70038ae5-b767-4945-8e11-f3105092e96a",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Party Hitpiraten feat. Buddy",
+            "TrackTitle": "Hallo Bimmelbahn",
+            "TrackComposer": "Fran\u00e7oise Cactus, Brezel G\u00f6ring",
+            "MBID": "d5cf9bef-b554-4128-93a5-5496c71c1034",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "The Notwist",
+            "TrackTitle": "One with the Freaks",
+            "TrackComposer": "The Notwist",
+            "MBID": "3c0e30e7-6030-497c-a366-e25bfe323408",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "MIA.",
+            "TrackTitle": "Alles neu",
+            "TrackComposer": "Mieze Katz, Ingo Puls, Andy Penn, Robert Sch\u00fctze",
+            "MBID": "b5d2edbb-dbe8-4c58-a5a4-dcbf7ab5a5a5",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Schmutzige Taten",
+            "TrackTitle": "Selten so gelacht",
+            "TrackComposer": "Dota Kehr",
+            "MBID": "cb29ae22-3c7c-4f0c-bd27-5d392a05b142",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Die Toten Hosen",
+            "TrackTitle": "Strom (Ohne Strom)",
+            "TrackComposer": "Mine, Text: Mine, Max Rieger",
+            "MBID": "54ac20a7-de0e-4327-8a65-ba8ab2222d8e",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "BOY",
+            "TrackTitle": "July",
+            "TrackComposer": "Valeska Steiner, Sonja Glass",
+            "MBID": "8f6931c2-5178-4fda-96ef-43f6da26c16f",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Roosevelt",
+            "TrackTitle": "Under the Sun",
+            "TrackComposer": "Marius Lauber",
+            "MBID": "67d72df2-fe54-470e-9161-0469801f05b9",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Hundreds",
+            "TrackTitle": "Machine",
+            "TrackComposer": "Hundreds",
+            "MBID": "de957f08-4e5a-4807-9ecb-5f656117f355",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Christian L\u00f6ffler",
+            "TrackTitle": "Lid",
+            "TrackComposer": "Christian L\u00f6ffler",
+            "MBID": "2950afab-0f04-49a5-894f-b6629277a734",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Scooter",
+            "TrackTitle": "Fire",
+            "TrackComposer": "H.P. Baxxter, Rick J. Jordan, Ferris Bueller, Jens Thele",
+            "MBID": "f8a6a13a-43a8-4a83-87a6-7d2fb498c419",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Members of Mayday",
+            "TrackTitle": "Culture Flash",
+            "TrackComposer": "Westbam, Klaus Jankuhn",
+            "MBID": "5cdd0ba6-def5-40d3-9cfb-2b7d3d374cc4",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "WestBam",
+            "TrackTitle": "Beatbox Rocker",
+            "TrackComposer": "Maximilian Lenz",
+            "MBID": "9127938e-612f-4541-bf21-eaf297e61e2d",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Paul van Dyk",
+            "TrackTitle": "We Are Alive",
+            "TrackComposer": "Paul van Dyk, Peter Vargo",
+            "MBID": "c025fe2a-71f0-4fff-b385-0744cc9d81ed",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "ATB",
+            "TrackTitle": "Don\u2019t Stop",
+            "TrackComposer": "Andr\u00e9 Tanneberger",
+            "MBID": "56ad2eba-2479-4474-b226-2f4dd7c6b2ad",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Fragma",
+            "TrackTitle": "Everytime You Need Me",
+            "TrackComposer": "Ramon Zenker, Dirk Duderstadt, Marco Duderstadt",
+            "MBID": "0cdb3999-d809-4c0d-ae60-e847a1d9bf16",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Brooklyn Bounce",
+            "TrackTitle": "Club Bizarre",
+            "TrackComposer": "Dennis Bohn, Matthias Menck, Christoph Br\u00fcx",
+            "MBID": "8fa8df6f-790b-4373-a233-8a25e45200cc",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Oliver Thomas",
+            "TrackTitle": "Und ab geht die Post",
+            "TrackComposer": "Gino Montesano, Olaf Dieckmann",
+            "MBID": "92e62804-14d9-4620-9c37-9698b3af6ba6",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "DJ Quicksilver",
+            "TrackTitle": "Ameno",
+            "TrackComposer": "Orhan Terzi",
+            "MBID": "e7ffe174-3369-4908-b093-10e655d4ddb9",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Blank & Jones",
+            "TrackTitle": "The Nightfly",
+            "TrackComposer": "Piet Blank, Jaspa Jones, Andreas Kaufhold",
+            "MBID": "d79358d3-5023-4bda-a9d7-13ed17a0f1bd",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Dune",
+            "TrackTitle": "Rainbow to the Stars",
+            "TrackComposer": "Oliver Froning, Jens Oettrich, Bernd Burhoff",
+            "MBID": "d919f35e-dce5-4523-bbc2-3a5208d533c4",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Mark \u2019Oh",
+            "TrackTitle": "Love Song",
+            "TrackComposer": "Marko Albrecht",
+            "MBID": "be835c77-bf9c-426d-8dc6-77107c5ba781",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Cascada",
+            "TrackTitle": "Evacuate the Dancefloor",
+            "TrackComposer": "Yann Peifer, Manuel Reuter, Natalie Horler",
+            "MBID": "ab0187c3-1529-449e-893f-f314bcfd138c",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Sash!",
+            "TrackTitle": "Ecuador",
+            "TrackComposer": "Sascha Lappessen, Thomas L\u00fcdke, Ralf Kappmeier",
+            "MBID": "fa9940d5-74a7-4d7e-9126-90dc5ac2fefd",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Bad Acid Trip",
+            "TrackTitle": "Zombie Nation",
+            "TrackComposer": "Florian Senfter",
+            "MBID": "aea10b12-dacb-4c5f-8b4a-afee8056c8b2",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Bounzz DJ Team",
+            "TrackTitle": "General Base",
+            "TrackComposer": "Thomas E. Schreyer, Jens W. Thele",
+            "MBID": "2513d11b-e808-40c5-a79d-8a49e728a774",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Kai Tracid",
+            "TrackTitle": "Life Is Too Short",
+            "TrackComposer": "Kai Tracid, Franky-B",
+            "MBID": "8bcd4019-8745-4bb8-9df4-fe3009951af7",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Cosmic Baby",
+            "TrackTitle": "Loops of Infinity",
+            "TrackComposer": "Harald Bl\u00fcchel",
+            "MBID": "3e8ccfbb-ff14-477b-a082-33565f8a8fe6",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Jam & Spoon",
+            "TrackTitle": "Find Me (Odyssey to Anyoona)",
+            "TrackComposer": "Markus L\u00f6ffel, Rolf Ellmer, Plavka Lonich",
+            "MBID": "26909e7c-92d3-4e0a-92b3-1f450b3a392d",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Members of Mayday",
+            "TrackTitle": "Mayday Anthem",
+            "TrackComposer": "Westbam, Klaus Jankuhn",
+            "MBID": "9e35c13d-836a-4528-9ae4-41b3942353dc",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Paul Kalkbrenner",
+            "TrackTitle": "Aaron",
+            "TrackComposer": "Paul Kalkbrenner",
+            "MBID": "be89e6b6-9188-4a93-aa03-88b73aed42af",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Boris Brejcha",
+            "TrackTitle": "Space Diver",
+            "TrackComposer": "Boris Brejcha",
+            "MBID": "95bfbbb8-49af-40fc-87c9-25a0acaf07cd",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Solee",
+            "TrackTitle": "Phoenix (AKA AKA & Thalstroem remix)",
+            "TrackComposer": "Hannes Bruni, Daniel Hofmann, Tobias Thalstroem",
+            "MBID": "f25b7ca7-d2cc-4ef3-b7a9-afd037edb5d9",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Lexy & K\u2010Paul",
+            "TrackTitle": "Freak",
+            "TrackComposer": "Alexander Gerlach, Kai Paul",
+            "MBID": "53a0d86f-aa7e-4964-ae33-3e26dd311e7c",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Marek Hemmann",
+            "TrackTitle": "Gemini",
+            "TrackComposer": "Marek Hemmann",
+            "MBID": "bb878e32-2dea-44c1-84bb-c7928b2d08aa",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Ronnie Foster",
+            "TrackTitle": "Chunky",
+            "TrackComposer": "Franziskus Sell, Jakob Huset",
+            "MBID": "fa61ae3d-53ee-40c1-aeee-4e6406287534",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Claptone",
+            "TrackTitle": "No Eyes",
+            "TrackComposer": "Claptone, Jimi Tenor",
+            "MBID": "fecdd1e7-5d7d-440b-97da-e6e490009718",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Tube & Berger",
+            "TrackTitle": "Imprint Of Pleasure",
+            "TrackComposer": "Arndt Roerig, Marko Vidovic",
+            "MBID": "776612c6-bd7f-4946-a87a-0062110a01f5",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Purple Disco Machine & Sophie and the Giants",
+            "TrackTitle": "Hypnotized",
+            "TrackComposer": "Tino Schmidt, Sophie Scott, Chiara Hunter",
+            "MBID": "789600a1-4563-43a2-a54b-bd2b351376ea",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Milk & Sugar",
+            "TrackTitle": "Let the Sun Shine",
+            "TrackComposer": "Mike Milk, Steven Sugar, Gary White",
+            "MBID": "b4605911-db56-4e08-b395-78c9d7bcf83c",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Moguai",
+            "TrackTitle": "U Know Y",
+            "TrackComposer": "Andre Tegeler",
+            "MBID": "c3c2b463-87b1-4acd-9d97-7428300900ba",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Digitalism",
+            "TrackTitle": "Pogo",
+            "TrackComposer": "Jens Moelle, \u0130smail T\u00fcfek\u00e7i",
+            "MBID": "ded759cd-e46e-4e81-8073-8938d70536ca",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Mark Forster",
+            "TrackTitle": "Flash mich",
+            "TrackComposer": "Mark Forster, Daniel Nitt, David J. Rempel",
+            "MBID": "43784b57-d976-4ef0-a25e-5e544ba6336e",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Lena Meyer Landrut",
+            "TrackTitle": "Taken by a Stranger",
+            "TrackComposer": "Gus Seyffert, Nicole Morier, Monica Birkenes",
+            "MBID": "401e2502-9465-422a-b3b4-de9866e59ffe",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Mark Forster",
+            "TrackTitle": "Liebe",
+            "TrackComposer": "Paul W\u00fcrdig, Marek Stastny, Konstantin Scherer, Vincent Stein, Mark Forster",
+            "MBID": "4719fc94-f340-48d4-ab5f-934261218cdb",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Casper",
+            "TrackTitle": "Hinterland",
+            "TrackComposer": "Benjamin Griffey, Marcus Wiebusch",
+            "MBID": "9f3a509f-2e6c-4cfc-b435-1763bdfde226",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Prinz Pi",
+            "TrackTitle": "Kompass ohne Norden",
+            "TrackComposer": "Friedrich Kautz, Biztram",
+            "MBID": "4c58cdee-4998-42d4-85ad-cfa424fa61e6",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Marteria, Yasha & Miss Platnum",
+            "TrackTitle": "Lila Wolken",
+            "TrackComposer": "Marteria, Yasha, Miss Platnum, The Krauts",
+            "MBID": "d8fb27c8-781e-423f-b998-b59d36da5e53",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "The BossHoss",
+            "TrackTitle": "Don't Gimme That",
+            "TrackComposer": "Boss Burns, Hoss Power",
+            "MBID": "39b6ee63-745f-4121-8145-ae08a4bbde25",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "MIA.",
+            "TrackTitle": "Zirkus",
+            "TrackComposer": "Mieze Katz, Ingo Puls, Andy Penn, Robert Sch\u00fctze",
+            "MBID": "0b6eb807-0626-4a0f-a512-ec5ea89d03be",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Jan Delay",
+            "TrackTitle": "Klar",
+            "TrackComposer": "Jan Delay, Tropf",
+            "MBID": "86de6cb3-7356-43fe-88e7-7e228858c8bf",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "BOY",
+            "TrackTitle": "Drive Darling",
+            "TrackComposer": "Valeska Steiner, Sonja Glass",
+            "MBID": "717a8157-c00c-4e1a-abf4-65bb19922f95",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Roosevelt",
+            "TrackTitle": "Sea",
+            "TrackComposer": "Marius Lauber",
+            "MBID": "e16f5de5-de0d-4684-bb0a-37ca91eaee6f",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Hundreds",
+            "TrackTitle": "Happy Virus",
+            "TrackComposer": "Hundreds",
+            "MBID": "51c98985-abcb-4e12-b3d4-518ef7acd545",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "The Elegants",
+            "TrackTitle": "Get Well Soon",
+            "TrackComposer": "Konstantin Gropper",
+            "MBID": "261a8eca-bbe3-4cf0-8ee6-58f032fcf331",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Beginner",
+            "TrackTitle": "Liebes Lied",
+            "TrackComposer": "Denyo, Ei\u00dffeldt, DJ Mad",
+            "MBID": "392dc7b9-b548-4701-a3b0-9a5b86459854",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Ich + Ich",
+            "TrackTitle": "So soll es bleiben",
+            "TrackComposer": "Annette Humpe, Adel Tawil",
+            "MBID": "79545a41-ee6c-4bfe-a3be-6bc256ca45f0",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Xavier Naidoo",
+            "TrackTitle": "Was wir alleine nicht schaffen",
+            "TrackComposer": "Xavier Naidoo",
+            "MBID": "ff47f5b6-2039-4261-aa41-1d58645a6b90",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Glasperlenspiel",
+            "TrackTitle": "Geiles Leben",
+            "TrackComposer": "Daniel Grunenberg, Carolin Niemczyk, David J. Roth, Filip Mitrovic",
+            "MBID": "dd422ec5-7d15-4d2b-8e62-2b56e9578523",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Mark Forster",
+            "TrackTitle": "Au revoir",
+            "TrackComposer": "Mark Forster, Sido, Ralf Christian Mayer",
+            "MBID": "8189c81e-1e99-4a54-a0ca-138d0acc76a7",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Die \u00c4rzte",
+            "TrackTitle": "Ein Lied f\u00fcr Jetzt",
+            "TrackComposer": "Farin Urlaub",
+            "MBID": "111c7604-15fe-4e91-a9e3-d1f06d744e3c",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Philipp Poisel",
+            "TrackTitle": "Wo f\u00e4ngt dein Himmel an",
+            "TrackComposer": "Philipp Poisel",
+            "MBID": "8f834044-316f-4ea7-819b-9cdbb966968f",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Leslie Clio",
+            "TrackTitle": "Eureka",
+            "TrackComposer": "Leslie Clio, David J. Roth, Filip Mitrovic",
+            "MBID": "e59ba156-12ea-4746-994e-5586ecf52f6b",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Marianne Rosenberg",
+            "TrackTitle": "Er geh\u00f6rt zu mir",
+            "TrackComposer": "Joachim Heider, Christian Heilburg",
+            "MBID": "7cde251e-1cc8-45dc-9911-dc275d3b04a6",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Wolfgang Petry",
+            "TrackTitle": "Wahnsinn",
+            "TrackComposer": "Wolfgang Petry, J\u00fcrgen D\u00f6nges",
+            "MBID": "3501cad7-1113-45d2-a1bb-addc1410cba1",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Scorpions",
+            "TrackTitle": "Wind of Change",
+            "TrackComposer": "Klaus Meine",
+            "MBID": "ac632ef8-0c86-4e88-b971-4a2567c5f5bd",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Kraftwerk",
+            "TrackTitle": "Das Modell",
+            "TrackComposer": "Ralf H\u00fctter, Karl Bartos, Emil Schult",
+            "MBID": "eb19911d-18ba-4e2f-8610-491268e71a0e",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "DJ Sammy & Yanou feat. Do",
+            "TrackTitle": "Heaven",
+            "TrackComposer": "Bryan Adams, Jim Vallance",
+            "MBID": "d745fc94-fe7b-4cc7-8736-059c37a9a293",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Goombay Dance Band",
+            "TrackTitle": "Sun of Jamaica",
+            "TrackComposer": "Jutta Armes, Wolfgang Jass",
+            "MBID": "33f2a36e-9522-45ac-9554-7fa3023bb014",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Hubert Kah",
+            "TrackTitle": "Engel 07",
+            "TrackComposer": "Hubert Kemmler, Michael Herbig",
+            "MBID": "758a8dce-3603-4594-81ba-1aad68ab5991",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "C.C. Catch",
+            "TrackTitle": "Cause You Are Young",
+            "TrackComposer": "Dieter Bohlen",
+            "MBID": "9b016c56-b70a-46fd-ae82-13735105de62",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Bad Boys Blue",
+            "TrackTitle": "You\u2019re a Woman",
+            "TrackComposer": "Tony Hendrik, Karin van Haaren",
+            "MBID": "b04d6698-0273-4a02-aa5b-819e0661c1d4",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Silent Circle",
+            "TrackTitle": "Touch in the Night",
+            "TrackComposer": "Bernd Dietrich, Engelbert Simons, Martin Tychsen",
+            "MBID": "a3541de3-6d9a-4f6b-9b81-49af4d736835",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Chris Norman",
+            "TrackTitle": "Midnight Lady",
+            "TrackComposer": "Dieter Bohlen",
+            "MBID": "c3816cd1-a5cf-4ea4-8662-e9206bb3083c",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Roland Kaiser",
+            "TrackTitle": "Santa Maria",
+            "TrackComposer": "Raimond Niessen, Norbert Hammerschmidt",
+            "MBID": "e81b285b-9435-4fd9-8ce6-4885e8b11214",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Falco",
+            "TrackTitle": "Jeanny",
+            "TrackComposer": "Falco, Rob Bolland, Ferdi Bolland",
+            "MBID": "54b28037-48ef-4cbf-9809-01361fb34be0",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "All\u20104\u2010One",
+            "TrackTitle": "Kool Savas & Azad",
+            "TrackComposer": "Kool Savas, Sido",
+            "MBID": "8eaae687-e874-4c73-b139-98e1f4eebf31",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Rio Reiser",
+            "TrackTitle": "Die fantastischen Vier",
+            "TrackComposer": "Die Fantastischen Vier",
+            "MBID": "610869c8-58c4-442c-8d1a-847938e228b4",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Tocotronic",
+            "TrackTitle": "Aber Hier Leben, Nein Danke",
+            "TrackComposer": "Dirk von Lowtzow, Arne Zank, Jan M\u00fcller, Rick McPhail",
+            "MBID": "0c914671-db5e-4123-8eb7-2b7e7471c6bb",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Fettes Brot",
+            "TrackTitle": "Schwule M\u00e4dchen",
+            "TrackComposer": "Bj\u00f6rn Beton, Dokter Renz, K\u00f6nig Boris",
+            "MBID": "4a6a97e7-6297-4f36-9495-6209e869d708",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Freundeskreis",
+            "TrackTitle": "Mit dir",
+            "TrackComposer": "Max Herre, Don Philippe, Afrob, Wasi",
+            "MBID": "bb738e23-a221-437a-873f-fe83facdbe17",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Beginner",
+            "TrackTitle": "Gustav Gans",
+            "TrackComposer": "Beginner",
+            "MBID": "9af17337-e9fe-41e6-a2a3-f189387f7193",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Comedian Harmonists",
+            "TrackTitle": "Mein kleiner gr\u00fcner Kaktus",
+            "TrackComposer": "Bert Reisfeld, Albrecht Marcuse",
+            "MBID": "d9bc82ae-247c-4fdc-90e4-84382594943e",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "D\u00d6F",
+            "TrackTitle": "Codo",
+            "TrackComposer": "Josef Kratochvil, Annette Humpe, Manfred Tauchen",
+            "MBID": "c1993456-e57d-4336-9d41-777388850982",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Rosenstolz",
+            "TrackTitle": "Liebe ist alles",
+            "TrackComposer": "AnNa R., Peter Plate",
+            "MBID": "1391fda3-f721-4c7a-8e1e-c4bb7acf07a1",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Juli",
+            "TrackTitle": "Dieses Leben",
+            "TrackComposer": "Juli",
+            "MBID": "42f196b5-18a3-4af6-9d23-57e2dcbef680",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Sportfreunde Stiller",
+            "TrackTitle": "Ich Roque",
+            "TrackComposer": "Sportfreunde Stiller",
+            "MBID": "3a05d5be-f47c-4df4-8af7-2302f0510e9d",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Max Herre",
+            "TrackTitle": "Wolke 7 (Kommentar)",
+            "TrackComposer": "Max Herre, Samy Deluxe, Megaloh",
+            "MBID": "c2d72e29-53f0-4d82-9639-eb030891cc7e",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Joy Denalane",
+            "TrackTitle": "Was auch immer",
+            "TrackComposer": "Joy Denalane, Max Herre, DJ Friction",
+            "MBID": "d274bec9-fe7e-499e-aaf0-23b9a9b4f456",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Andreas Bourani",
+            "TrackTitle": "Ultraleicht",
+            "TrackComposer": "Andreas Bourani, Simon Triebel, Julius Hartog",
+            "MBID": "9cc669aa-a10b-4b91-8f2f-61b4479c0352",
+            "Category": "Songs occurring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Olaf der Flipper",
+            "TrackTitle": "Die sch\u00f6nsten Momente an Weihnacht",
+            "TrackComposer": "SDP, Sido",
+            "MBID": "9379f5e2-ffed-4a7d-8936-9069b4757867",
+            "Category": "Songs occurring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Mark Forster",
+            "TrackTitle": "Bauch und Kopf",
+            "TrackComposer": "Mark Forster, Ralf Christian Mayer, Daniel Nitt",
+            "MBID": "0ea0e3ba-0045-4683-9158-aa7246dae829",
+            "Category": "Songs occurring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Nico Santos",
+            "TrackTitle": "Rooftop",
+            "TrackComposer": "Nico Santos, Dennis Bierbrodt, J\u00fcrgen Dohr",
+            "MBID": "5f9e75c7-c635-4cc9-9cf3-ffaa8849e56a",
+            "Category": "Songs occurring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "LOTTE & Max Giesinger",
+            "TrackTitle": "Auf das, was da noch kommt",
+            "TrackComposer": "Lotte, Max Giesinger, Tobias Philippsen, Benjamin Bistram",
+            "MBID": "c4874000-eac7-47ed-8fca-303c9db1c699",
+            "Category": "Songs occurring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Gest\u00f6rt aber GeiL & Koby Funk feat. Wincent Weiss",
+            "TrackTitle": "Unter meiner Haut",
+            "TrackComposer": "Dirk W\u00f6hrle, Florian Schuck, Wincent Weiss",
+            "MBID": "0a8c4639-5b3e-4b14-b127-4fd12d20d144",
+            "Category": "Songs occurring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Glasperlenspiel",
+            "TrackTitle": "Echt",
+            "TrackComposer": "Daniel Grunenberg, Carolin Niemczyk, Philipp Schardt",
+            "MBID": "dafc2fc5-025e-49d7-b1eb-a63bb8e00c1c",
+            "Category": "Songs occurring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Roland Kaiser",
+            "TrackTitle": "Dich zu lieben",
+            "TrackComposer": "Norbert Hammerschmidt, Gerd Grabowski",
+            "MBID": "584e7ddd-6eb3-4ce7-ab67-2e8572d368b0",
+            "Category": "Songs occurring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Maite Kelly",
+            "TrackTitle": "Die Liebe siegt sowieso",
+            "TrackComposer": "Maite Kelly, Johan Daansen, Felix Gauder",
+            "MBID": "67d6dd55-1bc2-4169-a5bf-ce542d7ee988",
+            "Category": "Songs occurring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Howard Carpendale",
+            "TrackTitle": "Hello Again",
+            "TrackComposer": "Howard Carpendale, Joachim Horn-Bernges",
+            "MBID": "b9508ccd-671e-465a-89de-9bf892784b2a",
+            "Category": "Songs occurring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "J\u00fcrgen Drews",
+            "TrackTitle": "Ein Bett im Kornfeld",
+            "TrackComposer": "J\u00fcrgen Drews, Harold Faltermeyer, Peter Zentner",
+            "MBID": "c132122c-7ffa-4aa4-a42e-83f7b7ca3daa",
+            "Category": "Songs occurring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Mickie Krause",
+            "TrackTitle": "Schatzi schenk mir ein Foto",
+            "TrackComposer": "Mickie Krause, Ammar Elmoubarik",
+            "MBID": "017cd9e0-438f-4140-adef-cb359b551906",
+            "Category": "Songs occurring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "DJ \u00d6tzi & Nik P.",
+            "TrackTitle": "Ein Stern (der deinen Namen tr\u00e4gt) 2015",
+            "TrackComposer": "Nik P.",
+            "MBID": "c74c136f-e580-4aaa-a05f-b563defff650",
+            "Category": "Songs occurring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Simon sagt",
+            "TrackTitle": "Einfach nur wow",
+            "TrackComposer": "Anna-Maria Zimmermann, Marcel Schafhausen, J\u00f6rg Bausch",
+            "MBID": "d7ed626b-1043-4e49-b459-16edaa43028d",
+            "Category": "Songs occurring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Peter Wackel",
+            "TrackTitle": "Die Nacht von Freitag auf Montag",
+            "TrackComposer": "Sebastian Seidel, Rico Einenkel, Chris Cronauer",
+            "MBID": "1dfa693e-6ccc-4269-89fb-cf31a509aade",
+            "Category": "Songs occurring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Michael Wendler",
+            "TrackTitle": "Sie liebt den DJ",
+            "TrackComposer": "Michael Wendler, Hermann Niesig",
+            "MBID": "87d34925-b767-44ca-81c4-33ada123dfa3",
+            "Category": "Songs occurring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Ben Zucker",
+            "TrackTitle": "Was f\u00fcr eine geile Zeit",
+            "TrackComposer": "Ben Zucker, Thorsten Br\u00f6tzmann, David Gold",
+            "MBID": "9b910111-89da-4da3-9f2e-53b6da58ef85",
+            "Category": "Songs occurring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Pietro Lombardi",
+            "TrackTitle": "Ph\u00e4nomenal",
+            "TrackComposer": "Pietro Lombardi, Philippe Heithier, Oliver Hahn",
+            "MBID": "7d75fc6e-42ca-4475-afef-f30fc1687b05",
+            "Category": "Songs occurring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "[unknown]",
+            "TrackTitle": "We Have a Dream - DSDS",
+            "TrackComposer": "Dieter Bohlen",
+            "MBID": "c5565942-9546-4b1d-a12c-6ffe2a7cdde5",
+            "Category": "Songs occurring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Anne Terzibaschitsch",
+            "TrackTitle": "Aus einer anderen Welt",
+            "TrackComposer": "Hartmut Krech, Mark Nissen, Johannes Oerding",
+            "MBID": "6190dae0-bf77-4c80-b51c-30e2bc99ddfe",
+            "Category": "Songs occurring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Andreas Gabalier",
+            "TrackTitle": "I sing a Liad f\u00fcr di",
+            "TrackComposer": "Andreas Gabalier",
+            "MBID": "efb3793a-a810-4242-a5a7-51700aad7852",
+            "Category": "Songs occurring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Vicky Leandros",
+            "TrackTitle": "Theo, wir fahr'n nach Lodz",
+            "TrackComposer": "Leo Leandros, Klaus Munro, Christian Heilburg",
+            "MBID": "6a7ab2eb-0d65-4d80-a3da-af445f424f14",
+            "Category": "Songs occurring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Heino",
+            "TrackTitle": "Schwarzbraun ist die Haselnu\u00df",
+            "TrackComposer": "Traditional",
+            "MBID": "db13fa29-25c5-42f9-8ad4-be1812c6aa12",
+            "Category": "Songs occurring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Gunter Gabriel",
+            "TrackTitle": "Hey Boss, ich brauch\u2019 mehr Geld",
+            "TrackComposer": "Gunter Gabriel",
+            "MBID": "c11d7f39-e59a-44d7-bdbf-25ba214e6312",
+            "Category": "Songs occurring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Costa Cordalis",
+            "TrackTitle": "Anita",
+            "TrackComposer": "Costa Cordalis, Jean Frankfurter",
+            "MBID": "cf2ed85a-dfd5-4e25-9a07-ae2ca53ea889",
+            "Category": "Songs occurring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Wolfgang Petry",
+            "TrackTitle": "Bronze, Silber und Gold",
+            "TrackComposer": "Wolfgang Petry, J\u00fcrgen D\u00f6nges",
+            "MBID": "da565d0f-d588-4509-9fa2-ce53758d353a",
+            "Category": "Songs occurring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Felix Jaehn",
+            "TrackTitle": "Hot2touch",
+            "TrackComposer": "Felix Jaehn, Tim Schou, Andrew Bullimore",
+            "MBID": "4943729e-95cd-49c6-8af3-4f94d91ec084",
+            "Category": "Songs occurring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Robin Schulz feat. James Blunt",
+            "TrackTitle": "OK",
+            "TrackComposer": "Robin Schulz, James Blunt, Steve Mac",
+            "MBID": "f9390bff-d1eb-4de8-834b-1d73cf97c507",
+            "Category": "Songs occurring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Anna Naklab feat. Alle Farben & YOUNOTUS",
+            "TrackTitle": "Supergirl",
+            "TrackComposer": "Alle Farben, Janieck Devy, Frans van Geest",
+            "MBID": "f349f55f-0dcb-40b6-b308-f2d139eadac3",
+            "Category": "Songs occurring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Topic & A7S",
+            "TrackTitle": "Breaking Me",
+            "TrackComposer": "Tobias Topic, Alexander Tidebrink, Daniel Deimann",
+            "MBID": "e9f0fc68-e6b9-44d4-a212-b23d4ec40d00",
+            "Category": "Songs occurring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "LEA",
+            "TrackTitle": "Immer wenn wir uns sehn",
+            "TrackComposer": "LEA, Tobias Kuhn",
+            "MBID": "dd2c6737-55ec-4c78-b560-b358450dedd5",
+            "Category": "Songs occurring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Mark Forster",
+            "TrackTitle": "Einmal",
+            "TrackComposer": "Mark Forster, Ralf Christian Mayer, Daniel Nitt",
+            "MBID": "19a77485-08a3-4d98-9a7d-1bb48fcc4f03",
+            "Category": "Songs occurring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Johannes Oerding",
+            "TrackTitle": "Alles brennt",
+            "TrackComposer": "Johannes Oerding, Benni Dernhoff, Jo Fabian, Chris Howard",
+            "MBID": "95b998a0-0efe-40d3-9e90-870d53b92e15",
+            "Category": "Songs occurring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Sarah Connor",
+            "TrackTitle": "Bonnie & Clyde",
+            "TrackComposer": "Sarah Connor, Peter Plate, Ulf Leo Sommer",
+            "MBID": "8fe3130e-1403-4c48-9b2f-18db8092d6c4",
+            "Category": "Songs occurring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Bonez MC & RAF Camora",
+            "TrackTitle": "Palmen aus Plastik",
+            "TrackComposer": "Bonez MC, RAF Camora, The Cratez",
+            "MBID": "22b0025d-044f-4f9c-a0b5-9c897c46166e",
+            "Category": "Songs occurring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Kontra K",
+            "TrackTitle": "Adrenalin",
+            "TrackComposer": "Kontra K, The Cratez",
+            "MBID": "cc098b11-0ec5-4712-9de8-e275defdcd10",
+            "Category": "Songs occurring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Sido feat. Andreas Bourani",
+            "TrackTitle": "Astronaut",
+            "TrackComposer": "Sido, Andreas Bourani, Marek Pompetzki",
+            "MBID": "bec9ed40-f0c7-441e-adef-0a821347a9bd",
+            "Category": "Songs occurring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Marteria",
+            "TrackTitle": "Bengalische Tiger",
+            "TrackComposer": "Marteria, The Krauts",
+            "MBID": "9249c8c3-fac1-4327-9a60-3630c016c79e",
+            "Category": "Songs occurring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Prinz Pi",
+            "TrackTitle": "Du bist",
+            "TrackComposer": "Prinz Pi",
+            "MBID": "3bd552b1-5ffc-4a6b-9379-68fc4ade0513",
+            "Category": "Songs occurring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Kontra K",
+            "TrackTitle": "Erfolg ist kein Gl\u00fcck",
+            "TrackComposer": "Kontra K, The Cratez",
+            "MBID": "f9038d15-b49a-4f5c-8f92-e52874538772",
+            "Category": "Songs occurring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Juju",
+            "TrackTitle": "Vermissen",
+            "TrackComposer": "Juju, Krutsch",
+            "MBID": "6a09355c-5d4a-4a14-aeca-f1aa294c385f",
+            "Category": "Songs occurring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Loredana & Mozzik",
+            "TrackTitle": "ROMEO & JULIET",
+            "TrackComposer": "Loredana, Macloud, Miksu",
+            "MBID": "6ee04cf6-6665-4c3c-b34c-c2b9a812c12d",
+            "Category": "Songs occurring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "MERO",
+            "TrackTitle": "Baller Los",
+            "TrackComposer": "Mero, O.J.O.",
+            "MBID": "f7e18744-4394-447a-9970-fdf03dd7c688",
+            "Category": "Songs occurring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "RIN",
+            "TrackTitle": "Dior 2001",
+            "TrackComposer": "RIN, Alexis Troy",
+            "MBID": "6505eeee-15cf-445a-b5a5-152b0f832f9b",
+            "Category": "Songs occurring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Apache 207",
+            "TrackTitle": "Matrix",
+            "TrackComposer": "Apache 207, Lucry",
+            "MBID": "85762f19-d7fd-45be-b3f3-8c95e7fa425a",
+            "Category": "Songs occurring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Montez",
+            "TrackTitle": "Auf & Ab",
+            "TrackComposer": "Montez, Aside, Benno de Goeij",
+            "MBID": "6c4875f8-9f7e-4b57-b5e6-66133cdba210",
+            "Category": "Songs occurring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "AnnenMayKantereit",
+            "TrackTitle": "Tommi",
+            "TrackComposer": "AnnenMayKantereit",
+            "MBID": "011c76b7-1500-4d8d-bd36-50a606bdf1ba",
+            "Category": "Songs occurring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Mine",
+            "TrackTitle": "Anker",
+            "TrackComposer": "Mine",
+            "MBID": "2c432955-f83e-49fd-bf7c-33954597fd51",
+            "Category": "Songs occurring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Mark Forster, LEA",
+            "TrackTitle": "Drei Uhr Nachts",
+            "TrackComposer": "LEA, ELIF, Robin Schulz",
+            "MBID": "29130013-ac00-4bbe-a74f-2dff158383bf",
+            "Category": "Songs occurring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Wincent Weiss",
+            "TrackTitle": "Einmal im Leben",
+            "TrackComposer": "Wincent Weiss, Sascha Wernicke, Kevin Zaremba",
+            "MBID": "8ea40c72-8fb9-4eb9-a104-8754035266e3",
+            "Category": "Songs occurring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Capital Bra feat. Gest\u00f6rt aber GeiL",
+            "TrackTitle": "Gest\u00f6rt aber geil",
+            "TrackComposer": "Gest\u00f6rt aber GeiL, Alexander Tidebrink",
+            "MBID": "2af68cfc-1229-472d-a6a4-5eaa0a93786c",
+            "Category": "Songs occurring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Glasperlenspiel",
+            "TrackTitle": "Ich bin ich",
+            "TrackComposer": "Daniel Grunenberg, Carolin Niemczyk, Filip Mitrovic",
+            "MBID": "e3123c9c-9d77-4a77-a025-8a4a8891caa9",
+            "Category": "Songs occurring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Sarah Connor",
+            "TrackTitle": "Ich w\u00fcnsch dir",
+            "TrackComposer": "Sarah Connor, Peter Plate, Ulf Leo Sommer",
+            "MBID": "ee705239-a225-47df-b634-bc0920223617",
+            "Category": "Songs occurring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Tim Bendzko",
+            "TrackTitle": "Wenn Worte meine Sprache w\u00e4ren",
+            "TrackComposer": "Tim Bendzko, Florian Fischer, Fabian Rohrlach",
+            "MBID": "72712e86-55ee-4fca-b1e5-5d241dd23c5b",
+            "Category": "Songs occurring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Ich + Ich",
+            "TrackTitle": "Vom selben Stern",
+            "TrackComposer": "Annette Humpe, Adel Tawil",
+            "MBID": "87162245-0301-4c5d-b74e-b01ccf6fc1ca",
+            "Category": "Songs occurring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Juli",
+            "TrackTitle": "Warum",
+            "TrackComposer": "Juli",
+            "MBID": "3780db4f-c3b3-41ef-a9ae-4974a5b06e94",
+            "Category": "Songs occurring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Wir sind Helden",
+            "TrackTitle": "Kommentar zu \"Stiller\"",
+            "TrackComposer": "Wir sind Helden",
+            "MBID": "bd0922fe-7128-481e-87e1-d7b0bc34ab0e",
+            "Category": "Songs occurring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Revolverheld",
+            "TrackTitle": "Spinner",
+            "TrackComposer": "Johannes Strate, Kristoffer H\u00fcnecke, Niels Kristian Hansen, Jakob Sinn",
+            "MBID": "af58e607-df29-4905-b1f9-80f9cbe20a65",
+            "Category": "Songs occurring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Namika",
+            "TrackTitle": "Kompliziert",
+            "TrackComposer": "Namika, Beatgees, Elias Hadjeus",
+            "MBID": "5e753706-85d2-4bf6-b02e-d41d8205a0b3",
+            "Category": "Songs occurring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "LEA",
+            "TrackTitle": "Okay",
+            "TrackComposer": "LEA, Konstantin Scherer, Vincent Stein",
+            "MBID": "00947204-8544-49b8-8065-20cbdba06a89",
+            "Category": "Songs occurring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Bosse",
+            "TrackTitle": "Dein Hurra",
+            "TrackComposer": "Bosse",
+            "MBID": "919af113-88e5-494a-93d6-10cdf9eeec19",
+            "Category": "Songs occurring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Extrabreit",
+            "TrackTitle": "Augen zu",
+            "TrackComposer": "Provinz",
+            "MBID": "6d1a5eb1-560f-4273-b6a5-1636b4cc3bab",
+            "Category": "Songs occurring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Giant Rooks",
+            "TrackTitle": "Bright Lies",
+            "TrackComposer": "Giant Rooks",
+            "MBID": "bdd9df23-3555-47f6-ad71-8dff917a3384",
+            "Category": "Songs occurring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Gisbert zu Knyphausen",
+            "TrackTitle": "Spieglein, Spieglein",
+            "TrackComposer": "Mine",
+            "MBID": "93c87d9a-0612-4234-8091-6ed90aa69522",
+            "Category": "Songs occurring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Mofakette",
+            "TrackTitle": "Eure Stadt",
+            "TrackComposer": "Kraftklub",
+            "MBID": "83bb3d76-7677-4ece-9dd3-bd41af6dc88b",
+            "Category": "Songs occurring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Farin Urlaub Racing Team",
+            "TrackTitle": "Gl\u00fccklich",
+            "TrackComposer": "Farin Urlaub",
+            "MBID": "1a4f3240-f7f6-4aef-af3c-b81d7f7f4408",
+            "Category": "Songs occurring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Christina St\u00fcrmer",
+            "TrackTitle": "Ich lebe",
+            "TrackComposer": "Armin Wei\u00df, Frank Ramond",
+            "MBID": "bbec4cf5-6349-4662-a73c-d35fb013f74f",
+            "Category": "Songs occurring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Andreas Gabalier",
+            "TrackTitle": "Hulapalu",
+            "TrackComposer": "Andreas Gabalier",
+            "MBID": "52f0e20d-3e80-442e-915d-4016a62663bd",
+            "Category": "Songs occurring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Santiano",
+            "TrackTitle": "Santiano",
+            "TrackComposer": "Hartmut Lehmkuhl",
+            "MBID": "3d5e777b-b7b4-4335-9672-c97ab0f63a9b",
+            "Category": "Songs occurring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Angelo Kelly & Family",
+            "TrackTitle": "Irish Heart",
+            "TrackComposer": "Angelo Kelly",
+            "MBID": "63ed0350-c5ae-4443-8f60-1fe3d16280ac",
+            "Category": "Songs occurring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "The Kelly Family",
+            "TrackTitle": "An Angel",
+            "TrackComposer": "Kelly Family",
+            "MBID": "54547a77-593b-4fc3-bb47-0e4e48e444cb",
+            "Category": "Songs occurring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Udo Lindenberg",
+            "TrackTitle": "Reeperbahn",
+            "TrackComposer": "Udo Lindenberg",
+            "MBID": "9c3f5fed-0249-4667-81c9-c8b95cd979a0",
+            "Category": "Songs occurring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Milky Chance",
+            "TrackTitle": "Flashed Junk Mind",
+            "TrackComposer": "Clemens Rehbein, Philipp Dausch",
+            "MBID": "fbfc2bfd-06f5-4c3c-aa7e-dc9356dba0c4",
+            "Category": "Songs occurring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Alice Merton",
+            "TrackTitle": "Hit the Ground Running",
+            "TrackComposer": "Alice Merton, Nicolas Rebscher",
+            "MBID": "1fa00add-a777-4c16-add1-834d11e48ba9",
+            "Category": "Songs occurring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Limahl",
+            "TrackTitle": "Never Ending Story",
+            "TrackComposer": "Cro",
+            "MBID": "fcb6a80d-5ccc-4ce9-8eaf-0469839bdd96",
+            "Category": "Songs occurring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Juju",
+            "TrackTitle": "Hardcore High",
+            "TrackComposer": "Juju, Krutsch",
+            "MBID": "0ebc4d7b-15ee-4174-b8bf-c22bb17624aa",
+            "Category": "Songs occurring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Mine feat. Sophie Hunger",
+            "TrackTitle": "Hin\u00fcber",
+            "TrackComposer": "Mine",
+            "MBID": "f8883088-f641-4501-a801-5d7657661817",
+            "Category": "Songs occurring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Von Wegen Lisbeth",
+            "TrackTitle": "Wenn du tanzt",
+            "TrackComposer": "Von Wegen Lisbeth",
+            "MBID": "0e1dd0cd-6b75-4670-b17a-5b506e45a9e6",
+            "Category": "Songs occurring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "K.I.Z",
+            "TrackTitle": "Ein Affe und ein Pferd",
+            "TrackComposer": "K.I.Z, Dead Rabbit",
+            "MBID": "23274ae5-0a5c-4f14-8bad-32b7c8b84d88",
+            "Category": "Songs occurring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Giant Rooks",
+            "TrackTitle": "Watershed",
+            "TrackComposer": "Giant Rooks",
+            "MBID": "fec55cfc-5728-4380-88b4-08d12dadbbde",
+            "Category": "Songs occurring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Lichterkinder",
+            "TrackTitle": "Auf die Pl\u00e4tze, fertig, los!",
+            "TrackComposer": "Provinz",
+            "MBID": "e9812ce6-e193-4774-afcd-4fe24bbc3a4c",
+            "Category": "Songs occurring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Turbund Sturmwerk",
+            "TrackTitle": "Drangsal",
+            "TrackComposer": "Max Gruber",
+            "MBID": "1a7226b1-2b59-4c7f-807c-ea41fef8d601",
+            "Category": "Songs occurring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "FJ\u00d8RT",
+            "TrackTitle": "Nichts [n\u0131\u00e7hts]",
+            "TrackComposer": "Fjort",
+            "MBID": "109af079-4997-42cf-bfe1-6b90bc6814e7",
+            "Category": "Songs occurring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Gurr",
+            "TrackTitle": "Walnuss",
+            "TrackComposer": "Laura Lee, Andreya Casablanca",
+            "MBID": "c90d89ae-6a6d-4a04-8061-1697903f41d3",
+            "Category": "Songs occurring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Wolf Maahn",
+            "TrackTitle": "Fahr, fahr",
+            "TrackComposer": "Isolation Berlin",
+            "MBID": "08b95cdf-138a-49a7-93f2-eaa838416448",
+            "Category": "Songs occurring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Die Nerven",
+            "TrackTitle": "Angst",
+            "TrackComposer": "Max Rieger, Julian Knoth, Kevin Kuhn",
+            "MBID": "5430cb47-2a73-4a2c-bf32-22cd33511b3c",
+            "Category": "Songs occurring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Blond",
+            "TrackTitle": "Sanifair Million\u00e4r",
+            "TrackComposer": "Blond",
+            "MBID": "c14b017c-4700-4f25-b7bc-4361ab5cc26c",
+            "Category": "Songs occurring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Nena",
+            "TrackTitle": "Du kennst die Liebe nicht",
+            "TrackComposer": "Tristan Brusch",
+            "MBID": "a133722d-ca1d-4552-9e51-eac35f67a74f",
+            "Category": "Songs occurring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Betterov",
+            "TrackTitle": "Dussmann",
+            "TrackComposer": "Betterov",
+            "MBID": "6250be5a-eb8a-4753-b6c7-16017b26d974",
+            "Category": "Songs occurring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "OG Keemo",
+            "TrackTitle": "Neptun",
+            "TrackComposer": "OG Keemo, Funkvater Frank",
+            "MBID": "3badbc48-e3cc-457e-9050-77cf9b58182a",
+            "Category": "Songs occurring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Tobias Regner",
+            "TrackTitle": "Mal kurz unsterblich",
+            "TrackComposer": "Ahzumjot",
+            "MBID": "39850075-94b9-4ee3-9212-f1ae68073a06",
+            "Category": "Songs occurring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Cro",
+            "TrackTitle": "Wir waren hier",
+            "TrackComposer": "Tua",
+            "MBID": "2a83c4b4-6b4c-4c29-9b90-15859522e555",
+            "Category": "Songs occurring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Ultracity",
+            "TrackTitle": "Konfetti",
+            "TrackComposer": "Maeckes",
+            "MBID": "d5fed66b-1e87-4a2d-bf95-02e1e1aa5a4d",
+            "Category": "Songs occurring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "GESTALT",
+            "TrackTitle": "Es k\u00f6nnte so einfach sein",
+            "TrackComposer": "Faber",
+            "MBID": "e5495f85-a25d-460b-b539-f8da8746904c",
+            "Category": "Songs occurring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Danger Dan",
+            "TrackTitle": "Das ist alles von der Kunstfreiheit gedeckt",
+            "TrackComposer": "Danger Dan",
+            "MBID": "1957977f-7d28-4700-9fad-7695068f74b4",
+            "Category": "Songs occurring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Frittenbude",
+            "TrackTitle": "Bilder mit Katze",
+            "TrackComposer": "Frittenbude",
+            "MBID": "366cb20d-ca41-42ea-9fcd-ca1dcb73f47d",
+            "Category": "Songs occurring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "MelodAI_Official feat. Anja Belmont",
+            "TrackTitle": "Fickt euch alle",
+            "TrackComposer": "Jen Bender, Raphael Schalz, Chriz Falk",
+            "MBID": "84ac5ec6-5605-44b0-b4de-f1e368edf3c9",
+            "Category": "Songs occurring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Klee",
+            "TrackTitle": "Zwei Herzen",
+            "TrackComposer": "Klee",
+            "MBID": "87a369b8-49f8-4987-8965-f5e1c0b2aed4",
+            "Category": "Songs occurring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Lexy & K\u2010Paul",
+            "TrackTitle": "Love Me Babe",
+            "TrackComposer": "Lexy & K-Paul",
+            "MBID": "7f8a2295-9857-4866-8b29-c64358926a0e",
+            "Category": "Songs occurring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Modeselektor",
+            "TrackTitle": "Evil Twin",
+            "TrackComposer": "Gernot Bronsert, Sebastian Szary",
+            "MBID": "4bdc3ec2-079c-4275-9574-9c66eb0f67db",
+            "Category": "Songs occurring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Sven V\u00e4th",
+            "TrackTitle": "Harlequin: The Beauty and the Beast (club mix)",
+            "TrackComposer": "Sven V\u00e4th",
+            "MBID": "50b1c044-a158-471a-bbf4-fa1884c4a975",
+            "Category": "Songs occurring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Paul van Dyk",
+            "TrackTitle": "For an Angel",
+            "TrackComposer": "Paul van Dyk",
+            "MBID": "cb74e25a-f9e9-4c04-bcd9-3e4f759af1b1",
+            "Category": "Songs occurring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Naestro",
+            "TrackTitle": "Punta Cana",
+            "TrackComposer": "Andr\u00e9 Tegeler, Florian Frank",
+            "MBID": "344d58db-3ee6-4564-9168-82d386511cba",
+            "Category": "Songs occurring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Purple Disco Machine feat. Eyelar",
+            "TrackTitle": "Dopamine",
+            "TrackComposer": "Tino Piontek, Sarah de Warren, Fabian Kempe",
+            "MBID": "49ae47e4-747b-4157-9d13-8f169efc174d",
+            "Category": "Songs occurring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Alle Farben",
+            "TrackTitle": "Bad Ideas",
+            "TrackComposer": "Alle Farben, Perttu Kurttila, Andreas John",
+            "MBID": "8af95ad9-ae4f-424f-a5a6-6e5a32f384e0",
+            "Category": "Songs occurring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Gest\u00f6rt aber GeiL",
+            "TrackTitle": "Millionen Farben (DIZE remix)",
+            "TrackComposer": "Gest\u00f6rt aber GeiL, Tobias Schwall, Sarah Engels",
+            "MBID": "4c3eb4a1-d4df-4889-b741-0c9ce6c2e33d",
+            "Category": "Songs occurring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Robin Schulz",
+            "TrackTitle": "Speechless (feat. Erika Sirola)",
+            "TrackComposer": "Robin Schulz, Hanne Mj\u00f8en, Max Wolfgang",
+            "MBID": "652695c8-74a1-4557-9853-d03aa57bbf77",
+            "Category": "Songs occurring most on playlists on soundcloud for this genre"
         }
     ]
 }
