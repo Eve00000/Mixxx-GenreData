@@ -4,8 +4,8 @@
     "Focus": "artist",
     "RefreshRate": 28,
     "AppendMode": "append",
-    "Timestamp": "2026-06-03T13:33:03Z",
-    "TotalTracks": 773,
+    "Timestamp": "2026-07-01T14:51:47Z",
+    "TotalTracks": 932,
     "Tracks": [
         {
             "TrackArtist": "Nirvana",
@@ -5416,6 +5416,1119 @@
             "TrackTitle": "Mouth",
             "TrackComposer": "Gavin Rossdale",
             "MBID": "f41a928a-7ce2-4128-ab1f-49fad9b7fbb2",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "No Doubt",
+            "TrackTitle": "Don\u2019t Speak",
+            "TrackComposer": "Gwen Stefani, Eric Stefani",
+            "MBID": "e014c0d8-ef43-4a74-bb8b-ee5b0e67749d",
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+        },
+        {
+            "TrackArtist": "Hole",
+            "TrackTitle": "Celebrity Skin",
+            "TrackComposer": "Courtney Love, Eric Erlandson, Billy Corgan",
+            "MBID": "1f82fbc5-969e-4b19-8eb9-c932289adb75",
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+        },
+        {
+            "TrackArtist": "The Stone Roses",
+            "TrackTitle": "Love Spreads",
+            "TrackComposer": "John Squire",
+            "MBID": "5d449d41-b7c0-426c-935b-c3ef762b5e82",
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+        },
+        {
+            "TrackArtist": "The Smashing Pumpkins",
+            "TrackTitle": "1979",
+            "TrackComposer": "Billy Corgan",
+            "MBID": "b9e65921-d2b0-4079-93bc-a2d49e3be32c",
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+        },
+        {
+            "TrackArtist": "The Presidents of the United States of America",
+            "TrackTitle": "Lump",
+            "TrackComposer": "Chris Ballew",
+            "MBID": "03d5fe5a-9d51-4ecc-b1f7-e7a724d4ee35",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Urge Overkill",
+            "TrackTitle": "Girl, You\u2019ll Be a Woman Soon",
+            "TrackComposer": "Neil Diamond",
+            "MBID": "e21ec9a9-0887-4244-882b-61b62a46771d",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Our Lady Peace",
+            "TrackTitle": "Superman\u2019s Dead",
+            "TrackComposer": "Raine Maida, Mike Turner",
+            "MBID": "8f101028-7c5c-4baf-8280-b5de73c3fd77",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Merril Bainbridge",
+            "TrackTitle": "Mouth",
+            "TrackComposer": "Merril Bainbridge",
+            "MBID": "f4071e70-d263-4626-8e90-f96b0a6a2e68",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "The Breeders",
+            "TrackTitle": "Cannonball",
+            "TrackComposer": "Kim Deal",
+            "MBID": "ec0b9c44-464d-49e8-a972-769ac38f673c",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Mudhoney",
+            "TrackTitle": "Touch Me I'm Sick",
+            "TrackComposer": "Mark Arm, Steve Turner, Matt Lukin, Dan Peters",
+            "MBID": "c08099cf-48d6-43f2-a964-633b96972e41",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Superchunk",
+            "TrackTitle": "Slack Motherfucker",
+            "TrackComposer": "Mac McCaughan",
+            "MBID": "e166d709-c9a6-4679-af03-9f1562c8b002",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Stereolab",
+            "TrackTitle": "Cybele's Reverie",
+            "TrackComposer": "Tim Gane, Laetitia Sadier",
+            "MBID": "a5e2f3dd-278c-416a-8755-f164ecd8f2d6",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Spiritualized",
+            "TrackTitle": "Come Together",
+            "TrackComposer": "Jason Pierce",
+            "MBID": "f4865e90-76ad-4629-891f-d4f707ae3da2",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Slowdive",
+            "TrackTitle": "When the Sun Hits",
+            "TrackComposer": "Neil Halstead",
+            "MBID": "ddfee9ee-aa94-48b7-b963-d0b69bef7c72",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Lush",
+            "TrackTitle": "Ladykillers",
+            "TrackComposer": "Miki Berenyi, Emma Anderson",
+            "MBID": "67ca8143-db27-4184-833b-cab8b4eb1fd1",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Happy Mondays",
+            "TrackTitle": "Kinky Afro",
+            "TrackComposer": "Shaun Ryder, Paul Ryder, Mark Day, Gary Whelan, Paul Davis",
+            "MBID": "a4b6c96a-691e-407b-9b93-6fc56d38fe15",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Curve",
+            "TrackTitle": "Doppelg\u00e4nger",
+            "TrackComposer": "Toni Halliday, Dean Garcia",
+            "MBID": "9007ce40-1c37-4833-adc5-fb0c5ecaa129",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Front 242",
+            "TrackTitle": "Headhunter",
+            "TrackComposer": "Daniel Bressanutti, Patrick Codenys, Jean-Luc De Meyer, Richard Jonckheere",
+            "MBID": "0de491ea-d6ee-4e85-b605-0f051aea36b6",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "KMFDM",
+            "TrackTitle": "Juke Joint Jezebel",
+            "TrackComposer": "Sascha Konietzko, En Esch, G\u00fcnter Schulz",
+            "MBID": "3d31b8a9-3806-4055-b6a2-25315fb6f02c",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Skinny Puppy",
+            "TrackTitle": "Spasmolytic",
+            "TrackComposer": "Skinny Puppy",
+            "MBID": "82728b7d-beb9-46f1-a321-f99b20d3a838",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Bonnie \u201cPrince\u201d Billy",
+            "TrackTitle": "I See a Darkness",
+            "TrackComposer": "Will Oldham",
+            "MBID": "bb42a06c-4040-4b0f-935b-fdc2770e5795",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Girls Against Boys",
+            "TrackTitle": "Super-Fire",
+            "TrackComposer": "Girls Against Boys",
+            "MBID": "d4c34b27-7002-4b89-8ecc-0f1626cd88a2",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Helmet",
+            "TrackTitle": "Unwound",
+            "TrackComposer": "Justin Trosper, Vern Rumsey, Sara Lund",
+            "MBID": "bf66d1d1-d4df-4e41-9679-30240a9b204e",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Nine Inch Nails",
+            "TrackTitle": "The Perfect Drug (Meat Beat Manifesto)",
+            "TrackComposer": "Trent Reznor",
+            "MBID": "3711cda3-add7-4ef4-b864-a8c1de644dce",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "8-Bit Arcade",
+            "TrackTitle": "Ava Adore (8-Bit The Smashing Pumpkins Emulation)",
+            "TrackComposer": "Billy Corgan",
+            "MBID": "71e7b59c-9457-40ca-a6cc-584e4c7bba2b",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Primal Scream",
+            "TrackTitle": "2013 (Andrew Weatherall Remix)",
+            "TrackComposer": "Bobby Gillespie, Andrew Innes, Robert Young",
+            "MBID": "a66d4d82-0b05-497b-bdc4-ce83e073cf64",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Happy Mondays",
+            "TrackTitle": "Hallelujah (club mix)",
+            "TrackComposer": "Shaun Ryder, Paul Ryder, Mark Day, Gary Whelan, Paul Davis",
+            "MBID": "625c3d14-42bc-496c-863c-2c4a3b09934e",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Blur",
+            "TrackTitle": "Girls & Boys (Pet Shop Boys 12\u2033 mix)",
+            "TrackComposer": "Damon Albarn, Graham Coxon, Alex James, Dave Rowntree",
+            "MBID": "e7753396-2819-4e19-9303-8f5bf84ef908",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Pop Will Eat Itself",
+            "TrackTitle": "PWEI\u2010Zation (12\u2033 mix)",
+            "TrackComposer": "Clint Mansell, Graham Crabb, Adam Mole, Richard March",
+            "MBID": "24f886be-08f1-4536-b244-e6d910d1496b",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Alan Morris",
+            "TrackTitle": "Stigmata (extended mix)",
+            "TrackComposer": "Al Jourgensen, Paul Barker",
+            "MBID": "b5f03a4a-484d-4037-bcdf-610d08a0cb10",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Marilyn Manson",
+            "TrackTitle": "Sweet Dreams (Are Made of This) (Cyric remix)",
+            "TrackComposer": "Annie Lennox, Dave Stewart",
+            "MBID": "88aeb40f-a59c-4050-a6c5-4cf0a035b826",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "InSector",
+            "TrackTitle": "Zen Orb (remix)",
+            "TrackComposer": "Gavin Rossdale",
+            "MBID": "e65908ff-ff17-47b1-b702-1b47d3af2d83",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Garbage",
+            "TrackTitle": "Queer (Danny Saber mix)",
+            "TrackComposer": "Garbage",
+            "MBID": "8b8720d4-51fb-402c-a55c-2846f452e987",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Bini & Martini",
+            "TrackTitle": "Happiness (David Morales Mix)",
+            "TrackComposer": "Dolores O'Riordan, Noel Hogan",
+            "MBID": "79332d49-582a-49cb-97ba-4167e9e6933c",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Hans Michael Hess",
+            "TrackTitle": "Unbelievable (cinematic)",
+            "TrackComposer": "James Atkin, Ian Dench, Derry Brownson, Mark Decloedt, Zac Foley",
+            "MBID": "bf7ce970-4348-4426-b9fd-c28de54193d1",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Jesus Jones",
+            "TrackTitle": "Right Here, Right Now [Martyn Phillips Mix]",
+            "TrackComposer": "Mike Edwards",
+            "MBID": "15b28d35-6234-45d7-ba45-7b048972c5c8",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Pop Will Eat Itself",
+            "TrackTitle": "Pop Will Eat Itself at Def Con One",
+            "TrackComposer": "Clint Mansell, Graham Crabb, Adam Mole, Richard March",
+            "MBID": "f3f02f41-b3c0-4bb5-b135-6c799da4e31f",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "The Stone Roses",
+            "TrackTitle": "Fools Gold",
+            "TrackComposer": "Ian Brown, John Squire",
+            "MBID": "e85b43aa-1fe1-428e-804a-545d4b018eb1",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "The Charlatans",
+            "TrackTitle": "Sproston Green",
+            "TrackComposer": "The Charlatans",
+            "MBID": "1906e689-d939-4862-8a2a-4cddb8afb2fc",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Tich\u00e1 dohoda a Zuzana Vintrov\u00e1",
+            "TrackTitle": "This Is Music (Verve)",
+            "TrackComposer": "Richard Ashcroft",
+            "MBID": "078a04f1-37d8-4fe6-9256-d775a05db895",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Garbage",
+            "TrackTitle": "I Think I\u2019m Paranoid (Crystal Method remix)",
+            "TrackComposer": "Garbage",
+            "MBID": "c25d8c24-c48d-4d61-98f4-c6b2a06485f1",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Depeche Mode",
+            "TrackTitle": "Personal Jesus (Holier Than Thou Approach)",
+            "TrackComposer": "Martin Gore",
+            "MBID": "962f547b-0987-49fe-bd2e-4023471b9a51",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "New Order",
+            "TrackTitle": "Regret (Fire Island mix)",
+            "TrackComposer": "Bernard Sumner, Peter Hook, Stephen Morris, Gillian Gilbert",
+            "MBID": "0626004e-41fb-4fc7-8a0b-054584c0bd31",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "The Stone Roses",
+            "TrackTitle": "Waterfall (Justin Robertson\u2019s mix)",
+            "TrackComposer": "Ian Brown, John Squire",
+            "MBID": "f6c47f2d-592d-4d9b-935b-f60969858c32",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "The Cure",
+            "TrackTitle": "Lullaby (extended mix)",
+            "TrackComposer": "Robert Smith, Simon Gallup, Porl Thompson, Boris Williams, Roger O'Donnell",
+            "MBID": "771c94b3-98ea-40f4-ab5c-3daaab50ee06",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Alesaparanoid",
+            "TrackTitle": "Block Rockin Beats (The Chemical Brothers cover)",
+            "TrackComposer": "Tom Rowlands, Ed Simons",
+            "MBID": "044441b5-b105-4b0b-9b0c-884a7db36fed",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "DBS",
+            "TrackTitle": "Headhunter (Front 242)",
+            "TrackComposer": "Daniel Bressanutti, Patrick Codenys, Jean-Luc De Meyer, Richard Jonckheere",
+            "MBID": "e42ce669-e4a6-4c5c-a9d4-2e79ca963700",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Crash Override",
+            "TrackTitle": "KMFDM a Drug Against War [cover]",
+            "TrackComposer": "Sascha Konietzko, En Esch, G\u00fcnter Schulz",
+            "MBID": "f354919d-a87b-459b-ade1-7dd06a5036a5",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Revolting Cocks",
+            "TrackTitle": "Lewd Ferrigno (club on mix)",
+            "TrackComposer": "Rod Stewart, Carmine Appice",
+            "MBID": "632ef859-6901-45d8-8a1c-c6f600fc2c97",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Curve",
+            "TrackTitle": "Chinese Burn (Lunatic Calm Remix)",
+            "TrackComposer": "Toni Halliday, Dean Garcia",
+            "MBID": "73032a18-c452-4935-96b1-27137b3c75d0",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Pop Will Eat Itself",
+            "TrackTitle": "Ich Bin Ein Auslander",
+            "TrackComposer": "Clint Mansell, Graham Crabb, Adam Mole, Richard March",
+            "MBID": "4994c2b8-f82d-4cb1-87f9-944807df81fc",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Jesus Jones",
+            "TrackTitle": "International Bright Young Thing",
+            "TrackComposer": "Mike Edwards",
+            "MBID": "ef431f16-7258-4c99-bfec-a170cdda2f3a",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "The Goons",
+            "TrackTitle": "Ned's Atomic Dustbin (part 6)",
+            "TrackComposer": "Jonny Race, Matt Cheslin, Alex Griffin, Rat, Andy King",
+            "MBID": "aabb5630-65e9-4c67-8503-73133dd452b2",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "The Shamen",
+            "TrackTitle": "Ebeneezer Goode (Beatmasters mix)",
+            "TrackComposer": "Colin Angus, Richard West, Will Sinnott",
+            "MBID": "ff40e728-9a24-44ff-9e0d-6ab57e62b4e2",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Pearl Jam",
+            "TrackTitle": "Release",
+            "TrackComposer": "Eddie Vedder, Jeff Ament, Stone Gossard, Mike McCready, Dave Krusen",
+            "MBID": "fc903493-c8da-489e-83cf-ca5fc5322a81",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Soundgarden",
+            "TrackTitle": "Holy Water",
+            "TrackComposer": "Chris Cornell",
+            "MBID": "226324d3-9371-41ad-8d66-af2249f66475",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Alice in Chains",
+            "TrackTitle": "Frogs",
+            "TrackComposer": "Layne Staley, Jerry Cantrell, Mike Inez, Sean Kinney",
+            "MBID": "d01a7fab-6785-4c03-9fdb-c637c296789b",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Stone Temple Pilots",
+            "TrackTitle": "Trippin\u2019 on a Hole in a Paper Heart",
+            "TrackComposer": "Scott Weiland, Dean DeLeo, Robert DeLeo, Eric Kretz",
+            "MBID": "f5461b40-395a-48b0-8daa-4b68b9849a00",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "The Smashing Pumpkins",
+            "TrackTitle": "Geek U.S.A.",
+            "TrackComposer": "Billy Corgan",
+            "MBID": "673ac616-9fbd-401e-9e04-88bc0014a71e",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Red Hot Chili Peppers",
+            "TrackTitle": "Sir Psycho Sexy",
+            "TrackComposer": "Anthony Kiedis, Flea, John Frusciante, Chad Smith",
+            "MBID": "2061e476-522e-4e94-81a4-964ad4d7c58f",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Green Day",
+            "TrackTitle": "Jinx",
+            "TrackComposer": "Billie Joe Armstrong",
+            "MBID": "f2cc50b1-4212-41ab-8bd4-6892bb15c98e",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Foo Fighters",
+            "TrackTitle": "For All the Cows",
+            "TrackComposer": "Dave Grohl",
+            "MBID": "0e6aab04-9058-4e79-a449-23d6c4f6783c",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Blur",
+            "TrackTitle": "Advert",
+            "TrackComposer": "Damon Albarn, Graham Coxon, Alex James, Dave Rowntree",
+            "MBID": "5dc0ad8c-d79d-4cbe-8246-cf13724206e3",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "The Breeders",
+            "TrackTitle": "Drivin\u2019 on 9",
+            "TrackComposer": "Public Domain",
+            "MBID": "a1e2a45f-f14b-43dc-b291-59d3b053f2f4",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Fugazi",
+            "TrackTitle": "Smallpox Champion",
+            "TrackComposer": "Fugazi",
+            "MBID": "44b7f446-9dc1-4196-8a71-406de3605d4e",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Babes in Toyland",
+            "TrackTitle": "Sweet 69",
+            "TrackComposer": "Kat Bjelland",
+            "MBID": "d5628f11-934c-4700-9def-006de174e1e3",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Built to Spill",
+            "TrackTitle": "Untrustable, Part 2 (About Someone Else)",
+            "TrackComposer": "Doug Martsch",
+            "MBID": "f2761604-fc47-4510-81fc-1d12b0eadab1",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Spiritualized",
+            "TrackTitle": "I Think I'm in Love",
+            "TrackComposer": "Jason Pierce",
+            "MBID": "4d4031f3-a17f-4b65-aeea-f21be6fe26a0",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Slowdive",
+            "TrackTitle": "Alison",
+            "TrackComposer": "Neil Halstead, Rachel Goswell",
+            "MBID": "c3b9a141-424e-4bc1-8660-209b71174335",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Lush",
+            "TrackTitle": "For Love",
+            "TrackComposer": "Miki Berenyi",
+            "MBID": "d5386f7d-10df-4241-aff6-3f2472533603",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Suede",
+            "TrackTitle": "The Drowners",
+            "TrackComposer": "Bernard Butler, Brett Anderson",
+            "MBID": "e4010371-b537-4b6a-af83-ecc4c89678a8",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "I Mother Earth",
+            "TrackTitle": "Subterranean Wonderland",
+            "TrackComposer": "The Charlatans",
+            "MBID": "f799291b-d8f5-4016-951b-eff4cacec419",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Happy Mondays",
+            "TrackTitle": "Loose Fit",
+            "TrackComposer": "Shaun Ryder, Paul Ryder, Mark Day, Gary Whelan, Paul Davis",
+            "MBID": "a9608ea5-b0a6-4a48-86e4-ed7fb1259e41",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Primal Scream",
+            "TrackTitle": "Higher Than the Sun",
+            "TrackComposer": "Bobby Gillespie, Andrew Innes, Robert Young",
+            "MBID": "e151c11a-f852-41f4-ab18-91fcca4c347a",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Curve",
+            "TrackTitle": "Missing Link",
+            "TrackComposer": "Toni Halliday, Dean Garcia",
+            "MBID": "10636fe1-5367-4d22-b795-0bd3c395a4e2",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "The Jesus and Mary Chain",
+            "TrackTitle": "Cracking Up",
+            "TrackComposer": "William Reid, Jim Reid",
+            "MBID": "611761f8-abbc-4adb-a9d5-0a9b5c8f2b17",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Pearl Jam",
+            "TrackTitle": "Animal",
+            "TrackComposer": "Eddie Vedder, Stone Gossard",
+            "MBID": "30907e39-bde1-49e6-a82a-8405e78abd1e",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Stone Temple Pilots",
+            "TrackTitle": "Down",
+            "TrackComposer": "Scott Weiland, Dean DeLeo, Robert DeLeo, Eric Kretz",
+            "MBID": "a1530642-4b56-435f-8e21-c3583622d59b",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "The Smashing Pumpkins",
+            "TrackTitle": "Cherub Rock",
+            "TrackComposer": "Billy Corgan",
+            "MBID": "e0bdfa06-0000-40a7-a3a1-0fc69ba28c24",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "The Prodigy",
+            "TrackTitle": "Firestarter",
+            "TrackComposer": "Liam Howlett, Keith Flint, Kim Deal",
+            "MBID": "dc4470b8-2902-4b87-9637-686143bf0603",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Rage Against the Machine",
+            "TrackTitle": "Bombtrack",
+            "TrackComposer": "Zack de la Rocha, Tom Morello, Tim Commerford, Brad Wilk",
+            "MBID": "b900cd3b-7319-4d6c-8890-b2a6ba34243d",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "System of a Down",
+            "TrackTitle": "War?",
+            "TrackComposer": "Serj Tankian, Daron Malakian",
+            "MBID": "01038e8c-86c6-469d-a444-37e8f93a3cef",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Marilyn Manson",
+            "TrackTitle": "Antichrist Superstar",
+            "TrackComposer": "Marilyn Manson, Twiggy Ramirez, Daisy Berkowitz",
+            "MBID": "ab1431b9-f5c8-4821-8d05-3ecc83104ea7",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Ministry",
+            "TrackTitle": "Just One Fix",
+            "TrackComposer": "Al Jourgensen, Paul Barker",
+            "MBID": "4619a6b0-602f-433d-bfe4-563a859a17d6",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Sepultura",
+            "TrackTitle": "Roots Bloody Roots",
+            "TrackComposer": "Max Cavalera, Igor Cavalera, Andreas Kisser, Paulo Jr.",
+            "MBID": "7a52b6fb-5301-4768-a81d-4d10959352d1",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Slayer",
+            "TrackTitle": "Serenity in Murder",
+            "TrackComposer": "Kerry King, Jeff Hanneman",
+            "MBID": "bc6398cc-9ff8-49c2-bc29-144b66cf92c1",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Bad Religion",
+            "TrackTitle": "American Jesus",
+            "TrackComposer": "Greg Graffin, Brett Gurewitz",
+            "MBID": "7b83f9bf-8971-4613-95ff-9ce35bf5b21c",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Suede",
+            "TrackTitle": "Metal Mickey",
+            "TrackComposer": "Bernard Butler, Brett Anderson",
+            "MBID": "a0e1be59-4790-4ff2-bbb7-6b2bdfd2394c",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Pulp",
+            "TrackTitle": "Mis\u2010Shapes",
+            "TrackComposer": "Jarvis Cocker, Nick Banks, Candida Doyle, Steve Mackey, Russell Senior",
+            "MBID": "772ec1bf-3a32-4b97-9a06-f54cb89d8a0c",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Suede",
+            "TrackTitle": "Beautiful Ones",
+            "TrackComposer": "Bernard Butler, Brett Anderson",
+            "MBID": "56077824-0f8d-4fd9-b220-2707225ef540",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Jeff Buckley",
+            "TrackTitle": "Hallelujah",
+            "TrackComposer": "Leonard Cohen",
+            "MBID": "d91ae868-7fa0-45b6-bce2-0a7784de887f",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Depeche Mode",
+            "TrackTitle": "Enjoy the Silence",
+            "TrackComposer": "Martin Gore",
+            "MBID": "b4385da6-fb3a-432d-9239-cec162ea6367",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Sheryl Crow",
+            "TrackTitle": "Strong Enough",
+            "TrackComposer": "Sheryl Crow, David Baerwald, Bill Bottrell, Kevin Gilbert, Wyn Cooper",
+            "MBID": "21c30c7c-8a56-4c7d-946f-25c485b8ad4d",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Spin Doctors",
+            "TrackTitle": "Jimmy Olsen\u2019s Blues",
+            "TrackComposer": "Chris Barron, Eric Schenkman, Aaron Comess, Mark White",
+            "MBID": "7e3b77a1-a087-47d8-babd-c4629bf34019",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Semisonic",
+            "TrackTitle": "Secret Smile",
+            "TrackComposer": "Dan Wilson",
+            "MBID": "8e14ff33-e607-4c53-a49c-f719eea637e5",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Guns N\u2019 Roses",
+            "TrackTitle": "November Rain",
+            "TrackComposer": "Axl Rose",
+            "MBID": "3e2cd67f-5cb1-49d2-a269-72ffca915391",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "L\u00efve",
+            "TrackTitle": "Lightning Crashes",
+            "TrackComposer": "Ed Kowalczyk, Chad Gracey, Chad Taylor, Patrick Dahlheimer",
+            "MBID": "34f3d6e6-de4a-496f-9488-cdf391874b5c",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "U2",
+            "TrackTitle": "One",
+            "TrackComposer": "U2",
+            "MBID": "3e081295-5e3f-4f0c-892e-09842fda09a8",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Incubus",
+            "TrackTitle": "Drive",
+            "TrackComposer": "Brandon Boyd, Mike Einziger, Jose Pasillas II, Alex Katunich, Chris Kilmore",
+            "MBID": "7f5a6078-61c9-4d6d-b6cb-6c7e3741cafe",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Mazzy Star",
+            "TrackTitle": "Fade Into You",
+            "TrackComposer": "Hope Sandoval, David Roback",
+            "MBID": "73c62b84-3399-4fff-9456-df4cdd3347d5",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Screaming Trees",
+            "TrackTitle": "Nearly Lost You",
+            "TrackComposer": "Van Conner, Gary Lee Conner, Mark Lanegan",
+            "MBID": "e0864846-7da2-4d3c-9ac4-7c13c6f815f6",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Temple of the Dog",
+            "TrackTitle": "Hunger Strike",
+            "TrackComposer": "Chris Cornell",
+            "MBID": "16c8e97c-5b92-40bb-aeee-b01f256e877e",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Nirvana",
+            "TrackTitle": "Something in the Way",
+            "TrackComposer": "Kurt Cobain",
+            "MBID": "5b18376e-9825-4a8c-9af6-320f4c14c80e",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "The Smashing Pumpkins",
+            "TrackTitle": "Disarm",
+            "TrackComposer": "Billy Corgan",
+            "MBID": "a73d65c8-044e-4245-93da-39e5f8a5e6ba",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "PJ Harvey",
+            "TrackTitle": "To Bring You My Love",
+            "TrackComposer": "Polly Jean Harvey",
+            "MBID": "deb13e56-8b8f-484a-a6e5-aa0f5b17c0eb",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Chris Cornell",
+            "TrackTitle": "Seasons",
+            "TrackComposer": "Chris Cornell",
+            "MBID": "064e6a07-1194-44ba-8456-adee34282f8a",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "InkyFirefly",
+            "TrackTitle": "All the Small Things (Blink-182 Cover)",
+            "TrackComposer": "Mark Hoppus, Tom DeLonge",
+            "MBID": "c96cfd3f-62a3-43f4-b4b1-3d8b2873198e",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "U2",
+            "TrackTitle": "Mysterious Ways",
+            "TrackComposer": "U2",
+            "MBID": "ded19c48-a611-4afd-beb9-1edb572c1a3a",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Silverchair",
+            "TrackTitle": "Tomorrow",
+            "TrackComposer": "Daniel Johns, Ben Gillies",
+            "MBID": "73cc5bbc-6dd9-4290-884c-ba368182ad4b",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Stone Temple Pilots",
+            "TrackTitle": "Sour Girl",
+            "TrackComposer": "Dean DeLeo, Scott Weiland",
+            "MBID": "6ede595e-f2ef-4268-b802-ac8bd1509d13",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Therapy?",
+            "TrackTitle": "Screamager",
+            "TrackComposer": "Andy Cairns, Fyfe Ewing, Michael McKeegan",
+            "MBID": "fd41c208-9917-4e9d-8299-992e62e6161a",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "System of a Down",
+            "TrackTitle": "Spiders",
+            "TrackComposer": "Serj Tankian, Daron Malakian",
+            "MBID": "53b9e4f8-1415-43dd-8c32-96ecbdd08727",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Godsmack",
+            "TrackTitle": "Voodoo",
+            "TrackComposer": "Sully Erna, Robbie Merrill",
+            "MBID": "2e4136b1-e229-43ff-9794-1ea3e33dbfd7",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "John Sponsler & Tom Gire",
+            "TrackTitle": "Helmet to Helmet",
+            "TrackComposer": "Page Hamilton",
+            "MBID": "3b65371e-2725-48b9-a311-e1f1d19f265e",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Slipknot",
+            "TrackTitle": "Wait and Bleed",
+            "TrackComposer": "Slipknot",
+            "MBID": "ac2baf5a-60d4-4467-aecd-c5f0a1a7a7f7",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Static\u2010X",
+            "TrackTitle": "Push It",
+            "TrackComposer": "Wayne Static, Ken Jay, Tony Campos, Koichi Fukuda",
+            "MBID": "9b374601-77eb-439b-9698-c60313c26614",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Coal Chamber",
+            "TrackTitle": "Loco",
+            "TrackComposer": "Dez Fafara, Miguel Rasc\u00f3n, Rayna Foss, Mike Cox",
+            "MBID": "46defe43-9e7c-4bdc-b9cf-d9d9e7c86da4",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Orgy",
+            "TrackTitle": "Blue Monday",
+            "TrackComposer": "New Order",
+            "MBID": "4fdea973-4f01-4dd0-a4ed-2107dd137932",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Snot",
+            "TrackTitle": "Snot",
+            "TrackComposer": "Lynn Strait, Mikey Doling, Sonny Mayo, John Fahnestock, Jamie Miller",
+            "MBID": "9cfad9f2-3396-4cc6-a82c-2155638d1a67",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Fear Factory",
+            "TrackTitle": "Replica",
+            "TrackComposer": "Dino Cazares, Burton C. Bell, Raymond Herrera",
+            "MBID": "3ce896cd-aef5-4890-bdad-59e1d30e09cf",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Type O Negative",
+            "TrackTitle": "Love You to Death",
+            "TrackComposer": "Peter Steele",
+            "MBID": "cdb87079-4d8b-43a2-a5d8-d8a1e440a9e3",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Danzig",
+            "TrackTitle": "Mother",
+            "TrackComposer": "Glenn Danzig",
+            "MBID": "75597ae5-2d49-4ca5-8189-4815f8b63c26",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Monster Magnet",
+            "TrackTitle": "Space Lord",
+            "TrackComposer": "Dave Wyndorf",
+            "MBID": "56d59cc3-f6dd-4bb7-a87b-d0cd898a6beb",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Fuel",
+            "TrackTitle": "Shimmer",
+            "TrackComposer": "Carl Bell",
+            "MBID": "f937743d-ffe0-4ee4-8971-592f8a6f3c1c",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Toadies",
+            "TrackTitle": "Possum Kingdom",
+            "TrackComposer": "Todd Lewis",
+            "MBID": "4e283e80-309b-4979-82f0-882a07850fcb",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Days of the New",
+            "TrackTitle": "Touch, Peel, & Stand",
+            "TrackComposer": "Travis Meeks",
+            "MBID": "6ed9f462-3b36-43f8-86f5-cf0145197499",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "R.E.M.",
+            "TrackTitle": "It's the End of the World as We Know It (and I Feel Fine)",
+            "TrackComposer": "Bill Berry, Peter Buck, Mike Mills, Michael Stipe",
+            "MBID": "9757d8ae-5171-4cd3-82fe-b234b43aa835",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Silverchair",
+            "TrackTitle": "Pure Massacre",
+            "TrackComposer": "Daniel Johns, Ben Gillies",
+            "MBID": "3a4a7e16-f0b8-4c47-8257-a703c1835eeb",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Limp Bizkit",
+            "TrackTitle": "Break Stuff",
+            "TrackComposer": "Fred Durst, John Otto, Sam Rivers, Wes Borland",
+            "MBID": "7b3056ae-7d99-4d84-b4f8-6d0d181f175f",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Fiona Apple",
+            "TrackTitle": "Shadowboxer",
+            "TrackComposer": "Fiona Apple",
+            "MBID": "9f94b461-e50e-42ea-8266-8221873821fc",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Red Hot Chili Peppers",
+            "TrackTitle": "Around the World",
+            "TrackComposer": "Flea, John Frusciante, Anthony Kiedis, Chad Smith",
+            "MBID": "d8856297-c0fd-42e8-a8d6-ec65a29b27df",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "U2",
+            "TrackTitle": "Hold Me, Thrill Me, Kiss Me, Kill Me",
+            "TrackComposer": "U2",
+            "MBID": "ac83fa12-ab87-4321-b202-a2dac2223d52",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "L\u00efve",
+            "TrackTitle": "Dolphin\u2019s Cry",
+            "TrackComposer": "Ed Kowalczyk, Chad Gracey, Chad Taylor, Patrick Dahlheimer",
+            "MBID": "73fff7b8-11ff-49a5-9c0e-b0374f69c36a",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Silverchair",
+            "TrackTitle": "Freak",
+            "TrackComposer": "Daniel Johns",
+            "MBID": "e83febc7-bd11-4791-8b6c-bc82695abe2f",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Creed",
+            "TrackTitle": "My Own Prison",
+            "TrackComposer": "Scott Stapp, Mark Tremonti",
+            "MBID": "c5b871f8-fe8c-4d66-a96c-adc327828659",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Korn",
+            "TrackTitle": "Falling Away From Me",
+            "TrackComposer": "Korn",
+            "MBID": "05e79089-5468-4c2b-8113-e0b1d145bf2e",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Limp Bizkit",
+            "TrackTitle": "Faith",
+            "TrackComposer": "George Michael",
+            "MBID": "d2300d48-8a4a-4fea-92bc-c53585c6daf4",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Sublime",
+            "TrackTitle": "What I Got",
+            "TrackComposer": "Bradley Nowell, Eric Wilson, Bud Gaugh",
+            "MBID": "97211070-0c24-4d3b-bdc2-4f608ef2514e",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Fiona Apple",
+            "TrackTitle": "Sleep to Dream",
+            "TrackComposer": "Fiona Apple",
+            "MBID": "c507d4ae-e417-4953-8c83-0457e566e5d3",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Sheryl Crow",
+            "TrackTitle": "Every Day is a Winding Road",
+            "TrackComposer": "Sheryl Crow, Jeff Trott, Kevin Gilbert",
+            "MBID": "ff9ca889-0e35-4873-9402-fde025942792",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Lenny Kravitz",
+            "TrackTitle": "Always on the Run",
+            "TrackComposer": "Lenny Kravitz, Slash",
+            "MBID": "8f36fbb8-387e-4813-9534-28ae2ecedbfb",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Nirvana",
+            "TrackTitle": "Heart\u2010Shaped Box",
+            "TrackComposer": "Kurt Cobain",
+            "MBID": "9dd8ea25-e325-4480-8155-327d211f1592",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Oasis",
+            "TrackTitle": "Go Let It Out",
+            "TrackComposer": "Noel Gallagher",
+            "MBID": "40e901c4-2e12-43eb-bc43-ddf93fb5601b",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "The Smashing Pumpkins",
+            "TrackTitle": "Today",
+            "TrackComposer": "Billy Corgan",
+            "MBID": "31faedb0-c526-4ad9-a968-4e0acd71c1de",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "U2",
+            "TrackTitle": "Even Better Than the Real Thing",
+            "TrackComposer": "U2",
+            "MBID": "65d934f6-ec02-4e63-8586-09a5a3f08280",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Silverchair",
+            "TrackTitle": "Ana\u2019s Song (Open Fire)",
+            "TrackComposer": "Daniel Johns",
+            "MBID": "05fd389b-e5f8-48e5-a08b-1daf4cc69ead",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Creed",
+            "TrackTitle": "What\u2019s This Life For",
+            "TrackComposer": "Scott Stapp, Mark Tremonti",
+            "MBID": "5a1a5b71-2b7d-4a70-8c66-362eaaf1ba36",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Nine Inch Nails",
+            "TrackTitle": "Starfuckers, Inc.",
+            "TrackComposer": "Trent Reznor, Charlie Clouser",
+            "MBID": "d429dab1-de3a-4b67-8c8a-d27336fe07ce",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Marilyn Manson",
+            "TrackTitle": "The Reflecting God",
+            "TrackComposer": "Marilyn Manson, Twiggy Ramirez",
+            "MBID": "20ddfd1e-9eb2-4e56-bba7-7d55e7108896",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Korn",
+            "TrackTitle": "Twist",
+            "TrackComposer": "Korn",
+            "MBID": "1d8e0167-64f3-4cc9-ae84-5ff2d22bdd47",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Limp Bizkit",
+            "TrackTitle": "Re-Arranged",
+            "TrackComposer": "Fred Durst, John Otto, Sam Rivers, Wes Borland",
+            "MBID": "61031f50-b4da-4627-8468-220e74a19758",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Sublime",
+            "TrackTitle": "Smoke Two Joints",
+            "TrackComposer": "The Toyes",
+            "MBID": "dbe9cd79-0c77-4903-b3d3-dcd4d02427af",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "The Offspring",
+            "TrackTitle": "Why Don\u2019t You Get a Job?",
+            "TrackComposer": "Dexter Holland",
+            "MBID": "63265fd4-3a5a-4e2b-9078-882974e8a794",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Blink 182",
+            "TrackTitle": "Adam's Song",
+            "TrackComposer": "Mark Hoppus, Tom DeLonge",
+            "MBID": "82a60094-fdab-4465-9f46-1badc641d34f",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Garbage",
+            "TrackTitle": "Special",
+            "TrackComposer": "Shirley Manson, Steve Marker, Duke Erikson, Butch Vig",
+            "MBID": "a9da52bb-3886-4dcf-947c-8404dd597a6f",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Fiona Apple",
+            "TrackTitle": "Fast as You Can",
+            "TrackComposer": "Fiona Apple",
+            "MBID": "b5beef8a-c3ab-4839-b1ca-a4f4f7c8a7cc",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Sheryl Crow",
+            "TrackTitle": "A Change Would Do You Good",
+            "TrackComposer": "Sheryl Crow, Jeff Trott, Brian MacLeod",
+            "MBID": "21c83298-2d68-43c1-9c2b-1a06fc5b98d2",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Counting Crows",
+            "TrackTitle": "Hanginaround",
+            "TrackComposer": "Adam Duritz, Dan Vickrey, Ben Mize",
+            "MBID": "4f4213f0-ae7d-4a69-8a88-41f70a8341b2",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Matchbox Twenty",
+            "TrackTitle": "Bent",
+            "TrackComposer": "Rob Thomas",
+            "MBID": "3202a509-1f51-48dc-8746-c1c510797070",
             "Category": "Songs occuring most on playlists on soundcloud for this genre"
         }
     ]
