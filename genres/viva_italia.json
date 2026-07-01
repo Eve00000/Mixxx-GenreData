@@ -4,8 +4,8 @@
     "Focus": "artist",
     "RefreshRate": 28,
     "AppendMode": "append",
-    "Timestamp": "2026-06-02T20:30:02Z",
-    "TotalTracks": 556,
+    "Timestamp": "2026-07-01T17:43:56Z",
+    "TotalTracks": 865,
     "Tracks": [
         {
             "TrackArtist": "Domenico Modugno",
@@ -3897,6 +3897,2169 @@
             "TrackTitle": "Ciao Bella, Ciao",
             "TrackComposer": "Maurizio Nari, Steve Forest",
             "MBID": "fa4a90f0-13ab-48dc-8949-67895743aa41",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Andrea Bocelli",
+            "TrackTitle": "Con te partir\u00f2 (Time to Say Goodbye)",
+            "TrackComposer": "Francesco Sartori, Lucio Quarantotto",
+            "MBID": "3b457bd3-4ebb-4e01-b9a5-11fe2762c2b4",
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+        },
+        {
+            "TrackArtist": "Mina",
+            "TrackTitle": "Grande, grande, grande",
+            "TrackComposer": "Tony Renis, Alberto Testa",
+            "MBID": "d98c9cec-f356-43ea-be97-0fd8334bc052",
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+        },
+        {
+            "TrackArtist": "Gigi D\u2019Agostino",
+            "TrackTitle": "L'amour toujours",
+            "TrackComposer": "Luigi Di Agostino, Carlo Montagner, Paolo Sandrini",
+            "MBID": "8653990b-8191-486f-bbd4-9b85195bb2d0",
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+        },
+        {
+            "TrackArtist": "Anna Oxa",
+            "TrackTitle": "Ti Lascer\u00f2",
+            "TrackComposer": "Fausto Leali, Franco Fasano, Fabrizio Berlincioni",
+            "MBID": "6d88d31b-e6e2-4fe9-8d61-ce62c91e5467",
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+        },
+        {
+            "TrackArtist": "I Ricchi e Poveri",
+            "TrackTitle": "Che sar\u00e0",
+            "TrackComposer": "Jimmy Fontana, Franco Migliacci, Carlo Pes",
+            "MBID": "bb03bdb6-8c5e-4c62-a843-6aa787d39246",
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+        },
+        {
+            "TrackArtist": "Rita Pavone",
+            "TrackTitle": "Datemi un martello",
+            "TrackComposer": "Sergio Bardotti, Pete Seeger",
+            "MBID": "970924fa-9ef9-4bc7-a113-e3e256e785b6",
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+        },
+        {
+            "TrackArtist": "Mia Martini",
+            "TrackTitle": "Almeno tu nell'universo",
+            "TrackComposer": "Bruno Lauzi, Maurizio Piccoli",
+            "MBID": "1da86aa0-cb8f-4b79-86fb-78bb51da6261",
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+        },
+        {
+            "TrackArtist": "Enrico Ruggeri",
+            "TrackTitle": "Peter Pan",
+            "TrackComposer": "Enrico Ruggeri",
+            "MBID": "2dc0893f-51d6-42a4-b889-bf37ce1cd878",
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+        },
+        {
+            "TrackArtist": "Max Pezzali / 883 feat. Dargen D\u2019Amico",
+            "TrackTitle": "Hanno ucciso l\u2019Uomo Ragno",
+            "TrackComposer": "Max Pezzali",
+            "MBID": "032ff938-0f39-4599-b2eb-009acb728441",
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+        },
+        {
+            "TrackArtist": "Fabrizio Moro",
+            "TrackTitle": "Pensa",
+            "TrackComposer": "Fabrizio Moro",
+            "MBID": "9099e129-f2a0-4d16-8f6a-8076b40c00a4",
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+        },
+        {
+            "TrackArtist": "Righeira",
+            "TrackTitle": "L'estate sta finendo",
+            "TrackComposer": "Stefano Rota, Michael Righeira, Carmelo La Bionda",
+            "MBID": "00977dff-c0f1-498b-bbc8-b0445a5c36f1",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Edoardo Vianello",
+            "TrackTitle": "Guarda come dondolo",
+            "TrackComposer": "Edoardo Vianello, Carlo Rossi",
+            "MBID": "563aefac-c912-49ab-ac64-74dc0fd4c6d5",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Dario Baldan Bembo",
+            "TrackTitle": "Amico \u00e8",
+            "TrackComposer": "Dario Baldan Bembo, Nini Giacomelli, Sergio Bardotti, Mike Bongiorno",
+            "MBID": "f148d2bf-6234-455b-9d9f-141ad3bffe3c",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Whigfield",
+            "TrackTitle": "Saturday Night",
+            "TrackComposer": "Larry Pignagnoli, Davide Riva",
+            "MBID": "94f573d3-45bb-4725-ab96-95a19b42a83e",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Neja",
+            "TrackTitle": "Restless",
+            "TrackComposer": "Agnese Cacciola, Alessandro Deledda, Giorgio Vanni",
+            "MBID": "42b33faa-0f5a-4fa1-bed8-2cc593930beb",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Molella",
+            "TrackTitle": "Discotek People",
+            "TrackComposer": "Maurizio Molella, Phil Jay, Lady Violet",
+            "MBID": "2709c104-e137-440e-a780-455e45eeb4e6",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Darius & Finlay",
+            "TrackTitle": "Do It All Night",
+            "TrackComposer": "Roberto Gallo Salsotto, Roby Santini, Alessandro Moschini",
+            "MBID": "2f55187b-6aec-408c-a187-2caec2e12803",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Paps'n'Skar",
+            "TrackTitle": "Turn Around",
+            "TrackComposer": "Pierluigi Paps, Skar, Emanuele Cozzi",
+            "MBID": "7183c6ed-d8d9-468b-8941-d4b75ad70b88",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Tiny Tot",
+            "TrackTitle": "Discoland (Giorgio Prezioso remix)",
+            "TrackComposer": "Giorgio Prezioso, Andrea Prezioso",
+            "MBID": "7669b267-f3fc-4a9c-8630-2e82c20ba9ff",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Karnage n Darknis featuring MC Briddle",
+            "TrackTitle": "Right Trak",
+            "TrackComposer": "Roberto Concina, Gianfranco Bortolotti",
+            "MBID": "0a3e6451-7576-4051-aaba-ac5dc366249c",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Les Bon Hommes",
+            "TrackTitle": "La La La La La La La La",
+            "TrackComposer": "Marco Gambardella, Alessandro Giannini, Stefano Bratti",
+            "MBID": "2bf2af9a-f6aa-4862-bf3e-d1f20806fd70",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Gigi D\u2019Agostino",
+            "TrackTitle": "Baci & abbracci",
+            "TrackComposer": "Andrea Prezioso, Alessandro Moschini, Roberto Gallo Salsotto",
+            "MBID": "8731a635-4980-4d05-b5de-dc2e923e98f3",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Lady Violet",
+            "TrackTitle": "Inside to Outside",
+            "TrackComposer": "Maurizio Molella, Lady Violet, Phil Jay",
+            "MBID": "f25ff088-9cc8-45a6-8471-a37bb092a1f1",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Bamble B.",
+            "TrackTitle": "Crime of Passion",
+            "TrackComposer": "Massimo Gabutti, Maurizio Lobina, Gianfranco Randone",
+            "MBID": "95ff9e02-10f1-4b49-bcb8-b40d7ad20209",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Marcel",
+            "TrackTitle": "Promiseland",
+            "TrackComposer": "Roberto Gallo Salsotto, Roby Santini",
+            "MBID": "6a0e92ff-056c-4a98-9e7c-9b63750640a4",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "The Tamperer feat. Maya",
+            "TrackTitle": "Feel It",
+            "TrackComposer": "Giuseppe Nicastro, Mario Fargetta, Alessandro Sommella",
+            "MBID": "da12b056-6e9b-4813-8ba5-0dc6af214e2a",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Gigi D\u2019Agostino",
+            "TrackTitle": "Bla Bla Bla",
+            "TrackComposer": "Luigi Di Agostino",
+            "MBID": "2fc8e579-0aed-45a8-be2d-ec2258d14751",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Alex Gaudino ft. Crystal Waters",
+            "TrackTitle": "Destination Calabria",
+            "TrackComposer": "Alessandro Benassi, Roberto Gaetani, Crystal Waters",
+            "MBID": "3e445caa-3ee2-4508-89ee-31d3b01d6d8b",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "DJ Visage",
+            "TrackTitle": "Formula",
+            "TrackComposer": "Gianfranco Bortolotti, Mauro Picotto, Andrea Remondini",
+            "MBID": "518c6b80-f92c-47fb-819d-838f7a4cf956",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Floorfilla",
+            "TrackTitle": "Anthem 4",
+            "TrackComposer": "Gabriele Ponte, Roberto Gallo Salsotto",
+            "MBID": "940aa0cb-8aa2-48a5-9d43-90565175eb0c",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Kasso",
+            "TrackTitle": "Key West",
+            "TrackComposer": "Sergio Menegale, Aldo Valente",
+            "MBID": "9d9a88ff-583e-474c-8f86-cb7caf587b6e",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Slipstream",
+            "TrackTitle": "Computer Love",
+            "TrackComposer": "Augusto Righetti, Antonio Giacomozzi",
+            "MBID": "716f4fa1-04ad-4eee-bf80-51883806e9d4",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Alexander Robotnick",
+            "TrackTitle": "Probl\u00e8mes d\u2019amour",
+            "TrackComposer": "Maurizio Dami",
+            "MBID": "077af467-02e1-4126-ab9e-8e81267fa77f",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Risque III",
+            "TrackTitle": "Essence of a Dream",
+            "TrackComposer": "Frankie Knucles, Robert Owens",
+            "MBID": "14dad52e-e9a7-461b-aa90-e6536e0cde27",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "49ers",
+            "TrackTitle": "Touch Me",
+            "TrackComposer": "Gianfranco Bortolotti, Pieradis Rossini, Luca Cittadini",
+            "MBID": "447155c2-bbed-48e9-9b96-92581a2d8d8c",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Gigi D\u2019Agostino",
+            "TrackTitle": "Elisir",
+            "TrackComposer": "Luigi Di Agostino, Carlo Montagner, Paolo Sandrini",
+            "MBID": "2bb5ffc5-0448-4abc-a62c-0adc77f8e968",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Piero Umiliani",
+            "TrackTitle": "Mah N\u00e0 Mah N\u00e0 (Mah N\u00e0 Mammato mix)",
+            "TrackComposer": "Piero Umiliani",
+            "MBID": "c771831d-9170-4ded-a202-a1e8a5dc5298",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Goblin",
+            "TrackTitle": "Profondo Rosso: Profondo Rosso",
+            "TrackComposer": "Claudio Simonetti, Fabio Pignatelli, Massimo Morante",
+            "MBID": "31772c89-68e9-47b2-b985-83ec5dc392e0",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Sidereal Fortress",
+            "TrackTitle": "Il grande Silenzio (Ennio Morricone cover)",
+            "TrackComposer": "Ennio Morricone",
+            "MBID": "6efadbb0-984a-4484-a44a-e5349dccde59",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Miglio",
+            "TrackTitle": "Fedeli alla linea",
+            "TrackComposer": "Giovanni Lindo Ferretti, Massimo Zamboni",
+            "MBID": "bbecf774-a84a-4861-b5a8-82af0ad6f9c1",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Litfiba",
+            "TrackTitle": "El diablo",
+            "TrackComposer": "Piero Pel\u00f9, Ghigo Renzulli",
+            "MBID": "69cf1a27-81a0-4061-a1d3-667ae0e3d53b",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Alan Sorrenti",
+            "TrackTitle": "Figli delle stelle",
+            "TrackComposer": "Alan Sorrenti",
+            "MBID": "d1a6c5f5-0f8c-4cab-93dc-6e79a635386a",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Tony Esposito",
+            "TrackTitle": "Kalimba de Luna",
+            "TrackComposer": "Tony Esposito, Mauro Malavasi, Remo Licastro",
+            "MBID": "2396fe3c-91b1-4397-968c-c6d80784d2ba",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Claudio Simonetti",
+            "TrackTitle": "Phenomena",
+            "TrackComposer": "Claudio Simonetti",
+            "MBID": "5bb100ec-a78a-4fdb-ab03-a52fe544fa79",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Chrisma",
+            "TrackTitle": "C-Rock",
+            "TrackComposer": "Maurizio Arcieri, Christina Moser",
+            "MBID": "68ec9967-0a70-4780-a8f3-3f1367780428",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Miko Mission",
+            "TrackTitle": "How Old Are You",
+            "TrackComposer": "Pierluigi Giombini",
+            "MBID": "477a854e-225a-4523-b2f3-7f3934545df4",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Raggio di Luna (Moon Ray)",
+            "TrackTitle": "Comanchero",
+            "TrackComposer": "Aldo Martinelli, Simona Zanini",
+            "MBID": "a724fed7-4ca3-48bc-a13a-141c34a71959",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Ryan Paris",
+            "TrackTitle": "Fall in Love",
+            "TrackComposer": "Pierluigi Giombini, Gazebo",
+            "MBID": "de513c62-a5ea-4b94-995b-204eb5d6795b",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "N.O.I.A.",
+            "TrackTitle": "True Love",
+            "TrackComposer": "Alessandro Gandino, Davide Ponzecchi",
+            "MBID": "c00b6261-abcb-404a-bb0b-e8dcef7ada86",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Giorgio Gaber",
+            "TrackTitle": "Destra-sinistra",
+            "TrackComposer": "Giorgio Gaber, Sandro Luporini",
+            "MBID": "539819ce-7fdd-42e6-ab41-2b1fcc8a6ff3",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Black Box",
+            "TrackTitle": "Fantasy (extended mix)",
+            "TrackComposer": "Daniele Davoli, Valerio Semplici, Mirko Limoni",
+            "MBID": "abba4bf0-e031-457c-b99b-4deb12a7f4ad",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Livin\u2019 Joy",
+            "TrackTitle": "Dreamer (Original Mix)",
+            "TrackComposer": "Paolo Visnadi, Gianni Visnadi",
+            "MBID": "fd9ff083-2da1-4d23-9c6e-c275dab81af6",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Netzwerk",
+            "TrackTitle": "Memories (extended 12\u2033 mix)",
+            "TrackComposer": "Gabriele Ponte, Roberto Gallo Salsotto",
+            "MBID": "f7532257-32c7-4b58-af1d-7c8d6106dec9",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Darren Bailie Of Guru Josh Project x Tom Franke x Cappella",
+            "TrackTitle": "U Got 2 Let the Music (extended mix)",
+            "TrackComposer": "Gianfranco Bortolotti, Steven Zucchini",
+            "MBID": "f7e96917-a9ba-412c-9feb-b7a1aa3bb3fb",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Fargetta",
+            "TrackTitle": "The Music Is Moving (original mix)",
+            "TrackComposer": "Mario Fargetta, Alex Farolfi",
+            "MBID": "f58a6e63-3f40-49e8-a41b-14f32fc983f6",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Corona",
+            "TrackTitle": "The Rhythm of the Night (extended mix/Rapino Bros)",
+            "TrackComposer": "Francesco Bontempi, Annerley Gordon, Giorgino Spagna",
+            "MBID": "78344886-6ad7-4f6f-b596-fd33214c609e",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Alexia",
+            "TrackTitle": "Uh La La La (club mix)",
+            "TrackComposer": "Alessia Aquilani, Massimo Marcolini, Roberto Zanetti",
+            "MBID": "6fe10ee1-e278-4526-9308-19c32a83a5ac",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Eiffel 65 / David Guetta & Bebe Rexha",
+            "TrackTitle": "Blue (Da Ba Dee) (Gabry Ponte Ice Pop mix) / I\u2019m Good (Blue)",
+            "TrackComposer": "Massimo Gabutti, Maurizio Lobina, Gianfranco Randone",
+            "MBID": "66b7d164-1163-434f-858e-efb0aee26f42",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "David Guetta vs. Benny Benassi",
+            "TrackTitle": "Satisfaction (extended mix)",
+            "TrackComposer": "Benny Benassi, Alle Benassi",
+            "MBID": "efc88bfa-aef3-4231-9b60-8817c6ee44de",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Robert Miles",
+            "TrackTitle": "Children (Dream version)",
+            "TrackComposer": "Robert Miles",
+            "MBID": "d6616f75-7bbc-46f0-8c3e-446441316e68",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Fiorello",
+            "TrackTitle": "Batticuore (Gigi D'Agostino mix extended)",
+            "TrackComposer": "Luigi Di Agostino, Carlo Montagner, Paolo Sandrini",
+            "MBID": "cc0e3718-57b5-43f0-bc30-b8c0f1c56873",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Whigfield",
+            "TrackTitle": "Saturday Night (extended mix)",
+            "TrackComposer": "Larry Pignagnoli, Davide Riva",
+            "MBID": "bef5411f-b6e2-4bb3-a20c-0eada114e149",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Sabrina Salerno",
+            "TrackTitle": "Boys (Summertime Love) (extended mix)",
+            "TrackComposer": "Matteo Bonsanto, Roberto Rossi, Claudio Cecchetto",
+            "MBID": "ce2e67dc-b11c-46d2-a5c1-6fb7cfa3a284",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Righeira",
+            "TrackTitle": "Vamos A La Playa",
+            "TrackComposer": "Stefano Rota, Michael Righeira, Carmelo La Bionda",
+            "MBID": "0f193cd1-9cc0-4db6-a76d-ea0a3b3ad705",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Ryan Paris",
+            "TrackTitle": "Dolce Vita (original 12\u2033 version)",
+            "TrackComposer": "Pierluigi Giombini, Gazebo",
+            "MBID": "c52e2584-544e-4c32-94c1-ef6bfc223c6b",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Ian Lex",
+            "TrackTitle": "Tarzan Boy (Baltimora mix)",
+            "TrackComposer": "Maurizio Bassi, Naimy Hackett",
+            "MBID": "2652a6c0-50ef-4325-86a3-8ba4f10d7999",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Sandy Marton",
+            "TrackTitle": "Megamix (extended version)",
+            "TrackComposer": "Claudio Cecchetto, Laurent Gelmetti",
+            "MBID": "cb609887-5297-442a-9fb7-9939e2377d3e",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Den Harrow",
+            "TrackTitle": "Lies (12'' Version)",
+            "TrackComposer": "Roberto Turatti, Miki Chieregato, Tom Hooker",
+            "MBID": "cbcddf29-a95d-4bbe-a4a6-4fdb419b70b5",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Valerie Dore",
+            "TrackTitle": "Lancelot (Extended Version)",
+            "TrackComposer": "Roberto Gasparini, Mauro Farina",
+            "MBID": "acab2e55-07c5-4837-b75d-6cc305cf3386",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "P. Lion",
+            "TrackTitle": "Happy Children",
+            "TrackComposer": "P. Lion, Davide Di Mogavero",
+            "MBID": "42ebbedb-8206-47ff-86fa-74ba50f02c8c",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Miko Mission",
+            "TrackTitle": "The World Is You (extended version)",
+            "TrackComposer": "Pierluigi Giombini",
+            "MBID": "f77cd85c-fad5-45c1-8cc1-a066dceebbd1",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Phil Fuldner",
+            "TrackTitle": "Fun Fun (extended mix)",
+            "TrackComposer": "Dario Raimondi, Alvaro Ugolini",
+            "MBID": "985819a9-cdf7-4763-8b56-5c5a3858a0da",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Koto",
+            "TrackTitle": "Japanese War Game",
+            "TrackComposer": "Enzo Vallicelli, Paolo Zanella",
+            "MBID": "1b67a488-f1fa-4885-8fd7-44a70e1fa674",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Savage",
+            "TrackTitle": "Don\u2019t Cry Tonight",
+            "TrackComposer": "Roberto Zanetti",
+            "MBID": "c25b5986-d9cd-472d-acb9-0ba677176363",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "My Mine",
+            "TrackTitle": "Zorro (original 12\u2033 version)",
+            "TrackComposer": "Maurizio De Angelis, Guido De Angelis",
+            "MBID": "0b351b9b-5e01-4aec-8d31-58f5be1fb7de",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Joe Lettieri",
+            "TrackTitle": "Faces (extended version)",
+            "TrackComposer": "Francesco Rago, Paolo Pelandi",
+            "MBID": "6ba59514-538a-4344-958f-631654b0f2be",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Luke McQueen",
+            "TrackTitle": "Kano: Another Life",
+            "TrackComposer": "Stefano Ricchi, Stefano Galante, Luciano Ninzatti",
+            "MBID": "7ba0eddd-3bf6-4e24-9149-eee574d3616c",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Klein & M.B.O.",
+            "TrackTitle": "Dirty Talk (European Connection)",
+            "TrackComposer": "Mario Boncaldo, Tony Carrasco",
+            "MBID": "fc2e75c7-70c8-4e11-a34a-11d6c64c7544",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Mr. Flagio",
+            "TrackTitle": "Take a Chance (vocal version)",
+            "TrackComposer": "Aldo Martinelli, Simona Zanini",
+            "MBID": "9973f28d-cb11-45d8-acb3-fa226e23d74b",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Scotch",
+            "TrackTitle": "Disco Band",
+            "TrackComposer": "Vincenzo Brugnoli, Fabio Margutti",
+            "MBID": "e5cf3dd2-016d-4d49-b900-378a3cc19fac",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "MF Robots",
+            "TrackTitle": "Happy Song (extended version)",
+            "TrackComposer": "Massimo Gabutti, Maurizio Lobina, Gianfranco Randone",
+            "MBID": "84bae9d1-88a7-41a4-a548-373317d9379a",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Amin\u2010Peck",
+            "TrackTitle": "Suicidal (Disco Version)",
+            "TrackComposer": "Mauro Farina, Giuliano Crivellente",
+            "MBID": "008787bb-65ec-40ff-9671-dcf40e4800d7",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Cruisin\u2019 Gang",
+            "TrackTitle": "America (extended version)",
+            "TrackComposer": "Alessandro Zanni, Ivana Spagna",
+            "MBID": "7f0c1050-845b-4c39-941e-a83ac6749608",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Doublespeak",
+            "TrackTitle": "The Visitors (extended version)",
+            "TrackComposer": "Anfrando Maiola, Michele G. Nocera",
+            "MBID": "37688f3f-d4eb-4201-9302-8c06d1874150",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Lover Lover",
+            "TrackTitle": "You Turn Me Up (Extended Mix)",
+            "TrackComposer": "Mauro Farina, Giuliano Crivellente",
+            "MBID": "b5b07735-62e2-495f-b443-fcc335b88ad5",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Reeds",
+            "TrackTitle": "Marines (original extended version)",
+            "TrackComposer": "Dario Raimondi, Alvaro Ugolini",
+            "MBID": "500a84aa-2e26-4782-bc12-b066d1cf3b52",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Philippe B.",
+            "TrackTitle": "Ibiza mi amor (original 12\" mix)",
+            "TrackComposer": "Mauro Farina, Giuliano Crivellente",
+            "MBID": "84b24b23-9d6c-4f61-a7a1-4802469bf3ab",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Ken Laszlo vs. Disco Dice",
+            "TrackTitle": "Hey Hey Guy (Ken Laszlo Original Vocal Version)",
+            "TrackComposer": "Sandro Oliva",
+            "MBID": "51024cf7-9d77-4c22-a975-45e8d403f326",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Franco Battiato",
+            "TrackTitle": "Segnali di vita",
+            "TrackComposer": "Franco Battiato",
+            "MBID": "75733bdb-1b17-4213-82e1-6fab8c80ea8c",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Paolo Conte",
+            "TrackTitle": "Un gelato al limone",
+            "TrackComposer": "Paolo Conte",
+            "MBID": "473b73db-945a-4ba8-bee9-c19302fd2738",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Enzo Jannacci",
+            "TrackTitle": "Vengo anch\u2019io. No, tu no",
+            "TrackComposer": "Enzo Jannacci, Dario Fo, Sandro Ciotti",
+            "MBID": "e27a07f1-8113-4a77-99fb-ec72fb8a70c9",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Giorgio Gaber",
+            "TrackTitle": "La libert\u00e0",
+            "TrackComposer": "Giorgio Gaber, Sandro Luporini",
+            "MBID": "0a2e112c-491f-47e7-985d-43c51c6fedbd",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Le Orme",
+            "TrackTitle": "Sguardo Verso Il Cielo",
+            "TrackComposer": "Aldo Tagliapietra, Tony Pagliuca, Michi Dei Rossi",
+            "MBID": "f6edb197-e62e-486e-8904-4d302fdd9f3f",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Area",
+            "TrackTitle": "Gioia e rivoluzione",
+            "TrackComposer": "Patrizio Fariselli, Demetrio Stratos",
+            "MBID": "abbec921-cf46-423d-b850-de65c9cc044a",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Litfiba",
+            "TrackTitle": "Desaparecido",
+            "TrackComposer": "Piero Pel\u00f9, Ghigo Renzulli",
+            "MBID": "6e9f175a-3230-47ab-a9f8-75e5ed3bbf1b",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Almamegretta",
+            "TrackTitle": "Nun te scurd\u00e0",
+            "TrackComposer": "Raiz, Gennaro T",
+            "MBID": "8e9cab77-8e68-4c38-8bdd-e3aea35f9797",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "99 Posse",
+            "TrackTitle": "Curre curre guagli\u00f3",
+            "TrackComposer": "Luca Persico, Marco D'Amore",
+            "MBID": "3f659a13-1b26-4375-ba69-e6d958bdf44c",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Afterhours",
+            "TrackTitle": "Male di miele",
+            "TrackComposer": "Manuel Agnelli",
+            "MBID": "75a43cc8-2d3b-4799-a4ba-f8a432c27a0b",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Marlene Kuntz",
+            "TrackTitle": "Nuotando nell'aria",
+            "TrackComposer": "Cristiano Godano, Riccardo Tesio, Luca Bergia",
+            "MBID": "55afc730-c55c-4c28-a51f-6a84e496a2dd",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "La Rappresentante di Lista",
+            "TrackTitle": "Questo corpo",
+            "TrackComposer": "Veronica Lucchesi, Dario Mangiaracina",
+            "MBID": "28c0ad09-03f9-430c-a361-9f812123b337",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Calibro 35",
+            "TrackTitle": "Notte in Bovisa",
+            "TrackComposer": "Massimo Martellotta, Enrico Gabrielli, Fabio Rondanini, Luca Cavina",
+            "MBID": "c0ecd769-6f20-4e90-93c5-8fd5c5040c87",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Repulsione",
+            "TrackTitle": "Senza titolo",
+            "TrackComposer": "Max Collini, Daniele Carretti, Enrico Fontanelli",
+            "MBID": "d3f549e1-030f-4366-865c-5f8a160577eb",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Bologna Violenta",
+            "TrackTitle": "La via della droga",
+            "TrackComposer": "Nicola Manzan",
+            "MBID": "97ecb038-f957-4944-bfca-6330e3f88c33",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Il Balletto di Bronzo",
+            "TrackTitle": "Missione Sirio 2222",
+            "TrackComposer": "Gianni Leone, Lino Ajello, Michele Cupaiolo",
+            "MBID": "c87457cf-87b5-436c-b662-38b586a7ea1a",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Chrisma",
+            "TrackTitle": "Black silk stocking",
+            "TrackComposer": "Maurizio Arcieri, Christina Moser",
+            "MBID": "c5a69a0e-e9a5-4141-a984-1b425e11a22c",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "MGO",
+            "TrackTitle": "Eterna Eterna",
+            "TrackComposer": "",
+            "MBID": "8bb4be1d-179b-48c7-8068-baade77d7fd9",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Hipnosis",
+            "TrackTitle": "Bormaz",
+            "TrackComposer": "Anfrando Maiola, Zennaro Michele G.",
+            "MBID": "0ad9f332-5e6a-462f-8658-4b11c19196c3",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Roberto Cacciapaglia",
+            "TrackTitle": "Oceano",
+            "TrackComposer": "Roberto Cacciapaglia",
+            "MBID": "9c45b21d-2e68-491a-a23a-12b77023a8c3",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Alessandro Alessandroni",
+            "TrackTitle": "Alessandro Alessandroni Speaks",
+            "TrackComposer": "Alessandro Alessandroni",
+            "MBID": "e5199e9b-ed3b-4122-87f0-b1dbb93146c6",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Piero Piccioni",
+            "TrackTitle": "Traffic Boom",
+            "TrackComposer": "Piero Piccioni",
+            "MBID": "337a5a71-f1cb-4b08-9b93-33e97d29b525",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Stelvio Cipriani",
+            "TrackTitle": "Papaya",
+            "TrackComposer": "Stelvio Cipriani",
+            "MBID": "b5c90153-55ae-4a42-b4fb-b3a70c28afad",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Ennio Morricone",
+            "TrackTitle": "Per qualche dollaro in pi\u00f9: Per qualche dollaro in pi\u00f9",
+            "TrackComposer": "Ennio Morricone",
+            "MBID": "77a471ab-8373-40b3-b286-fcbddff7c014",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Brutopop",
+            "TrackTitle": "Il bell'Antonio",
+            "TrackComposer": "Riz Ortolani",
+            "MBID": "05e24266-3b04-4baa-869a-0e416bbeeb6b",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Roberto Murolo",
+            "TrackTitle": "La Grotta Azzurra",
+            "TrackComposer": "Bruno Nicolai",
+            "MBID": "abf9afcb-bf49-411c-b0ca-96e180acdf0e",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Fabio Frizzi",
+            "TrackTitle": "Story Theme",
+            "TrackComposer": "Fabio Frizzi",
+            "MBID": "a3debcd0-3a99-4c9c-b659-bf83b1d99a39",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Livin\u2019 Joy",
+            "TrackTitle": "Dreamer",
+            "TrackComposer": "Paolo Visnadi, Gianni Visnadi",
+            "MBID": "aa2059ba-63b7-4d6e-b2ce-fd5084e3a6b7",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Corona",
+            "TrackTitle": "Try Me Out",
+            "TrackComposer": "Francesco Bontempi, Annerley Gordon, Giorgino Spagna",
+            "MBID": "123973e6-3f7d-48c9-939b-2712e7129e8b",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Alexia",
+            "TrackTitle": "Gimme Love",
+            "TrackComposer": "Alessia Aquilani, Massimo Marcolini, Roberto Zanetti",
+            "MBID": "ce4fe885-cebe-4c13-ab5a-f90a4ddebe12",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Gigi D\u2019Agostino",
+            "TrackTitle": "The Riddle",
+            "TrackComposer": "Nik Kershaw, adapted by Gigi D'Agostino",
+            "MBID": "af74640e-7bec-4435-b0e4-76fef430d796",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Benny Benassi",
+            "TrackTitle": "Love Is Gonna Save Us",
+            "TrackComposer": "Benny Benassi, Alle Benassi",
+            "MBID": "66d065f5-5276-4007-bccf-6ba5b491a0e8",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Mauro Picotto",
+            "TrackTitle": "Komodo",
+            "TrackComposer": "Mauro Picotto, Andrea Remondini",
+            "MBID": "a7dec00c-575c-4bb2-84dd-8dafb252a7fd",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Floorfilla",
+            "TrackTitle": "Le D\u00e9lire",
+            "TrackComposer": "Gabriele Ponte, Roberto Gallo Salsotto",
+            "MBID": "9a924e5e-52ca-49f9-af6f-942623d0b7e2",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Datura",
+            "TrackTitle": "Passion",
+            "TrackComposer": "Ciro Pagano, Stefano Mazzavillani, Amadori Riccardo",
+            "MBID": "1becdc7d-633c-4734-a201-de35560434ae",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Ramirez",
+            "TrackTitle": "La Musika Tremenda",
+            "TrackComposer": "Davide Rizzatti, Riccardo Persi",
+            "MBID": "6344c96d-ca1d-4808-ae98-8fcca972bc5a",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Gigi D\u2019Agostino",
+            "TrackTitle": "Another Way",
+            "TrackComposer": "Luigi Di Agostino, Carlo Montagner, Paolo Sandrini",
+            "MBID": "384ffa8f-989c-4aaa-a5ca-91ae41212bf6",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "DFX feat. Atheena",
+            "TrackTitle": "Manumission (Molella)",
+            "TrackComposer": "Maurizio Molella, Phil Jay",
+            "MBID": "806b059f-be9c-4d11-b73e-9d6886db4325",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Billy More",
+            "TrackTitle": "Come on and Do It",
+            "TrackComposer": "Roberto Gallo Salsotto, Roby Santini, Alessandro Moschini",
+            "MBID": "a8671c47-ca92-4662-9997-3e5c52a195b1",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Paps'N'Skar",
+            "TrackTitle": "Loving You",
+            "TrackComposer": "Pierluigi Paps, Skar, Emanuele Cozzi",
+            "MBID": "6ba50db5-9725-44b9-8af6-e19fef9c7c28",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Netzwerk",
+            "TrackTitle": "Passion",
+            "TrackComposer": "Gabriele Ponte, Roberto Gallo Salsotto",
+            "MBID": "f5d3b1f2-6527-4814-b127-2d6095ada0fa",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Whigfield",
+            "TrackTitle": "Think of You",
+            "TrackComposer": "Larry Pignagnoli, Davide Riva",
+            "MBID": "d7fd2a9f-d0fd-4021-8d7a-f8757c3b4d7a",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "John Vanderslice",
+            "TrackTitle": "Shake It Up, Shake It Up",
+            "TrackComposer": "Marco Gambardella, Alessandro Giannini, Stefano Bratti",
+            "MBID": "c06528bc-5a02-44fe-9c7a-044cf13b3c0c",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Elevators",
+            "TrackTitle": "Marvin",
+            "TrackComposer": "Andrea Prezioso, Alessandro Moschini, Roberto Gallo Salsotto",
+            "MBID": "f45e02c3-b10f-4ee7-8f83-75c401277319",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Lady Violet",
+            "TrackTitle": "Lovin' You Baby",
+            "TrackComposer": "Maurizio Molella, Lady Violet, Phil Jay",
+            "MBID": "20ae7142-05ff-406c-b13b-8ae99fedf2ff",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Bjelleklang",
+            "TrackTitle": "Bamble",
+            "TrackComposer": "Massimo Gabutti, Maurizio Lobina, Gianfranco Randone",
+            "MBID": "e2165dbd-f4b0-4cfd-a2d1-f3da8f8fd540",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Wagdas",
+            "TrackTitle": "Promiseland",
+            "TrackComposer": "Roberto Gallo Salsotto, Roby Santini",
+            "MBID": "7d3a8ff3-f648-4020-a60f-ebb108501d8d",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "The Tamperer feat. Maya",
+            "TrackTitle": "If You Buy This Record (Your Life Will Be Better)",
+            "TrackComposer": "Giuseppe Nicastro, Mario Fargetta, Alessandro Sommella",
+            "MBID": "ffdd6d41-0e5a-49aa-8d78-74b0850db56a",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Molella",
+            "TrackTitle": "Tell Me",
+            "TrackComposer": "Maurizio Molella, Phil Jay",
+            "MBID": "c75c9afc-7812-4627-b100-f75aaaeadaa3",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "DJ Ross",
+            "TrackTitle": "Emotion (Emotion)",
+            "TrackComposer": "Rossano Prini, Alessandro Viale",
+            "MBID": "c6493843-85a0-4448-ae27-a50f344778b1",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Brothers",
+            "TrackTitle": "Sexy Girl",
+            "TrackComposer": "Walter Candela, Giorgio Spagnolo, Giacomo Maiolini",
+            "MBID": "6d5b0fe9-7641-4c00-a5bb-5d97865fc799",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "The Soundlovers",
+            "TrackTitle": "Living in Your Head",
+            "TrackComposer": "Gianni Fontana, Roberto Borrelli, Alex Bagnoli",
+            "MBID": "38b1f2c5-aa67-440a-a53b-6fef4701708a",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Adriano Celentano",
+            "TrackTitle": "Sotto le lenzuola",
+            "TrackComposer": "Vito Pallavicini, Adriano Celentano",
+            "MBID": "9ab39eb1-f3c9-4c5d-af77-035bcd469947",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Mina",
+            "TrackTitle": "Tintarella di luna",
+            "TrackComposer": "Franco Migliacci, Bruno De Filippi",
+            "MBID": "979ea0c3-1b17-41a7-bdc1-05110771eccb",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Fred Bongusto",
+            "TrackTitle": "Una rotonda sul mare",
+            "TrackComposer": "Fred Bongusto",
+            "MBID": "a1b109eb-3f67-4934-9337-2e6417077b3b",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "GHOST",
+            "TrackTitle": "Hai una vita ancora (Feat. Ornella Vanoni)",
+            "TrackComposer": "Roberto Carlos, Erasmo Carlos, Bruno Lauzi",
+            "MBID": "f1dc7fc0-9889-449a-b667-9d68295e2b22",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Lucio Battisti",
+            "TrackTitle": "La canzone del sole",
+            "TrackComposer": "Lucio Battisti, Mogol",
+            "MBID": "eb3d8b6c-b8d6-49d9-98b8-4679657c476f",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Fabrizio De Andr\u00e9",
+            "TrackTitle": "Il pescatore",
+            "TrackComposer": "Fabrizio De Andr\u00e9, Gian Piero Reverberi, Franco Zauli",
+            "MBID": "67f85c17-44e3-4218-a2b1-f9cafcbc6993",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Lucio Dalla",
+            "TrackTitle": "Futura",
+            "TrackComposer": "Lucio Dalla",
+            "MBID": "7f955488-bdf5-48b3-a4f5-ce1310749201",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Mario Biondi",
+            "TrackTitle": "Love Is a Temple",
+            "TrackComposer": "Mario Biondi, Luca Florian, Alessandro Magnanini",
+            "MBID": "7b720086-9c95-43cf-9658-a6f4128b1f82",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Nina Zilli",
+            "TrackTitle": "L'uomo che amava le donne",
+            "TrackComposer": "Nina Zilli, Marco Tagliola, Gi\u00f2 Sada",
+            "MBID": "41ad34e4-68bd-45c9-9517-23ef72bdd5e2",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Malika Ayane",
+            "TrackTitle": "Ricomincio da qui",
+            "TrackComposer": "Malika Ayane, Alessandra Flora, Giorgio Secco",
+            "MBID": "607734b8-4b97-4933-bcc8-53c97127f7a3",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Raphael Gualazzi",
+            "TrackTitle": "Reality and Fantasy",
+            "TrackComposer": "Raphael Gualazzi",
+            "MBID": "ef6d4317-7d8f-4ffa-a46a-e869f39d2089",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Carmen Consoli",
+            "TrackTitle": "Amore di plastica",
+            "TrackComposer": "Carmen Consoli",
+            "MBID": "445daea8-87d8-4bbf-a999-47c5e972d570",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Elisa",
+            "TrackTitle": "Eppure sentire (un senso di te)",
+            "TrackComposer": "Paolo Buonvino, Elisa Toffoli",
+            "MBID": "41ce4adf-4002-4c8c-bf99-178241644f72",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Jovanotti",
+            "TrackTitle": "Estate",
+            "TrackComposer": "Jovanotti",
+            "MBID": "8eb31213-85bd-4587-80ab-3ae0baaac7e6",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Calcutta",
+            "TrackTitle": "Cosa mi manchi a fare",
+            "TrackComposer": "Edoardo D'Erme",
+            "MBID": "51f151db-abd5-4ab9-96e4-cf7986c78fae",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Carl Brave \u00d7 Franco126",
+            "TrackTitle": "Sempre in due",
+            "TrackComposer": "Carlo Luigi Coraggio, Federico Bertollini",
+            "MBID": "4979fee1-336b-467c-a4a9-7572fcf35ba3",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Irama",
+            "TrackTitle": "La ragazza con il cuore di latta",
+            "TrackComposer": "Filippo Maria Fanti",
+            "MBID": "afa889c7-d460-47d4-a36e-016b9a0628fa",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Ultimo",
+            "TrackTitle": "Il ballo delle incertezze",
+            "TrackComposer": "Niccol\u00f2 Moriconi",
+            "MBID": "a08305f7-8f08-407a-888f-faa504cee9b1",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Negrita",
+            "TrackTitle": "Magnolia",
+            "TrackComposer": "Paolo Bruni, Enrico Salvi, Fabrizio Barbacci",
+            "MBID": "58cff0e8-6650-4a52-8ba8-6ce05914e0b6",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Cesare Cremonini",
+            "TrackTitle": "Mondo",
+            "TrackComposer": "Cesare Cremonini",
+            "MBID": "acdbccd9-df38-487a-ab37-379e1b30aea6",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Mina",
+            "TrackTitle": "Il cielo in una stanza",
+            "TrackComposer": "Gino Paoli",
+            "MBID": "b65bd69f-8ef9-462c-8e7f-716ad546d49b",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Zucchero",
+            "TrackTitle": "Miserere",
+            "TrackComposer": "Zucchero Fornaciari, Bono",
+            "MBID": "2ac4eadb-d4b7-4889-a50e-ad85316148cb",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Lucio Battisti",
+            "TrackTitle": "E penso a te",
+            "TrackComposer": "Lucio Battisti, Mogol",
+            "MBID": "a92ac673-5c38-45de-af7d-1ccd79090eed",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Riccardo Cocciante",
+            "TrackTitle": "Bella senz'anima",
+            "TrackComposer": "Riccardo Cocciante, Marco Luberti, Paolo Amerigo Cassella",
+            "MBID": "f49a558d-d927-4896-aded-7e8416619569",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Francesco De Gregori",
+            "TrackTitle": "La donna cannone",
+            "TrackComposer": "Francesco De Gregori",
+            "MBID": "9143ca5f-971f-41f4-ac3d-69b3dda5104b",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Bruxxx Music Shaker",
+            "TrackTitle": "Brividi Sere nere (Mahmood & Blanco vs. Tiziano Ferro)",
+            "TrackComposer": "Riccardo Fabbriconi, Alessandro Mahmoud, Michele Zocca",
+            "MBID": "f42b8246-88b4-4a1a-99fc-e8adc95c7176",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Marlene Kuntz",
+            "TrackTitle": "Canzone per un figlio",
+            "TrackComposer": "Cristiano Godano, Riccardo Tesio, Luca Bergia",
+            "MBID": "7953e763-7961-4d21-abb0-00b88cb97d02",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Gino Santercole",
+            "TrackTitle": "Una carezza in un pugno",
+            "TrackComposer": "Gino Santercole, Luciano Beretta, Michele Del Prete",
+            "MBID": "9c6ad185-d80f-48f6-9cc9-a4d5f8e3647e",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Domenico Modugno",
+            "TrackTitle": "Meraviglioso",
+            "TrackComposer": "Domenico Modugno, Riccardo Pazzaglia",
+            "MBID": "68c884bc-1110-4146-82b2-197c1222fb05",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Sarah Brightman",
+            "TrackTitle": "Canto Della Terra (with Andrea Bocelli)",
+            "TrackComposer": "Francesco Sartori, Lucio Quarantotto",
+            "MBID": "6eaabaa4-566a-422f-b5ec-b4ffbb32ecc5",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Eros Ramazzotti & Tina Turner",
+            "TrackTitle": "Cose della vita (Can't Stop Thinking of You)",
+            "TrackComposer": "Eros Ramazzotti, Adelio Cogliati, Piero Cassano, James Ralston, Claudio Guidetti",
+            "MBID": "f617323a-7c26-4771-a14c-3a18671ff298",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Laura Pausini",
+            "TrackTitle": "It's Not Goodbye (new version 2013)",
+            "TrackComposer": "Angelo Valsiglio, Federico Cavalli, Pietro Cremonesi",
+            "MBID": "a083d387-0ee5-48ef-9d10-3dc993a602c8",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Sfera Ebbasta",
+            "TrackTitle": "Tran tran",
+            "TrackComposer": "Gionata Boschetti, Paolo Alberto Monachetti",
+            "MBID": "f10f1a14-6e4b-4812-b64d-6a9ac749491e",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Gigliola Cinquetti",
+            "TrackTitle": "Non ho l\u2019et\u00e0",
+            "TrackComposer": "Mario Panzeri, Nisa",
+            "MBID": "aa761c46-a729-49d4-a49c-1a595fc9fe85",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Dik Dik",
+            "TrackTitle": "Senza luce (A Whiter Shade of Pale)",
+            "TrackComposer": "Gary Brooker, Keith Reid, Mogol",
+            "MBID": "ce72d96e-0ffa-47a4-8d6c-6a52c5290c21",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Jimmy Fontana",
+            "TrackTitle": "Il mondo",
+            "TrackComposer": "Jimmy Fontana, Gianni Boncompagni, Carlo Pes, Lilli Greco",
+            "MBID": "be9b6515-2776-4ab8-94f7-83a5ebaf8fbc",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Pupo",
+            "TrackTitle": "Gelato al cioccolato",
+            "TrackComposer": "Cristiano Minellono, Enzo Ghinazzi, Dario Farina",
+            "MBID": "d2152f1a-7262-48a6-81ed-8d88358aa0ad",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Fausto Leali",
+            "TrackTitle": "Ti lascer\u00f2",
+            "TrackComposer": "Fabrizio Berlincioni, Franco Fasano, Fausto Leali, Franco Ciani",
+            "MBID": "e993e9b9-df22-4a47-bb8a-16a2c341c00e",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Jovanotti",
+            "TrackTitle": "Ragazzo fortunato",
+            "TrackComposer": "Lorenzo Cherubini, Michele Centonze",
+            "MBID": "aab54413-bced-41c7-a817-f49dd563848b",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "J-Ax & Fedez",
+            "TrackTitle": "Vorrei ma non posto",
+            "TrackComposer": "Federico Lucia, Alessandro Aleotti, Daniele Lazzarin, Michele Canova Iorfida",
+            "MBID": "018f3ff1-e066-4c6a-b714-8777ec655b6f",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Takagi & Ketra feat. Giusy Ferreri & Sean Kingston",
+            "TrackTitle": "Amore e capoeira",
+            "TrackComposer": "Alessandro Merli, Fabio Clemente, Federica Abbate, Cheope, Takagi, Ketra",
+            "MBID": "01c84bcf-8a52-4aea-9c8a-2aa66b91bc27",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Benny Benassi presents The Biz",
+            "TrackTitle": "Satisfaction",
+            "TrackComposer": "Alessandro Benassi, Alfred Benassi",
+            "MBID": "403054bb-b95c-4a29-bc75-80342bc9f377",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Franco Battiato",
+            "TrackTitle": "La stagione dell'amore",
+            "TrackComposer": "Franco Battiato",
+            "MBID": "f6818071-3cfc-47af-b560-b50978f43808",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Lucio Dalla",
+            "TrackTitle": "L\u2019anno che verr\u00e0",
+            "TrackComposer": "Lucio Dalla",
+            "MBID": "64dca44b-1a66-403e-8a6b-35d927b51302",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Francesco Guccini",
+            "TrackTitle": "L'avvelenata",
+            "TrackComposer": "Francesco Guccini",
+            "MBID": "54fff718-3eee-45cf-9677-896d6364c768",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Ligabue",
+            "TrackTitle": "Piccola stella senza cielo",
+            "TrackComposer": "Luciano Ligabue",
+            "MBID": "ce4324bf-a647-4cda-8967-5b050ef011b7",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Mia Martini",
+            "TrackTitle": "Piccolo uomo",
+            "TrackComposer": "Bruno Lauzi, Dario Baldan Bembo, Michelangelo La Bionda",
+            "MBID": "6853af9f-f626-4319-9373-3dcf0198e5a3",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Riccardo Cocciante",
+            "TrackTitle": "Margherita",
+            "TrackComposer": "Riccardo Cocciante, Marco Luberti",
+            "MBID": "dcfa76ec-2bb3-4151-a1c0-5beac5b22d45",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Ivano Fossati",
+            "TrackTitle": "C\u2019\u00e8 tempo",
+            "TrackComposer": "Ivano Fossati",
+            "MBID": "96f7b6e1-ced1-4e00-aab4-4abfd7c67a2b",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Roberto Vecchioni",
+            "TrackTitle": "Samarcanda",
+            "TrackComposer": "Roberto Vecchioni",
+            "MBID": "10afd018-b56f-45f7-9df5-27354090defb",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Gianni Morandi",
+            "TrackTitle": "C\u2019era un ragazzo che come me amava i Beatles e i Rolling Stones",
+            "TrackComposer": "Mauro Lusini, Franco Migliacci",
+            "MBID": "64626ba5-7f70-4d8b-9f14-3db65c710a60",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Nomadi",
+            "TrackTitle": "Io vagabondo",
+            "TrackComposer": "Alberto Salerno, Damiano Dattoli",
+            "MBID": "fbdf63c0-a8f8-4cce-b265-616dbf1d3fc2",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Pooh",
+            "TrackTitle": "Piccola Katy",
+            "TrackComposer": "Roby Facchinetti, Valerio Negrini",
+            "MBID": "ef9fe1be-ca22-42b7-9cfe-fa9be84c7d23",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Francesco Baccini",
+            "TrackTitle": "Le donne di Modena",
+            "TrackComposer": "Francesco Baccini",
+            "MBID": "f8fe41c7-e6af-4f12-bd01-7e7685823078",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Caparezza",
+            "TrackTitle": "Vieni a ballare in Puglia",
+            "TrackComposer": "Michele Salvemini",
+            "MBID": "20e068b6-1573-4b32-a0a7-c64483d1b433",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "M\u00e5neskin",
+            "TrackTitle": "Torna a casa",
+            "TrackComposer": "Damiano David, Ethan Torchio, Thomas Raggi, Victoria De Angelis",
+            "MBID": "3846bfce-8874-42a5-ad45-3d7f89149636",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Toto Cutugno",
+            "TrackTitle": "Solo Noi",
+            "TrackComposer": "Toto Cutugno, Cristiano Minellono",
+            "MBID": "982c18d8-20ec-441b-87ce-235df6ff23e1",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Al Bano & Romina Power",
+            "TrackTitle": "Sempre Sempre",
+            "TrackComposer": "Al Bano Carrisi, Romina Power, Vito Pallavicini",
+            "MBID": "44454bdd-2558-4f43-99a9-6a2c41898215",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Umberto Tozzi",
+            "TrackTitle": "T\u00fa",
+            "TrackComposer": "Umberto Tozzi, Giancarlo Bigazzi",
+            "MBID": "2aab3148-f127-438d-a072-5bf4859bc3d8",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Eros Ramazzotti",
+            "TrackTitle": "Un\u2019emozione per sempre",
+            "TrackComposer": "Eros Ramazzotti, Adelio Cogliati, Maurizio Fabrizio, Claudio Guidetti",
+            "MBID": "62034a27-3a93-4995-85af-c8f2b7ece2e7",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Laura Pausini",
+            "TrackTitle": "Simili",
+            "TrackComposer": "Laura Pausini, Niccol\u00f2 Agliardi, Edwyn Roberts",
+            "MBID": "744db14e-f657-4753-8f8c-af599bef9b99",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Andrea Bocelli",
+            "TrackTitle": "Vivo Per Lei",
+            "TrackComposer": "Mauro Mengali, Valerio Zelli, Gigi Panceri",
+            "MBID": "468846fb-928e-4dd6-86c6-e66542c893ed",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "M\u00e5neskin",
+            "TrackTitle": "THE LONELIEST",
+            "TrackComposer": "Damiano David, Ethan Torchio, Thomas Raggi, Victoria De Angelis",
+            "MBID": "c74dd398-c2e7-4a8e-897d-5136e594309a",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "BLANCO",
+            "TrackTitle": "L'isola delle rose",
+            "TrackComposer": "Riccardo Fabbriconi, Michele Zocca",
+            "MBID": "8867913c-10a1-4707-b4f4-8977513400ad",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Mahmood, Sfera Ebbasta & Feid",
+            "TrackTitle": "Dorado",
+            "TrackComposer": "Alessandro Mahmoud, Dardust, Francesco Barbaglia",
+            "MBID": "9233bca4-5aec-48d9-b811-838f1d04090a",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Sfera Ebbasta feat. Quavo",
+            "TrackTitle": "Cupido",
+            "TrackComposer": "Gionata Boschetti, Paolo Alberto Monachetti",
+            "MBID": "ccc49e11-c1cf-4499-a2d8-5aff01b46086",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "J-Ax & Fedez",
+            "TrackTitle": "Senza pagare",
+            "TrackComposer": "Federico Lucia, Alessandro Aleotti, Daniele Lazzarin, Michele Canova Iorfida",
+            "MBID": "e85c8c30-baa4-47a8-b189-610387011341",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Arisa",
+            "TrackTitle": "L'esercito del selfie",
+            "TrackComposer": "Alessandro Merli, Fabio Clemente, Alessandro Aleotti, Tommaso Paradiso",
+            "MBID": "1f72ee59-b8b8-4a6e-81cf-ed8dfeb68862",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Giorgieness",
+            "TrackTitle": "Da zero a cento",
+            "TrackComposer": "Claudia Nahum, Federica Abbate, Rocco Pagliarulo, Alessandro Merli, Fabio Clemente",
+            "MBID": "776dca9a-3117-4dad-8dd6-cf70c5a0e0a1",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Francesco Gabbani",
+            "TrackTitle": "Viceversa",
+            "TrackComposer": "Francesco Gabbani, Pacifico",
+            "MBID": "0fac8741-e94a-463f-b7d3-24025f132956",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Emma",
+            "TrackTitle": "Non \u00e8 l\u2019inferno",
+            "TrackComposer": "Francesco Silvestre",
+            "MBID": "9056e1e7-e11b-43ba-aa61-5a29a5e4abef",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Marco Mengoni",
+            "TrackTitle": "Guerriero",
+            "TrackComposer": "Marco Mengoni, Fortunato Zampaglione",
+            "MBID": "b4609c10-965f-417f-88b3-326e4f0e7db3",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Fabri Fibra",
+            "TrackTitle": "Tranne Te",
+            "TrackComposer": "Fabrizio Tarducci, Michele Corrado",
+            "MBID": "bdcce11b-7547-4602-a44a-19af5d9e07d8",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Marracash",
+            "TrackTitle": "Status",
+            "TrackComposer": "Fabio Rizzo",
+            "MBID": "5b21c1a3-8fa0-44ca-8460-7f9c707da538",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Jovanotti",
+            "TrackTitle": "Fango",
+            "TrackComposer": "Lorenzo Cherubini, Riccardo Onori, Christian Rigano",
+            "MBID": "4e15696a-beb4-4147-baf7-6982a411fcc9",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Gazzelle",
+            "TrackTitle": "Non sei tu",
+            "TrackComposer": "Flavio Pardini",
+            "MBID": "43e3e77e-ccfd-4d87-8375-b69710d82ca2",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Achille Lauro",
+            "TrackTitle": "Me ne frego",
+            "TrackComposer": "Achille Lauro, Davide Petrella, Daniele Dezi, Matteo Ciceroni, Gregorio Calculli",
+            "MBID": "9484f0cf-3043-4bcb-b00e-f2793010c22b",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Ornella Vanoni",
+            "TrackTitle": "Senza fine",
+            "TrackComposer": "Gino Paoli",
+            "MBID": "33e7d06d-9164-4155-afff-d8d2810b87c5",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Rita Pavone",
+            "TrackTitle": "Cuore",
+            "TrackComposer": "Barry Mann, Cynthia Weil, Antonio Amurri",
+            "MBID": "b562bc80-ed7d-4cfb-afa9-df34430b7d22",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Sfera Ebbasta",
+            "TrackTitle": "Bottiglie Priv\u00e8",
+            "TrackComposer": "Gionata Boschetti, Paolo Alberto Monachetti",
+            "MBID": "3de28228-278d-463e-920f-50c655f983aa",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Ghali",
+            "TrackTitle": "Flashback",
+            "TrackComposer": "Ghali Amdouni, Michele Zocca",
+            "MBID": "6eb89c16-59de-4f4b-bdfc-2a190a13c0e7",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Elodie",
+            "TrackTitle": "Bagno a mezzanotte",
+            "TrackComposer": "Elisa Toffoli, Federica Abbate, Jacopo Ettorre, Stash Fiordispino",
+            "MBID": "5716a2c1-4f80-4c16-a781-4beeab2df185",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Annalisa",
+            "TrackTitle": "Mon amour",
+            "TrackComposer": "Annalisa Scarrone, Paolo Antonacci, Davide Simonetta",
+            "MBID": "0dfb07e1-991b-4662-b10d-710175f30398",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Ultimo",
+            "TrackTitle": "22 settembre",
+            "TrackComposer": "Niccol\u00f2 Moriconi",
+            "MBID": "f425e907-9b1a-4758-a26b-30481043f4ab",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "OV\u00d6",
+            "TrackTitle": "Zara Larsson",
+            "TrackComposer": "Federico Lucia, Alessandro Aleotti, Michele Canova Iorfida, Zara Larsson",
+            "MBID": "1199be0d-ca47-468e-b74c-580fa4f2c3be",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Madame",
+            "TrackTitle": "Il bene nel male",
+            "TrackComposer": "Francesca Calearo, Bias, Luca Faraone",
+            "MBID": "625be7cc-c10f-44be-b23f-cd24959c0b7f",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Rocco Hunt x Ana Mena",
+            "TrackTitle": "Un bacio all\u2019improvviso",
+            "TrackComposer": "Rocco Hunt, Federica Abbate, Tiziano Bruscagin, Valerio Nazo",
+            "MBID": "f12ebf4b-a3c4-4f72-a1a0-e85f5b9b420f",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Achille Lauro",
+            "TrackTitle": "DOMENICA",
+            "TrackComposer": "Achille Lauro, Davide Petrella, Daniele Dezi, Gregorio Calculli, Simon Pietro Manzari",
+            "MBID": "8dd1ce4f-5656-4250-9edf-34fcaf98ef29",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Chalices of the Past",
+            "TrackTitle": "EFFE EFFE EFFE",
+            "TrackComposer": "Nicol\u00f2 Rapisarda, Arturo Pirovano",
+            "MBID": "19121713-d73a-4af0-a174-ea5bd4403349",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Rimozionekoatta",
+            "TrackTitle": "Come tu mi vuoi",
+            "TrackComposer": "Emanuele Palumbo, Edoardo D'Erme",
+            "MBID": "029c1357-f5f6-4250-b84a-757f9a5fda81",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Gu\u00e9 Pequeno",
+            "TrackTitle": "Mollami",
+            "TrackComposer": "Cosimo Fini, Sixpm",
+            "MBID": "6a96e4e1-3f6a-4ab4-b230-e57e0d36d2e1",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Salmo",
+            "TrackTitle": "Ho paura di uscire",
+            "TrackComposer": "Maurizio Pisciottu, Luciano Fenudi, Stefano Melchiorre",
+            "MBID": "73f8a31b-c108-4fe1-b82d-e8e645fbb121",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Coez",
+            "TrackTitle": "Faccio un casino",
+            "TrackComposer": "Silvano Albanese, Niccol\u00f2 Contessa",
+            "MBID": "96490cb0-c4ab-4ed3-94ee-ca8495b363fe",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Carl Brave feat. Franco126",
+            "TrackTitle": "Santo Graal",
+            "TrackComposer": "Carlo Luigi Coraggio, Federico Bertollini",
+            "MBID": "be0c7477-1144-4316-bf77-a95fb54254dd",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Fulminacci",
+            "TrackTitle": "Tommaso",
+            "TrackComposer": "Filippo Uttinacci",
+            "MBID": "e7cb0d05-6808-4cf0-a8c2-fa2ce9cc2a73",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Banda Osiris",
+            "TrackTitle": "I cani\u2026",
+            "TrackComposer": "Niccol\u00f2 Contessa",
+            "MBID": "600157a1-45a1-4431-82e0-fbdbfa2aeb91",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Germano Bonaveri",
+            "TrackTitle": "Stato sociale",
+            "TrackComposer": "Alberto Cazzola, Francesco Draicchio, Lodovico Guenzi, Alberto Guidetti, Enrico Roberto",
+            "MBID": "2c67255d-1bfb-44aa-abf4-0bbd06117bc2",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Colapesce Dimartino",
+            "TrackTitle": "Musica leggerissima",
+            "TrackComposer": "Antonio Di Martino, Lorenzo Urciullo",
+            "MBID": "95faba76-0b74-4854-b3c5-98c5c84a2581",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "J-Ax & Fedez feat. T\u2010Pain",
+            "TrackTitle": "Senza pagare",
+            "TrackComposer": "Federico Lucia, Alessandro Aleotti, T-Pain, Daniele Lazzarin, Michele Canova Iorfida",
+            "MBID": "00563ca2-a1e0-4f8c-b91f-66319d8598aa",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Fred De Palma feat. Anitta",
+            "TrackTitle": "Un altro ballo",
+            "TrackComposer": "Federico Palana, Ana Mena, Davide Petrella, Takagi, Ketra",
+            "MBID": "106edec1-5a41-4020-97ec-c3668d26114e",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Baby K feat. Andr\u00e9s Dvicio",
+            "TrackTitle": "Voglio ballare con te",
+            "TrackComposer": "Claudia Nahum, Federica Abbate, Rocco Pagliarulo, Alessandro Merli, Fabio Clemente",
+            "MBID": "74d79c96-fe86-4182-9f24-e353e8da09e1",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "M\u00e5neskin",
+            "TrackTitle": "Mammamia",
+            "TrackComposer": "Damiano David, Ethan Torchio, Thomas Raggi, Victoria De Angelis",
+            "MBID": "1631e52a-734c-4872-8634-3d3c87fcfb19",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "BLANCO",
+            "TrackTitle": "Nostalgia",
+            "TrackComposer": "Riccardo Fabbriconi, Michele Zocca",
+            "MBID": "b410eb2b-50bb-4bff-931e-970ea7c292a1",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Mahmood",
+            "TrackTitle": "Rapide",
+            "TrackComposer": "Alessandro Mahmoud, Dario Faini, Francesco Catitti",
+            "MBID": "10b1a427-8aa0-41cb-8474-3a2b36175ee3",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Charlie Charles, Sfera Ebbasta & Ghali",
+            "TrackTitle": "Peace & Love",
+            "TrackComposer": "Ghali Amdouni, Michele Zocca",
+            "MBID": "db908d44-b804-4633-80ae-86e2751d11d9",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Elodie",
+            "TrackTitle": "Due",
+            "TrackComposer": "Elodie Di Patrizi, Federica Abbate, Jacopo Ettorre, Francesco Catitti",
+            "MBID": "0114346d-b391-41f3-88c4-09200370c324",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Annalisa",
+            "TrackTitle": "Sinceramente",
+            "TrackComposer": "Annalisa Scarrone, Paolo Antonacci, Davide Simonetta, Stefano Tognini",
+            "MBID": "37ee1fec-7843-42de-a8ae-4182d4468c67",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Ultimo",
+            "TrackTitle": "Pianeti",
+            "TrackComposer": "Niccol\u00f2 Moriconi",
+            "MBID": "6fb23347-c07f-45a1-8dad-a995820b40b4",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Fedez",
+            "TrackTitle": "Non c\u2019\u00e8 due senza trash",
+            "TrackComposer": "Federico Lucia, Alessandro Aleotti, Daniele Lazzarin, Michele Canova Iorfida",
+            "MBID": "290dcd2d-a505-4ada-b967-93f4b8bc1c9d",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "J-Ax con Il Cile",
+            "TrackTitle": "Maria Salvador",
+            "TrackComposer": "Alessandro Aleotti, Lorenzo Cilembrini, Fabio Clemente, Alessandro Merli",
+            "MBID": "e79393e1-1f75-4a21-adc5-5a44ce464f5f",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Gazzelle",
+            "TrackTitle": "Ora che ti guardo bene",
+            "TrackComposer": "Flavio Pardini",
+            "MBID": "80fd8488-4ab3-4285-bdc7-6a5e6d36e757",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Coez",
+            "TrackTitle": "La musica non c'\u00e8",
+            "TrackComposer": "Silvano Albanese, Niccol\u00f2 Contessa",
+            "MBID": "2af3ae10-76f5-4ce6-8234-a0f604a901c9",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Carl Brave feat. Gemitaiz",
+            "TrackTitle": "Brutto esempio",
+            "TrackComposer": "Carlo Luigi Coraggio, Davide De Luca",
+            "MBID": "399bac8e-cf18-414a-a50b-18375feeb882",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Franco126 Featuring Tommaso Paradiso",
+            "TrackTitle": "Stanza singola",
+            "TrackComposer": "Federico Bertollini, Tommaso Paradiso",
+            "MBID": "54f465df-e11c-4fcc-befe-12d0a3f01ce2",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Coma_Cose",
+            "TrackTitle": "L\u2019addio",
+            "TrackComposer": "Fausto Zanardelli, Francesca Mesiano, Jacopo Lazzarini, Dario Faini",
+            "MBID": "36b5e0bf-da9d-46d3-8c1d-635aec4111ef",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Nada",
+            "TrackTitle": "Un passatempo",
+            "TrackComposer": "Filippo Uttinacci",
+            "MBID": "efd85bf3-cb31-4eca-8376-ee8fb56d7ce9",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "I Cani",
+            "TrackTitle": "Velleit\u00e0",
+            "TrackComposer": "Niccol\u00f2 Contessa",
+            "MBID": "c3a2feaa-3468-4292-83b5-ef30440b8b90",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Colapesce & Dimartino feat. Rigoberta Bandini",
+            "TrackTitle": "Splash (m\u00e1s que mares)",
+            "TrackComposer": "Antonio Di Martino, Lorenzo Urciullo",
+            "MBID": "b4d83910-75af-4704-a44e-fb2cc4e43b4d",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Diodato & Roy Paci",
+            "TrackTitle": "Adesso",
+            "TrackComposer": "Antonio Diodato",
+            "MBID": "32c4445c-e265-40f1-9207-73b2b59ae365",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Capo Plaza",
+            "TrackTitle": "Allenamento #4",
+            "TrackComposer": "Luca D'Orso, Mojobeatz",
+            "MBID": "6ef6b8d3-99bf-4882-a51f-6ba087f2109d",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Tony Effe & Side Baby",
+            "TrackTitle": "Polo Ralph",
+            "TrackComposer": "Nicol\u00f2 Rapisarda, Arturo Pirovano, Dark Polo Gang",
+            "MBID": "9a009669-e860-4623-8931-5b3b5513b5a2",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Geolier feat. Lazza, Takagi & Ketra",
+            "TrackTitle": "Chiagne",
+            "TrackComposer": "Emanuele Palumbo, Fabio Caterino",
+            "MBID": "66c2e01a-919c-4d9b-bc0b-d3db280de383",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Gu\u00e9 Pequeno",
+            "TrackTitle": "Squalo",
+            "TrackComposer": "Cosimo Fini, Sixpm",
+            "MBID": "f53e5f5d-ff6d-4c3a-801b-2d38ae6b56c4",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Salmo",
+            "TrackTitle": "90min",
+            "TrackComposer": "Maurizio Pisciottu, Luciano Fenudi, Stefano Melchiorre",
+            "MBID": "d9e9b6ab-bd9a-472a-94fb-ee88535df690",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Ernia",
+            "TrackTitle": "Superclassico",
+            "TrackComposer": "Matteo Professione, Alessandro Pulga, Stefano Tognini",
+            "MBID": "e6411eae-5a1d-4e5f-8bb5-e2a564db41cd",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Lazza",
+            "TrackTitle": "PANICO (Concertos)",
+            "TrackComposer": "Jacopo Lazzarini, Dardust",
+            "MBID": "9d5f8c54-28b3-443f-9602-22785432b4c9",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Mr. Rain",
+            "TrackTitle": "Fiori di Chernobyl",
+            "TrackComposer": "Mattia Balardi, Lorenzo Vizzini, Mario Fabrizio",
+            "MBID": "da6d3c21-b7a4-4aaf-b48a-38293b075b70",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Rkomi",
+            "TrackTitle": "Partire da te",
+            "TrackComposer": "Mirko Manuele Martorana, Michele Zocca",
+            "MBID": "43f82d39-6102-4361-b2d0-0a18059c36aa",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Tananai",
+            "TrackTitle": "Sesso occasionale",
+            "TrackComposer": "Alberto Cotta Ramusino, Paolo Antonacci, Davide Simonetta, Alessandro Raina",
+            "MBID": "63d8a9d9-4bb0-4932-93c5-6d00ac597f6d",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Rocco Hunt",
+            "TrackTitle": "Nu juorno buono",
+            "TrackComposer": "Rocco Pagliarulo, Emiliano Pepe",
+            "MBID": "ca3ee447-7dad-4ff3-b178-32f60845e9ff",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Ghali",
+            "TrackTitle": "Wallah",
+            "TrackComposer": "Ghali Amdouni, Michele Zocca",
+            "MBID": "f18308f5-04a5-46f5-96d6-4f320564cf40",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Nitro",
+            "TrackTitle": "Pleasantville",
+            "TrackComposer": "Nicola Albera, Walter Ferrari",
+            "MBID": "164c9d62-2325-4cf0-8953-1ac4667cb3e5",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Massimo Pericolo",
+            "TrackTitle": "7 Miliardi",
+            "TrackComposer": "Alessandro Vanetti, Phra",
+            "MBID": "bc64a369-2d55-4b4d-97e2-fdc6c80f8522",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Sfera Ebbasta & Charlie Charles",
+            "TrackTitle": "XDVR",
+            "TrackComposer": "Gionata Boschetti, Charlie Charles",
+            "MBID": "9d8a5408-5ca0-440a-92ee-7de417054031",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Ghali",
+            "TrackTitle": "Happy Days",
+            "TrackComposer": "Ghali Amdouni, Michele Zocca",
+            "MBID": "178f9396-e796-4b9d-9297-5641fee6c9b5",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Sfera Ebbasta & Marracash",
+            "TrackTitle": "15 piani",
+            "TrackComposer": "Fabio Rizzo, Gionata Boschetti, Charlie Charles",
+            "MBID": "78d3e7e4-6da9-4534-8edb-24fdede60e3e",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Lazza & Gu\u00e8",
+            "TrackTitle": "Gucci Ski-Mask",
+            "TrackComposer": "Jacopo Lazzarini, Cosimo Fini, Lorenzo Paolo Spinosa",
+            "MBID": "2081e49c-769a-4179-b203-2f22655291d4",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Salmo",
+            "TrackTitle": "Perdonami",
+            "TrackComposer": "Maurizio Pisciottu, Marco Azara",
+            "MBID": "4e3f4586-d9e2-4daf-8073-32dd23ef8e4e",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Tony Effe feat. Sfera Ebbasta",
+            "TrackTitle": "Mi Piace",
+            "TrackComposer": "Nicol\u00f2 Rapisarda, Gionata Boschetti, Arturo Pirovano",
+            "MBID": "64becf3c-c5f7-4116-92f3-179d536287f3",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Peppe Soks & Geolier",
+            "TrackTitle": "Motel (feat. Geolier)",
+            "TrackComposer": "Emanuele Palumbo, Nicola Siciliano",
+            "MBID": "deec4b91-79a7-4151-9dd0-b1084935c154",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Ernia feat. Fabri Fibra",
+            "TrackTitle": "Non me ne frega un cazzo",
+            "TrackComposer": "Matteo Professione, Mario Molinari",
+            "MBID": "23b230ff-28fe-4266-9e81-0a69f293b9eb",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Nitro",
+            "TrackTitle": "Danger",
+            "TrackComposer": "Nicola Albera, Walter Ferrari",
+            "MBID": "337d2357-4057-4339-ad1c-cad39ebb32a3",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Frah Quintale",
+            "TrackTitle": "8 Miliardi di Persone",
+            "TrackComposer": "Alessandro Vanetti, Phra",
+            "MBID": "a1f15a13-ddec-4833-ad5d-558b93070455",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Rats",
+            "TrackTitle": "Non cambier\u00f2",
+            "TrackComposer": "Arturo Bruni, Andrea Arcangeletti",
+            "MBID": "9bbee3f7-1f56-4761-8e5e-54d174b01a0e",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Carl Brave feat. Ketama126",
+            "TrackTitle": "Calimocho",
+            "TrackComposer": "Piero Baldini, Carlo Luigi Coraggio",
+            "MBID": "67e31a77-94a0-484e-ac9d-d3b439bb26e9",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Rkomi",
+            "TrackTitle": "Mai Piu",
+            "TrackComposer": "Mirko Manuele Martorana, Michele Zocca",
+            "MBID": "a1fbfe10-f6c7-4698-85ac-d90adef1ae38",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Mahmood",
+            "TrackTitle": "Giovent\u00f9 bruciata",
+            "TrackComposer": "Alessandro Mahmoud, Dario Faini",
+            "MBID": "29dd16ac-c644-4c73-b413-6652b4f044bb",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "M\u00e5neskin",
+            "TrackTitle": "Vent\u2019anni",
+            "TrackComposer": "Damiano David, Ethan Torchio, Thomas Raggi, Victoria De Angelis",
+            "MBID": "3ada95e5-66d8-4a5e-a76c-90aa392b3fbd",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Achille Lauro",
+            "TrackTitle": "C\u2019est la vie",
+            "TrackComposer": "Achille Lauro, Davide Petrella, Daniele Dezi",
+            "MBID": "4e80f2eb-0b10-4e5a-b8bd-3aa5d44ac6df",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Irama",
+            "TrackTitle": "Mediterranea",
+            "TrackComposer": "Irama, Giulio Nenna",
+            "MBID": "497f551a-d9ba-4c4b-bb97-0b5144ddd3c6",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Ghemon",
+            "TrackTitle": "Rose viola",
+            "TrackComposer": "Giovanni Luca Picariello, Simone Benussi",
+            "MBID": "aadd03d4-1f61-4e51-a25b-852b84687aad",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Willie Peyote",
+            "TrackTitle": "Mai dire mai (La locura)",
+            "TrackComposer": "Guglielmo Bruno, Daniele Tortora, Carlo Di Blasi",
+            "MBID": "4a423864-8a36-43a8-bfba-549983ae6305",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Frah Quintale",
+            "TrackTitle": "Nei treni la notte",
+            "TrackComposer": "Francesco Servidei",
+            "MBID": "6bbf8429-e0a9-4794-a45c-16e888341445",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Gemitaiz",
+            "TrackTitle": "Gi\u00e0 da un po' (2010)",
+            "TrackComposer": "Davide De Luca, Emanuele Marrese",
+            "MBID": "803d5ec1-7d8b-4968-b9f3-8f3dfda13eb0",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Adriano Celentano",
+            "TrackTitle": "Veleno",
+            "TrackComposer": "Pierfrancesco Botrugno, Ombra, Valerio Polini",
+            "MBID": "b3df4699-9569-4e25-981c-0dd1751b8c55",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Ensi",
+            "TrackTitle": "Numero uno",
+            "TrackComposer": "Jari Vella, Daniele Vit",
+            "MBID": "4d6091ef-5566-45b0-b4ff-6a172e4b8cfa",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Thonk",
+            "TrackTitle": "Sulm",
+            "TrackComposer": "Tarek Iannaccone",
+            "MBID": "4b4d7e56-41c3-4a20-b1e7-b83fcc5545ab",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Mezzosangue",
+            "TrackTitle": "Soul of a Supertramp",
+            "TrackComposer": "Luca Ferrazzi",
+            "MBID": "6295a739-a70f-4bb0-a5a4-a36550bbe3c5",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Luch\u00e8 & Elisa",
+            "TrackTitle": "D10S",
+            "TrackComposer": "Luca Imprudente, Guido Politi",
+            "MBID": "ba942960-0338-48b6-bcd9-69eccde51cd8",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Noyz Narcos",
+            "TrackTitle": "Game Over",
+            "TrackComposer": "Emmanuele Frasca, Giorgio Martellino",
+            "MBID": "d9c58587-c6a4-4faa-aa7d-9edad884a68d",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Duke Montana",
+            "TrackTitle": "Skit Duke Montana",
+            "TrackComposer": "Massimiliano Bozzelli, Giorgio Martellino",
+            "MBID": "fd47eadf-bd48-4638-b8b5-29b3e63b19ab",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Fabri Fibra",
+            "TrackTitle": "Applausi per Fibra",
+            "TrackComposer": "Fabrizio Tarducci, Michele Corrado",
+            "MBID": "cf7ceb8e-4f22-43a0-a65f-16071eb7358d",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Emis Killa",
+            "TrackTitle": "Maracan\u00e3",
+            "TrackComposer": "Emiliano Giambelli, Michele Giordani",
+            "MBID": "3b91099e-fcea-465a-a91c-d872700a4890",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "papipasi\u00f3n",
+            "TrackTitle": "FAX",
+            "TrackComposer": "Corrado Grilli",
+            "MBID": "7f018e0f-63df-4fce-8f6e-6e6a1a5cc0de",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Eyem Bars & Goodbye Marco",
+            "TrackTitle": "Bravo ragazzo di strada",
+            "TrackComposer": "Giovanni Marsiglia, Joe Miceli",
+            "MBID": "f9f2d527-89ba-4038-97b8-5dce071bad11",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Kaos One",
+            "TrackTitle": "L'anno del drago",
+            "TrackComposer": "Marco Fiorito",
+            "MBID": "1a6df222-e2c2-454b-bea0-c4e279da7ebb",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Colle der fomento",
+            "TrackTitle": "Vita",
+            "TrackComposer": "Simone Eleuteri, Masito, Danno",
+            "MBID": "265b87e6-7be8-4662-b4b8-537beb49cc5e",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Assalti frontali",
+            "TrackTitle": "Fino all'alba",
+            "TrackComposer": "CaneSecco, Gemello, Jesto, Jimmy",
+            "MBID": "c424e04b-9ce4-49f0-a943-0241972ddabe",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Club Dogo feat. Giuliano Palma",
+            "TrackTitle": "P.E.S.",
+            "TrackComposer": "Jake La Furia, Gu\u00e8 Pequeno, Don Joe, Giuliano Palma",
+            "MBID": "5d8449b9-f04f-4bf6-8b2b-4a49aace10de",
             "Category": "Songs occuring most on playlists on soundcloud for this genre"
         }
     ]
