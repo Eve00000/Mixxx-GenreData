@@ -4,8 +4,8 @@
     "Focus": "artist",
     "RefreshRate": 28,
     "AppendMode": "append",
-    "Timestamp": "2026-06-04T17:39:05Z",
-    "TotalTracks": 779,
+    "Timestamp": "2026-07-02T21:34:47Z",
+    "TotalTracks": 1116,
     "Tracks": [
         {
             "TrackArtist": "Benny Goodman",
@@ -5458,6 +5458,2365 @@
             "TrackTitle": "9:20 Special",
             "TrackComposer": "Earle Warren",
             "MBID": "05e000bf-47d0-48f4-97b1-04a36ade5841",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Louis Armstrong",
+            "TrackTitle": "Ain't Misbehavin'",
+            "TrackComposer": "Fats Waller, Harry Brooks, Andy Razaf",
+            "MBID": "927c4c11-4f7c-4bb9-95f2-7b36beea642a",
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+        },
+        {
+            "TrackArtist": "Frank Sinatra with Tommy Dorsey & His Orchestra",
+            "TrackTitle": "I\u2019ll Never Smile Again",
+            "TrackComposer": "Ruth Lowe",
+            "MBID": "35dba293-ddd6-45fe-88fa-c8368f242b8c",
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+        },
+        {
+            "TrackArtist": "Doris Day With Les Brown and His Orchestra",
+            "TrackTitle": "My Dreams Are Getting Better All the Time",
+            "TrackComposer": "Vic Mizzy, Mann Curtis",
+            "MBID": "0164b378-f57e-4c09-984e-2c9f1351f4f1",
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+        },
+        {
+            "TrackArtist": "Louis Prima",
+            "TrackTitle": "Way Down Yonder in New Orleans",
+            "TrackComposer": "Henry Creamer, J. Turner Layton",
+            "MBID": "1722f899-8e30-46da-8bcb-25e4d82e0114",
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+        },
+        {
+            "TrackArtist": "Peggy Lee",
+            "TrackTitle": "Why Don\u2019t You Do Right?",
+            "TrackComposer": "Kansas Joe McCoy",
+            "MBID": "029034c4-62a3-41a7-a238-d48fee6ce3af",
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+        },
+        {
+            "TrackArtist": "Chick Webb & Ella Fitzgerald",
+            "TrackTitle": "Don\u2019t Be That Way",
+            "TrackComposer": "Benny Goodman, Edgar Sampson, Mitchell Parish",
+            "MBID": "80b3315a-5594-413e-a075-4331e31b29a7",
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+        },
+        {
+            "TrackArtist": "Teddy Wilson - Billie Holiday",
+            "TrackTitle": "Easy Living",
+            "TrackComposer": "Ralph Rainger, Leo Robin",
+            "MBID": "8f501013-c2bf-4cdc-a30e-59ab99f94979",
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+        },
+        {
+            "TrackArtist": "Harry James",
+            "TrackTitle": "You Made Me Love You (I Didn\u2019t Want to Do It)",
+            "TrackComposer": "James V. Monaco, Joseph McCarthy",
+            "MBID": "eec257ce-44a0-48f3-b563-a61cb7acb56a",
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+        },
+        {
+            "TrackArtist": "Kay Kyser",
+            "TrackTitle": "Praise the Lord and Pass the Ammunition",
+            "TrackComposer": "Frank Loesser",
+            "MBID": "b24fbbd3-aafd-4aaf-b619-a2f201c508e7",
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+        },
+        {
+            "TrackArtist": "Frank Sinatra with Harry James and His Orchestra",
+            "TrackTitle": "All or Nothing at All",
+            "TrackComposer": "Arthur Altman, Jack Lawrence",
+            "MBID": "f08d0060-a7ca-43ef-befe-25e1059738bf",
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+        },
+        {
+            "TrackArtist": "Slim & Slam",
+            "TrackTitle": "Flat Foot Floogie",
+            "TrackComposer": "Slim Gaillard, Slam Stewart, Bud Green",
+            "MBID": "0db756da-2d1f-416c-b1be-3b14d602130e",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Ella Mae Morse",
+            "TrackTitle": "Cow Cow Boogie",
+            "TrackComposer": "Don Raye, Gene de Paul, Freddy Slack",
+            "MBID": "d435c4b3-e322-4b50-8767-5a4fe91d422f",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Johnny Mercer",
+            "TrackTitle": "Accentuate the Positive",
+            "TrackComposer": "Harold Arlen, Johnny Mercer",
+            "MBID": "35ff4976-cafd-4dbb-90b5-81d60dedcf8b",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Louis Jordan",
+            "TrackTitle": "Choo Choo Ch'Boogie",
+            "TrackComposer": "Vaughn Horton, Denver Darling, Milton Gabler",
+            "MBID": "66549b57-c129-44ec-bf14-baf82401a99b",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Will Bradley\u2013Ray McKinley Orchestra",
+            "TrackTitle": "Beat Me Daddy, Eight to the Bar",
+            "TrackComposer": "Don Raye, Hughie Prince",
+            "MBID": "dec24a4a-2cfc-4efb-9f65-51119726f2a2",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Wonder Kids Choir",
+            "TrackTitle": "Three Little Fishies",
+            "TrackComposer": "Wayne King, Al Hoffman, Sammy Lerner",
+            "MBID": "e0ce3032-8ef5-4116-81bd-4421fceca1bb",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Ella Mae Morse and Freddie Slack",
+            "TrackTitle": "House of Blue Lights",
+            "TrackComposer": "Don Raye, Freddie Slack",
+            "MBID": "7e827221-4521-4652-b174-3be4afa01458",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Andy Kirk and His Twelve Clouds of Joy",
+            "TrackTitle": "Until the Real Thing Comes Along",
+            "TrackComposer": "Sammy Cahn, Saul Chaplin, L. E. Freeman, Mann Holiner, Alberta Nichols",
+            "MBID": "8c89f656-e0ed-4073-a60e-c7f905a1df8a",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Bob Crosby and the Bob Cats",
+            "TrackTitle": "South Rampart Street Parade",
+            "TrackComposer": "Bob Haggart, Ray Bauduc",
+            "MBID": "56d6bf64-c7c5-4885-877d-bc110eae75d0",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Joe Liggins & His Honeydrippers",
+            "TrackTitle": "The Honeydripper",
+            "TrackComposer": "Joe Liggins",
+            "MBID": "4672b861-bc56-495b-ac81-f84e41e32269",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Louis Prima",
+            "TrackTitle": "A Sunday Kind Of Love",
+            "TrackComposer": "Barbara Belle, Anita Leonard, Stan Rhodes, Louis Prima",
+            "MBID": "a9bc1c41-ea98-477d-baa1-90d39aa29c7e",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Mills Brothers",
+            "TrackTitle": "You Always Hurt the One You Love",
+            "TrackComposer": "Allan Roberts, Doris Fisher",
+            "MBID": "30f8871a-9c1b-448d-a91a-0e96a3d4aa10",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Helen Forrest with Harry James",
+            "TrackTitle": "I\u2019ve Heard That Song Before",
+            "TrackComposer": "Sammy Cahn, Jule Styne",
+            "MBID": "2e01c3fb-04bd-40ab-8ba1-2928a9421321",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Bing Crosby & The Andrews Sisters",
+            "TrackTitle": "Don\u2019t Fence Me In",
+            "TrackComposer": "Cole Porter",
+            "MBID": "2473643a-5739-4ec5-950b-ea6bf00ed096",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Tex Beneke",
+            "TrackTitle": "Tex Beneke Interview",
+            "TrackComposer": "Harry Warren, Mack Gordon",
+            "MBID": "7541af1d-aec5-41ce-987f-7c4bbd2126d0",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Sammy Kaye",
+            "TrackTitle": "The Old Lamp-Lighter",
+            "TrackComposer": "Charles Tobias, Nat Simon",
+            "MBID": "ecd1bdbf-067a-4285-bb6a-463a8a65263b",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Glenn Miller",
+            "TrackTitle": "Amapola (Jimmy Dorsey)",
+            "TrackComposer": "Joseph Lacalle, Albert Gamse",
+            "MBID": "49313650-1b6e-4a06-ac68-37bc83a75d5a",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "The Jazzual Suspects",
+            "TrackTitle": "The Vaughn",
+            "TrackComposer": "Cole Porter",
+            "MBID": "fb442c19-a52b-4dfb-8bda-8c31024a9d05",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Benny Goodman",
+            "TrackTitle": "And the Angels Sing",
+            "TrackComposer": "Ziggy Elman, Johnny Mercer",
+            "MBID": "e0ba6709-1404-4603-a60f-7ae142908a2e",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Ella Fitzgerald",
+            "TrackTitle": "Into Each Life Some Rain Must Fall",
+            "TrackComposer": "Allan Roberts, Doris Fisher",
+            "MBID": "e33d5521-1b86-4c42-9356-ea12136a49e5",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Lucky Millinder",
+            "TrackTitle": "When the Lights Go On Again (All Over the World)",
+            "TrackComposer": "Eddie Seiler, Sol Marcus, Bennie Benjamin",
+            "MBID": "714052b3-a979-4741-8e90-22dc16e610b5",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Jay McShann with Walter Brown",
+            "TrackTitle": "Confessin' the Blues",
+            "TrackComposer": "Jay McShann, Walter Brown",
+            "MBID": "1034e8cb-3caa-4ac2-bc52-a89926b208a6",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Andy Kirk & Mary Lou Williams",
+            "TrackTitle": "Big Jim Blues",
+            "TrackComposer": "Andy Kirk, Mary Lou Williams",
+            "MBID": "55f5ee90-a07c-4040-af50-1a4069189090",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Buddy Johnson",
+            "TrackTitle": "Since I Fell for You",
+            "TrackComposer": "Buddy Johnson",
+            "MBID": "47b1b2f3-5024-47d3-b568-b9e244859d41",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Kai Winding & J.J. Johnson",
+            "TrackTitle": "Gong Rock",
+            "TrackComposer": "Cootie Williams, Bud Johnson",
+            "MBID": "e69665ed-9611-4c51-a72d-500974f1d26a",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Johnny Meijer",
+            "TrackTitle": "I Saw Stars",
+            "TrackComposer": "Maurice Sigler, Al Goodhart, Al Hoffman",
+            "MBID": "c66d324d-7222-4180-bd61-ed3328cfc736",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "John Kirby",
+            "TrackTitle": "Rehearsin' for a Nervous Breakdown",
+            "TrackComposer": "John Kirby, Charlie Shavers",
+            "MBID": "7027de56-1f3e-484e-9bbc-6b9d1bd20bb7",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Pete Johnson",
+            "TrackTitle": "Death Ray Boogie",
+            "TrackComposer": "Pete Johnson",
+            "MBID": "6d7cee68-20e2-4829-a7c7-2604083ad93c",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Slim Gaillard Trio",
+            "TrackTitle": "Cement Mixer (Put\u2010Ti, Put\u2010Ti)",
+            "TrackComposer": "Slim Gaillard, Lee Ransome",
+            "MBID": "92d18bd6-d18b-4116-b1ee-b5b567d0f2a3",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Teddy Wilson",
+            "TrackTitle": "Liza (All the Clouds\u2019ll Roll Away)",
+            "TrackComposer": "George Gershwin, Ira Gershwin, Gus Kahn",
+            "MBID": "750a69f3-24ac-4ada-8197-7855d9b9ac53",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Fun Boy Three & Bananarama",
+            "TrackTitle": "Tain't What You Do (It's the Way That You Do It)",
+            "TrackComposer": "Sy Oliver, James 'Trummy' Young",
+            "MBID": "f9a49df8-563a-4933-9635-fb0be8309ba7",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Charlie Christian",
+            "TrackTitle": "Solo Flight",
+            "TrackComposer": "Benny Goodman, Jimmy Mundy",
+            "MBID": "60b7a627-c0e6-42f4-ad66-eaadc09cf8eb",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Ella Fitzgerald & The Mills Brothers",
+            "TrackTitle": "Dedicated to You",
+            "TrackComposer": "Saul Chaplin, Sammy Cahn, Sammy Fain",
+            "MBID": "207eab34-d55f-4e1b-8b72-3f1c26606d47",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Hot Lips Page",
+            "TrackTitle": "Lafayette",
+            "TrackComposer": "Count Basie, Frank Newton",
+            "MBID": "23f79f8d-24c6-47d0-b37f-0a8a0e24e960",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Illinois Jacquet",
+            "TrackTitle": "Intro: Illinois Jacquet",
+            "TrackComposer": "Illinois Jacquet, Eddie Vinson",
+            "MBID": "b2d2b265-a481-4186-93ba-95dbd80f790c",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Johnny Hodges",
+            "TrackTitle": "Squatty Roo",
+            "TrackComposer": "Johnny Hodges",
+            "MBID": "2a3fab09-a94a-4489-8ed5-5b57e665dba4",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Sidney Bechet",
+            "TrackTitle": "Egyptian Fantasy",
+            "TrackComposer": "Sidney Bechet",
+            "MBID": "16d96d1f-576a-410b-abf7-fad2586bf526",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Benny Goodman",
+            "TrackTitle": "Poor Butterfly",
+            "TrackComposer": "Raymond Hubbell, John L. Golden",
+            "MBID": "04648b2b-efcb-4cb7-979d-78e609640b53",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Frankie Newton and Orchestra",
+            "TrackTitle": "The Blues My Baby Gave to Me",
+            "TrackComposer": "Frankie Newton",
+            "MBID": "bede6089-4acc-4b1d-a238-8ff9ede5b05c",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Count Basie",
+            "TrackTitle": "Sent for You Yesterday (And Here You Come Today)",
+            "TrackComposer": "Count Basie, Jimmy Rushing, Eddie Durham",
+            "MBID": "a5e43393-0022-4ca5-af07-aa696168bebe",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Andy Kirk",
+            "TrackTitle": "Christopher Columbus",
+            "TrackComposer": "Leon Berry, Andy Razaf",
+            "MBID": "017c3382-a544-4756-9e84-52defa7aed66",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Coleman Hawkins",
+            "TrackTitle": "Say It Isn't So",
+            "TrackComposer": "Irving Berlin",
+            "MBID": "9978a3c8-469b-48fb-b1db-8d1ae64c5794",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Teddy Wilson",
+            "TrackTitle": "Sweet Georgia Brown",
+            "TrackComposer": "Ben Bernie, Maceo Pinkard, Kenneth Casey",
+            "MBID": "6f6b7cb5-95a6-4748-bf66-d06b80821f94",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Tommy Dorsey",
+            "TrackTitle": "Well Git It",
+            "TrackComposer": "Sy Oliver",
+            "MBID": "91e543e3-b5fa-4843-a64d-1732071d394f",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Ella Fitzgerald & Chick Webb",
+            "TrackTitle": "Sing Me a Swing Song (and Let Me Dance)",
+            "TrackComposer": "Jimmy McHugh, Dorothy Fields",
+            "MBID": "fbd57a3e-b9e4-4387-ab62-c23630358ad2",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Roy Eldridge",
+            "TrackTitle": "Little Jazz",
+            "TrackComposer": "Roy Eldridge",
+            "MBID": "464fe891-b029-418a-916c-593f18e366bf",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Erskine Hawkins",
+            "TrackTitle": "Soft Winds",
+            "TrackComposer": "Benny Goodman, Fletcher Henderson",
+            "MBID": "d44d936a-58b1-4b76-8dd8-0e2c61efa1c4",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Ben Webster",
+            "TrackTitle": "The Jeep Is Jumping",
+            "TrackComposer": "Duke Ellington, Johnny Hodges",
+            "MBID": "dedd0b48-e15f-41eb-aeda-36c2eadc0ad4",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Chu Berry",
+            "TrackTitle": "On the Sunny Side of the Street",
+            "TrackComposer": "Jimmy McHugh, Dorothy Fields",
+            "MBID": "cb256716-f4fa-4d4e-b8e1-077b16a8bba7",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Count Basie Quartet",
+            "TrackTitle": "Lady Be Good - Count Basie Quartet",
+            "TrackComposer": "George Gershwin, Ira Gershwin",
+            "MBID": "181356ad-e3d9-4396-95a0-e859af50d413",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Teddy Wilson",
+            "TrackTitle": "I Can't Get Started",
+            "TrackComposer": "Vernon Duke, Ira Gershwin",
+            "MBID": "2a43f23d-be69-42bd-9d21-03d3b6608949",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Ella Fitzgerald",
+            "TrackTitle": "It\u2019s Only a Paper Moon",
+            "TrackComposer": "Harold Arlen, Billy Rose, E.Y. Harburg",
+            "MBID": "e0a5843e-c6b3-431f-a3b8-2151abc2340b",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Woody Herman",
+            "TrackTitle": "Blues on Parade",
+            "TrackComposer": "Woody Herman, Joe Bishop",
+            "MBID": "9d2ef39e-9aed-41f3-b179-15e3909a1b88",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Jimmie Lunceford",
+            "TrackTitle": "Four or Five Times",
+            "TrackComposer": "Byron Gay, Marco H. Hellman",
+            "MBID": "5235091a-84cf-4618-a5a6-32b31e77df2d",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Eddie Boyd",
+            "TrackTitle": "Pinetop's Boogie Woogie",
+            "TrackComposer": "Clarence 'Pinetop' Smith",
+            "MBID": "3dd6d2d2-460b-4e78-843f-570a32dadfe0",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Lionel Hampton",
+            "TrackTitle": "Tempo's Birthday",
+            "TrackComposer": "Lionel Hampton, Milt Buckner",
+            "MBID": "27562104-d77c-4009-ab27-05b223a7a997",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Aldo Romano",
+            "TrackTitle": "Chick Webb",
+            "TrackComposer": "Chick Webb, Charlie Dixon, Edgar Sampson",
+            "MBID": "a75f99ed-7f1f-45ee-93e6-23760a49bd46",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Benny Carter",
+            "TrackTitle": "Waltzing the Blues",
+            "TrackComposer": "Benny Carter",
+            "MBID": "03a18a10-d2f5-478f-950b-edd805350a6c",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Cootie Williams",
+            "TrackTitle": "Echoes of Harlem",
+            "TrackComposer": "Duke Ellington",
+            "MBID": "e75d205f-347b-4432-830f-1dad3f585d2d",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Doctors of Madness",
+            "TrackTitle": "Perfect Past",
+            "TrackComposer": "Charlie Shavers",
+            "MBID": "10b53785-3dda-4afa-9e2b-495a68da5fa6",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Mary Lou Williams",
+            "TrackTitle": "Little Joe From Chicago",
+            "TrackComposer": "Mary Lou Williams, Henry Wells",
+            "MBID": "cfa79415-2c1e-4384-bdb6-642d36d52aa6",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Al Bowlly",
+            "TrackTitle": "You're a Sweetheart (From You're a Sweetheart)",
+            "TrackComposer": "Jimmy McHugh, Harold Adamson",
+            "MBID": "cd0b22d8-63e4-4664-b78b-1e0d64ab65ef",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Frankie Newton and Orchestra",
+            "TrackTitle": "Rosetta",
+            "TrackComposer": "Earl Hines, Henri Woode",
+            "MBID": "8efdffe1-8915-4818-9cc1-32f6c2893c33",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Muggsy Spanier",
+            "TrackTitle": "Relaxin\u2019 at the Touro",
+            "TrackComposer": "Muggsy Spanier",
+            "MBID": "d9d0b12d-bb99-4b95-91f7-8f60a5d931e3",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Wingy Manone",
+            "TrackTitle": "Tar Paper Stomp",
+            "TrackComposer": "Wingy Manone",
+            "MBID": "e6f63adf-f094-471f-a8ba-89e0c1e908c2",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Joe Venuti",
+            "TrackTitle": "Doin\u2019 the Uptown Lowdown",
+            "TrackComposer": "Harry Warren, Al Dubin",
+            "MBID": "e1bcf957-0ab5-4341-88bf-fd5cc0d14c66",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Red Norvo",
+            "TrackTitle": "Dance of the Octopus",
+            "TrackComposer": "Jean Goldkette, Bill Challis, Red Norvo",
+            "MBID": "088558a8-09fc-44e0-b4e7-1ffd256d2252",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Teddy Bunn",
+            "TrackTitle": "Bachelor Blues - Teddy Bunn",
+            "TrackComposer": "Teddy Bunn",
+            "MBID": "da053eef-e3a1-4025-aaa7-407ca0239991",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Count Basie",
+            "TrackTitle": "Shout and Feel It",
+            "TrackComposer": "Count Basie, Harry James",
+            "MBID": "c076a9e8-eca2-4c0e-80a2-7a0a15400c5b",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Benny Goodman",
+            "TrackTitle": "St. Louis Blues",
+            "TrackComposer": "W.C. Handy",
+            "MBID": "d710c7c2-e41b-456d-b1cd-3dd2052fbe20",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Gene Krupa",
+            "TrackTitle": "Wire Brush Stomp",
+            "TrackComposer": "Gene Krupa, Walter Donaldson",
+            "MBID": "ffe9940e-d25e-4282-9537-d95772eba851",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Billy May",
+            "TrackTitle": "Carioca (Artie Shaw version)",
+            "TrackComposer": "Vincent Youmans, Edward Eliscu, Gus Kahn",
+            "MBID": "8dfa6ac5-3a2b-4071-b570-fe8b713b5702",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Duke Ellington",
+            "TrackTitle": "Rumpus in Richmond",
+            "TrackComposer": "Duke Ellington, Johnny Hodges",
+            "MBID": "e65fd3d3-9887-4a5f-9eff-619bb4c35d8c",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Sidney Bechet",
+            "TrackTitle": "Shag",
+            "TrackComposer": "Sidney Bechet",
+            "MBID": "bb5b41b1-c252-4c22-8e5f-965275b27181",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Benny Goodman",
+            "TrackTitle": "Down South Camp Meeting",
+            "TrackComposer": "Fletcher Henderson, Irving Mills",
+            "MBID": "723f2709-9346-423f-8b6c-2fa705c524a0",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Jimmie Lunceford",
+            "TrackTitle": "Cheatin' on Me",
+            "TrackComposer": "Jack Yellen, Milton Ager",
+            "MBID": "6bf73ef7-b69a-4c21-a5c8-ad31ac6614cf",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Woody Herman",
+            "TrackTitle": "Fan It",
+            "TrackComposer": "Frankie Jaxon, Will Ezell",
+            "MBID": "500761a7-9122-414a-8325-223045083e47",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Les Brown and His Orchestra",
+            "TrackTitle": "Joltin' Joe DiMaggio",
+            "TrackComposer": "Alan Courtney, Ben Homer",
+            "MBID": "3f42c388-a1b3-4efd-a976-9c8a8d14a718",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Lucky Millinder",
+            "TrackTitle": "Shorty\u2019s Got to Go",
+            "TrackComposer": "Lucky Millinder, William Johnson",
+            "MBID": "8e0e3eea-868f-4fad-a404-e87fdfd20a6c",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Erskine Hawkins",
+            "TrackTitle": "Cherry (Remastered)",
+            "TrackComposer": "Don Redman, Ray Egan",
+            "MBID": "860bdc6e-2d75-40e9-868c-9185e6720a87",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Billie Holiday",
+            "TrackTitle": "I Cover the Waterfront",
+            "TrackComposer": "Johnny Green, Edward Heyman",
+            "MBID": "cc0976d6-c065-473d-bf7c-6900e15a4852",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Louis Armstrong",
+            "TrackTitle": "Stardust",
+            "TrackComposer": "Hoagy Carmichael, Mitchell Parish",
+            "MBID": "90278553-dbfe-417a-8653-d459e3f9fd97",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Frank Sinatra & Axel Stordahl & His Orchestra",
+            "TrackTitle": "Saturday Night Is the Loneliest Night of the Week",
+            "TrackComposer": "Sammy Cahn, Jule Styne",
+            "MBID": "50cddf31-3838-483a-925f-9cb27f98aee8",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "The Nat King Cole Trio",
+            "TrackTitle": "The Christmas Song (Chestnuts Roasting on an Open Fire)",
+            "TrackComposer": "Mel Torm\u00e9, Robert Wells",
+            "MBID": "18cedc71-8fef-4d82-bb2b-a55660a3250b",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Peggy Lee",
+            "TrackTitle": "Manana Is Soon Enough for Me",
+            "TrackComposer": "Peggy Lee, Dave Barbour",
+            "MBID": "7e8bb6f4-2c91-49d2-92ba-e26228e4f2e1",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Lena Horne",
+            "TrackTitle": "Mood Indigo",
+            "TrackComposer": "Duke Ellington, Barney Bigard, Irving Mills",
+            "MBID": "ad3b12cd-864a-4d7e-be0c-f1c585b5d286",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Les Brown",
+            "TrackTitle": "The Continental",
+            "TrackComposer": "Con Conrad, Herb Magidson",
+            "MBID": "fa3cc382-24b5-4918-ae4f-2b09bbe436f4",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Harry James",
+            "TrackTitle": "I'll Get By (As Long As I Have You)",
+            "TrackComposer": "Fred E. Ahlert, Roy Turk",
+            "MBID": "9cb6d4c7-0b6f-4583-bf81-db4fcf957a49",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Stan Kenton",
+            "TrackTitle": "And Her Tears Flowed Like Wine",
+            "TrackComposer": "Charles Alfred Lawrence, Joe Greene, Stan Kenton",
+            "MBID": "6b40241e-01ba-4c7a-81a9-368b3fd75575",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Claude Thornhill",
+            "TrackTitle": "A Sunday Kind Of Love",
+            "TrackComposer": "Barbara Belle, Anita Leonard, Stan Rhodes, Louis Prima",
+            "MBID": "1cc57cf3-b947-4b9a-a831-1d47c503dec5",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Charlie Barnet",
+            "TrackTitle": "I Hear a Rhapsody",
+            "TrackComposer": "George Fragos, Jack Baker, Dick Gasparre",
+            "MBID": "56fc7000-1a7d-4345-8042-f7fec719889f",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Cab Calloway",
+            "TrackTitle": "St. James\u2019 Infirmary",
+            "TrackComposer": "Joe Primrose (Irving Mills)",
+            "MBID": "a9ca4dee-1898-4d9c-b7ef-ab6e4f4cd3ea",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Gene Krupa",
+            "TrackTitle": "Dark Eyes",
+            "TrackComposer": "",
+            "MBID": "f7c67367-ca6d-40a0-bdeb-e5598d7efb26",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Art Tatum",
+            "TrackTitle": "Sweet Lorraine",
+            "TrackComposer": "Clifford Burwell, Mitchell Parish",
+            "MBID": "4c6126a9-5908-4e01-9342-2ee40f6dcce5",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "John Kirby",
+            "TrackTitle": "Effervescent Blues",
+            "TrackComposer": "John Kirby, Charlie Shavers",
+            "MBID": "ed881847-3c14-41ad-85f5-a4f42ef8cd83",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Mary Lou Williams",
+            "TrackTitle": "What's Your Story Morning Glory",
+            "TrackComposer": "Paul Webster, Mary Lou Williams",
+            "MBID": "b093d2c6-e73f-4f92-93da-7e2e074971dc",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Stuff Smith",
+            "TrackTitle": "Onyx Club Spree",
+            "TrackComposer": "Stuff Smith",
+            "MBID": "3075e8ba-b7bd-4a35-ba8b-3517f0b47f5c",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Muggsy Spanier",
+            "TrackTitle": "The Big Butter and Egg Man",
+            "TrackComposer": "Louis Armstrong, Percy Venable",
+            "MBID": "0522183a-e0e6-4629-983c-c9b2e3a1f0bb",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Wingy Manone",
+            "TrackTitle": "Isle of Capri",
+            "TrackComposer": "Will Grosz, Jimmy Kennedy",
+            "MBID": "4403f482-3cc8-44aa-b0b5-c70814973075",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Joe Venuti",
+            "TrackTitle": "Fiddlesticks",
+            "TrackComposer": "Joe Venuti",
+            "MBID": "acda180c-ac13-4e10-b5bc-1430a28aa2c5",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Coleman Hawkins",
+            "TrackTitle": "Bu-Dee-Daht",
+            "TrackComposer": "Red Norvo, Mildred Bailey",
+            "MBID": "9f24b7a2-c529-4637-a7a9-12461ad44421",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Jess Stacy",
+            "TrackTitle": "I Can't Believe That You're in Love With Me",
+            "TrackComposer": "Jimmy McHugh, Clarence Gaskill",
+            "MBID": "b601eb20-9b42-49dd-8a47-42b8446fb94e",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "George Shearing",
+            "TrackTitle": "It Had to Be You",
+            "TrackComposer": "Isham Jones, Gus Kahn",
+            "MBID": "3c6cc41e-181c-4233-b1a9-f6f64bf6e4b5",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Glenn Miller Orchestra",
+            "TrackTitle": "Moonlight Serenade",
+            "TrackComposer": "Glenn Miller",
+            "MBID": "d35d30b9-aabd-4831-b118-fba8c5c842a0",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Duke Ellington & His Orchestra",
+            "TrackTitle": "In a Sentimental Mood",
+            "TrackComposer": "Duke Ellington",
+            "MBID": "f3091abe-3a73-4635-8e0e-704a32850884",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Benny Goodman and His Orchestra",
+            "TrackTitle": "Goodbye",
+            "TrackComposer": "Gordon Jenkins",
+            "MBID": "438bbe26-6ad0-4c33-a678-c0a0b9049248",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Artie Shaw and His Orchestra",
+            "TrackTitle": "Moonglow",
+            "TrackComposer": "Will Hudson, Eddie DeLange, Irving Mills",
+            "MBID": "ef80a655-04ec-4a53-a039-ac50f23aad58",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Billie Holiday with Teddy Wilson and His Orchestra",
+            "TrackTitle": "I Cover the Waterfront",
+            "TrackComposer": "Johnny Green, Edward Heyman",
+            "MBID": "d37aa9ff-7f05-4b65-a3aa-24a459412066",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Eman x Vlooper",
+            "TrackTitle": "Nat King Cole",
+            "TrackComposer": "Hoagy Carmichael, Mitchell Parish",
+            "MBID": "9d9bc785-5d4b-4ce5-ade6-9d1afcad232d",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Ella Fitzgerald",
+            "TrackTitle": "Ev\u2019ry Time We Say Goodbye",
+            "TrackComposer": "Cole Porter",
+            "MBID": "f680208f-257b-4731-9328-e95d8e3f7a79",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Count Basie & His Orchestra",
+            "TrackTitle": "Lil' Darlin'",
+            "TrackComposer": "Neal Hefti",
+            "MBID": "e9e570b7-3e24-4355-8932-fef685c22b2a",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Lester Young Quartet",
+            "TrackTitle": "Polka Dots and Moonbeams",
+            "TrackComposer": "Jimmy Van Heusen, Johnny Burke",
+            "MBID": "788c97fe-c656-44aa-ac6c-8381b3649531",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Coleman Hawkins and His Orchestra",
+            "TrackTitle": "Body and Soul",
+            "TrackComposer": "Johnny Green, Edward Heyman, Robert Sour, Frank Eyton",
+            "MBID": "916fc8d2-024f-4156-b91a-b46552b8ce97",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Duke Ellington & His Orchestra",
+            "TrackTitle": "Duke Introduces Johnny Hodges",
+            "TrackComposer": "Billy Strayhorn",
+            "MBID": "a270c75e-0796-4e87-8efa-83515832d874",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Astor Piazzolla",
+            "TrackTitle": "Oscar Peterson",
+            "TrackComposer": "Duke Ellington, Irving Mills, Mitchell Parish",
+            "MBID": "2a46e425-5a1b-436b-a984-985a06978cd8",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Sarah Vaughan",
+            "TrackTitle": "Someone to Watch Over Me",
+            "TrackComposer": "George Gershwin, Ira Gershwin",
+            "MBID": "dcbbfc36-92de-46a1-8429-c45fcd02bb69",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Jo Stafford with Paul Weston & His Orchestra",
+            "TrackTitle": "Autumn in New York",
+            "TrackComposer": "Vernon Duke",
+            "MBID": "710e9601-89ed-4098-8283-3086283edfa9",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Johnny Mathis & Henry Mancini",
+            "TrackTitle": "I Had the Craziest Dream",
+            "TrackComposer": "Harry Warren, Mack Gordon",
+            "MBID": "10c8f96b-6f63-44d8-8bf9-6b58c4eb221d",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Dinah Washington",
+            "TrackTitle": "What a Diff\u2019rence a Day Makes",
+            "TrackComposer": "Mar\u00eda Grever, Stanley Adams",
+            "MBID": "806fac70-960f-49ee-8d5d-96eca6d13e76",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Julie London",
+            "TrackTitle": "Cry Me a River",
+            "TrackComposer": "Arthur Hamilton",
+            "MBID": "ce483e50-4a40-4f6f-95d9-92cde1ad2f29",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Louis Armstrong and His All Stars",
+            "TrackTitle": "Rockin' Chair",
+            "TrackComposer": "Hoagy Carmichael",
+            "MBID": "a19bba73-e0f4-443f-88c7-b1abf507ff97",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Teddy Wilson Trio",
+            "TrackTitle": "Rosetta",
+            "TrackComposer": "Earl Hines, Henri Woode",
+            "MBID": "fa4ed9ab-7d29-41a8-b435-b28e5c8f3f47",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Red Norvo and His Orchestra",
+            "TrackTitle": "I Don't Stand a Ghost of a Chance",
+            "TrackComposer": "Victor Young, Ned Washington, Bing Crosby",
+            "MBID": "7a6388d9-88f8-4081-b136-b3b430ebf067",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Lionel Hampton and His Orchestra",
+            "TrackTitle": "Midnight Sun",
+            "TrackComposer": "Lionel Hampton, Sonny Burke, Johnny Mercer",
+            "MBID": "7764f9f0-576b-46a8-96c4-f1ba4a13d827",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Erroll Garner Trio",
+            "TrackTitle": "Misty",
+            "TrackComposer": "Erroll Garner, Johnny Burke",
+            "MBID": "c8755cb0-c7fa-4862-87f6-374068971847",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Woody Herman and His Orchestra",
+            "TrackTitle": "Early Autumn",
+            "TrackComposer": "Ralph Burns, Woody Herman, Johnny Mercer",
+            "MBID": "117da727-db29-4c3a-b04e-b04bba0a6912",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Stan Kenton and His Orchestra",
+            "TrackTitle": "Laura",
+            "TrackComposer": "David Raksin, Johnny Mercer",
+            "MBID": "d9f2c5e0-c0a9-478a-b120-b76b16be2c6a",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Sammy Kaye & His Orchestra",
+            "TrackTitle": "Harbor Lights",
+            "TrackComposer": "Jimmy Kennedy, Hugh Williams",
+            "MBID": "c7635188-a2bb-40ca-8fb9-6084e92d930c",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Tommy Dorsey & His Orchestra",
+            "TrackTitle": "I'm Getting Sentimental Over You",
+            "TrackComposer": "George Bassman, Ned Washington",
+            "MBID": "676e6ce5-af32-4423-88dd-3c0427173c98",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Jimmy Dorsey & His Orchestra",
+            "TrackTitle": "Tangerine",
+            "TrackComposer": "Victor Schertzinger, Johnny Mercer",
+            "MBID": "a027e811-7664-4109-9c4d-bfeb5225c436",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Mabel Scott",
+            "TrackTitle": "I Wanna Be Loved, Loved, Loved",
+            "TrackComposer": "Johnny Green, Billy Rose, Edward Heyman",
+            "MBID": "d0021419-3caf-4b67-9b35-d223d3f0135e",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Doris Day with Les Brown and His Orchestra",
+            "TrackTitle": "Sentimental Journey",
+            "TrackComposer": "Les Brown, Ben Homer, Bud Green",
+            "MBID": "ca55734a-531d-4c9a-82a6-b12d45079922",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Frances Langford, Louis Armstrong, Bing Crosby with Jimmy Dorsey & His Orchestra",
+            "TrackTitle": "Pennies From Heaven",
+            "TrackComposer": "Arthur Johnston, Johnny Burke",
+            "MBID": "3ff9570b-6eda-4bef-8ee9-ee1ea2bf5569",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Eddy Duchin",
+            "TrackTitle": "Stardust (Hoagy Carmichael)",
+            "TrackComposer": "Hoagy Carmichael, Mitchell Parish",
+            "MBID": "b8a1a392-d620-4389-b7ad-0d43f702e99b",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Coleman Hawkins",
+            "TrackTitle": "Until the Real Thing Comes Along",
+            "TrackComposer": "Sammy Cahn, Saul Chaplin, L. E. Freeman, Mann Holiner, Alberta Nichols",
+            "MBID": "21923129-d240-4f07-bf01-5820e250eb58",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Casa Loma Orchestra",
+            "TrackTitle": "Smoke Rings",
+            "TrackComposer": "Gene Gifford, Ned Washington",
+            "MBID": "e81deab3-a3eb-4a6f-8589-dd101264ef6c",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Claude Thornhill & His Orchestra",
+            "TrackTitle": "Snowfall",
+            "TrackComposer": "Claude Thornhill",
+            "MBID": "dafff2a5-487b-4b21-97e6-33995b6c0d3c",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Frankie Carle and His Orchestra",
+            "TrackTitle": "Sunrise Serenade",
+            "TrackComposer": "Frankie Carle, Edgar Leslie",
+            "MBID": "630ab4fc-bae9-4aeb-94da-a63570dab893",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Paul Weston & His Orchestra",
+            "TrackTitle": "Autumn Leaves",
+            "TrackComposer": "Joseph Kosma, Johnny Mercer",
+            "MBID": "cf1f468c-9584-4490-a521-ff8788d5acb1",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Benny Goodman and His Orchestra",
+            "TrackTitle": "Sing, Sing, Sing",
+            "TrackComposer": "Louis Prima",
+            "MBID": "5e1020c6-10b7-4fc0-a79b-2b67ae47b3bf",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Glenn Miller Orchestra",
+            "TrackTitle": "In the Mood",
+            "TrackComposer": "Joe Garland, Andy Razaf",
+            "MBID": "866506a4-82b3-446c-b82f-02aca107834c",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Ella Fitzgerald with Chick Webb and His Orchestra",
+            "TrackTitle": "A\u2010tisket A\u2010tasket",
+            "TrackComposer": "Ella Fitzgerald, Al Feldman",
+            "MBID": "7d239faf-b54e-4be1-87df-35c6949feb2a",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Louis Armstrong",
+            "TrackTitle": "Hello, Dolly!",
+            "TrackComposer": "Jerry Herman",
+            "MBID": "60620711-8026-4daa-8e16-b727d016665f",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Duke Ellington & His Orchestra",
+            "TrackTitle": "Take the \u201cA\u201d Train",
+            "TrackComposer": "Billy Strayhorn",
+            "MBID": "5151f133-684e-4946-a50a-40af84c43ce6",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Artie Shaw and His Orchestra",
+            "TrackTitle": "Begin the Beguine",
+            "TrackComposer": "Cole Porter",
+            "MBID": "c693a841-236c-47c1-a74b-d4c16158adb9",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Bing Crosby",
+            "TrackTitle": "White Christmas",
+            "TrackComposer": "Irving Berlin",
+            "MBID": "55deec13-caab-4b3e-8bc7-ccfb96d53ba8",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Count Basie & His Orchestra",
+            "TrackTitle": "One O'Clock Jump",
+            "TrackComposer": "Count Basie",
+            "MBID": "0373e294-fa3a-40e8-a8f3-c64a54406ed4",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Cab Calloway and His Orchestra",
+            "TrackTitle": "Minnie the Moocher",
+            "TrackComposer": "Cab Calloway, Irving Mills, Clarence Gaskill",
+            "MBID": "a0f2063d-db24-4081-ad26-1c13591d4448",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Lionel Hampton and His Orchestra",
+            "TrackTitle": "Flying Home",
+            "TrackComposer": "Lionel Hampton, Benny Goodman, Eddie DeLange",
+            "MBID": "df51b45f-b46d-4c9f-aea2-367120f077ad",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Les Brown and His Orchestra with Doris Day",
+            "TrackTitle": "Sentimental Journey",
+            "TrackComposer": "Les Brown, Ben Homer, Bud Green",
+            "MBID": "a5c1e4bc-bf72-4ba1-9b9c-82610bd250b4",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Woody Herman & His Orchestra",
+            "TrackTitle": "Woodchopper's Ball",
+            "TrackComposer": "Joe Bishop, Woody Herman",
+            "MBID": "a7a22dc0-256f-40cb-978b-d08a8465601c",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Tommy Dorsey & His Orchestra",
+            "TrackTitle": "Opus One",
+            "TrackComposer": "Sy Oliver",
+            "MBID": "06810683-ce74-496c-b302-8c12856fe34b",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Doris Day",
+            "TrackTitle": "The Very Thought of You (with Harry James & His Orchestra)",
+            "TrackComposer": "James V. Monaco, Joseph McCarthy",
+            "MBID": "6d401edd-a7bd-4b48-a4d2-bb11cfd564e4",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Kay Starr",
+            "TrackTitle": "Wheel of Fortune",
+            "TrackComposer": "Bennie Benjamin, George David Weiss",
+            "MBID": "b6c9dc8e-ad84-4f8d-ad98-c307a68c0faf",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Doris Day",
+            "TrackTitle": "It's Magic",
+            "TrackComposer": "Jule Styne, Sammy Cahn",
+            "MBID": "52729aed-443f-47f9-b2a7-9310114cc82f",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Louis Jordan and His Tympany Five",
+            "TrackTitle": "Caldonia",
+            "TrackComposer": "Louis Jordan",
+            "MBID": "295a406d-db59-4fa2-8c1a-1c51331e3638",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Gene Krupa and His Orchestra with Anita O\u2019Day & Roy Eldridge",
+            "TrackTitle": "Let Me Off Uptown",
+            "TrackComposer": "George Weiss, Redd Evans",
+            "MBID": "286c9910-ac84-4f65-9b22-69a14d3481a6",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Squirrel Nut Zippers",
+            "TrackTitle": "Hell",
+            "TrackComposer": "Tom Maxwell",
+            "MBID": "d61f5090-b243-4910-a109-411fcb4a4a0b",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "The Mills Brothers",
+            "TrackTitle": "I've Found a New Baby",
+            "TrackComposer": "Spencer Williams, Jack Palmer",
+            "MBID": "b7830209-2c09-422b-b765-c1ffb26909f9",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Erskine Hawkins and His Orchestra",
+            "TrackTitle": "Tuxedo Junction",
+            "TrackComposer": "Erskine Hawkins, Bill Johnson, Julian Dash, Buddy Feyne",
+            "MBID": "87d2701e-73fa-4dd0-a3e9-61ce11668b18",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Jimmie Lunceford and His Orchestra",
+            "TrackTitle": "For Dancers Only",
+            "TrackComposer": "Don Raye, Vic Schoen, Edgar Battle",
+            "MBID": "7f811eb1-af03-499d-8b8c-850dce516a83",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Chick Webb and His Orchestra",
+            "TrackTitle": "Stompin' at the Savoy",
+            "TrackComposer": "Edgar Sampson, Benny Goodman, Chick Webb, Andy Razaf",
+            "MBID": "a3a164b6-1219-491d-babc-f1c5c424efd8",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Kupinski Guitar Duo",
+            "TrackTitle": "George Gershwin Rhapsody in Blue",
+            "TrackComposer": "George Gershwin",
+            "MBID": "6d335bc6-697d-4f1f-bfe6-4b942174023c",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Les Baxter, His Chorus and Orchestra",
+            "TrackTitle": "Blue Tango",
+            "TrackComposer": "Leroy Anderson, Mitchell Parish",
+            "MBID": "51f4a43a-12ef-4937-9a65-625650943bd8",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Ella Fitzgerald & The Ink Spots",
+            "TrackTitle": "Cow Cow Boogie",
+            "TrackComposer": "Benny Carter, Gene de Paul, Don Raye",
+            "MBID": "2228441c-4ab7-4172-91c7-52d75a80bc27",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Spike Jones and His City Slickers",
+            "TrackTitle": "Der Fuehrer\u2019s Face",
+            "TrackComposer": "Oliver Wallace",
+            "MBID": "7f4b5352-da12-474d-9ee5-3fe459cdb9d2",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Duke Ellington & His Orchestra",
+            "TrackTitle": "Ko Ko",
+            "TrackComposer": "Duke Ellington",
+            "MBID": "444875a1-dade-4045-9241-49f2f5489d3c",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Benny Goodman Quartet",
+            "TrackTitle": "Stompin' at the Savoy",
+            "TrackComposer": "Edgar Sampson, Benny Goodman, Chick Webb, Andy Razaf",
+            "MBID": "d9d7ebee-ee4c-49bf-a62e-7f95ec1b1b7c",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Charlie Barnet and His Orchestra",
+            "TrackTitle": "Cherokee",
+            "TrackComposer": "Ray Noble",
+            "MBID": "dc72f8da-552f-4b95-a1af-1d2a08e78097",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Count Basie and His Orchestra",
+            "TrackTitle": "April in Paris",
+            "TrackComposer": "Vernon Duke, E. Y. Harburg",
+            "MBID": "28104653-8675-470b-9431-571e1807151d",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Count Basie\u2019s Kansas City Seven",
+            "TrackTitle": "Lester Leaps In",
+            "TrackComposer": "Lester Young",
+            "MBID": "47045bf7-c9d8-4f9d-a273-57be114cd732",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Louis Armstrong and His Hot Five",
+            "TrackTitle": "West End Blues",
+            "TrackComposer": "Joe \"King\" Oliver, Clarence Williams",
+            "MBID": "bbd50a4f-cdce-4a0a-912a-3a0e50b8e3ab",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Glenn Miller",
+            "TrackTitle": "Chattanooga Choo Choo - Glenn Miller",
+            "TrackComposer": "Harry Warren, Mack Gordon",
+            "MBID": "757bb09e-56f4-4e1a-8e83-686266cbb7ce",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Ella Fitzgerald",
+            "TrackTitle": "Mack the Knife",
+            "TrackComposer": "Kurt Weill, Bertolt Brecht",
+            "MBID": "758884ad-cd76-41c7-8408-66d73d7eb291",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Neneh Cherry",
+            "TrackTitle": "I\u2019ve Got You Under My Skin",
+            "TrackComposer": "Cole Porter",
+            "MBID": "3cebe717-a1b7-409c-bc24-4a75a64b284d",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Django Reinhardt et le Quintette du Hot Club de France",
+            "TrackTitle": "Nuages",
+            "TrackComposer": "Django Reinhardt",
+            "MBID": "e486d228-db23-4cf2-8385-ca635fa7fc64",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Gene Krupa & His Orchestra",
+            "TrackTitle": "Drum Boogie",
+            "TrackComposer": "Gene Krupa, Roy Eldridge",
+            "MBID": "d554d9c3-08ba-4774-97df-e63d56f25b69",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Stan Kenton and His Orchestra",
+            "TrackTitle": "Artistry in Rhythm",
+            "TrackComposer": "Stan Kenton",
+            "MBID": "e2643b35-7d76-4873-afec-267ab1fd5796",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Woody Herman & His Orchestra",
+            "TrackTitle": "Apple Honey",
+            "TrackComposer": "Woody Herman, Ralph Burns",
+            "MBID": "d659f5dc-f51e-407c-befa-5baaf5baae55",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Duke Ellington & His Orchestra",
+            "TrackTitle": "Cotton Tail",
+            "TrackComposer": "Duke Ellington",
+            "MBID": "d5905415-b3d0-471e-9f2e-35d5eddac8da",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Benny Goodman and His Orchestra",
+            "TrackTitle": "King Porter Stomp",
+            "TrackComposer": "Jelly Roll Morton",
+            "MBID": "687e2bb7-a946-4d07-a82e-fab99ac4d845",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Louis Armstrong & His Orchestra",
+            "TrackTitle": "St. Louis Blues",
+            "TrackComposer": "W. C. Handy",
+            "MBID": "27f5ad1b-27be-45f4-a4d9-f6059eca4a03",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Count Basie & His Orchestra",
+            "TrackTitle": "Jumpin' At the Woodside",
+            "TrackComposer": "Count Basie",
+            "MBID": "be0ed2cd-a457-46a2-91b3-e2f518362fde",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Artie Shaw and His Orchestra",
+            "TrackTitle": "Concerto for Clarinet",
+            "TrackComposer": "Artie Shaw",
+            "MBID": "5bd91c8a-76ed-475f-af2c-ab1d2a382e95",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Glenn Miller Orchestra",
+            "TrackTitle": "American Patrol",
+            "TrackComposer": "F. W. Meacham",
+            "MBID": "3bf9e149-d35e-4883-a07d-aaff12eb5b64",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Twinkle Twinkle Little Rock Star",
+            "TrackTitle": "The Way You Look Tonight (Frank Sinatra)",
+            "TrackComposer": "Jerome Kern, Dorothy Fields",
+            "MBID": "daf77de9-fc41-47a8-9376-a1c15e8c97f1",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Lionel Hampton and His Orchestra",
+            "TrackTitle": "Hamp's Boogie Woogie",
+            "TrackComposer": "Lionel Hampton, Milt Buckner",
+            "MBID": "04768f63-7120-4b53-a747-df8058d56511",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Jimmie Lunceford and His Orchestra",
+            "TrackTitle": "Rhythm Is Our Business",
+            "TrackComposer": "Jimmy Van Heusen, Sammy Cahn, Saul Chaplin",
+            "MBID": "f317d542-d748-4188-bbd7-682f651c801d",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Cab Calloway and His Orchestra",
+            "TrackTitle": "(Hep\u2010Hep!) The Jumpin\u2019 Jive",
+            "TrackComposer": "Cab Calloway, Frank Froeba, Jack Palmer",
+            "MBID": "791e7110-bf15-43b0-afa1-9dd848056811",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Chick Webb and His Orchestra",
+            "TrackTitle": "Don\u2019t Be That Way",
+            "TrackComposer": "Edgar Sampson, Benny Goodman, Mitchell Parish",
+            "MBID": "e5ef7d97-9fbe-4d05-8f15-64ae744fdc77",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "The Buddy Rich Big Band",
+            "TrackTitle": "One O'Clock Jump",
+            "TrackComposer": "Count Basie",
+            "MBID": "89de4086-7d23-4e82-ab3f-8720e2ac45c1",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Erroll Garner Trio",
+            "TrackTitle": "I'm Confessin'",
+            "TrackComposer": "Bert McNulty, Doc Daugherty, Ellis Reynolds",
+            "MBID": "81e2564d-a526-40bb-b147-c06a1409eae9",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Count Basie & His Orchestra",
+            "TrackTitle": "Corner Pocket",
+            "TrackComposer": "Freddie Green",
+            "MBID": "c55e94e1-f377-4296-822e-8a348cd9c16d",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Duke Ellington & His Orchestra",
+            "TrackTitle": "Caravan",
+            "TrackComposer": "Juan Tizol, Duke Ellington, Irving Mills",
+            "MBID": "823f5c74-e62d-4cdf-852b-c822626cdc45",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Benny Goodman and His Orchestra",
+            "TrackTitle": "Don\u2019t Be That Way",
+            "TrackComposer": "Edgar Sampson, Benny Goodman, Mitchell Parish",
+            "MBID": "678924a1-b640-4d6f-9065-ba473067bea4",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Glenn Miller Orchestra",
+            "TrackTitle": "A String of Pearls",
+            "TrackComposer": "Jerry Gray, Eddie DeLange",
+            "MBID": "f3ec1629-1cd4-4ee5-abb1-5b765fcc8647",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Benny Goodman and His Orchestra",
+            "TrackTitle": "Let's Dance",
+            "TrackComposer": "Gregory Stone, Joseph Bonime, Fanny Baldridge",
+            "MBID": "0b1d98e6-73a6-4c24-9aa6-03f5faa2a7eb",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Duke Ellington",
+            "TrackTitle": "It Don't Mean A Thing (If It Ain't Got That Swing) (Vocal: Ivie Anderson)",
+            "TrackComposer": "Duke Ellington, Irving Mills",
+            "MBID": "4474ae17-74ca-4571-9ce4-ebca05bd138c",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Artie Shaw and His Orchestra",
+            "TrackTitle": "Frenesi",
+            "TrackComposer": "Alberto Dom\u00ednguez",
+            "MBID": "f2757347-18ae-42e2-99c0-08f7583fc557",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Nat King Cole Trio",
+            "TrackTitle": "(I Love You) For Sentimental Reasons",
+            "TrackComposer": "William Best, Deek Watson",
+            "MBID": "37fe9b7e-30f9-43a8-b49a-da9ab9d624df",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Count Basie & His Orchestra",
+            "TrackTitle": "Every Tub",
+            "TrackComposer": "Count Basie, Eddie Durham",
+            "MBID": "7947332e-1a09-4283-9548-788e569f9cc3",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Cab Calloway and His Orchestra",
+            "TrackTitle": "Everybody Eats When They Come to My House",
+            "TrackComposer": "Cab Calloway, Irving Mills",
+            "MBID": "0814d290-1ab2-4d7b-840d-8ade6d8251c8",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Lionel Hampton and His Orchestra",
+            "TrackTitle": "Hey! Ba\u2010Ba Re\u2010Bop",
+            "TrackComposer": "Lionel Hampton, Helen Humes",
+            "MBID": "e2466138-5b74-43c1-9f2d-cc6b3e19445b",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Big Bad Voodoo Daddy",
+            "TrackTitle": "You & Me & the Bottle Makes 3 Tonight (Baby)",
+            "TrackComposer": "Scotty Morris",
+            "MBID": "dc5e1fcf-5ccc-4a01-a8a3-2b0236e7429d",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Cherry Poppin\u2019 Daddies",
+            "TrackTitle": "Brown Derby Jump",
+            "TrackComposer": "Steve Perry",
+            "MBID": "316b3f26-ece7-4ab1-a55a-766e4a62939a",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Squirrel Nut Zippers",
+            "TrackTitle": "Put a Lid On It",
+            "TrackComposer": "Jimbo Mathus",
+            "MBID": "98e6a22d-0a69-4e5a-bc94-4080cd64c55f",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Royal Crown Revue",
+            "TrackTitle": "The Walkin\u2019 Blues",
+            "TrackComposer": "Son House",
+            "MBID": "449796eb-1287-429b-bf84-c6f5fdb51bb2",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Gene Krupa and His Orchestra",
+            "TrackTitle": "Boogie Woogie Bugle Boy",
+            "TrackComposer": "Don Raye, Hughie Prince",
+            "MBID": "9c73c5ac-967a-44af-acb1-b7e753e2da5e",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Louis Jordan and His Tympany Five",
+            "TrackTitle": "Choo Choo Ch'Boogie",
+            "TrackComposer": "Vaughn Horton, Denver Darling, Milton Gabler",
+            "MBID": "5a8daaa3-ec89-4756-a68f-282e29fa37ae",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Duke Ellington & His Orchestra",
+            "TrackTitle": "Mood Indigo",
+            "TrackComposer": "Duke Ellington, Barney Bigard, Irving Mills",
+            "MBID": "81a8e235-a3f5-45e1-9576-1ab199163d95",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Benny Goodman and His Orchestra",
+            "TrackTitle": "Jersey Bounce",
+            "TrackComposer": "Bobby Plater, Tiny Bradshaw, Edward Johnson, Buddy Feyne",
+            "MBID": "b9921049-2945-4cfa-b274-b3f68ea4d16f",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Billie Holiday",
+            "TrackTitle": "Lover Man (Oh, Where Can You Be?)",
+            "TrackComposer": "Jimmy Davis, Ram Ramirez, James Sherman",
+            "MBID": "9ce78cba-762d-4251-9b4f-0d1e39072324",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Count Basie & His Orchestra",
+            "TrackTitle": "Shiny Stockings",
+            "TrackComposer": "Frank Foster",
+            "MBID": "75b3a84d-d685-482d-8644-e1c8495ccdd1",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Ella Fitzgerald",
+            "TrackTitle": "It\u2019s Only a Paper Moon",
+            "TrackComposer": "Harold Arlen, Billy Rose, E. Y. Harburg",
+            "MBID": "be91c60a-4110-4122-90e3-a0bccee267e6",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Frank Sinatra",
+            "TrackTitle": "I've Got the World on a String",
+            "TrackComposer": "Harold Arlen, Ted Koehler",
+            "MBID": "7c0bf7ff-12d7-4a20-904c-982ed3b073b4",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "The Nat King Cole Trio",
+            "TrackTitle": "The Frim Fram Sauce",
+            "TrackComposer": "Joe Ricardel, Redd Evans",
+            "MBID": "a7636195-598d-45b2-ac7a-5b47514a759c",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Tommy Dorsey and His Orchestra with Jack Leonard",
+            "TrackTitle": "Marie",
+            "TrackComposer": "Irving Berlin",
+            "MBID": "571bc90b-ffae-4600-b7b5-eaa4a5e39acb",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Jimmie Lunceford and His Orchestra",
+            "TrackTitle": "Organ Grinder\u2019s Swing",
+            "TrackComposer": "Will Hudson, Irving Mills, Mitchell Parish",
+            "MBID": "175e965e-eff8-4989-85b2-5cdae052557e",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Lionel Hampton and His Orchestra",
+            "TrackTitle": "Central Avenue Breakdown",
+            "TrackComposer": "Lionel Hampton",
+            "MBID": "d7ce1757-4d5b-4453-acb3-e2f115f29d4e",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Cab Calloway and His Orchestra",
+            "TrackTitle": "Reefer Man",
+            "TrackComposer": "J. Russell Robinson, Andy Razaf",
+            "MBID": "e4dd2934-77ca-4e58-82c5-0b0469021dad",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Chick Webb and His Orchestra",
+            "TrackTitle": "Liza (All The Clouds'll Roll Away)",
+            "TrackComposer": "George Gershwin, Ira Gershwin, Gus Kahn",
+            "MBID": "0a2e1ab7-81af-474d-bf66-c97fe3f74e44",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Coleman Hawkins",
+            "TrackTitle": "Sweet Georgia Brown",
+            "TrackComposer": "Ben Bernie, Maceo Pinkard, Kenneth Casey",
+            "MBID": "747c25c9-ff23-4fd9-95d2-e0c19caf6c13",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Jo\u00e3o Bastos",
+            "TrackTitle": "Moonlight serenade (Glenn Miller)",
+            "TrackComposer": "Kim Gannon, Lucky Roberts",
+            "MBID": "a88c5dbe-3cb7-4e1f-b120-d7e8f98db9a8",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "The Benny Goodman Quartet",
+            "TrackTitle": "Sweet Georgia Brown",
+            "TrackComposer": "Ben Bernie, Maceo Pinkard, Kenneth Casey",
+            "MBID": "f65c29a1-b3ce-412f-bb8f-f896041943bb",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Glenn Miller Orchestra",
+            "TrackTitle": "Tuxedo Junction",
+            "TrackComposer": "Erskine Hawkins, Bill Johnson, Julian Dash, Buddy Feyne",
+            "MBID": "a00dd3b0-58aa-4168-9d18-de632f448e5e",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Duke Ellington & His Orchestra",
+            "TrackTitle": "Sophisticated Lady",
+            "TrackComposer": "Duke Ellington, Irving Mills, Mitchell Parish",
+            "MBID": "2ee49181-848b-485d-97d1-4c1b3f4bbf84",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Artie Shaw and His Orchestra",
+            "TrackTitle": "Star Dust",
+            "TrackComposer": "Hoagy Carmichael, Mitchell Parish",
+            "MBID": "b0e21eeb-1d29-4e62-bdf0-a523d1c8f4b5",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Count Basie & His Orchestra",
+            "TrackTitle": "Blues in Hoss' Flat",
+            "TrackComposer": "Frank Foster",
+            "MBID": "6d6503fb-52c4-4f94-93aa-00d222161bc0",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Cab Calloway and His Orchestra",
+            "TrackTitle": "Are You Hep to the Jive! (Yas, Yas)",
+            "TrackComposer": "Harry White, Cab Calloway",
+            "MBID": "c92b8457-2de5-4fd9-b810-a2e706f5b8e0",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Lionel Hampton and His Orchestra",
+            "TrackTitle": "Sunny Side of the Street",
+            "TrackComposer": "Jimmy McHugh, Dorothy Fields",
+            "MBID": "6ed775d7-01df-47f2-8a0d-6ae372b06c1c",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Cherry Poppin\u2019 Daddies",
+            "TrackTitle": "Cherry Poppin\u2019 Daddies Strut",
+            "TrackComposer": "Steve Perry",
+            "MBID": "dfe381d3-9b42-46d4-beb0-c5837c4e6832",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Squirrel Nut Zippers",
+            "TrackTitle": "Ghost of Stephen Foster",
+            "TrackComposer": "Tom Maxwell",
+            "MBID": "a7c773a7-d6a2-4f35-913d-45782443c057",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Royal Crown Revue",
+            "TrackTitle": "Zip Gun Bop",
+            "TrackComposer": "Mando Dorame",
+            "MBID": "c696cf92-4322-4b54-b093-93e0c41c8fd4",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Benny Goodman and His Orchestra with Peggy Lee",
+            "TrackTitle": "Why Don\u2019t You Do Right",
+            "TrackComposer": "Joe McCoy",
+            "MBID": "c4b05a42-c1f7-458d-ba11-7b3c6436e2f8",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Artie Shaw and His Orchestra",
+            "TrackTitle": "Back Bay Shuffle",
+            "TrackComposer": "Artie Shaw, Jerry Gray",
+            "MBID": "35e0bc3d-3711-411c-9ee8-7fbf2a9199af",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Louis Armstrong and His Orchestra",
+            "TrackTitle": "Basin Street Blues",
+            "TrackComposer": "Spencer Williams",
+            "MBID": "9e9f0104-d1c7-4b32-b5e2-9559597ff475",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Ella Fitzgerald",
+            "TrackTitle": "Blue Skies",
+            "TrackComposer": "Irving Berlin",
+            "MBID": "3ef2d47b-32e4-4c2c-a6e9-2e064ec52ac5",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Nat King Cole Trio",
+            "TrackTitle": "(Get Your Kicks on) Route 66",
+            "TrackComposer": "Bobby Troup",
+            "MBID": "a5bdb436-567c-4100-a157-7de7de810ca0",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Frank Sinatra",
+            "TrackTitle": "Nice Work If You Can Get It",
+            "TrackComposer": "George Gershwin, Ira Gershwin",
+            "MBID": "b2da889e-1776-48bb-9738-0fee31a23f21",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Tommy Dorsey & His Orchestra",
+            "TrackTitle": "Boogie Woogie",
+            "TrackComposer": "Tommy Dorsey",
+            "MBID": "79bbb582-1e01-40b3-9b41-89c894657db3",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Gene Krupa and His Orchestra",
+            "TrackTitle": "Leave Us Leap",
+            "TrackComposer": "Don George",
+            "MBID": "3fd5fb7f-59db-4bd5-98c6-3fc38287e66c",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Billy May",
+            "TrackTitle": "'Tain't What You Do (Jimmie Lunceford version)",
+            "TrackComposer": "James P. Johnson, Andy Razaf",
+            "MBID": "77d15198-b391-4009-a621-1a14f1fc5be0",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Cab Calloway and His Orchestra",
+            "TrackTitle": "St. James\u2019 Infirmary",
+            "TrackComposer": "Joe Primrose (Irving Mills)",
+            "MBID": "d49d0146-e37e-4a88-a696-f7cb9093d180",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Little People",
+            "TrackTitle": "Tisket a Tasket",
+            "TrackComposer": "Ella Fitzgerald, Al Feldman",
+            "MBID": "6e55a22e-ff4a-44a1-a89d-ac6b15562981",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Duke Ellington & His Orchestra",
+            "TrackTitle": "Don't Get Around Much Anymore",
+            "TrackComposer": "Duke Ellington, Bob Russell",
+            "MBID": "7235abbd-2246-4390-b6ea-4d36b78b09bd",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Count Basie & His Orchestra",
+            "TrackTitle": "The Kid From Red Bank",
+            "TrackComposer": "Neal Hefti",
+            "MBID": "24cf652d-d4d2-4a2e-9e9d-1581112be136",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Lester Young Quartet",
+            "TrackTitle": "These Foolish Things",
+            "TrackComposer": "Harry Link, Jack Strachey, Eric Maschwitz",
+            "MBID": "468fb6df-1b39-44e5-909c-ad69074feba7",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Django Reinhardt Et Le Quintette Du Hot Club De France Avec Stephane Grappelli",
+            "TrackTitle": "Dinah",
+            "TrackComposer": "Harry Akst, Sam M. Lewis, Joe Young",
+            "MBID": "9a379220-005e-41c4-a4ae-d58a12a78d38",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "St\u00e9phane Grappelli",
+            "TrackTitle": "Ol' Man River",
+            "TrackComposer": "Jerome Kern, Oscar Hammerstein II",
+            "MBID": "d1065389-b469-4930-9d29-f7069d9b5ce6",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "The Mills Brothers",
+            "TrackTitle": "You Always Hurt the One You Love",
+            "TrackComposer": "Doris Fisher, Allan Roberts",
+            "MBID": "5b50ab20-d63f-43ec-a79f-b8818f3b0d1e",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "The Ink Spots",
+            "TrackTitle": "Don't Get Around Much Anymore",
+            "TrackComposer": "Duke Ellington, Bob Russell",
+            "MBID": "ac0ee751-fc15-4b4a-a5ee-b5a614b38689",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Glenn Miller Orchestra",
+            "TrackTitle": "St. Louis Blues March",
+            "TrackComposer": "W. C. Handy",
+            "MBID": "b4276b7b-1901-4e78-8854-a7ecc6d22378",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Artie Shaw and His Orchestra",
+            "TrackTitle": "Indian Love Call",
+            "TrackComposer": "Rudolf Friml, Oscar Hammerstein II, Otto Harbach",
+            "MBID": "aff06fe0-b60f-4a06-bf52-0e80211211ad",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Harry James and His Orchestra",
+            "TrackTitle": "Two O'Clock Jump",
+            "TrackComposer": "Harry James, Benny Goodman, Count Basie",
+            "MBID": "27085944-48cb-479f-952c-fe5e6b4f3f57",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Louis Prima",
+            "TrackTitle": "Pennies from Heaven",
+            "TrackComposer": "Arthur Johnston, Johnny Burke",
+            "MBID": "951b88b7-58c0-4731-b643-2c62694c6c74",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Red Raville's Big Band Sounds",
+            "TrackTitle": "Goody goody (Benny Goodman)",
+            "TrackComposer": "Matty Malneck, Johnny Mercer",
+            "MBID": "b04d59c6-afe3-49b5-bf9a-384721bba075",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Duke Ellington & His Orchestra",
+            "TrackTitle": "C Jam Blues",
+            "TrackComposer": "Duke Ellington",
+            "MBID": "b47d15f9-08a3-4504-82d2-670a402e45ee",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Ella Fitzgerald",
+            "TrackTitle": "I\u2019ve Got My Love to Keep Me Warm",
+            "TrackComposer": "Irving Berlin",
+            "MBID": "58bae679-8ba4-45c8-89f8-757ec9c31879",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Frank Sinatra",
+            "TrackTitle": "Chicago (That Toddlin\u2019 Town)",
+            "TrackComposer": "Fred Fisher",
+            "MBID": "aeeaa4e7-8955-4134-85a7-bd989f319d80",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "The Nat King Cole Trio",
+            "TrackTitle": "Gee Baby, Ain't I Good To You",
+            "TrackComposer": "Don Redman, Andy Razaf",
+            "MBID": "52f5601c-097a-405e-8922-33ec40dec5f3",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Artie Shaw and His Orchestra",
+            "TrackTitle": "All the Things You Are",
+            "TrackComposer": "Jerome Kern, Oscar Hammerstein II",
+            "MBID": "0f3210ad-9cf9-492d-baac-7313cc5da068",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Count Basie & His Orchestra",
+            "TrackTitle": "Doggin' Around",
+            "TrackComposer": "Edgar Battle, Herschel Evans",
+            "MBID": "54797c9f-f478-4415-a28d-15d20a6ea8fe",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Cab Calloway and His Orchestra",
+            "TrackTitle": "The Old Man of the Mountain",
+            "TrackComposer": "Walter Donaldson, Ned Washington",
+            "MBID": "46e5464e-c870-406f-ad3d-a8bd97e18edb",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Lionel Hampton and His Orchestra",
+            "TrackTitle": "Air Mail Special",
+            "TrackComposer": "Benny Goodman, Charlie Christian, Jimmy Mundy",
+            "MBID": "db747010-c159-4f02-88b9-7ea62144305f",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Big Bad Voodoo Daddy",
+            "TrackTitle": "King of Swing",
+            "TrackComposer": "Scotty Morris",
+            "MBID": "a53b0b91-874c-4f31-bbdb-1d9ee6f3f6a5",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Cherry Poppin\u2019 Daddies",
+            "TrackTitle": "Shake Your Lovemaker",
+            "TrackComposer": "Steve Perry",
+            "MBID": "85f18c24-bd15-49f7-a302-3bb11efb817d",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Squirrel Nut Zippers",
+            "TrackTitle": "Fat Cat Keeps Getting Fatter",
+            "TrackComposer": "Jimbo Mathus",
+            "MBID": "28ab5006-1523-4c57-9cfb-483d443bde80",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Royal Crown Revue",
+            "TrackTitle": "Mugzy's Move",
+            "TrackComposer": "Mando Dorame",
+            "MBID": "daecdeb5-2c61-4ae5-9945-d0ea26920c80",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Tommy Dorsey and His Orchestra with Frank Sinatra & The Pied Pipers",
+            "TrackTitle": "I\u2019ll Never Smile Again",
+            "TrackComposer": "Ruth Lowe",
+            "MBID": "7c941626-b5fb-40e0-ab65-b18d6f64d180",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Jimmie Lunceford and His Orchestra",
+            "TrackTitle": "Uptown Blues",
+            "TrackComposer": "Eddie Durham",
+            "MBID": "8211a390-524e-4bb7-a65d-23d32fbe3404",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Benny Goodman and His Orchestra",
+            "TrackTitle": "Blue Skies",
+            "TrackComposer": "Irving Berlin",
+            "MBID": "58bd1cd5-dd31-4ea2-a6cc-62c7f3cb7561",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Louis Armstrong",
+            "TrackTitle": "On the Sunny Side of the Street",
+            "TrackComposer": "Jimmy McHugh, Dorothy Fields",
+            "MBID": "09a5b936-3483-4f85-9a10-0c519e11d70b",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Glenn Miller",
+            "TrackTitle": "Serenade in Blue (Glenn Miller)",
+            "TrackComposer": "Harry Warren, Mack Gordon",
+            "MBID": "7640172d-fce3-4ce4-a080-5fd38a88a38f",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Artie Shaw and His Orchestra",
+            "TrackTitle": "Nightmare",
+            "TrackComposer": "Artie Shaw",
+            "MBID": "ec14f755-113f-41a3-aaf3-6014340a487f",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Count Basie & His Orchestra",
+            "TrackTitle": "Shorty George",
+            "TrackComposer": "Count Basie",
+            "MBID": "409500ea-edea-4b79-8c90-5863ed96ccb7",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Ella Fitzgerald",
+            "TrackTitle": "Cheek to Cheek",
+            "TrackComposer": "Irving Berlin",
+            "MBID": "24981b54-70d0-4547-bf2b-aec2217c5404",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Frank Sinatra",
+            "TrackTitle": "I Concentrate on You",
+            "TrackComposer": "Cole Porter",
+            "MBID": "c0e0c7c6-e4d4-4d50-8bbd-1b25d717196b",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "The Nat King Cole Trio",
+            "TrackTitle": "Lush Life",
+            "TrackComposer": "Billy Strayhorn",
+            "MBID": "4c859f72-d28a-47dc-b9d9-f53d35fedbe8",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Duke Ellington & His Orchestra",
+            "TrackTitle": "Satin Doll",
+            "TrackComposer": "Duke Ellington, Billy Strayhorn, Johnny Mercer",
+            "MBID": "90c4bcd2-c80d-4020-94d5-04273bfafab0",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Lionel Hampton and His Orchestra",
+            "TrackTitle": "Tempo's Birthday",
+            "TrackComposer": "Lionel Hampton",
+            "MBID": "c2d5a484-9269-4f66-8e7a-24947f897733",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Tommy Dorsey & His Orchestra",
+            "TrackTitle": "Getting Sentimental Over You",
+            "TrackComposer": "Tommy Dorsey",
+            "MBID": "dad46479-1dfa-4f22-a6b7-8e521523d710",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Will Kimbrough",
+            "TrackTitle": "Anita O'Day",
+            "TrackComposer": "Hoagy Carmichael",
+            "MBID": "b576177e-e356-4fa5-b3a8-9717c50ec0bb",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Harry James and His Orchestra",
+            "TrackTitle": "Trumpet Blues and Cantabile",
+            "TrackComposer": "Harry James",
+            "MBID": "0f57e2c8-af71-4c78-b623-dab27dd92c6f",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Woody Herman & His Orchestra",
+            "TrackTitle": "Northwest Passage",
+            "TrackComposer": "Ralph Burns",
+            "MBID": "c1280f44-cc75-4f80-a9c0-6a09ddf2d2d2",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Stan Kenton and His Orchestra",
+            "TrackTitle": "Eager Beaver",
+            "TrackComposer": "Stan Kenton",
+            "MBID": "a4921d28-2248-4664-a392-df7941f07aa3",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Tony Bennett",
+            "TrackTitle": "Lester Leaps In (feat. The Count Basie Orchestra)",
+            "TrackComposer": "Count Basie, Jerry Livingston, Mack David",
+            "MBID": "72bae4ac-4074-4ba7-a132-97c6164e9cc9",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Coleman Hawkins",
+            "TrackTitle": "Disorder at the Border",
+            "TrackComposer": "Coleman Hawkins",
+            "MBID": "afd7140c-1e03-4cfd-9b31-cbc01538f95a",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Django Reinhardt et le Quintette du Hot Club de France",
+            "TrackTitle": "Honeysuckle Rose",
+            "TrackComposer": "Fats Waller, Andy Razaf",
+            "MBID": "d6a27994-fb5b-4483-8f16-6872d10d7261",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "St\u00e9phane Grappelli & Yo\u2010Yo Ma",
+            "TrackTitle": "Sweet Lorraine",
+            "TrackComposer": "Cliff Burwell, Mitchell Parish",
+            "MBID": "0b29d40b-0e3c-4626-89be-1abfb178d1c2",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "The Andrews Sisters",
+            "TrackTitle": "I\u2019ll Be With You in Apple Blossom Time",
+            "TrackComposer": "Albert Von Tilzer, Neville Fleeson",
+            "MBID": "7fe27abf-29e6-4ac9-bd3b-9137c1162438",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Benny Goodman Quartet",
+            "TrackTitle": "Avalon",
+            "TrackComposer": "Vincent Rose, Al Jolson, Buddy DeSylva",
+            "MBID": "f556dd4b-331d-471a-9d0a-f52f7a5f4f6a",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Glenn Miller Orchestra",
+            "TrackTitle": "Caribbean Clipper",
+            "TrackComposer": "Jerry Gray",
+            "MBID": "747e3e0a-bef1-4d9c-a9a3-8fa6ad48f9b1",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Duke Ellington & His Orchestra",
+            "TrackTitle": "Perdido",
+            "TrackComposer": "Juan Tizol, Hans Lengsfelder, Ervin Drake",
+            "MBID": "fd86e407-e9de-463f-b8cc-48cced90e54b",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Artie Shaw and His Orchestra",
+            "TrackTitle": "Tabu",
+            "TrackComposer": "Margarita Lecuona",
+            "MBID": "44667c82-8134-4d4e-94ad-6d6c009b104c",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Ella Fitzgerald with Louis Armstrong",
+            "TrackTitle": "Dream a Little Dream of Me",
+            "TrackComposer": "Fabian Andre, Wilbur Schwandt, Gus Kahn",
+            "MBID": "d635dbad-5942-4172-8f73-7a31805bbf84",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Frank Sinatra",
+            "TrackTitle": "Young at Heart",
+            "TrackComposer": "Johnny Richards, Carolyn Leigh",
+            "MBID": "692b16ef-b4e3-4cea-94ad-3c3363b77db2",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "The Nat King Cole Trio",
+            "TrackTitle": "I'll Never Be the Same",
+            "TrackComposer": "Matty Malneck, Frank Signorelli, Gus Kahn",
+            "MBID": "908e889a-dfbf-410b-ba56-1221c0a70800",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Count Basie & His Orchestra",
+            "TrackTitle": "Broadway",
+            "TrackComposer": "Bill Byrd, Teddy McRae, Henri Woode",
+            "MBID": "67b56aa1-7251-472f-89d9-b9c5ba3dc618",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Cab Calloway and His Orchestra",
+            "TrackTitle": "The Calloway Boogie",
+            "TrackComposer": "Cab Calloway",
+            "MBID": "69883beb-fd8d-4c50-93e9-147cbce9034e",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Jimmy Scott",
+            "TrackTitle": "Everybody's Somebody's Fool (With Lionel Hampton And His Orchestra)",
+            "TrackComposer": "Russ Morgan, Larry Stock, Gus Kahn",
+            "MBID": "69c7533d-33ae-48f5-bf09-fb85dae8b4a9",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "The Maryhillbillys",
+            "TrackTitle": "Big Bad Voodoo Daddy",
+            "TrackComposer": "Scotty Morris",
+            "MBID": "97e0203a-4710-42f2-88d7-023ae28c8c19",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Cherry Poppin\u2019 Daddies",
+            "TrackTitle": "Here Comes the Snake",
+            "TrackComposer": "Steve Perry",
+            "MBID": "2db13995-27d7-4595-a7e9-784c925b5c8b",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Squirrel Nut Zippers",
+            "TrackTitle": "Carolina Christmas",
+            "TrackComposer": "Jimbo Mathus",
+            "MBID": "56923978-5519-43dd-9847-539a36f07a51",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Royal Crown Revue",
+            "TrackTitle": "Beyond the Sea",
+            "TrackComposer": "Jack Lawrence, Charles Trenet",
+            "MBID": "030a16b6-0485-40f8-86f1-55c7b2525f12",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Benny Goodman and His Orchestra",
+            "TrackTitle": "One O'Clock Jump",
+            "TrackComposer": "Count Basie",
+            "MBID": "36ac71e6-1e9e-453b-b82a-00fcf42c8f1a",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Glenn Miller; vocals: Marion Hutton and Tex Beneke & The Modernaires",
+            "TrackTitle": "Shh, It\u2019s a Military Secret",
+            "TrackComposer": "Harry Warren, Mack Gordon",
+            "MBID": "be6ad88a-829a-42b8-ae31-85dcef2b9dbc",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Artie Shaw and His Orchestra",
+            "TrackTitle": "Dancing in the Dark",
+            "TrackComposer": "Arthur Schwartz, Howard Dietz",
+            "MBID": "f15bbb47-6c1d-4301-8152-4d2a81fdcf15",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Ella Fitzgerald",
+            "TrackTitle": "Paper Moon",
+            "TrackComposer": "Harold Arlen, Billy Rose, E. Y. Harburg",
+            "MBID": "df5fb686-ff6d-46b5-8c59-c1eea7466119",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Frank Sinatra",
+            "TrackTitle": "Learning the Blues",
+            "TrackComposer": "Dolores Vicki Silvers",
+            "MBID": "262afc16-cca8-4a6f-bbcc-5a387d08966d",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "The Nat King Cole Trio",
+            "TrackTitle": "Embraceable You",
+            "TrackComposer": "George Gershwin, Ira Gershwin",
+            "MBID": "fa2a9c4e-c867-46c2-90da-1333539c7b4d",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Count Basie & His Orchestra",
+            "TrackTitle": "Jive at Five",
+            "TrackComposer": "Harry Edison, Count Basie",
+            "MBID": "bedb39b1-2621-4172-b300-fef785f1f0db",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Tommy Dorsey & His Orchestra",
+            "TrackTitle": "Song of India",
+            "TrackComposer": "Nikolai Rimsky-Korsakov",
+            "MBID": "f6cbc0af-b78c-450b-9398-427681765f07",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Jimmie Lunceford and His Orchestra",
+            "TrackTitle": "Margie",
+            "TrackComposer": "Con Conrad, J. Russell Robinson, Benny Davis",
+            "MBID": "d8f643eb-f77c-4e36-9c6b-00c3f5f548e6",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Chick Webb and His Orchestra",
+            "TrackTitle": "If Dreams Come True",
+            "TrackComposer": "Edgar Sampson, Benny Goodman, Irving Mills",
+            "MBID": "e7c3764a-54bb-4411-b3d0-4272a23d900a",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Gene Krupa and His Orchestra",
+            "TrackTitle": "After You've Gone",
+            "TrackComposer": "Henry Creamer, Turner Layton",
+            "MBID": "26ec88c4-f9eb-4b20-b3ea-a4fe15c93783",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Harry James",
+            "TrackTitle": "I've Heard That Song Before",
+            "TrackComposer": "Jule Styne, Sammy Cahn",
+            "MBID": "987444dd-8063-4af6-bebe-37c57bcf8b78",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Woody Herman & His Orchestra",
+            "TrackTitle": "The Good Earth",
+            "TrackComposer": "Neal Hefti",
+            "MBID": "22b4153a-63df-497d-939d-07be08780c1f",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Stan Kenton and His Orchestra",
+            "TrackTitle": "Concerto to End All Concertos",
+            "TrackComposer": "Stan Kenton",
+            "MBID": "028d0230-959d-433c-98d4-965217b53837",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Count Basie",
+            "TrackTitle": "Lester Leaps In (Count Basie's Kansas City Seven)",
+            "TrackComposer": "Lester Young, Count Basie",
+            "MBID": "5732c9aa-cb17-4a9d-80d3-4b0c024be6df",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Coleman Hawkins",
+            "TrackTitle": "Queer Notions",
+            "TrackComposer": "Coleman Hawkins",
+            "MBID": "28b93556-48ac-4283-a2e5-4706b6b2123c",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Django Reinhardt et le Quintette du Hot Club de France avec St\u00e9phane Grappelly",
+            "TrackTitle": "Coquette",
+            "TrackComposer": "Gus Kahn, Johnny Green, Carmen Lombardo",
+            "MBID": "edd6e32b-8c6a-4c68-b114-c2ce57225af0",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "St\u00e9phane Grappelli",
+            "TrackTitle": "J'attendrai",
+            "TrackComposer": "Dino Olivieri, Louis Poterat",
+            "MBID": "866fad2a-18d9-4bad-88e8-d6fa4ea492b2",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "The Andrews Sisters",
+            "TrackTitle": "Bei mir bist du sch\u00f6n (Means That You're Grand)",
+            "TrackComposer": "Sholom Secunda, Jacob Jacobs",
+            "MBID": "d4f2058a-7048-483c-99d1-6de7f1d807df",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "The Mills Brothers",
+            "TrackTitle": "Nevertheless (I'm in Love With You)",
+            "TrackComposer": "Harry Ruby, Bert Kalmar",
+            "MBID": "aa0c98ef-a804-4905-9d0c-ea9f4bb71126",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "The Ink Spots",
+            "TrackTitle": "I Don\u2019t Want to Set the World on Fire",
+            "TrackComposer": "Eddie Seiler, Sol Marcus, Bennie Benjamin, George Weiss",
+            "MBID": "de1f487c-9db5-4973-baa5-351c236d931f",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Sammy Kaye & His Orchestra",
+            "TrackTitle": "Daddy",
+            "TrackComposer": "Bobby Troup",
+            "MBID": "ea646126-87d4-4d5c-a60c-b9b0fdc5d865",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Glen Gray & the Casa Loma Orchestra",
+            "TrackTitle": "No Name Jive",
+            "TrackComposer": "Gene Gifford",
+            "MBID": "37f0c1d6-d7cd-4e2b-88e0-2bc02a70e9b6",
             "Category": "Songs occuring most on playlists on soundcloud for this genre"
         }
     ]
