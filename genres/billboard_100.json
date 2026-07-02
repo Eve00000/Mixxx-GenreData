@@ -4,8 +4,8 @@
     "Focus": "position",
     "RefreshRate": 28,
     "AppendMode": "append",
-    "Timestamp": "2026-06-04T00:52:02Z",
-    "TotalTracks": 824,
+    "Timestamp": "2026-07-02T05:45:28Z",
+    "TotalTracks": 1123,
     "Tracks": [
         {
             "TrackArtist": "Michael Jackson",
@@ -5774,6 +5774,2099 @@
             "TrackComposer": "Dimitri Roger, ChaseTheMoney",
             "MBID": "2cfaca78-0485-44a9-8642-94402220bd71",
             "Category": "Songs occurring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Mark Ronson",
+            "TrackTitle": "Uptown Funk (feat. Bruno Mars)",
+            "TrackComposer": "Mark Ronson, Bruno Mars, Jeff Bhasker, Philip Lawrence, Cameron Gower Poole, Nicholas Williams, Devon Gallaspy, Trinidad James",
+            "MBID": "3578b4ee-2222-44bf-b794-7761bf50e9bd",
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+        },
+        {
+            "TrackArtist": "The Hood Internet",
+            "TrackTitle": "Cyborg Umbrella (Rihanna feat. Jay-Z vs. Menomena vs. M83)",
+            "TrackComposer": "Christopher Stewart, Terius Nash, Shawn Carter, Thaddis Harrell",
+            "MBID": "cfe16e11-3ddb-4f4d-ab6c-06be8177a083",
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+        },
+        {
+            "TrackArtist": "Marvin Gaye",
+            "TrackTitle": "What\u2019s Going On",
+            "TrackComposer": "Marvin Gaye, Al Cleveland, Renaldo Benson",
+            "MBID": "d1af3ea7-e3b5-4888-afe0-75ca7cf3aa33",
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+        },
+        {
+            "TrackArtist": "Bee Gees",
+            "TrackTitle": "Stayin\u2019 Alive",
+            "TrackComposer": "Barry Gibb, Robin Gibb, Maurice Gibb",
+            "MBID": "b9f84ada-627e-4565-b9f7-686b440ed279",
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+        },
+        {
+            "TrackArtist": "Britney Spears",
+            "TrackTitle": "\u2026Baby One More Time",
+            "TrackComposer": "Max Martin",
+            "MBID": "3e1bc9c0-b19e-477b-8327-fdc045b3a92e",
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+        },
+        {
+            "TrackArtist": "Destiny\u2019s Child",
+            "TrackTitle": "Say My Name",
+            "TrackComposer": "Fred Jerkins III, LaShawn Daniels, Rodney Jerkins, Beyonc\u00e9 Knowles, LeToya Luckett, LaTavia Roberson, Kelly Rowland",
+            "MBID": "d7a5ecc4-6a59-4a60-a71e-45383f57e642",
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+        },
+        {
+            "TrackArtist": "USHER, Lil Jon & Ludacris",
+            "TrackTitle": "Yeah! (feat. Lil Jon & Ludacris)",
+            "TrackComposer": "Christopher Bridges, Jonathan Smith, Patrick Smith, Sean Garrett, LaMarquis Jefferson, Robert McDowell",
+            "MBID": "cbb7278f-17e3-4aab-8303-7002fe1b7f93",
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+        },
+        {
+            "TrackArtist": "MasDaMind",
+            "TrackTitle": "Lil Nas X (feat. Billy Ray Cyrus \u2013 Old Town Road) (Toy Story 2 remix)",
+            "TrackComposer": "Lil Nas X, Jocelyn Donald, Trent Reznor, Atticus Ross",
+            "MBID": "4e2d4941-76a7-4308-b2f5-94bfdac14a86",
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+        },
+        {
+            "TrackArtist": "Baha Men",
+            "TrackTitle": "Who Let the Dogs Out",
+            "TrackComposer": "Anslem Douglas",
+            "MBID": "2812d75e-523e-4dc6-b621-c98f74912c0b",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Cover Nation",
+            "TrackTitle": "Somebody That I Used to Know (Tribute to Gotye feat. Kimbra)",
+            "TrackComposer": "Wally de Backer",
+            "MBID": "0bb50e36-52e7-4b48-8c87-81579fba1aaf",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Foster the People",
+            "TrackTitle": "Pumped Up Kicks",
+            "TrackComposer": "Mark Foster",
+            "MBID": "bbb805ae-c995-4513-87d5-9aee55614ba2",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Mungo Jerry",
+            "TrackTitle": "In the Summertime",
+            "TrackComposer": "Ray Dorset",
+            "MBID": "af9a5c1d-41e5-4224-8547-abfbed4eda40",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Crazy Frog",
+            "TrackTitle": "Axel F.",
+            "TrackComposer": "Harold Faltermeyer",
+            "MBID": "3444d148-815f-42de-9e69-03d52c1da599",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Starland Vocal Band",
+            "TrackTitle": "Afternoon Delight",
+            "TrackComposer": "Bill Danoff",
+            "MBID": "51f04d4f-efda-4d0c-b52d-b48ccea25423",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Lipps, Inc.",
+            "TrackTitle": "Funkytown",
+            "TrackComposer": "Steven Greenberg",
+            "MBID": "1eae5dba-d10d-44ab-b9af-1e7d6188d8c4",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "The Proclaimers",
+            "TrackTitle": "I\u2019m Gonna Be (500 Miles)",
+            "TrackComposer": "Charlie Reid, Craig Reid",
+            "MBID": "4add1be8-99a0-45d1-a59f-7ba335cc0098",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Right Said Fred",
+            "TrackTitle": "I\u2019m Too Sexy",
+            "TrackComposer": "Fred Fairbrass, Richard Fairbrass, Rob Manzoli",
+            "MBID": "26bb315b-1f0c-4564-8dcf-e1e1d9fcff55",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Meredith Brooks",
+            "TrackTitle": "Bitch",
+            "TrackComposer": "Meredith Brooks, Shelly Peiken",
+            "MBID": "9875f650-f369-4b18-b9db-fc90e9dc96b7",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Lisa Loeb & Nine Stories",
+            "TrackTitle": "Stay (I Missed You)",
+            "TrackComposer": "Lisa Loeb",
+            "MBID": "9631abaf-58bf-4f5c-87f6-083f8da9422b",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "New Radicals",
+            "TrackTitle": "You Get What You Give",
+            "TrackComposer": "Gregg Alexander, Rick Nowels",
+            "MBID": "1b96a34e-e0fe-4fca-87b2-d0121d1025ce",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Marcy Playground",
+            "TrackTitle": "Sex And Candy",
+            "TrackComposer": "Marcy Playground",
+            "MBID": "940ddf7d-f3b7-491b-97ba-d8efc25e2ac9",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Mr. Big",
+            "TrackTitle": "To Be With You",
+            "TrackComposer": "Eric Martin, David Grahame",
+            "MBID": "af5a54d5-3eab-433e-a87e-5ebee9726c80",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Deep Blue Something",
+            "TrackTitle": "Breakfast at Tiffany\u2019s",
+            "TrackComposer": "Todd Pipes",
+            "MBID": "177d6606-2a0c-4b15-b3d3-4a98143268c8",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Eagle\u2010Eye Cherry",
+            "TrackTitle": "Save Tonight",
+            "TrackComposer": "Eagle-Eye Cherry",
+            "MBID": "d8a837d1-886d-44e4-aa72-d19e61180b3b",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Alannah Myles",
+            "TrackTitle": "Black Velvet",
+            "TrackComposer": "Christopher Ward, David Tyson",
+            "MBID": "ea711f12-ca44-4c33-ae3a-893afe449e6f",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Cutting Crew",
+            "TrackTitle": "(I Just) Died in Your Arms",
+            "TrackComposer": "Nick Van Eede",
+            "MBID": "baeaaf80-eca4-4cb9-b9cd-a0738065e3d8",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Gerardo",
+            "TrackTitle": "Rico Suave",
+            "TrackComposer": "Gerardo Mej\u00eda, Charles Sanchez",
+            "MBID": "9148e07d-13b0-4cb7-95c3-8030339470eb",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Depeche Mode",
+            "TrackTitle": "Just Can\u2019t Get Enough",
+            "TrackComposer": "Vince Clarke",
+            "MBID": "def93663-1244-4767-b721-0e755b0439b3",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Frankie Knuckles & Jamie Principle",
+            "TrackTitle": "Bad Boy (feat Jamie Principle - 12 mix)",
+            "TrackComposer": "Frankie Knuckles, Jamie Principle",
+            "MBID": "320e4b69-920f-481a-afe2-97f9f2bee2a1",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Art of Noise",
+            "TrackTitle": "Close (to the Edit)",
+            "TrackComposer": "Anne Dudley, J.J. Jeczalik, Gary Langan, Trevor Horn, Paul Morley",
+            "MBID": "b51a1f3a-9b3e-4cde-8066-930ffc17fd4f",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Daft Punk",
+            "TrackTitle": "Da Funk (Da Funk-Superheroes)",
+            "TrackComposer": "Guy-Manuel de Homem-Christo, Thomas Bangalter",
+            "MBID": "27b2066e-1f29-4958-8474-9f6aca75e7f6",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Derrick May",
+            "TrackTitle": "Strings of Life",
+            "TrackComposer": "Derrick May",
+            "MBID": "f5678a28-a541-433c-8a07-9e1b532cbe3a",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Moodymann",
+            "TrackTitle": "Shades of Jae",
+            "TrackComposer": "Kenny Dixon Jr.",
+            "MBID": "1d3baf5c-376c-4da8-af36-41d7a887f4a5",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Todd Terry Project",
+            "TrackTitle": "Weekend",
+            "TrackComposer": "Todd Terry, CeCe Rogers",
+            "MBID": "afa5b929-ed6c-4cc5-8c53-101259bcf961",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Blaze",
+            "TrackTitle": "Lovelee Dae",
+            "TrackComposer": "Josh Milan, Kevin Hedge",
+            "MBID": "537686bf-c609-4022-90a3-fa9fcc52869b",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Kerri Chandler",
+            "TrackTitle": "Atmosphere (Kaval edit)",
+            "TrackComposer": "Kerri Chandler",
+            "MBID": "cab8a844-0286-490d-babb-c0ae8679d7a8",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Robert Owens",
+            "TrackTitle": "I\u2019ll Be Your Friend",
+            "TrackComposer": "Robert Owens, Frank Collins, David Morales",
+            "MBID": "8c89f971-c9da-4d53-8714-586f8c6f8bc0",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Lil\u2019 Louis",
+            "TrackTitle": "French Kiss",
+            "TrackComposer": "Lil Louis",
+            "MBID": "2bb0f81f-500d-434f-8e7d-84ff1f31bd11",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Phuture",
+            "TrackTitle": "Acid Tracks",
+            "TrackComposer": "Nathaniel Jones, Earl Smith, Herbert Jackson",
+            "MBID": "aae00e62-d642-4599-9d3c-4ff0b98af65e",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Adonis",
+            "TrackTitle": "No Way Back",
+            "TrackComposer": "Adonis Smith",
+            "MBID": "d1d1e83b-afa6-4f8c-b29c-bbe2c624c6fa",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Marshall Jefferson",
+            "TrackTitle": "Move Your Body (The House Music Anthem)",
+            "TrackComposer": "Marshall Jefferson",
+            "MBID": "4517e8de-c649-4a70-af4b-3ab5989fe6aa",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Ten City",
+            "TrackTitle": "That\u2019s the Way Love Is",
+            "TrackComposer": "Byron Stingily, Herb Lawson, Marshall Jefferson",
+            "MBID": "790fa092-c5de-421b-a2f2-01e7fac3984d",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Masters at Work",
+            "TrackTitle": "I Can't Get No Sleep (feat. India)",
+            "TrackComposer": "Kenny Gonzalez, Louie Vega, India",
+            "MBID": "6305ebe1-5459-4fbc-b658-3ddd4a655242",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "De La Soul",
+            "TrackTitle": "Eye Know",
+            "TrackComposer": "De La Soul, Prince Paul",
+            "MBID": "84f932ac-e28f-42a7-8c7a-4a4162963f10",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "N.W.A",
+            "TrackTitle": "Express Yourself",
+            "TrackComposer": "O'Shea Jackson, Andre Young",
+            "MBID": "91818497-9258-4615-96d8-473b1e64e6ea",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "The Orb",
+            "TrackTitle": "Little Fluffy Clouds",
+            "TrackComposer": "Alex Paterson, Martin Glover, Rickie Lee Jones",
+            "MBID": "95b1d2b8-c732-4b85-a353-36a2e6a22b37",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Orbital",
+            "TrackTitle": "Halcyon and On and On",
+            "TrackComposer": "Paul Hartnoll, Phil Hartnoll",
+            "MBID": "65e8596d-1441-4220-9768-a3383f3f2140",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "The Chemical Brothers",
+            "TrackTitle": "Star Guitar",
+            "TrackComposer": "Tom Rowlands, Ed Simons",
+            "MBID": "d69c3f4e-3616-4f0d-a3be-65c2746db3dc",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Lemon Jelly",
+            "TrackTitle": "Nice Weather for Ducks",
+            "TrackComposer": "Fred Deakin, Nick Franglen",
+            "MBID": "cc77dbeb-6547-42ad-8bbc-283f47274610",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Roy Ayers",
+            "TrackTitle": "Everybody Loves the Sunshine",
+            "TrackComposer": "Roy Ayers",
+            "MBID": "80008f7f-4084-41b4-917a-45ca5a4ffc08",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Cymande",
+            "TrackTitle": "Bra",
+            "TrackComposer": "Patrick S. Amos, Michael J. Alexander, Carlton C. White, Pablo J. Gonsales, Steve A. Scipio, Derek A. F. Gibbs, George F. Kelly",
+            "MBID": "494b8300-08f5-4a48-87a8-362d3af9f473",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "The Meters",
+            "TrackTitle": "Cissy Strut",
+            "TrackComposer": "Leo Nocentelli, George Porter Jr., Joseph Modeliste, Art Neville",
+            "MBID": "679f10e8-b5fb-4930-ae3d-39f0926fb332",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "ESG",
+            "TrackTitle": "UFO",
+            "TrackComposer": "Renee Scroggins",
+            "MBID": "1efea827-050b-4f6e-9e76-c20ad9d82525",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Donna Summer",
+            "TrackTitle": "Bad Girls (single mix)",
+            "TrackComposer": "Donna Summer, Giorgio Moroder, Pete Bellotte",
+            "MBID": "2df1c317-1d94-4d23-a91c-357e5f0bb64a",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Matthew Downing & Joel Bevan",
+            "TrackTitle": "Freak Chic",
+            "TrackComposer": "Bernard Edwards, Nile Rodgers",
+            "MBID": "3d699cf1-83a4-4e0c-8fad-222add06bfb2",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Sublab feat. Umal",
+            "TrackTitle": "We Are Family (Sister Sledge)",
+            "TrackComposer": "Nile Rodgers, Bernard Edwards",
+            "MBID": "39432533-46ec-4b3f-8a15-fd79a828a42d",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Earth, Wind & Fire",
+            "TrackTitle": "Magnetic (Extended Dance Remix)",
+            "TrackComposer": "Maurice White, Al McKay, Allee Willis",
+            "MBID": "3c38d97b-1765-46d9-a77c-44317e999f9e",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Madonna",
+            "TrackTitle": "Vogue (12\u201d version)",
+            "TrackComposer": "Madonna, Shep Pettibone",
+            "MBID": "442180ea-40ec-4b17-808d-006dc1333b01",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Whitney Houston",
+            "TrackTitle": "I Wanna Dance With Somebody (Who Loves Me) (12\u2033 remix\u2010radio edit)",
+            "TrackComposer": "George Merrill, Shannon Rubicam",
+            "MBID": "d7f6919b-7dbd-48f3-bcf4-8867fb3da1b5",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Mariah Carey",
+            "TrackTitle": "Honey (Bad Boy remix)",
+            "TrackComposer": "Mariah Carey, Ol' Dirty Bastard, Dave Hall, Russell Jones, Chris Frantz, Tina Weymouth, Steven Stanley, Adrian Belew",
+            "MBID": "3ad9ead5-29b7-484f-b1d8-a40409ebf817",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Basement Jaxx",
+            "TrackTitle": "Where's Your Head At (extended mix)",
+            "TrackComposer": "Felix Buxton, Simon Ratcliffe",
+            "MBID": "5f9cd2ef-d608-4234-86c0-4e1a4d3c278c",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Fatboy Slim",
+            "TrackTitle": "Praise You (Full version)",
+            "TrackComposer": "Norman Cook, Camille Yarbrough",
+            "MBID": "efebda7d-e639-4096-8f0e-475f71721dfa",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Justice",
+            "TrackTitle": "D.A.N.C.E. (Extended)",
+            "TrackComposer": "Gaspard Aug\u00e9, Xavier de Rosnay",
+            "MBID": "fde84475-3a90-4a11-a3ca-5a5fc4f92b16",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Robin S.",
+            "TrackTitle": "Luv 4 Luv (Stonebridge club mix)",
+            "TrackComposer": "Robin S., Tony Catania, Giuseppe Nuzzo",
+            "MBID": "b410488d-db6e-4641-bac1-9061e818ffa1",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Black Box",
+            "TrackTitle": "Fantasy (extended mix)",
+            "TrackComposer": "Daniele Davoli, Mirko Limoni, Valerio Semplici, Loleatta Holloway",
+            "MBID": "abba4bf0-e031-457c-b99b-4deb12a7f4ad",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "AniMeNolz",
+            "TrackTitle": "Pump Up the Jam (extended mix)",
+            "TrackComposer": "Jo Bogaert, Manuela Kamosi",
+            "MBID": "d2f7161f-4bf5-43b3-a031-e354179c13dd",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Corona",
+            "TrackTitle": "The Rhythm of the Night (extended mix/Rapino Bros)",
+            "TrackComposer": "Francesco Bontempi, Annerley Gordon, Giorgia Brivio, Pete Glenister, Mike Gaffey",
+            "MBID": "78344886-6ad7-4f6f-b596-fd33214c609e",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "C+C Music Factory",
+            "TrackTitle": "Everybody Dance Now (Jengi remix)",
+            "TrackComposer": "Robert Clivill\u00e9s, Frederick B. Williams",
+            "MBID": "6b7c8a42-a098-4a39-b8c9-e3c9252658f2",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Deee\u2010Lite",
+            "TrackTitle": "Groove Is in the Heart (Meeting of the Minds mix)",
+            "TrackComposer": "Deee-Lite, Herbie Hancock",
+            "MBID": "09316f9b-0a8e-4d31-aeb3-ab311417b3e6",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Soul II Soul",
+            "TrackTitle": "Back to Life (However Do You Want Me) (club mix)",
+            "TrackComposer": "Caron Wheeler, Jazzie B, Nellee Hooper",
+            "MBID": "1424849e-582f-41fc-af45-82a288eab6d8",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Everything but the Girl",
+            "TrackTitle": "Missing (Todd Terry club mix)",
+            "TrackComposer": "Tracey Thorn, Ben Watt",
+            "MBID": "4bed0eec-2910-426d-90b0-003da38cbc6d",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "DJ Mix",
+            "TrackTitle": "Music Sounds Better with You",
+            "TrackComposer": "Benjamin Diamond, Alan Braxe, Thomas Bangalter",
+            "MBID": "4c97a6f7-1464-4249-8b9b-e755e072ccce",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Armand van Helden feat. Duane Harden",
+            "TrackTitle": "U Don't Know Me (original mix)",
+            "TrackComposer": "Armand Van Helden, Duane Harden",
+            "MBID": "29eff00a-881f-47b0-801d-46ad0b61de72",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Rui da Silva feat. Cassandra",
+            "TrackTitle": "Touch Me (original 12\u2033 mix)",
+            "TrackComposer": "Rui Da Silva, Cassandra Fox",
+            "MBID": "70caa319-62a5-48b9-84e0-23faa068cc0b",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Bob Sinclar feat. Gary Pine",
+            "TrackTitle": "Love Generation (Bob Sinclar club mix)",
+            "TrackComposer": "Bob Sinclar, Gary Pine, Duane Harden, Christophe Le Friant",
+            "MBID": "df07890c-9017-471e-bb95-b71da77d17ac",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Eric Prydz",
+            "TrackTitle": "Call on Me (Eric Prydz vs. Retarded Funk mix)",
+            "TrackComposer": "Eric Prydz, Steve Winwood, Valerie Scott",
+            "MBID": "bf77cc1d-e76a-4641-8653-79ad624898aa",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "It\u2019s a Cover Up",
+            "TrackTitle": "Groovejet (If This Ain't Love) [Originally Performed By Spiller] [feat. Sophie Ellis Bextor]",
+            "TrackComposer": "Cristiano Spiller, Sophie Ellis-Bextor, Rob Davis, Vincent Montana Jr.",
+            "MBID": "bed67203-35d7-4c21-8f3f-15d8671a2e99",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Moloko",
+            "TrackTitle": "Sing It Back (Boris Dlugosch mix)",
+            "TrackComposer": "R\u00f3is\u00edn Murphy, Mark Brydon",
+            "MBID": "a1b16c17-a741-4739-a332-b0ccac5839ce",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Junior Jack",
+            "TrackTitle": "Stupidisco (extended version)",
+            "TrackComposer": "Jack Lahmi",
+            "MBID": "6ff2952b-6174-43e3-b0bd-c8dd4c0cde0b",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Kings of Tomorrow",
+            "TrackTitle": "Finally (original extended mix)",
+            "TrackComposer": "Sandy Rivera, Lisa Shaw",
+            "MBID": "1e7b88ed-44dd-4ff5-8a4b-c5586cadd561",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Masters at Work",
+            "TrackTitle": "To Be in Love (Full Intention club mix)",
+            "TrackComposer": "Kenny Gonzalez, Louie Vega",
+            "MBID": "5a4cd08d-c6dc-4ebb-8364-0833a6b1715e",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Yello",
+            "TrackTitle": "Oh Yeah (dance mix)",
+            "TrackComposer": "Boris Blank, Dieter Meier",
+            "MBID": "7efff7ef-9fbf-4083-8fcc-10bbbfd44aaa",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "DJ Marcky",
+            "TrackTitle": "Don't Go (extended mix)",
+            "TrackComposer": "Vince Clarke",
+            "MBID": "41cd0429-8501-45fa-9402-86f73056fbbf",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "The Human League",
+            "TrackTitle": "Don\u2019t You Want Me (extended dance mix)",
+            "TrackComposer": "Philip Oakey, Jo Callis, Philip Adrian Wright",
+            "MBID": "a79ad32f-2ff0-49f9-aa22-493e673abc65",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Mark Roberts",
+            "TrackTitle": "KC and The Sunshine Band Get Down Tonight",
+            "TrackComposer": "Harry Wayne Casey, Richard Finch",
+            "MBID": "ee7e50a6-2884-4461-8579-0cf61b39a6a9",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Twinkle Twinkle Little Rock Star",
+            "TrackTitle": "Fastlove, Pt. 1",
+            "TrackComposer": "George Michael, Patrice Rushen, Freddie Washington, Terri McFaddin",
+            "MBID": "ceb2613f-f41a-45d2-aa58-f8c1f46937e8",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Led Zeppelin",
+            "TrackTitle": "Kashmir",
+            "TrackComposer": "John Bonham, Robert Plant, Jimmy Page",
+            "MBID": "b26b781a-5ab6-4699-81d4-f394bac4b848",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Pink Floyd",
+            "TrackTitle": "Comfortably Numb",
+            "TrackComposer": "David Gilmour, Roger Waters",
+            "MBID": "b8faedcf-8c47-4aeb-b8ff-07a9bfa733ec",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Queen",
+            "TrackTitle": "\u201939",
+            "TrackComposer": "Brian May",
+            "MBID": "8344b380-1dbe-4987-93ae-d4e19a94efe4",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "David Bowie",
+            "TrackTitle": "Soul Love",
+            "TrackComposer": "David Bowie",
+            "MBID": "3bc5c34c-3bac-4b5d-83d8-55d765184942",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "The Rolling Stones",
+            "TrackTitle": "Gimme Shelter",
+            "TrackComposer": "Mick Jagger, Keith Richards",
+            "MBID": "4410c3f4-fbbc-476c-bf8a-2ff4154e2bf4",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "The Who",
+            "TrackTitle": "Baba O\u2019Riley",
+            "TrackComposer": "Pete Townshend",
+            "MBID": "08a04c40-2dea-44b1-915e-ef35ec1791ef",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "The Jimi Hendrix Experience",
+            "TrackTitle": "Little Wing",
+            "TrackComposer": "Jimi Hendrix",
+            "MBID": "b584d800-a5c4-4c85-9315-4a00e3efd178",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Aretha Franklin",
+            "TrackTitle": "Ain\u2019t No Way",
+            "TrackComposer": "Carolyn Franklin, Aretha Franklin",
+            "MBID": "45639170-6d02-4d76-af94-0d24673dcaff",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Stevie Wonder",
+            "TrackTitle": "Pastime Paradise",
+            "TrackComposer": "Stevie Wonder",
+            "MBID": "bd8c2adf-51c9-4f42-a82f-39ede534cb8d",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Prince",
+            "TrackTitle": "Adore",
+            "TrackComposer": "Prince",
+            "MBID": "1af53f27-0453-40ae-bf8e-848256e67af4",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Madonna",
+            "TrackTitle": "Burning Up",
+            "TrackComposer": "Madonna",
+            "MBID": "ed102d77-146c-4941-85c6-07f3b9df7117",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Janet Jackson",
+            "TrackTitle": "Anytime Anyplace",
+            "TrackComposer": "Janet Jackson, James Harris III, Terry Lewis",
+            "MBID": "2d8a067d-dd4c-433f-a8d8-3b7d4143b000",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Mariah Carey",
+            "TrackTitle": "Underneath the Stars",
+            "TrackComposer": "Mariah Carey, Walter Afanasieff",
+            "MBID": "632e7c9a-6994-4a6d-84a4-3c84d40413d6",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "TLC",
+            "TrackTitle": "Diggin\u2019 On You",
+            "TrackComposer": "Kenneth 'Babyface' Edmonds",
+            "MBID": "24624b45-bc93-4ae9-9eb9-6b46d48e2c6c",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Boyz II Men",
+            "TrackTitle": "Water Runs Dry",
+            "TrackComposer": "Kenneth 'Babyface' Edmonds",
+            "MBID": "063378a4-a88c-4136-8a6e-1c4413cb055b",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Usher",
+            "TrackTitle": "Can U Handle It?",
+            "TrackComposer": "Usher Raymond IV, Jermaine Dupri, Bryan-Michael Cox",
+            "MBID": "290dd3e2-9e27-4518-b1db-ac7305acc505",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Beyonc\u00e9",
+            "TrackTitle": "Speechless",
+            "TrackComposer": "Beyonc\u00e9 Knowles, Damon Elliott, Sherrod Barnes, Anthony Dent",
+            "MBID": "d222c51d-fb6f-481d-9f8f-306503f6a9bb",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Rihanna",
+            "TrackTitle": "Kiss It Better",
+            "TrackComposer": "Rihanna, Jeff Bhasker, John Glass, Teddy Sinclair, Theron Thomas",
+            "MBID": "9b18a8ff-2737-47be-9982-a5f9016833eb",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Frank Ocean",
+            "TrackTitle": "White Ferrari",
+            "TrackComposer": "Frank Ocean, Jon Brion",
+            "MBID": "a1f25623-f56c-4f36-bcce-67488d04e7cc",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Lorde",
+            "TrackTitle": "Ribs",
+            "TrackComposer": "Ella Yelich-O'Connor, Joel Little",
+            "MBID": "cbee1e3a-3279-492a-88d0-6e9e1526bda1",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Billie Eilish",
+            "TrackTitle": "xanny",
+            "TrackComposer": "Billie Eilish, Finneas O'Connell",
+            "MBID": "ca5900a4-5cb0-4ba6-8ed1-54234a31abdc",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Kendrick Lamar",
+            "TrackTitle": "Bitch, Don't Kill My Vibe",
+            "TrackComposer": "Kendrick Lamar, Sounwave",
+            "MBID": "408a7477-5db2-45cf-af12-a4ae5c085f02",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "OutKast",
+            "TrackTitle": "ATLiens",
+            "TrackComposer": "Andre Benjamin, Antwan Patton",
+            "MBID": "f8d012ff-b0b6-4294-9b50-74df052e728d",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Wu\u2010Tang Clan",
+            "TrackTitle": "Protect Ya Neck",
+            "TrackComposer": "RZA, GZA, Ol' Dirty Bastard, Method Man, Raekwon, Ghostface Killah, U-God, Inspectah Deck",
+            "MBID": "6efbb94a-a471-49e6-908b-93bb783ae0ac",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "The Notorious B.I.G.",
+            "TrackTitle": "Gimme The Loot",
+            "TrackComposer": "Christopher Wallace, Easy Mo Bee, Donald Austin",
+            "MBID": "63c8d78d-0cf6-448f-a661-6d3f95a5d321",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "MasDaMind",
+            "TrackTitle": "Going Till I Collapse (Evanescence vs. Eminem feat. Nate Dogg)",
+            "TrackComposer": "Eminem, Mike Elizondo, Curtis Jackson, Nate Dogg",
+            "MBID": "04f40e4a-e465-4a9f-b38d-77f316335053",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Foo Fighters",
+            "TrackTitle": "Aurora",
+            "TrackComposer": "Dave Grohl, Taylor Hawkins, Nate Mendel, Chris Shiflett",
+            "MBID": "3e1c6293-1bd4-46cf-9f1f-5bc4d58bfcb1",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Green Day",
+            "TrackTitle": "Jesus of Suburbia",
+            "TrackComposer": "Billie Joe Armstrong, Mike Dirnt, Tr\u00e9 Cool",
+            "MBID": "050770ec-1820-4f65-b6dd-9642b3447acb",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Radiohead",
+            "TrackTitle": "Reckoner",
+            "TrackComposer": "Thom Yorke, Jonny Greenwood, Colin Greenwood, Ed O'Brien, Philip Selway",
+            "MBID": "92d9bce2-5876-4d68-8be1-1c791c309573",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "The Strokes",
+            "TrackTitle": "Soma",
+            "TrackComposer": "Julian Casablancas",
+            "MBID": "c5b098e2-206d-4e28-8f83-38fd2c859176",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Arctic Monkeys",
+            "TrackTitle": "505",
+            "TrackComposer": "Alex Turner",
+            "MBID": "e7004566-96a9-4830-bcdf-996a393ae22a",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Tame Impala",
+            "TrackTitle": "Feels Like We Only Go Backwards",
+            "TrackComposer": "Kevin Parker",
+            "MBID": "3445e4e1-2f0f-49ed-9eea-5a83678d0431",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Red Hot Chili Peppers",
+            "TrackTitle": "I Could Have Lied",
+            "TrackComposer": "Anthony Kiedis, Flea, Chad Smith, John Frusciante",
+            "MBID": "ec125118-5ab8-4d5f-9cf4-652655286f2f",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Mazzy Star",
+            "TrackTitle": "Blue Light",
+            "TrackComposer": "Hope Sandoval, David Roback",
+            "MBID": "e4722fea-5b36-4c80-9885-74214d9d851a",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Nick Drake",
+            "TrackTitle": "Pink Moon",
+            "TrackComposer": "Nick Drake",
+            "MBID": "357a2023-14b4-438a-b611-aa63c29024e8",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Queen",
+            "TrackTitle": "Don\u2019t Stop Me Now",
+            "TrackComposer": "Freddie Mercury",
+            "MBID": "d4b5f35a-1003-4dad-b247-b9f591bdbaef",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "AC/DC",
+            "TrackTitle": "Back in Black",
+            "TrackComposer": "Angus Young, Malcolm Young, Brian Johnson",
+            "MBID": "4fa17272-73ee-4808-b8c1-a5bbc6967097",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Guns N\u2019 Roses",
+            "TrackTitle": "Sweet Child o\u2019 Mine",
+            "TrackComposer": "Axl Rose, Slash, Duff McKagan, Izzy Stradlin, Steven Adler",
+            "MBID": "b109e0d2-9fd2-40fb-b46a-319a917a80f4",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "The White Stripes",
+            "TrackTitle": "Seven Nation Army",
+            "TrackComposer": "Jack White",
+            "MBID": "c62bf30c-4231-4e2b-ba09-9bba15b4f75e",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Fall Out Boy",
+            "TrackTitle": "Sugar, We\u2019re Goin Down",
+            "TrackComposer": "Patrick Stump, Pete Wentz, Joe Trohman, Andy Hurley",
+            "MBID": "20c8a467-a7b7-47d8-9e93-515c3b49272e",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Green Day",
+            "TrackTitle": "Basket Case",
+            "TrackComposer": "Billie Joe Armstrong, Mike Dirnt, Tr\u00e9 Cool",
+            "MBID": "0372c76e-4129-4cae-9483-7b710810422c",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Body Games",
+            "TrackTitle": "All The Small Things by Blink 182",
+            "TrackComposer": "Tom DeLonge, Mark Hoppus",
+            "MBID": "b26068e1-c26c-41de-a2b7-6c3ad3eb73c8",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Smash Mouth",
+            "TrackTitle": "All Star",
+            "TrackComposer": "Greg Camp",
+            "MBID": "3dcf3c45-b35e-4a67-ac94-8f3c13c1da5a",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "KC and the Sunshine Band",
+            "TrackTitle": "Shake Your Booty",
+            "TrackComposer": "Harry Wayne Casey, Richard Finch",
+            "MBID": "b6bbc8fe-21cd-435a-893d-f62692013803",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "McFadden & Whitehead",
+            "TrackTitle": "Ain't No Stoppin' Us Now",
+            "TrackComposer": "Jerry Butler, Gene McFadden, John Whitehead",
+            "MBID": "35ee34e7-11f9-4e3c-9409-48040fcca2c8",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Kool & the Gang",
+            "TrackTitle": "Celebration",
+            "TrackComposer": "Ronald Bell, James Taylor, George Brown, Claydes Smith, Robert Mickens, Earl Toon Jr., Dennis Thomas, Robert \"Kool\" Bell, Eumir Deodato",
+            "MBID": "dad784a7-38aa-4378-82c7-ef72c57b1b63",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Chaka Khan",
+            "TrackTitle": "I\u2019m Every Woman",
+            "TrackComposer": "Nickolas Ashford, Valerie Simpson",
+            "MBID": "aa8e0d8e-4a76-4cde-af10-b28f3a25d7e3",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Teena Marie",
+            "TrackTitle": "Lovergirl",
+            "TrackComposer": "Teena Marie",
+            "MBID": "c38df40b-4743-409c-beaf-e5eaa852d719",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Michael Jackson",
+            "TrackTitle": "Beat It",
+            "TrackComposer": "Michael Jackson",
+            "MBID": "7760c085-f64c-4dc5-a252-69ebebc68949",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Snap!",
+            "TrackTitle": "The Power",
+            "TrackComposer": "Luca Anzilotti, Michael M\u00fcnzing, Toni Colandreo",
+            "MBID": "af4e0106-05a5-477e-bac1-2fcef17c763d",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Inner City",
+            "TrackTitle": "Big Fun",
+            "TrackComposer": "Kevin Saunderson, James Pennington, Roy Alton, Shanna Jackson",
+            "MBID": "d82d836a-5c3c-43cf-bbf4-cdf103093967",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Fatboy Slim",
+            "TrackTitle": "The Rockafeller Skank",
+            "TrackComposer": "Norman Cook, Jim Dooley, Terry Carless, Bobby Miller",
+            "MBID": "b6dbd921-bb59-4d43-833d-1d626d92875a",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Calvin Harris & Dua Lipa",
+            "TrackTitle": "One Kiss",
+            "TrackComposer": "Adam Wiles, Dua Lipa, Jessie Reyez",
+            "MBID": "1f215b13-829c-4077-9098-e287d1d87f50",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Beyonc\u00e9",
+            "TrackTitle": "Crazy in Love (feat. JAY-Z)",
+            "TrackComposer": "Rich Harrison, Beyonc\u00e9 Knowles, Shawn Carter, Eugene Record",
+            "MBID": "027e3e7e-fe14-45ff-a8f3-51049dd8db16",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "White Noise TV",
+            "TrackTitle": "We Found Love (Rihanna feat. Calvin Harris Coverversion)",
+            "TrackComposer": "Calvin Harris, Sia Furler",
+            "MBID": "40d2cd8e-c97e-4fa9-ab1c-28bd46aafa15",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "DJ Hello Kitty",
+            "TrackTitle": "JUST DANCE feat. COLBY O'DONIS",
+            "TrackComposer": "Lady Gaga, Akon, Nadir Khayat",
+            "MBID": "fbfddca0-b0f8-4af5-8782-b26405e3f469",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Justin Timberlake",
+            "TrackTitle": "Sexyback",
+            "TrackComposer": "Justin Timberlake, Timothy Mosley, Nate Hills",
+            "MBID": "05721060-825d-470b-a8dd-2c332d21f861",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Usher feat. Pitbull",
+            "TrackTitle": "DJ Got Us Fallin' in Love",
+            "TrackComposer": "Usher Raymond IV, Max Martin, Shellback, Savan Kotecha, Armando P\u00e9rez",
+            "MBID": "4d6e111f-768c-410b-8dfb-2e6bb853e6bd",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Pitbull feat. Ne\u2010Yo, Afrojack & Nayer",
+            "TrackTitle": "Give Me Everything",
+            "TrackComposer": "Armando P\u00e9rez, Ne-Yo, Afrojack, Nayer, Shaffer Smith, Nick van de Wall",
+            "MBID": "2ecca22f-9a71-4e7b-8396-561f084fb036",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Higher Brothers feat. Ski Mask the Slump God",
+            "TrackTitle": "Flo Rida",
+            "TrackComposer": "Tramar Dillard, Faheem Najm, Montay Humphrey, T-Pain, Dorrough, DJ Montay",
+            "MBID": "ac8dd34b-05b1-4b13-a66a-80c9ddbebd8a",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Ke$ha",
+            "TrackTitle": "Tik Tok",
+            "TrackComposer": "Kesha Sebert, Dr. Luke, Benny Blanco",
+            "MBID": "f3156163-0d7a-445d-a582-5bf4fa98eb8e",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Taio Cruz",
+            "TrackTitle": "Dynamite",
+            "TrackComposer": "Lukasz Gottwald, Max Martin, Savan Kotecha, Adam Baptiste, Jean-Claude Sindres",
+            "MBID": "720ed083-bca6-4b7d-b9b1-649adf372837",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Otis Redding",
+            "TrackTitle": "(Sittin\u2019 on) The Dock of the Bay",
+            "TrackComposer": "Otis Redding, Steve Cropper",
+            "MBID": "b93da006-89df-452d-8c96-83bd7cc1d46c",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Sam Cooke",
+            "TrackTitle": "Wonderful World",
+            "TrackComposer": "Sam Cooke, Lou Adler, Herb Alpert",
+            "MBID": "f64860ad-de7f-457a-847a-d8e4b971baa2",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Stevie Wonder",
+            "TrackTitle": "Isn\u2019t She Lovely",
+            "TrackComposer": "Stevie Wonder",
+            "MBID": "66a356b3-fb74-40d5-be5e-19fa55b81f3b",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Earth, Wind & Fire",
+            "TrackTitle": "That\u2019s the Way of the World",
+            "TrackComposer": "Maurice White, Charles Stepney, Verdine White",
+            "MBID": "9ee40d64-d336-4562-86eb-56ca246a64d9",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Stevie Wonder",
+            "TrackTitle": "Knocks Me Off My Feet",
+            "TrackComposer": "Stevie Wonder",
+            "MBID": "a8a618b4-ce18-4c01-bb09-9d4a46499f47",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Michael Jackson",
+            "TrackTitle": "Rock With You",
+            "TrackComposer": "Rod Temperton",
+            "MBID": "1c08bdbd-d4df-4a64-93a2-0f37a28cdbb2",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Marvin Gaye",
+            "TrackTitle": "Let\u2019s Get It On",
+            "TrackComposer": "Marvin Gaye, Ed Townsend",
+            "MBID": "04fbcef4-1196-49ad-a605-b67c07a29554",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Quincy Jones feat. Dune",
+            "TrackTitle": "Ai no corrida",
+            "TrackComposer": "Chaz Jankel, Kenny Young",
+            "MBID": "7a36516b-a542-4ba6-945b-567014a8f47a",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Aretha Franklin",
+            "TrackTitle": "A Natural Woman (You Make Me Feel Like)",
+            "TrackComposer": "Carole King, Gerry Goffin, Jerry Wexler",
+            "MBID": "366485e2-1574-4dd9-86d5-577400edd78a",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Carole King",
+            "TrackTitle": "I Feel the Earth Move",
+            "TrackComposer": "Carole King",
+            "MBID": "009a6e67-3760-4165-bddb-6a55c6104df7",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Dire Straits",
+            "TrackTitle": "Sultans of Swing",
+            "TrackComposer": "Mark Knopfler",
+            "MBID": "34deac42-68b3-40db-8d6c-1cfc4887286c",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "The Doobie Brothers",
+            "TrackTitle": "What a Fool Believes",
+            "TrackComposer": "Kenny Loggins, Michael McDonald",
+            "MBID": "772db1fe-86fe-42ac-9802-1987bed94dcc",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Hall & Oates",
+            "TrackTitle": "Rich Girl",
+            "TrackComposer": "Daryl Hall",
+            "MBID": "fbcd4957-a527-4250-adfe-13fa0b485fd5",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Sting",
+            "TrackTitle": "Fragile",
+            "TrackComposer": "Sting",
+            "MBID": "cbb43fe8-b021-4516-bce6-f06e714c5603",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Chicago",
+            "TrackTitle": "If You Leave Me Now",
+            "TrackComposer": "Peter Cetera",
+            "MBID": "655325ad-ed54-4115-a017-23791ce8f0d4",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Whitney Houston",
+            "TrackTitle": "Saving All My Love for You",
+            "TrackComposer": "Michael Masser, Gerry Goffin",
+            "MBID": "6954cfff-c3bb-4435-9599-d5b62c340923",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "C\u00e9line Dion",
+            "TrackTitle": "My Heart Will Go On",
+            "TrackComposer": "James Horner, Will Jennings",
+            "MBID": "72463461-7c68-418b-83ec-a8c70b5f4404",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Leonard Cohen",
+            "TrackTitle": "Hallelujah",
+            "TrackComposer": "Leonard Cohen",
+            "MBID": "f8c8344e-27f0-4ebd-bcc3-6ebaef30108f",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Donna Summer",
+            "TrackTitle": "Last Dance",
+            "TrackComposer": "Paul Jabara",
+            "MBID": "2899f6fd-8419-41bf-a2eb-babb58efa99d",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Lynyrd Skynyrd",
+            "TrackTitle": "Free Bird",
+            "TrackComposer": "Allen Collins, Ronnie Van Zant",
+            "MBID": "f71fb216-7900-4bf2-84dc-99496617a7b4",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Lady Gaga",
+            "TrackTitle": "Born This Way",
+            "TrackComposer": "Lady Gaga, Fernando Garibay, Paul Blair, Jeppe Laursen",
+            "MBID": "fff957e2-8ceb-4ecb-943e-a1766007607e",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Sean Kingston",
+            "TrackTitle": "Rihanna (Umbrella)",
+            "TrackComposer": "Christopher Stewart, Terius Nash, Thaddis Harrell, Shawn Carter",
+            "MBID": "06bec294-2d23-412b-bc93-1bf0af8f9e1a",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "JAY\u2010Z",
+            "TrackTitle": "Empire State of Mind (feat. Alicia Keys)",
+            "TrackComposer": "Shawn Carter, Alicia Keys, Jane's Addiction, Bert Keyes, Angela Hunte, Janet Sewell-Ulepic, Alexander Shuckburgh",
+            "MBID": "0746f464-3568-4966-a46a-957b19756304",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Lady Gaga ft. Colby O\u2019Donis",
+            "TrackTitle": "Just Dance",
+            "TrackComposer": "Lady Gaga, RedOne, Akon",
+            "MBID": "ff103bfd-d0cb-4090-88a5-fcbfca3cfd27",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Ed Home",
+            "TrackTitle": "Blurred Ice (Vanilla Ice vs. Robin Thicke ft. Pharrell Williams & T.I.)",
+            "TrackComposer": "Pharrell Williams, Robin Thicke, Clifford Harris Jr.",
+            "MBID": "9bc74d11-9538-4893-bcc8-cf2a5477ac85",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Blondie",
+            "TrackTitle": "Call Me",
+            "TrackComposer": "Giorgio Moroder, Deborah Harry",
+            "MBID": "3dddc2c4-30c3-4e59-a8e2-86ad6715ad24",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Survivor",
+            "TrackTitle": "Eye of the Tiger",
+            "TrackComposer": "Jim Peterik, Frankie Sullivan",
+            "MBID": "6cf301da-12b3-4dd8-bb5d-013657882541",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Luis Fonsi ft. Daddy Yankee",
+            "TrackTitle": "Despacito",
+            "TrackComposer": "Luis Rodr\u00edguez, Erika Ender, Ram\u00f3n Ayala",
+            "MBID": "1109d8da-ce4a-4739-9414-242dc3e9b81c",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "oneboredjeu",
+            "TrackTitle": "Old Crown Road (Lil Nas X ft. Billy Ray Cyrus vs. Billie Eilish)",
+            "TrackComposer": "Montero Hill, Trent Reznor, Atticus Ross, Kiowa Roukema",
+            "MBID": "15647a60-79d9-4629-88c6-f647846eb579",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Whitney Houston",
+            "TrackTitle": "I Have Nothing",
+            "TrackComposer": "David Foster, Linda Thompson",
+            "MBID": "d271edb8-dafa-458f-9428-95da786bc8f1",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Cher",
+            "TrackTitle": "Believe",
+            "TrackComposer": "Brian Higgins, Stuart McLennen, Paul Barry, Steven Torch, Matthew Gray, Timothy Powell",
+            "MBID": "70d064a0-5b9d-4c88-8081-19c92be8d73d",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Missy Elliott feat. Ciara & Fatman Scoop vs. Gabrielle",
+            "TrackTitle": "Missy Elliott feat Ciara & Fatman Scoop vs. Gabrielle",
+            "TrackComposer": "Melissa Elliott, Ciara Harris, Isaac Hayes, Curtis Mayfield, Fatman Scoop",
+            "MBID": "75e71e01-47e0-4d0f-a35b-a24803aba548",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Kelly Clarkson",
+            "TrackTitle": "Since U Been Gone",
+            "TrackComposer": "Max Martin, Lukasz Gottwald",
+            "MBID": "6b174d11-66f8-45aa-88a8-a0e9c230cfe7",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Avril Lavigne",
+            "TrackTitle": "Complicated",
+            "TrackComposer": "Avril Lavigne, Lauren Christy, Graham Edwards, Scott Spock",
+            "MBID": "7853e246-a95e-41fa-b491-a72c7cee9300",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "50 Cent",
+            "TrackTitle": "In da Club",
+            "TrackComposer": "Curtis Jackson, Andre Young, Mike Elizondo",
+            "MBID": "37cc1302-115d-422e-931f-8b8054e4d3e3",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Nelly",
+            "TrackTitle": "Hot in Herre",
+            "TrackComposer": "Cornell Haynes Jr., Pharrell Williams, Charles Brown",
+            "MBID": "3ed68a3e-8b48-42f7-ae67-b1a3ed815b0a",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "NPC",
+            "TrackTitle": "Uptown Funk (Mark Ronson/Bruno Mars remix)",
+            "TrackComposer": "Mark Ronson, Bruno Mars, Philip Lawrence, Jeff Bhasker, Nicholas Williams, Devon Gallaspy, Trinidad James, Roger McBride, Oliver Scott, Calvin Broadus, Christopher Brown, Ernest Wilson",
+            "MBID": "92a092a7-b4a2-475a-b57d-b7ca58a11aab",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Destiny\u2019s Child",
+            "TrackTitle": "Independent Women, Part I",
+            "TrackComposer": "Beyonc\u00e9 Knowles, Cory Rooney, Samuel Barnes, Jean-Claude Olivier",
+            "MBID": "b21110ea-ef88-44e6-a1da-524f1c0c1817",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Kelly Clarkson",
+            "TrackTitle": "Because of You",
+            "TrackComposer": "Kelly Clarkson, David Hodges, Ben Moody",
+            "MBID": "cd52b2b1-28d4-4885-9f1d-b44b8caf07f7",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Avril Lavigne",
+            "TrackTitle": "Sk8er Boi",
+            "TrackComposer": "Avril Lavigne, Lauren Christy, Graham Edwards, Scott Spock",
+            "MBID": "e1d4267b-2eec-4883-862e-1f3fff095e6d",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "The Black Eyed Peas",
+            "TrackTitle": "Pump It",
+            "TrackComposer": "William Adams, Allan Pineda, Jaime Gomez, Stacy Ferguson, Nicholas Roubanis, Dick Dale, Jeremy Ruzumna",
+            "MBID": "0e487b30-af71-4e94-bf40-b4cd90852d8b",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "The Beach Boys",
+            "TrackTitle": "God Only Knows",
+            "TrackComposer": "Brian Wilson, Tony Asher",
+            "MBID": "feaa032e-8dd4-4ebe-afa1-6b894bbfdb7b",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Derek and the Dominos",
+            "TrackTitle": "Layla",
+            "TrackComposer": "Eric Clapton, Jim Gordon",
+            "MBID": "0607c274-2e8c-478e-8ce5-529e45cc4588",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Bruce Springsteen",
+            "TrackTitle": "Born to Run",
+            "TrackComposer": "Bruce Springsteen",
+            "MBID": "a7884401-f0fd-4ab1-bf04-8e3c31363043",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "The Clash",
+            "TrackTitle": "London Calling",
+            "TrackComposer": "Joe Strummer, Mick Jones, Paul Simonon, Topper Headon",
+            "MBID": "f5282481-9769-4ea2-8d0e-c31217f443d7",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "The Jimi Hendrix Experience",
+            "TrackTitle": "Purple Haze",
+            "TrackComposer": "Jimi Hendrix",
+            "MBID": "d964a361-01c3-4a67-adad-248d5d57879d",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "The Kinks",
+            "TrackTitle": "Waterloo Sunset",
+            "TrackComposer": "Ray Davies",
+            "MBID": "d1155fc1-08ac-4c25-9e66-c736e05b9372",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "The Jimi Hendrix Experience",
+            "TrackTitle": "Voodoo Child (slight return)",
+            "TrackComposer": "Jimi Hendrix",
+            "MBID": "ff9dc2d0-6b47-4d44-9897-e378513592de",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Run\u2010DMC ft. Aerosmith",
+            "TrackTitle": "Walk This Way",
+            "TrackComposer": "Steven Tyler, Joe Perry",
+            "MBID": "6ee97eac-c877-4c58-8d8c-91f4696c006b",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "No Doubt",
+            "TrackTitle": "Don\u2019t Speak",
+            "TrackComposer": "Gwen Stefani, Eric Stefani",
+            "MBID": "db7bbe8d-1849-4bcb-a4f1-ab6996567283",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Mariah Carey",
+            "TrackTitle": "Always Be My Baby",
+            "TrackComposer": "Mariah Carey, Jermaine Dupri, Manuel Seal",
+            "MBID": "2faee542-6965-4edc-a369-1d9432a0fdfd",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Blackstreet",
+            "TrackTitle": "No Diggity (feat. Dr. Dre and Queen Pen) (Radio Edit)",
+            "TrackComposer": "William Stewart, Chauncey Hannibal, Lynise Walters, Teddy Riley, Dr. Dre, Queen Pen",
+            "MBID": "4401002e-30fb-4426-8e26-57a02bce171b",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Fugees",
+            "TrackTitle": "Ready or Not",
+            "TrackComposer": "Lauryn Hill, Wyclef Jean, Prakazrel Michel, Enya, Nicky Ryan, Roma Ryan",
+            "MBID": "589820b8-438b-4dfc-988a-14d7eaa7e4af",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "The Notorious B.I.G.",
+            "TrackTitle": "Mo' Money Mo' Problems",
+            "TrackComposer": "Sean Combs, Steven Jordan, Mason Betha, Christopher Wallace, Diana Ross, Nile Rodgers, Bernard Edwards",
+            "MBID": "17fb5858-7e8f-4e68-a584-f55f41cf4364",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "2Pac ft. Dr. Dre",
+            "TrackTitle": "California Love (remix)",
+            "TrackComposer": "Roger Troutman, Larry Troutman, Dr. Dre, Tupac Shakur, Joe Cocker, Chris Stainton",
+            "MBID": "d8eb2636-ecf9-45bc-a75c-1a31648184ef",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "The Key of Awesome",
+            "TrackTitle": "Taylor Swift - Bad Blood PARODY ft. Kendrick Lamar Key of Awesome #99",
+            "TrackComposer": "Taylor Swift, Kendrick Duckworth, Max Martin, Shellback",
+            "MBID": "72635693-da32-4385-9a3b-d617fa108c17",
+            "Category": "Songs occurring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Justin Timberlake",
+            "TrackTitle": "Can\u2019t Stop the Feeling!",
+            "TrackComposer": "Justin Timberlake, Max Martin, Shellback",
+            "MBID": "9632a35a-00f3-4495-9523-32dd446baa3d",
+            "Category": "Songs occurring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "The Chainsmokers ft. Halsey",
+            "TrackTitle": "Closer",
+            "TrackComposer": "Andrew Taggart, Shaun Frank, Frederic Kennett, Ashley Frangipane",
+            "MBID": "fb7963d0-d06f-45ca-a647-2b00a963179f",
+            "Category": "Songs occurring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "The Chainsmokers ft. Daya",
+            "TrackTitle": "Don't Let Me Down (3LAU remix)",
+            "TrackComposer": "Andrew Taggart, Emily Warren, Scott Harris",
+            "MBID": "72ba9899-7525-41d4-b645-e00df447fc05",
+            "Category": "Songs occurring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "oneboredjeu",
+            "TrackTitle": "Say It Ain\u2019t Psycho (Weezer vs. Post Malone feat. Ty Dolla $ign)",
+            "TrackComposer": "Austin Post, Ty Dolla $ign, Louis Bell",
+            "MBID": "ecc13879-d784-4dcd-96b1-ca57d2ff736a",
+            "Category": "Songs occurring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Drake",
+            "TrackTitle": "In My Feelings",
+            "TrackComposer": "Aubrey Graham, Caresha Brownlee, Jatavia Johnson, Darius Harrison, Noah Shebib, Blaqnmild, TrapMoneyBenny",
+            "MBID": "dd6c0aa4-9b13-45e3-bac9-6f45f7c0607d",
+            "Category": "Songs occurring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "DJ DX",
+            "TrackTitle": "Peaches ft. Justin Bieber (Remix)",
+            "TrackComposer": "Justin Bieber, Ashton Simmonds, Giveon Evans, Louis Bell, Bernard Harvey, Aaron Dominick, Felisha King, Olivia Mana, Vincent Van Den Ende",
+            "MBID": "720507cc-454a-4466-a6c6-bd44d51489ae",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Ariana Grande",
+            "TrackTitle": "Positions",
+            "TrackComposer": "Ariana Grande, Angelina Barrett, Tommy Brown, Nija Charles, James Jarvis, London On Da Track, Xavi, Peter Lee Johnson",
+            "MBID": "0e22f3fe-7917-438e-a8eb-c6de19f685bc",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Billie Eilish",
+            "TrackTitle": "Happier Than Ever",
+            "TrackComposer": "Billie Eilish O'Connell, Finneas O'Connell",
+            "MBID": "4dc07ebc-1958-4127-906b-29d0b11f9886",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Elton John & Dua Lipa",
+            "TrackTitle": "Cold Heart (PNAU remix)",
+            "TrackComposer": "Elton John, Bernie Taupin, Nick Littlemore, Peter Mayes, Sam Littlemore",
+            "MBID": "a3906438-a1b2-403d-a7c2-7f48fca0a586",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "GAYLE",
+            "TrackTitle": "abcdefu",
+            "TrackComposer": "Gayle, Sara Davis, Dave Pittenger",
+            "MBID": "7a87b59b-41ce-4d39-87fa-2abed80b6d80",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Imagine Dragons & JID",
+            "TrackTitle": "Enemy (opening title version)",
+            "TrackComposer": "Dan Reynolds, Wayne Sermon, Ben McKee, Daniel Platzman, Destin Route, Mattias Larsson, Robin Fredriksson, Justin Tranter",
+            "MBID": "23cac833-50e6-4e36-9fa0-3b0507588d7e",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Carolina Gait\u00e1n, Mauro Castillo, Adassa, Rhenzy Feliz, Diane Guerrero, Stephanie Beatriz and Cast",
+            "TrackTitle": "We Don't Talk About Bruno (Noc.V Bootleg)",
+            "TrackComposer": "Lin-Manuel Miranda",
+            "MBID": "247c2244-406b-475a-92e2-5be724d52cee",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Steve Lacy",
+            "TrackTitle": "Bad Habit",
+            "TrackComposer": "Steve Lacy, Britanny Foushee, Diana Gordon, Matthew Castellanos, John Carroll Kirby",
+            "MBID": "2a2451ae-bd7d-4308-963e-936e7bc6985c",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Taylor Swift",
+            "TrackTitle": "Anti\u2010Hero",
+            "TrackComposer": "Taylor Swift, Jack Antonoff",
+            "MBID": "332dc6ae-3831-4e56-8fe1-dc2c716a0e7c",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Sam Smith & Kim Petras",
+            "TrackTitle": "Unholy",
+            "TrackComposer": "Samuel Smith, Kim Petras, Jimmy Napes, Omer Fedi, Blake Slatkin, ILYA Salmanzadeh",
+            "MBID": "192380e9-228f-43b4-9647-796e19c417d3",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Miley Cyrus",
+            "TrackTitle": "Flowers",
+            "TrackComposer": "Miley Cyrus, Gregory Aldae Hein, Michael Pollack",
+            "MBID": "cbdd0019-c2c4-4e70-a2e9-fe0195d0dc31",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Rema & Selena Gomez",
+            "TrackTitle": "Calm Down",
+            "TrackComposer": "Divine Ikubor, Selena Gomez, Michael Hunter, Amanda Reifer",
+            "MBID": "8580a02e-d2fb-4a6a-8ad6-3adb5e900d1e",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Beyonc\u00e9",
+            "TrackTitle": "Die With You",
+            "TrackComposer": "Beyonc\u00e9 Knowles, Noel \"Detail\" Fisher",
+            "MBID": "0f740e17-a4be-4617-a3f4-ccd1da8d9ec4",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "The Lullabeats",
+            "TrackTitle": "Ella Baila Sola (piano Rendition of Eslabon Armado, Peso Pluma)",
+            "TrackComposer": "Pedro Tovar",
+            "MBID": "19d570e9-cacc-4aa4-b985-7b828cfe7310",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Taylor Swift",
+            "TrackTitle": "Karma",
+            "TrackComposer": "Taylor Swift, Jack Antonoff, Keanu Beats",
+            "MBID": "3a5d1502-9831-4439-8f55-237002c263e8",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "8-Bit Arcade",
+            "TrackTitle": "Seven (8-Bit Jungkook & Latto Emulation)",
+            "TrackComposer": "Andrew Watt, Jon Bellion, Henry Walter, Theron Thomas, Latto",
+            "MBID": "b0046b9f-5ea0-4c3e-9cd5-4f89622c2fa2",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Taylor Swift",
+            "TrackTitle": "Cruel Summer",
+            "TrackComposer": "Taylor Swift, Jack Antonoff, St. Vincent",
+            "MBID": "992debd8-0411-4cc9-9ae8-61b6e9407bc9",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Dave & Central Cee",
+            "TrackTitle": "Sprinter",
+            "TrackComposer": "David Orobosa Omoregie, Oakley Caesar-Su, Jo Caleb, Jonny Leslie",
+            "MBID": "1ec1bfc4-2407-4369-b070-177fea0b38ba",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Doja Cat",
+            "TrackTitle": "Paint the Town Red",
+            "TrackComposer": "Amala Dlamini, Burt Bacharach, Hal David, Isaac Earl Bynum, Jean Baptiste, Karl Rubin, Ryan Buendia",
+            "MBID": "184af3e5-22da-4d6d-9014-1cc115e073ec",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "8-Bit Arcade",
+            "TrackTitle": "Rich Men North of Richmond (8-Bit Oliver Anthony Emulation)",
+            "TrackComposer": "Oliver Anthony",
+            "MBID": "00031615-3027-464f-b38d-74e4f1fcf4f4",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "YOASOBI",
+            "TrackTitle": "Idol",
+            "TrackComposer": "Ayase",
+            "MBID": "d46399e0-1c02-488e-8c87-bad054ee85b8",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Duke & Jones & Louis Theroux",
+            "TrackTitle": "Jiggle Jiggle",
+            "TrackComposer": "Duke & Jones, Louis Theroux",
+            "MBID": "88f2ca0d-80f0-4d79-b368-55c5bfe2a5fd",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Joji",
+            "TrackTitle": "Glimpse of Us",
+            "TrackComposer": "Joji, Alexis Kesselman, Riley McDonough, Caroline Pennell, Caleb Stone",
+            "MBID": "74aaadf9-da05-4306-8864-9470a931161b",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Noah Kahan",
+            "TrackTitle": "Stick Season",
+            "TrackComposer": "Noah Kahan",
+            "MBID": "236ccab4-fc8a-4e18-8e85-317340ae78b6",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Benson Boone",
+            "TrackTitle": "Beautiful Things",
+            "TrackComposer": "Benson Boone, Jack LaFrantz, Evan Blair",
+            "MBID": "de90d5f1-25df-4379-8000-6ef9eca5d21a",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Sabrina Carpenter",
+            "TrackTitle": "Espresso",
+            "TrackComposer": "Sabrina Carpenter, Amy Allen, Julian Bunetta, Steph Jones",
+            "MBID": "4c567421-9895-4ee0-a442-9c63cab23e07",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "DJ Firth",
+            "TrackTitle": "I Had Some Help x All The Small Things (Post Malone, Morgan Wallen vs. Blink-182)",
+            "TrackComposer": "Post Malone, Morgan Wallen, Louis Bell, Ashley Gorley, Ernest Keith Smith, Chandler Paul Baldwin",
+            "MBID": "dea02558-0f9c-44af-a0af-53366989bbd1",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Chris Brown & Young Thug",
+            "TrackTitle": "Go Crazy",
+            "TrackComposer": "Christopher Brown, Jeffery Williams, D.A. Doman, Patra, Mike Fasion",
+            "MBID": "5f5c5714-ed78-4434-ad25-ea939e54582b",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "8-Bit Arcade",
+            "TrackTitle": "Head and Heart (8-Bit Joel Corry and Mnek Emulation)",
+            "TrackComposer": "Joel Corry, MNEK, Lewis Thompson, Robert Michael Nelson Harvey, Jonathan Courtidis",
+            "MBID": "662b6626-0114-4eaa-b0b7-f8be04464084",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Billie Eilish",
+            "TrackTitle": "Therefore I Am",
+            "TrackComposer": "Billie Eilish O'Connell, Finneas O'Connell",
+            "MBID": "028eb5ad-3eba-4e8f-ac50-4cbc21c0c11e",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Maluma",
+            "TrackTitle": "Haw\u00e1i",
+            "TrackComposer": "Juan Luis Londo\u00f1o Arias, Edgar Barrera, Keityn, Miky La Sensa, Vicente Barco, Sergio George",
+            "MBID": "8b4f7e85-af3d-402b-aa7b-eb1f5460bab6",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Katy Perry",
+            "TrackTitle": "Daisies",
+            "TrackComposer": "Katy Perry, Jon Bellion, Jacob Kasher Hindlin, Jordan Johnson, Stefan Johnson, Michael Pollack",
+            "MBID": "56ec46af-f370-4726-ab52-70d27bb4084b",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Justin Bieber ft. Chance the Rapper & The Lewisham and Greenwich NHS Choir",
+            "TrackTitle": "Holy",
+            "TrackComposer": "Justin Bieber, Chance the Rapper, Jon Bellion, Tommy Brown, Anthony M. Jones, Jorgen Odegard, Steven Franks",
+            "MBID": "f2107e8f-40ec-43c4-86c6-8492abd2772a",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Lady Gaga & Ariana Grande",
+            "TrackTitle": "Rain on Me",
+            "TrackComposer": "Lady Gaga, Ariana Grande, Nija Charles, Rami Yacoub, Boys Noize, Burns, Michael Tucker, Matthew Burns",
+            "MBID": "68e67893-988f-45b6-85c8-baae54a75b9f",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Miley Cyrus",
+            "TrackTitle": "Midnight Sky",
+            "TrackComposer": "Miley Cyrus, Andrew Wyatt, Jon Bellion, Ilsey Juber",
+            "MBID": "aaf59b85-2f5d-40e7-917a-357b9662c1e0",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Lewis Wake",
+            "TrackTitle": "See You Again Physical (Miley Cyrus vs. Dua Lipa)",
+            "TrackComposer": "Miley Cyrus, Dua Lipa, Andrew Watt, Jon Bellion, Jordan K. Johnson, Stefan Johnson, Michael Pollack",
+            "MBID": "a82dcc3b-f306-441e-9f01-811623b64c54",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Taylor Swift",
+            "TrackTitle": "willow",
+            "TrackComposer": "Taylor Swift, Aaron Dessner",
+            "MBID": "797b51ca-c14e-4887-a317-d3644b35de5c",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Cardi B",
+            "TrackTitle": "Up",
+            "TrackComposer": "Belcalis Almanzar, Sean Island, James Foye III, Joshua Baker, Matthew Samuels, Edgar Machuca",
+            "MBID": "9147739b-acfc-4fe6-a08b-0ee7e83c35ad",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Polo G",
+            "TrackTitle": "RAPSTAR",
+            "TrackComposer": "Taurus Bartlett, Synco, Einer Bankz",
+            "MBID": "e8580ecd-476f-4c6e-b0d2-d0dca017d628",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "The Weeknd & Ariana Grande",
+            "TrackTitle": "Save Your Tears (remix)",
+            "TrackComposer": "Abel Tesfaye, Ahmad Balshe, Jason Quenneville, Max Martin, Oscar Holter, Ariana Grande",
+            "MBID": "dddb96cb-6476-4916-9946-005e50a02224",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "BTS",
+            "TrackTitle": "Butter",
+            "TrackComposer": "Jenna Andrews, Rob Grimaldi, Stephen Kirk, RM, Alex Bilowitz, Sebastian Garcia, Ron Perry",
+            "MBID": "e139bd8d-410c-41c1-967c-a30ee3b444e8",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Walker Hayes",
+            "TrackTitle": "Fancy Like",
+            "TrackComposer": "Walker Hayes, Cameron Star Johnson, Shane McAnally, Josh Jenkins",
+            "MBID": "16a24410-1736-4eb1-ba9f-e4e7d5a02301",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Ed Sheeran",
+            "TrackTitle": "Shivers",
+            "TrackComposer": "Ed Sheeran, Steve Mac, Johnny McDaid, Kal Lavelle",
+            "MBID": "72ed51c6-271c-4585-a210-ed3f27aceee7",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Jack Harlow",
+            "TrackTitle": "First Class",
+            "TrackComposer": "Jack Harlow, Jasper Harris, Rog\u00e9t Chahayed, Babe Ruth",
+            "MBID": "ea490446-4298-44c3-b7e0-a51464fa7293",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "ah!",
+            "TrackTitle": "Me Porto Loaded (Bad Bunny + Chencho Corleone vs Primal Scream)",
+            "TrackComposer": "Benito Martinez, Orlando Valle, Freddy Montalvo",
+            "MBID": "5f5ad501-23d2-4861-81c2-1d151f1d09f2",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Bizarrap & Quevedo",
+            "TrackTitle": "Quevedo: Bzrp Music Sessions, Vol. 52",
+            "TrackComposer": "Gonzalo Juli\u00e1n Conde, Pedro Luis Dom\u00ednguez Quevedo",
+            "MBID": "ceb41ddc-6fce-469e-b5b5-36106ca4aa18",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Lewis Capaldi",
+            "TrackTitle": "Forget Me",
+            "TrackComposer": "Lewis Capaldi, David Gibson, Michael Pollack, Phil Plested, Nick Atkinson, Edd Holloway",
+            "MBID": "4620c707-8578-42d0-8dc1-f7defbec1803",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Lady Gaga",
+            "TrackTitle": "Bloody Mary",
+            "TrackComposer": "Lady Gaga, Fernando Garibay, DJ White Shadow",
+            "MBID": "97628249-9cdc-461a-8db8-6c023df6ab1b",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Beyonc\u00e9",
+            "TrackTitle": "CUFF IT",
+            "TrackComposer": "Beyonc\u00e9 Knowles, Denisia Andrews, Brittany Coney, Morten Ristorp, Raphael Saadiq, Nile Rodgers",
+            "MBID": "67d1be6e-1549-4946-993b-a0ca0f1777bf",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Metro Boomin, The Weeknd & 21 Savage",
+            "TrackTitle": "Creepin'",
+            "TrackComposer": "Leland Wayne, Abel Tesfaye, Shayaa Abraham-Joseph, Mario Winans, Enya, Nicky Ryan, Roma Ryan",
+            "MBID": "b47ad7d7-73de-440b-ab47-abf2026f4617",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Stephen Sanchez",
+            "TrackTitle": "Until I Found You",
+            "TrackComposer": "Stephen Sanchez",
+            "MBID": "4e3c2b0c-beac-4514-802b-8b78ea4f51ad",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "PinkPantheress & Ice Spice",
+            "TrackTitle": "Boy\u2019s a liar, Pt. 2",
+            "TrackComposer": "Vicky Walker, Isis Gaston, Mura Masa",
+            "MBID": "c40ed0c1-63e7-470e-802b-052af9e43e90",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Loreen",
+            "TrackTitle": "Tattoo",
+            "TrackComposer": "Jimmy \"Joker\" Th\u00f6rnfeldt, Jimmy Jansson, Moa Carlebecker, Peter Bostr\u00f6m, Thomas G:son, Loreen Talhaoui",
+            "MBID": "80522358-92d8-43e3-83b0-8c36e14040a9",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Bad Bunny",
+            "TrackTitle": "WHERE SHE GOES",
+            "TrackComposer": "Benito Martinez, MAG",
+            "MBID": "750bf4dc-e07f-4656-af6c-47812ccfa614",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Olivia Rodrigo",
+            "TrackTitle": "vampire",
+            "TrackComposer": "Olivia Rodrigo, Daniel Nigro",
+            "MBID": "139f37dc-cbf5-4544-94dc-8524afcc53d9",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Troye Sivan",
+            "TrackTitle": "Rush",
+            "TrackComposer": "Troye Sivan, Alex Chapman, Kaelyn Behr, Brett McLaughlin, Kevin Clark",
+            "MBID": "b490e97f-7092-47b2-b9b8-2f3057c854da",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Billie Eilish",
+            "TrackTitle": "What Was I Made For?",
+            "TrackComposer": "Billie Eilish O'Connell, Finneas O'Connell",
+            "MBID": "aa5a5f8c-cb4a-4533-9e4e-f48062170394",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Tate McRae",
+            "TrackTitle": "greedy",
+            "TrackComposer": "Tate McRae, Amy Allen, Ryan Tedder, Jasper Harris",
+            "MBID": "4d0287ed-9356-477d-b390-2d27e63708e2",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Kenya Grace",
+            "TrackTitle": "Strangers",
+            "TrackComposer": "Kenya Grace",
+            "MBID": "66295363-9f39-498b-bb28-b6a29a6d9fd5",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Doja Cat",
+            "TrackTitle": "Agora Hills",
+            "TrackComposer": "Amala Dlamini, RiotUSA, GENT!",
+            "MBID": "a601e3a7-e52d-477d-a544-4cc3fdd288f1",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Zach Bryan ft. Kacey Musgraves",
+            "TrackTitle": "I Remember Everything",
+            "TrackComposer": "Zach Bryan",
+            "MBID": "010e7b4d-9e25-45c6-aaaa-d259f7007e99",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Teddy Swims",
+            "TrackTitle": "Lose Control",
+            "TrackComposer": "Jaten Dimsdale, Joshua Coleman, Julian Bunetta, Marco Rodriguez, John Sacks, Justin Gammella",
+            "MBID": "77a8a424-4c5e-4516-a411-bebf52e9f4d2",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Migos",
+            "TrackTitle": "T-Shirt",
+            "TrackComposer": "Quavious Marshall, Kirshnik Ball, Kiari Cephus, Robert Mandell",
+            "MBID": "824e7b11-8657-486f-b2d7-70ba7278f43f",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Lil Peep",
+            "TrackTitle": "Star Shopping",
+            "TrackComposer": "Gustav \u00c5hr, B. Miller",
+            "MBID": "ad3cc0a5-4584-47cd-b2f5-8fa790d424d5",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Jack Harlow",
+            "TrackTitle": "WHATS POPPIN",
+            "TrackComposer": "Jack Harlow, JetsonMade, Pooh Beatz, LOSH",
+            "MBID": "7517f009-0e77-4023-aa88-4cc57c2ef81d",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "The Kid LAROI",
+            "TrackTitle": "WITHOUT YOU",
+            "TrackComposer": "Charlton Howard, Omer Fedi, Blake Slatkin",
+            "MBID": "2b0d4ea6-3d22-4cba-ab80-c527670247ec",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Kali Uchis",
+            "TrackTitle": "Telepat\u00eda",
+            "TrackComposer": "Kali Uchis, Supakaine, Tainy, Manuel Lara, Albert Hype, Marco Borrero",
+            "MBID": "3d8e31ea-e0c1-43ac-8001-8640807623bc",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Roddy Ricch feat. Mustard",
+            "TrackTitle": "High Fashion",
+            "TrackComposer": "Rodrick Moore Jr., Dijon McFarlane",
+            "MBID": "19fe84e7-3e2c-484e-99f7-a0e0bd719edb",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Billie Eilish",
+            "TrackTitle": "bury a friend",
+            "TrackComposer": "Billie Eilish O'Connell, Finneas O'Connell",
+            "MBID": "4d82c5eb-9cfe-4dd6-b147-b57cc17a809d",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Lil Nas X",
+            "TrackTitle": "Panini",
+            "TrackComposer": "Montero Hill, Denzel Baptiste, David Biral, Omer Fedi, Kurt Cobain, Dave Grohl, Krist Novoselic",
+            "MBID": "fa60c2aa-288c-4f23-846d-05ef9b4d22b7",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Olivia Rodrigo",
+            "TrackTitle": "deja vu",
+            "TrackComposer": "Olivia Rodrigo, Daniel Nigro",
+            "MBID": "1b8cfe4a-a02d-44cf-8941-06e61f92b9d9",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "GIV\u0112ON",
+            "TrackTitle": "Heartbreak Anniversary",
+            "TrackComposer": "Giveon Evans, Sevn Thomas, Rian Lewis, Jahaan Sweet",
+            "MBID": "cb77aabb-7b1f-4cf4-8db9-6b49753a60de",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Yvnnis",
+            "TrackTitle": "Kali Uchis",
+            "TrackComposer": "Amala Dlamini, Lydia Asrat, David Sprecher",
+            "MBID": "811ff9e6-c81e-49bc-9975-f8dccd5bc35a",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Silk Sonic",
+            "TrackTitle": "Smokin Out the Window",
+            "TrackComposer": "Bruno Mars, Brandon Anderson, Dernst Emile II, Christopher Brody Brown",
+            "MBID": "c7e8fa32-99a7-4907-8acb-8e02f020eeaa",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "GAYLE",
+            "TrackTitle": "luv starved",
+            "TrackComposer": "Gayle, Sara Davis, Dave Pittenger",
+            "MBID": "34130fa3-321d-41cc-aa43-3687d72bb10c",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Steve Lacy",
+            "TrackTitle": "Dark Red",
+            "TrackComposer": "Steve Lacy",
+            "MBID": "132cc877-2da2-442f-b141-ddfb63e06820",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Sam Smith",
+            "TrackTitle": "I\u2019m Not the Only One",
+            "TrackComposer": "Sam Smith, Jimmy Napes",
+            "MBID": "78040ffb-8a4b-451b-a4f5-e6cbf0aa617a",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Miley Cyrus",
+            "TrackTitle": "Adore You",
+            "TrackComposer": "Stacy Barthe, Jonathan Perkins",
+            "MBID": "c8b294b3-dd29-4e23-8f0a-59503ae89cf1",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Rema",
+            "TrackTitle": "Dumebi",
+            "TrackComposer": "Divine Ikubor",
+            "MBID": "b14f19df-0215-4fec-8ae7-5dc6913002d9",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "SZA",
+            "TrackTitle": "Snooze",
+            "TrackComposer": "Sol\u00e1na Rowe, Kenny Edmonds, Khristopher Riddick-Tynes, Leon Thomas III, Blair Ferguson",
+            "MBID": "dcaf7c76-ebde-4375-9a4b-24bdfb158831",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Morgan Wallen",
+            "TrackTitle": "Wasted on You",
+            "TrackComposer": "Morgan Wallen, Ryan Vojtesak, Ernest Keith Smith, Josh Thompson",
+            "MBID": "944ae9f7-5334-43d6-8a9e-8d9b9b5fb5ee",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Peso Pluma",
+            "TrackTitle": "Lady Gaga",
+            "TrackComposer": "Peso Pluma, Junior H, Gabito Ballesteros",
+            "MBID": "15d2e9ff-82ea-45d4-b07b-b129ea474bfd",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Taylor Swift",
+            "TrackTitle": "Midnight Rain",
+            "TrackComposer": "Taylor Swift, Jack Antonoff",
+            "MBID": "0ca9536f-37da-488a-be2d-0ac1d1886570",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Tocotronic feat. Sinus Albino",
+            "TrackTitle": "K.O.O.K. (KOOK remix)",
+            "TrackComposer": "Melanie Fontana, DJ Swivel, Bang Si-hyuk, Supreme Boi, ADORA, Candace Nicole Sosa, Jordan \u201cDJ Swivel\u201d Young",
+            "MBID": "8fab4f6c-12e5-4d00-9afa-68c07429c106",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Taylor Swift",
+            "TrackTitle": "The Great War",
+            "TrackComposer": "Taylor Swift, Aaron Dessner",
+            "MBID": "16a3eed5-8c33-47ca-96d0-cd33fd87ec6e",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Central Cee",
+            "TrackTitle": "Doja",
+            "TrackComposer": "Oakley Caesar-Su, Li Tek",
+            "MBID": "80a04cb9-4ecd-4a9f-adfa-d15f16aa37e6",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Doja Cat",
+            "TrackTitle": "Streets",
+            "TrackComposer": "Amala Dlamini, Lydia Asrat, David Sprecher, Darius Stroud, Christopher Stewart",
+            "MBID": "dbadd823-1873-49a9-be62-4acb5e5e1885",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Rodney Rice",
+            "TrackTitle": "Ain't Got a Dollar",
+            "TrackComposer": "Oliver Anthony",
+            "MBID": "c78a473b-7ef3-4a00-9d59-b1a36b400665",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "X SMILE",
+            "TrackTitle": "Yoru ni Kakeru",
+            "TrackComposer": "Ayase",
+            "MBID": "93c2e5e8-bc96-4b41-99b3-03db489aac44",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Jason Derulo, Louis Theroux, Duke & Jones feat. Amelia Dimz",
+            "TrackTitle": "Jiggle Jiggle (remix edit)",
+            "TrackComposer": "Duke & Jones, Louis Theroux",
+            "MBID": "18ec3e8e-0b3f-4351-af0e-1d6abab8d9fe",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
         }
     ]
 }
