@@ -4,8 +4,8 @@
     "Focus": "artist",
     "RefreshRate": 28,
     "AppendMode": "append",
-    "Timestamp": "2026-06-05T16:11:47Z",
-    "TotalTracks": 708,
+    "Timestamp": "2026-07-03T20:18:41Z",
+    "TotalTracks": 969,
     "Tracks": [
         {
             "TrackArtist": "Fela Kuti",
@@ -4961,6 +4961,1833 @@
             "TrackTitle": "Zizi",
             "TrackComposer": "G.G. Vikey",
             "MBID": "769117db-6652-42fb-bce1-cf6d9fddae0e",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Tony Allen",
+            "TrackTitle": "Asiko (In a Silent mix)",
+            "TrackComposer": "Tony Allen",
+            "MBID": "c7d4606a-a3f6-4791-b295-b766bfccfc39",
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+        },
+        {
+            "TrackArtist": "Buari",
+            "TrackTitle": "African Hustle",
+            "TrackComposer": "Geraldo Pino",
+            "MBID": "2abab50c-088e-4edf-aaee-15b9ce5e884e",
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+        },
+        {
+            "TrackArtist": "T.P. Orchestre Poly-Rythmo",
+            "TrackTitle": "Gbeti Madjro",
+            "TrackComposer": "Ignace de Souza",
+            "MBID": "722afc1f-c5ee-4d00-b0fa-8f659650bc74",
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+        },
+        {
+            "TrackArtist": "Sonny Okosun",
+            "TrackTitle": "Tire Ni Oluwa",
+            "TrackComposer": "Joni Haastrup",
+            "MBID": "e290d534-b8db-4706-9356-77fc0316c2dc",
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+        },
+        {
+            "TrackArtist": "Hugh Masekela",
+            "TrackTitle": "Don\u2019t Go Lose It Baby",
+            "TrackComposer": "Hugh Masekela",
+            "MBID": "dcc0fbfb-19bc-456b-bf08-633b8b9b5f80",
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+        },
+        {
+            "TrackArtist": "Pat Thomas",
+            "TrackTitle": "Sika Ye Mogya",
+            "TrackComposer": "Pat Thomas",
+            "MBID": "3994456c-fb68-46a1-8ae6-215e9096dec0",
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+        },
+        {
+            "TrackArtist": "Kouyat\u00e9\u2010Neerman",
+            "TrackTitle": "Djanfa Magni",
+            "TrackComposer": "Orchestre Poly-Rythmo de Cotonou",
+            "MBID": "517ff60b-4be2-4d48-b351-60b32137a098",
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+        },
+        {
+            "TrackArtist": "Rogal DDL",
+            "TrackTitle": "Ebe ebe",
+            "TrackComposer": "Joni Haastrup",
+            "MBID": "ef59430d-a355-4a03-a567-8e5e0d133351",
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+        },
+        {
+            "TrackArtist": "Manu Dibango",
+            "TrackTitle": "Big Blow",
+            "TrackComposer": "Manu Dibango",
+            "MBID": "38391f92-1d2f-46bb-ab1e-acbff7f8972a",
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+        },
+        {
+            "TrackArtist": "Jan Cyrka & Toby Bricheno",
+            "TrackTitle": "Funk Foundation",
+            "TrackComposer": "",
+            "MBID": "dd4ed930-c30a-40c3-af73-38cb1b66e22f",
+            "Category": "The absolute biggest mainstream pop/radio hits of this genre"
+        },
+        {
+            "TrackArtist": "Tarsem Jassar",
+            "TrackTitle": "Nwa Nwa",
+            "TrackComposer": "",
+            "MBID": "e705d160-698d-4138-b03c-2eee983ac3cb",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Balaphonics",
+            "TrackTitle": "Ifang Bondi",
+            "TrackComposer": "Musa Ngum",
+            "MBID": "7f3d872c-e5a4-40b3-a64b-33107b110324",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "George Clinton, Parliament Funkadelic",
+            "TrackTitle": "P. Funk",
+            "TrackComposer": "",
+            "MBID": "c7744ac2-1109-4ab4-9280-0a8a3cc6adaf",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Negative Bias",
+            "TrackTitle": "I Love Ice Cream",
+            "TrackComposer": "",
+            "MBID": "5a4b46a6-0d8a-41a5-9b99-db2957fe514b",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Madija",
+            "TrackTitle": "Jazira",
+            "TrackComposer": "",
+            "MBID": "d7089fc8-7c33-43b9-b1fa-2432faf47dbb",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Oba Funke",
+            "TrackTitle": "Shango",
+            "TrackComposer": "",
+            "MBID": "336cfcd6-369e-47f4-ae9b-58529ae080ac",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Bongos Ikwue",
+            "TrackTitle": "Woman Made The Devil",
+            "TrackComposer": "Bongos Ikwue",
+            "MBID": "0a0ad824-ea21-487f-9338-afa33aee397b",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "El Rego et Ses Commandos",
+            "TrackTitle": "E Nan Mian Nuku",
+            "TrackComposer": "El Rego",
+            "MBID": "76458aac-7993-4e54-90c7-ddfb594b3867",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Bill Haley and the Comets",
+            "TrackTitle": "Johnny B. Goode",
+            "TrackComposer": "",
+            "MBID": "73a27c3d-76c6-4274-9528-adc151d85458",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Culture",
+            "TrackTitle": "Chant Down Babylon",
+            "TrackComposer": "",
+            "MBID": "d3eebddd-71ba-4858-ba5f-c34be57efbaf",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "The Hykkers",
+            "TrackTitle": "Stone the Flower",
+            "TrackComposer": "",
+            "MBID": "9d7f6f57-3835-40b8-9a58-de0260b4c700",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Zom Zoms",
+            "TrackTitle": "Zom Zom Zom Zom Zom",
+            "TrackComposer": "",
+            "MBID": "c2ae6082-cbba-4a6a-a75a-3b2eaec42b99",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Papa Levi",
+            "TrackTitle": "African Man",
+            "TrackComposer": "",
+            "MBID": "2695ea59-16ae-460a-b0c5-5c944e3d4448",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Brant Bjork and The Bros",
+            "TrackTitle": "The Messengers",
+            "TrackComposer": "",
+            "MBID": "edf2d065-10ee-411a-b71e-fca2b004a5ae",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Igboog\u00e3",
+            "TrackTitle": "Akoko Ife",
+            "TrackComposer": "",
+            "MBID": "4ff77307-8a1c-4087-abf5-94eb95248249",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Toyah",
+            "TrackTitle": "I Want to Be Free",
+            "TrackComposer": "",
+            "MBID": "578c5fc0-39fc-45a3-8ce5-1f64ce8c7201",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Dan Boadi and The African Internationals",
+            "TrackTitle": "Play That Funky Music",
+            "TrackComposer": "",
+            "MBID": "a2dba33c-75df-4b0d-a938-e4ace808f40d",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Just Music Beats & Double Zulu",
+            "TrackTitle": "Jacques Vabre",
+            "TrackComposer": "G.G. Vabre",
+            "MBID": "b5de84f0-49a6-4cdd-8c77-39d810cc53a0",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "The Motet",
+            "TrackTitle": "Afro Disco Beat",
+            "TrackComposer": "Peter White",
+            "MBID": "946054be-4aa9-4b55-b739-74ddfb652dfc",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Sizzla",
+            "TrackTitle": "Mama Africa",
+            "TrackComposer": "",
+            "MBID": "0fa339ba-d8ca-4f5c-907d-76b5cb91f386",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "The Semi Colon",
+            "TrackTitle": "Nekwaha Semi Colon",
+            "TrackComposer": "",
+            "MBID": "b563198e-5559-4ab9-ad98-c9ef63a212e2",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Aiff",
+            "TrackTitle": "Akwaaba",
+            "TrackComposer": "",
+            "MBID": "36bf98e5-280c-4a24-b6b5-b616734faa4f",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Bunny Mack",
+            "TrackTitle": "Let Me Love You",
+            "TrackComposer": "Bunny Mack",
+            "MBID": "ffd73514-a659-457c-813b-591ca396989d",
+            "Category": "Iconic One-Hit Wonders and viral sensations"
+        },
+        {
+            "TrackArtist": "Tony Allen",
+            "TrackTitle": "N.E.P.A (Never Expect Power Always)",
+            "TrackComposer": "Tony Allen",
+            "MBID": "b1f1825a-300a-4730-8ea2-0cf718c8ac52",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Marijata",
+            "TrackTitle": "I Can Say",
+            "TrackComposer": "Marijata",
+            "MBID": "55330539-e3a1-4de7-b201-e7030da7df3e",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Spyweirdos",
+            "TrackTitle": "Banku Apo",
+            "TrackComposer": "",
+            "MBID": "94da6681-44af-432c-84f9-821d40def50d",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Horace Parlan",
+            "TrackTitle": "Home Is Africa",
+            "TrackComposer": "Joe Mensah",
+            "MBID": "1c7ffb62-7013-4a61-a523-d3d0d8704fc0",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Kynes ft. Alecks",
+            "TrackTitle": "Santi Santi",
+            "TrackComposer": "",
+            "MBID": "3b7db225-e4b0-49f9-93df-ae40313b6be1",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Sean Tizzle",
+            "TrackTitle": "Adofo",
+            "TrackComposer": "",
+            "MBID": "552ae53b-4844-4fb0-9ace-0cbe01a7bee9",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Nkenga Special",
+            "TrackTitle": "Destruction Nkengas",
+            "TrackComposer": "",
+            "MBID": "c3c0bf4f-96bb-4c62-aa34-e3b54038cdc9",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Rik L. Rik",
+            "TrackTitle": "Soul Power",
+            "TrackComposer": "",
+            "MBID": "0bfb0df1-9eeb-4bf4-8271-1dfb8b44dd81",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "The Identicals",
+            "TrackTitle": "Who Made the World",
+            "TrackComposer": "",
+            "MBID": "eaf78060-9959-48db-b3b8-9d13a3ca4640",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Polkaholix",
+            "TrackTitle": "VIPs",
+            "TrackComposer": "",
+            "MBID": "7b9c888f-86a7-4a41-9cf6-c88cdef1d146",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Echelon Ministries",
+            "TrackTitle": "Let Peace Reign",
+            "TrackComposer": "Peter King",
+            "MBID": "8e93b852-2135-41fe-9583-34e56f981b0f",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Tabu Ley Rochereau",
+            "TrackTitle": "Muzina",
+            "TrackComposer": "Tabu Ley Rochereau",
+            "MBID": "aa8e97fe-58c9-4d25-a9fd-6130ebc78112",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Abass Abass",
+            "TrackTitle": "Abass",
+            "TrackComposer": "",
+            "MBID": "e880ba43-eba6-4dd5-ab0a-7eb5a3cde0c0",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "The Funkees",
+            "TrackTitle": "Breakthrough",
+            "TrackComposer": "The Funkees",
+            "MBID": "f034784c-7f03-4558-93d3-9f64e1b09218",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "E.T. Mensah & The Tempos",
+            "TrackTitle": "Fom Fom",
+            "TrackComposer": "G.G. Vabre",
+            "MBID": "b6dbb589-f82a-4b52-8fed-78f2d8ba2e8b",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Cape Sleep",
+            "TrackTitle": "The Movers",
+            "TrackComposer": "",
+            "MBID": "593fb602-bc53-4522-af66-ce68beebdb65",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Dillon",
+            "TrackTitle": "Ice Cream Ice Cream",
+            "TrackComposer": "",
+            "MBID": "2ad5b409-6fca-4321-8d49-2a6f92556679",
+            "Category": "Underground, deep cuts, and cult club classics"
+        },
+        {
+            "TrackArtist": "Fela Kuti",
+            "TrackTitle": "Shuffering and Shmiling",
+            "TrackComposer": "Fela Kuti",
+            "MBID": "3020337d-49c7-4663-9f28-d46b804d06d4",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Hercules",
+            "TrackTitle": "Peace On Earth",
+            "TrackComposer": "Ebo Taylor",
+            "MBID": "2d2f1a4e-1cd2-47d7-8613-9de4cf5c69d1",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Hayvanlar Alemi",
+            "TrackTitle": "Yekermo Sew",
+            "TrackComposer": "Mulatu Astatke",
+            "MBID": "b3cf67f5-fc31-4c43-a4e9-5a79f17b62b5",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Long Gone",
+            "TrackTitle": "Change Your Mind",
+            "TrackComposer": "William Onyeabor",
+            "MBID": "a8faae14-8c6b-4844-94a5-6b34c7767190",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "David Long and Friends",
+            "TrackTitle": "I Walk Alone",
+            "TrackComposer": "Marijata",
+            "MBID": "e85a6aa2-5cd4-445a-a9c1-f76b8af7e2c2",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "The Disciples",
+            "TrackTitle": "Bush Man",
+            "TrackComposer": "Geraldo Pino",
+            "MBID": "7a80408f-8e11-47e4-97bb-0a80f9abae5d",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Jr. Moore",
+            "TrackTitle": "Mimbo",
+            "TrackComposer": "The Funkees",
+            "MBID": "fbf6d088-5982-4c32-8675-ffdd62f66c66",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Le Tout-Puissant Orchestre Poly-Rythmo",
+            "TrackTitle": "C'est Lui Ou C'est Moi",
+            "TrackComposer": "Orchestre Poly-Rythmo de Cotonou",
+            "MBID": "f5020c7e-c0ea-4b82-9e92-0aad4e42db50",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Monomono",
+            "TrackTitle": "Give the Beggar a Chance",
+            "TrackComposer": "Joni Haastrup",
+            "MBID": "e8071bc8-2c35-4e57-85ac-c8083938616d",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Segun Bucknor & His Revolution",
+            "TrackTitle": "La La La (acoustic version)",
+            "TrackComposer": "Segun Bucknor",
+            "MBID": "df88bbed-39e1-4016-893a-3cd13aee6050",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Mother Earth",
+            "TrackTitle": "Jesse (album version)",
+            "TrackComposer": "Berkeley Jones",
+            "MBID": "56f20e95-05b5-4c35-9fb4-d2d2e039eaf0",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Darius Syrossian & Eve",
+            "TrackTitle": "Satisfaction (extended)",
+            "TrackComposer": "",
+            "MBID": "f8472010-7593-4bfd-b77f-71bacca025d9",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Vance Kelly & His Backstreet Blues Band",
+            "TrackTitle": "Doing Your Own Thing",
+            "TrackComposer": "Joe Mensah",
+            "MBID": "d9926ff4-00ec-4bdd-be97-4eeaba5f0a6d",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "El Rego et Ses Commandos",
+            "TrackTitle": "Achuta",
+            "TrackComposer": "El Rego",
+            "MBID": "279cd875-8bd3-42f7-b1c5-2fa2bbe15505",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Lijadu Sisters",
+            "TrackTitle": "Life's Gone Down Low",
+            "TrackComposer": "Lijadu Sisters",
+            "MBID": "e446a8a7-eb8f-4893-8990-59a028570365",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Simon Doty & My Friend feat. Tailor",
+            "TrackTitle": "Follow Me (extended mix)",
+            "TrackComposer": "",
+            "MBID": "24fcec72-0d68-4ee7-abf3-263eeacfa0de",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Olatunji",
+            "TrackTitle": "Adofo",
+            "TrackComposer": "",
+            "MBID": "c60997bd-772b-40a1-a886-6f5a42520fcd",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "The Hykkers",
+            "TrackTitle": "I Want a Break Thru",
+            "TrackComposer": "",
+            "MBID": "92713b64-7ad5-4f24-9197-337ad3fd3fcd",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Celestine Ukwu & His Philosophers National",
+            "TrackTitle": "Onwu Ama Eze",
+            "TrackComposer": "",
+            "MBID": "2c48c457-e6b0-4971-bd4b-03b956f68069",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "African Connection",
+            "TrackTitle": "Tiembelema (Long Version)",
+            "TrackComposer": "",
+            "MBID": "4788245b-5792-48bf-bd34-80b89b208ee7",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Mesanjarz of Funk",
+            "TrackTitle": "Messengers of Funk",
+            "TrackComposer": "",
+            "MBID": "02ae87c0-3a43-41e1-853a-cc458fe6219c",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "[unknown]",
+            "TrackTitle": "Asafo",
+            "TrackComposer": "",
+            "MBID": "75ee58ce-5c8d-41c1-820b-bf815e35c690",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "The Novaks",
+            "TrackTitle": "If You Can Do It",
+            "TrackComposer": "",
+            "MBID": "8ce06e9e-62b0-4fb6-842b-64c3533f8dd9",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Gyedu-Blay Ambolley",
+            "TrackTitle": "Let's Be Happy (disco mix)",
+            "TrackComposer": "Gyedu-Blay Ambolley",
+            "MBID": "09fdeed2-26d3-4dc4-b44a-16e1d95ab91c",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Summernightbrand Extended",
+            "TrackTitle": "A Mother's Notice",
+            "TrackComposer": "Peter King",
+            "MBID": "daba310c-3955-428f-8b15-918691375fee",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "The Lijadu Sisters",
+            "TrackTitle": "Come and Dance",
+            "TrackComposer": "Lijadu Sisters",
+            "MBID": "b2f1a9b1-4e27-46ec-880d-511785766f42",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Wouassi and Roots Band",
+            "TrackTitle": "Jomba Jomba",
+            "TrackComposer": "",
+            "MBID": "78eb6c20-c7f4-4c7f-9e0a-47cd82702315",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Kevin Long",
+            "TrackTitle": "Envy",
+            "TrackComposer": "",
+            "MBID": "948f1168-27c6-49c7-b398-f84776085ba4",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Courtney Pine",
+            "TrackTitle": "Osibisa",
+            "TrackComposer": "Teddy Osei, Sol Amarfio",
+            "MBID": "77c45aa4-d22f-4542-8c30-c5f4aa6512a8",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "Zheng Yue Wen",
+            "TrackTitle": "Kambu",
+            "TrackComposer": "",
+            "MBID": "0142aa97-ac88-4981-a1f1-265e6afb639a",
+            "Category": "Essential 12-inch remixes and extended DJ versions"
+        },
+        {
+            "TrackArtist": "The Staple Singers",
+            "TrackTitle": "Love Is Plentiful",
+            "TrackComposer": "Tony Allen",
+            "MBID": "6c38070d-6963-4e00-9713-a674d3828bec",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "David Newman",
+            "TrackTitle": "Ebo Man",
+            "TrackComposer": "Ebo Taylor",
+            "MBID": "0ecab04b-39d8-4f5c-8834-a13115ea618e",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Miste",
+            "TrackTitle": "\"Disco Beat\"",
+            "TrackComposer": "",
+            "MBID": "c0e42257-ab41-4fdf-b2aa-c4ad0ca39dc3",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Cab Calloway and His Orchestra",
+            "TrackTitle": "Let\u2019s Go Joe",
+            "TrackComposer": "Joe Mensah",
+            "MBID": "55130bb6-f8e2-45f4-a821-28764c721c45",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Bongos Ikwue and Double X",
+            "TrackTitle": "Cock Crow at Dawn (Sax version)",
+            "TrackComposer": "Bongos Ikwue",
+            "MBID": "f30f83c6-8079-47ea-833c-da007674a118",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "El Rego et Ses Commandos",
+            "TrackTitle": "Djobim\u00e9",
+            "TrackComposer": "El Rego",
+            "MBID": "87411cf8-16a0-4b98-9838-7df83e776a7a",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "You Are My Everything",
+            "TrackTitle": "Open Space",
+            "TrackComposer": "",
+            "MBID": "1d84e4c8-ce65-4515-998a-cb9f5b73464d",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Tal Ross",
+            "TrackTitle": "Keep On Trying",
+            "TrackComposer": "",
+            "MBID": "43975082-4053-4c70-94ea-804dd06f8284",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Harpy",
+            "TrackTitle": "Melu",
+            "TrackComposer": "",
+            "MBID": "f85607dc-ce3e-4dd8-8b57-3a3cad20a36f",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Tatouages",
+            "TrackTitle": "Nzadi",
+            "TrackComposer": "",
+            "MBID": "e152b7ef-8514-4577-ada7-65d03b870750",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Daniel Lanois",
+            "TrackTitle": "Sweet Soul Honey",
+            "TrackComposer": "",
+            "MBID": "a4272e2f-4fde-4286-8beb-c3f8a1c4e32e",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Beatconductor",
+            "TrackTitle": "Funky Boogie",
+            "TrackComposer": "",
+            "MBID": "98339063-9d2c-47d0-9fe6-dee509c2ae17",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Polkaholix",
+            "TrackTitle": "VIPs",
+            "TrackComposer": "",
+            "MBID": "46163ff3-d4f9-419a-93d2-a86d500926f0",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Gyedu-Blay Ambolley",
+            "TrackTitle": "Sunkwa",
+            "TrackComposer": "Gyedu-Blay Ambolley",
+            "MBID": "f41ff0a2-2491-4777-8a34-aea607d39618",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Assagai",
+            "TrackTitle": "Telephone Girl",
+            "TrackComposer": "",
+            "MBID": "9fe67c52-7512-4000-9ca4-da04ea2ca6b1",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Immy Owusu",
+            "TrackTitle": "Sunsum Dware",
+            "TrackComposer": "",
+            "MBID": "a6764943-4428-4338-908f-b06a622c2711",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Osibisa",
+            "TrackTitle": "Uhuru",
+            "TrackComposer": "Mac Tontoh, Teddy Osei, Sol Amarfio",
+            "MBID": "b3ae8abb-55de-432e-91c0-7a9dfe32e47d",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Ladysmith Black Mambazo",
+            "TrackTitle": "Township Jive",
+            "TrackComposer": "",
+            "MBID": "67268fd6-3f40-43ef-b44a-4a518e1fea12",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Climie Fisher",
+            "TrackTitle": "Money Makes the Man (Go Crazy)",
+            "TrackComposer": "",
+            "MBID": "48633ff2-30b4-42f0-8aa4-b0080a37965b",
+            "Category": "Hidden gems, B-sides, and influential album tracks"
+        },
+        {
+            "TrackArtist": "Ebo Taylor & The Pelicans",
+            "TrackTitle": "Come Along",
+            "TrackComposer": "Ebo Taylor",
+            "MBID": "fd17468d-e208-4a6f-a8e4-dd84207fa08b",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "BLO",
+            "TrackTitle": "Miss \u201cSagitt\u201d",
+            "TrackComposer": "Berkeley Jones",
+            "MBID": "7c5004d1-7811-45af-a07d-3abad2cb1397",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Canterbury Choral Society, Philharmonia Orchestra, Richard Cooke",
+            "TrackTitle": "The Apostles: I: The Calling of the Apostles",
+            "TrackComposer": "",
+            "MBID": "0b3b44d4-dc8a-4981-9447-d62bd896fcd5",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Kwa Mensah",
+            "TrackTitle": "Kwa Mensah",
+            "TrackComposer": "Joe Mensah",
+            "MBID": "23fe48a0-5cad-4676-91fc-6665a6500cd8",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Veno",
+            "TrackTitle": "Nigeria Go Survive",
+            "TrackComposer": "Bongos Ikwue",
+            "MBID": "f0fd789e-13ed-4213-9e96-3e6d432b2f69",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "El Rego et Ses Commandos",
+            "TrackTitle": "Kpon Fi La",
+            "TrackComposer": "El Rego",
+            "MBID": "5503a35e-f54c-4aef-9078-ae33039485d1",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Round Mountain",
+            "TrackTitle": "Mama Sweet Mama",
+            "TrackComposer": "",
+            "MBID": "d4fddd75-8ff5-44ac-bd6b-ea4ecdbcaf84",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Rockets",
+            "TrackTitle": "Ziga Ziga 999",
+            "TrackComposer": "",
+            "MBID": "25220bd1-1242-49e8-a830-d35ec470a644",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Shakin' Stevens and the Sunsets",
+            "TrackTitle": "Too Many Stars",
+            "TrackComposer": "",
+            "MBID": "fa958499-1aaa-48ca-963f-947cde7990e1",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Dave & Ansel Collins",
+            "TrackTitle": "Funky, Funky Reggae",
+            "TrackComposer": "",
+            "MBID": "b767ac57-74aa-435c-b0dc-bafc6e7d8fd5",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Ronald Alan Mendelsohn & John Carlo Dwyer",
+            "TrackTitle": "Let's Get Funky",
+            "TrackComposer": "",
+            "MBID": "e4768fbf-9819-4c82-8e6a-e2e5bb2eaa86",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Aleke Kanonu",
+            "TrackTitle": "Nwanne, Nwanne, Nwanne",
+            "TrackComposer": "",
+            "MBID": "8309d92b-5db2-4514-a4e3-c7ab3f77cffc",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Jan Garbarek with Terje Rypdal",
+            "TrackTitle": "Vips",
+            "TrackComposer": "",
+            "MBID": "386384f3-0218-4e8a-a861-1fb46a6ed897",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Gyedu-Blay Ambolley",
+            "TrackTitle": "Toffie",
+            "TrackComposer": "Gyedu-Blay Ambolley",
+            "MBID": "f0b3c1e9-2704-4377-9bf6-564967023340",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Peter King",
+            "TrackTitle": "Afro Funk",
+            "TrackComposer": "Peter King",
+            "MBID": "971cd0ac-3d2c-45fb-8d31-53e98f76ce18",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "The Lijadu Sisters",
+            "TrackTitle": "Lord Have Mercy",
+            "TrackComposer": "Lijadu Sisters",
+            "MBID": "061ac3a3-fb35-4f28-aba2-463d3fc6c386",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Serengeti",
+            "TrackTitle": "Afro Afro",
+            "TrackComposer": "",
+            "MBID": "ecd2ec28-fb80-4eaa-9064-a32cc8e400bf",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Mellow Blush",
+            "TrackTitle": "Nya Nya Nya Dance",
+            "TrackComposer": "",
+            "MBID": "0f957037-f25a-40e1-be4c-17b4a1e4a0c2",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Assagai",
+            "TrackTitle": "Sanga",
+            "TrackComposer": "",
+            "MBID": "fcb1b668-e34f-45a8-9954-eb480087815a",
+            "Category": "High-energy peak-time floor fillers"
+        },
+        {
+            "TrackArtist": "Teodross Avery",
+            "TrackTitle": "Addis Ababa",
+            "TrackComposer": "Mulatu Astatke",
+            "MBID": "4d2d6722-0774-40df-857a-31ea87b43207",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Doonie ft. Young Bleed",
+            "TrackTitle": "Up To You To Get Rich",
+            "TrackComposer": "William Onyeabor",
+            "MBID": "3c727978-1ed5-433b-ad2f-52055f5621c9",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Kevin Ayers",
+            "TrackTitle": "Give a Little Bit",
+            "TrackComposer": "Geraldo Pino",
+            "MBID": "3c5524a5-ab64-43fe-82db-ceff396c628b",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "T.P. Orchestre Poly\u2010Rythmo",
+            "TrackTitle": "Aiha Ni Kpe We",
+            "TrackComposer": "Orchestre Poly-Rythmo de Cotonou",
+            "MBID": "8ae6e377-082e-4539-84c5-77262149b903",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Masakatsu Takagi",
+            "TrackTitle": "Blo 2",
+            "TrackComposer": "Berkeley Jones",
+            "MBID": "22b68e4a-5f5a-4adc-a24d-536aedaa4c93",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "The Elvin Bishop Group",
+            "TrackTitle": "Rock My Soul",
+            "TrackComposer": "",
+            "MBID": "3d59312c-50cc-4919-a049-1c3812ab60ac",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "El Rego et Ses Commandos",
+            "TrackTitle": "Dis-Moi Oui",
+            "TrackComposer": "El Rego",
+            "MBID": "b7521862-977a-42b3-af1a-7a53863ae181",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "The Lijadu Sisters",
+            "TrackTitle": "Iya Mi Jowo",
+            "TrackComposer": "Lijadu Sisters",
+            "MBID": "6e4284de-baec-4c09-b1a7-c8c6eae05465",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Sarah Connor",
+            "TrackTitle": "You Are My Desire",
+            "TrackComposer": "",
+            "MBID": "56c4fa3c-50aa-432f-9ae0-ed108783e5ad",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Continental Brothers Band of Owerri",
+            "TrackTitle": "Okwu akoro onye uwa",
+            "TrackComposer": "",
+            "MBID": "8de68a4f-e632-4859-894b-f3618a7740f4",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "M'Bamina",
+            "TrackTitle": "Benguela",
+            "TrackComposer": "",
+            "MBID": "2774e054-392e-458b-9a3c-26d155db6d38",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Art Blakey & The Jazz Messengers",
+            "TrackTitle": "Afro Soul",
+            "TrackComposer": "",
+            "MBID": "dee18c0f-95fc-4af8-996a-65424ec06ec0",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Bizkids",
+            "TrackTitle": "VIPs",
+            "TrackComposer": "",
+            "MBID": "db936664-b160-45a0-b02c-5828dc675692",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Gyedu-Blay Ambolley",
+            "TrackTitle": "Sekondi Brass Band",
+            "TrackComposer": "Gyedu-Blay Ambolley",
+            "MBID": "0830d341-86d2-4c70-8326-c7e363613142",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Al Foster Quartet",
+            "TrackTitle": "Peter's Mood",
+            "TrackComposer": "Peter King",
+            "MBID": "e2f919d9-f759-46f6-8431-92ddb1cfaf9d",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "West African Rhythm Brothers",
+            "TrackTitle": "Adura",
+            "TrackComposer": "Lijadu Sisters",
+            "MBID": "ea53a080-8e78-45a0-ad2f-d57d0a9c12fa",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Serengeti",
+            "TrackTitle": "Afro Afro",
+            "TrackComposer": "",
+            "MBID": "03fc772f-4262-4422-a5a5-dfd96f99f219",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Alberto Herrera",
+            "TrackTitle": "Akra",
+            "TrackComposer": "",
+            "MBID": "840c4c5f-05fd-4a0c-b116-6d03c44c55e4",
+            "Category": "Warm-up tracks, early evening grooves, and mid-tempo hits"
+        },
+        {
+            "TrackArtist": "Jimi Tenor & Tony Allen",
+            "TrackTitle": "Afro Disco Beat",
+            "TrackComposer": "Tony Allen",
+            "MBID": "a77fc395-ed21-4e3a-bec2-54b8241ff0ca",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "William Onyeabor",
+            "TrackTitle": "Poor Boy",
+            "TrackComposer": "William Onyeabor",
+            "MBID": "e9fc56f0-3fd5-4535-8646-0e7df5bbe1d9",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Dibi Dobo",
+            "TrackTitle": "Wezon",
+            "TrackComposer": "Orchestre Poly-Rythmo de Cotonou",
+            "MBID": "ea058e34-fe40-4b66-9b9c-46092868c309",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Ebo Taylor",
+            "TrackTitle": "Palaver",
+            "TrackComposer": "Ebo Taylor",
+            "MBID": "ac10a8bd-eaab-47aa-837b-8629fb5565fa",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Charles Ewanj\u00e9",
+            "TrackTitle": "Sese Ni Sese",
+            "TrackComposer": "Pat Thomas",
+            "MBID": "299ca582-e000-4b35-b2d7-0ee9f27fa084",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Hood Surgeon",
+            "TrackTitle": "I Can Feel It",
+            "TrackComposer": "Marijata",
+            "MBID": "6e3fce8f-943a-4219-a0d7-308ad128e0c7",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "William Verkler",
+            "TrackTitle": "Home Today Gone Tomorrow",
+            "TrackComposer": "Goteh, Malilima, Mumba, Tembo",
+            "MBID": "5da2dc8a-56bb-439f-877d-c6af26e955cc",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Amanaz",
+            "TrackTitle": "Easy Street",
+            "TrackComposer": "Amanaz",
+            "MBID": "097237cc-4e53-42c5-bd0e-133d6d1248e4",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Rikki Ililonga",
+            "TrackTitle": "The Nature of Man",
+            "TrackComposer": "Rikki Ililonga",
+            "MBID": "5434abc1-3ba3-41e3-a302-5ef846e08eed",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Dee Dee Warwick",
+            "TrackTitle": "Don\u2019t You Ever Give Up",
+            "TrackComposer": "Rob 'Roy' Raindorf",
+            "MBID": "11de259d-99c1-4baa-af91-a320ccd7f6ce",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "BLO",
+            "TrackTitle": "Native Doctor",
+            "TrackComposer": "Berkely 'Laolu' Amao",
+            "MBID": "e39b83e1-ed7d-43c9-98cb-cc3d3887a256",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Massiv",
+            "TrackTitle": "Mahmoud",
+            "TrackComposer": "Mahmoud Ahmed",
+            "MBID": "b7f0bfcc-09bf-4a97-9804-d8abb2294f3a",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Hailu Mergia and The Walias",
+            "TrackTitle": "Yenuro tesfa alegne",
+            "TrackComposer": "Tilahun Gessesse",
+            "MBID": "b6e83e7a-cc49-48de-99b7-d2e1c9695059",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Al\u00e8may\u00e8hu Esh\u00e8t\u00e9",
+            "TrackTitle": "Eskegizew Bertchi (Arr. Girma Beyene)",
+            "TrackComposer": "Girma B\u00e8y\u00e8n\u00e8",
+            "MBID": "86319cb9-60f0-4457-aff2-8b84a6ef7868",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Anthony Burger",
+            "TrackTitle": "The Lord's Prayer; Sweet Hour of Prayer",
+            "TrackComposer": "The Sweet Talks",
+            "MBID": "107c221e-7114-4f4d-b755-4e81a820fa6e",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "The African Brothers International Band",
+            "TrackTitle": "African Brothers Band",
+            "TrackComposer": "Nana Kwame Ampadu",
+            "MBID": "c0013c91-f200-424a-9826-c3944e312d41",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Super Mama Djombo",
+            "TrackTitle": "Camban\u00e7a djombo",
+            "TrackComposer": "Super Mama Djombo",
+            "MBID": "67790c50-2d53-49ad-a519-e5d5619b76d1",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Taina Asili",
+            "TrackTitle": "En la verdad",
+            "TrackComposer": "Gnonnas Pedro",
+            "MBID": "feb42946-caf1-4af5-99f1-3587ec73e8e6",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Uncurbed",
+            "TrackTitle": "A Psychedelic Party",
+            "TrackComposer": "The Psychedelic Aliens",
+            "MBID": "f720fbee-8d4d-47ca-9a36-b85a650a9bd5",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Vanja Sky",
+            "TrackTitle": "Give Me Back My Soul",
+            "TrackComposer": "Itadi",
+            "MBID": "703bb3e1-b423-4506-8d2d-0bd0e9512a6c",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Roger Damawuzan",
+            "TrackTitle": "Fine Fine",
+            "TrackComposer": "Roger Damawuzan",
+            "MBID": "cd206c0c-2e8a-45a8-ad15-33d4640b4e5d",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Gyedu-Blay Ambolley",
+            "TrackTitle": "Fa No Dem Ara",
+            "TrackComposer": "Gyedu-Blay Ambolley",
+            "MBID": "0b74073e-5a54-4582-9f55-5d9201f533cc",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Cosa Nostra",
+            "TrackTitle": "Let's Be Happy",
+            "TrackComposer": "The Apostles",
+            "MBID": "493329f3-d0c6-4eb8-b153-906b7bb2d042",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Ofo & The Black Company",
+            "TrackTitle": "Allah Wakbarr",
+            "TrackComposer": "Ofo The Black Company",
+            "MBID": "0402ab76-b78f-44a3-a5d0-72245f143a63",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "Alex Konadu",
+            "TrackTitle": "Agyemang Dua",
+            "TrackComposer": "Eric Agyemang",
+            "MBID": "c455dcfd-6914-4e77-9887-46e5ea77cd70",
+            "Category": "Late-night anthems and closing tracks"
+        },
+        {
+            "TrackArtist": "George Darko",
+            "TrackTitle": "Ako Te Brofo",
+            "TrackComposer": "George Darko",
+            "MBID": "45578530-88af-4282-802f-d17a444a78e9",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Gnonnas Pedro and His Dadjes Band",
+            "TrackTitle": "L'Indomptable Gnonnas",
+            "TrackComposer": "Gnonnas Pedro",
+            "MBID": "49cd0e0e-5529-4437-b128-b3ffb2b73a31",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Pat Thomas & Kwashibu Area Band",
+            "TrackTitle": "Gyae Su",
+            "TrackComposer": "Pat Thomas",
+            "MBID": "cb3c089e-e862-4e42-8499-fafa80f9e31f",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Ghetto Blaster",
+            "TrackTitle": "Na Waya",
+            "TrackComposer": "Ray Lema",
+            "MBID": "9ba01f94-091d-44ea-9664-01c5e3d5c9df",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "E.T. Mensah & The Tempos",
+            "TrackTitle": "Fom Fom",
+            "TrackComposer": "G. T. Brothers",
+            "MBID": "93d46fb9-8ac1-40d7-9e67-46441e736852",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Charles Williams",
+            "TrackTitle": "Devil's Gallop (b)",
+            "TrackComposer": "A. B. Crentsil",
+            "MBID": "feb5e4b5-b1e2-4855-a613-a4d20904624d",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Babatunde Olatunji",
+            "TrackTitle": "Jolly Mensah",
+            "TrackComposer": "Joe Mensah",
+            "MBID": "3ca34f5a-2eb7-4870-9eaf-95376318a2b6",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Ify Jerry Krusade",
+            "TrackTitle": "Everybody Likes Something Good",
+            "TrackComposer": "Ify Jerry Crusade",
+            "MBID": "83f156d9-9f8c-4d58-a6cb-7a6ac582fef1",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Dk Pilo",
+            "TrackTitle": "Mi Kpede Dunye",
+            "TrackComposer": "T. P. Orchestre Poly-Rythmo",
+            "MBID": "6cf950cb-4968-483f-a171-de6b5a0a2427",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "David King",
+            "TrackTitle": "I Want to Feel Good",
+            "TrackComposer": "Marijata",
+            "MBID": "11a52e39-d54d-4a72-9f09-de97cd2756b9",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Christy Essien Igbokwe",
+            "TrackTitle": "Seun Rere (Yoruba)",
+            "TrackComposer": "Christy Essien Igbokwe",
+            "MBID": "a9e2937c-9f1f-4dd8-8216-cb3f98a94516",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "DJ Stefan Egger",
+            "TrackTitle": "Shina Afro Tribe",
+            "TrackComposer": "Shina Peters",
+            "MBID": "985ff10a-c32a-4060-8d16-7071f40e9f91",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Papa Wemba",
+            "TrackTitle": "Koffi Olomide",
+            "TrackComposer": "Koffi Olomide",
+            "MBID": "6943f7f1-5ca1-4980-b0ad-5849be5a9f6f",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Erik Pilani Paliani",
+            "TrackTitle": "Ndege",
+            "TrackComposer": "Warriors of the World",
+            "MBID": "4209887e-9298-481e-ba69-79a507c6c505",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "The Mob",
+            "TrackTitle": "Gemini Lady",
+            "TrackComposer": "Gemini",
+            "MBID": "f5d3129a-7510-4afd-881b-a599b8e18d04",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Gboyega Adelaja",
+            "TrackTitle": "Colourful Environment",
+            "TrackComposer": "Gboyega Adelaja",
+            "MBID": "20d26421-4566-4174-b37b-23bc1af2dcdf",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "MC Sharkey & Dee",
+            "TrackTitle": "Can Can You Do It",
+            "TrackComposer": "The Comets",
+            "MBID": "e071e13d-60a4-4c9e-947a-a786ccea212c",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Thandiswa Mazwai feat. Ntisiki Mazwai",
+            "TrackTitle": "Vana Vevhu (Funk Afrika)",
+            "TrackComposer": "Ice",
+            "MBID": "6048c7dd-5cc2-4f31-b49f-dbf80f3256c8",
+            "Category": "Crossover hits that also charted in other genres"
+        },
+        {
+            "TrackArtist": "Acoustic Groove Band",
+            "TrackTitle": "Greetings From the Ghetto",
+            "TrackComposer": "Joni Haastrup",
+            "MBID": "907b78cf-af81-40bc-bfc3-4bf6f89213a3",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Rikki Ililonga",
+            "TrackTitle": "Sansa Kuwa",
+            "TrackComposer": "Rikki Ililonga",
+            "MBID": "a1da9179-cdf9-456f-a529-f21784c93523",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Yaelllavie",
+            "TrackTitle": "Mamman Sani",
+            "TrackComposer": "Mamman Sani Abdoulaye",
+            "MBID": "fbf27948-be33-484b-a2af-a7d2f1d1c4ac",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "King Sunny Ad\u00e9",
+            "TrackTitle": "Ja Funmi",
+            "TrackComposer": "King Sunny Ad\u00e9",
+            "MBID": "de503ef8-79ad-4e76-a666-cdd977dd438f",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Gnonnas Pedro and His Dadjes Band",
+            "TrackTitle": "Africa Tei Cuba",
+            "TrackComposer": "Gnonnas Pedro",
+            "MBID": "d0f625d4-4fde-40fa-af93-df36815a32f7",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Alpacas Collective",
+            "TrackTitle": "Tilahun",
+            "TrackComposer": "Tilahun Gessesse",
+            "MBID": "aa0782c7-6589-49a2-bc90-719218b620e5",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Mahmoud Ahmed",
+            "TrackTitle": "Er\u00e8 m\u00e8la m\u00e8la",
+            "TrackComposer": "Mahmoud Ahmed",
+            "MBID": "4f1ce017-721d-4434-8130-e5ab929aceed",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Girma B\u00e8y\u00e8n\u00e8",
+            "TrackTitle": "En\u00e9 n\u00e8gn bay man\u00e8sh",
+            "TrackComposer": "Girma B\u00e8y\u00e8n\u00e8",
+            "MBID": "c4935ab1-d9be-482a-9e0f-acfedda24791",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Segun Bucknor and the Assembly",
+            "TrackTitle": "La-La-La-Eh-Eh-Eh (part 1 & 2)",
+            "TrackComposer": "Segun Bucknor",
+            "MBID": "52ac2025-52da-4919-88d2-658b25d716c5",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Alhaji K. Frimpong",
+            "TrackTitle": "Abrabo",
+            "TrackComposer": "K. Frimpong",
+            "MBID": "633d4cdc-3817-430f-905c-0796dbe69317",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Balaphonics",
+            "TrackTitle": "Ifang Bondi",
+            "TrackComposer": "Ifang Bondi",
+            "MBID": "918eddc6-95d4-4cfa-ab35-f5d1e426a715",
+            "Category": "Critically acclaimed masterpieces and award-winning tracks"
+        },
+        {
+            "TrackArtist": "Sons Of Disaster",
+            "TrackTitle": "Land of the Sons",
+            "TrackComposer": "The Apostles",
+            "MBID": "a53a813b-2a43-48ad-9624-5515b8a7166d",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Afro Funk",
+            "TrackTitle": "Afro Funk",
+            "TrackComposer": "Afro Funk",
+            "MBID": "78c1d757-a85a-4405-a33c-1ad4e79fc054",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Mike Umoh",
+            "TrackTitle": "Disco Reggae",
+            "TrackComposer": "Ice",
+            "MBID": "c364f8cc-0af2-45ba-8fb5-b5f5703b8bca",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Like A Tim",
+            "TrackTitle": "Something For Everyone",
+            "TrackComposer": "Tornadoes",
+            "MBID": "8e11a9f0-11a2-4082-9d9a-9242f0be8cf8",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Mary Afi Usuah",
+            "TrackTitle": "Afia Mma (Hulalah)",
+            "TrackComposer": "Mary Afi Usuah",
+            "MBID": "f0e036f3-ec79-4efb-8483-cc65821b68b0",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Reuben Rogers",
+            "TrackTitle": "Wala Wala",
+            "TrackComposer": "Guelewar",
+            "MBID": "10ac29d6-a908-4dde-9d79-613189451237",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Balla et ses Balladins",
+            "TrackTitle": "Sara",
+            "TrackComposer": "Balla et ses Balladins",
+            "MBID": "c1dbeb9e-8245-4552-8049-13c97970bf94",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Orchestre Regional de Kayes",
+            "TrackTitle": "Malisajo",
+            "TrackComposer": "Orchestre Regional De Kayes",
+            "MBID": "13f5b2c2-8f18-468c-b230-46649f234aed",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Super Biton de S\u00e9gou",
+            "TrackTitle": "Super Biton",
+            "TrackComposer": "Super Biton De S\u00e9gou",
+            "MBID": "8b79b870-39b2-4262-b1c1-a842a4fdf721",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Les Ambassadeurs Du Motel De Bamako",
+            "TrackTitle": "Djoula",
+            "TrackComposer": "Les Ambassadeurs Du Motel De Bamako",
+            "MBID": "d66520b8-f632-4c26-bebb-e9f4e094e773",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Donae\u2019o",
+            "TrackTitle": "Mind Your Business",
+            "TrackComposer": "Ebo Taylor Jr.",
+            "MBID": "c0cd1ef3-bca4-4ebc-b145-7feeb08439ef",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Pat Thomas & The Big '7'",
+            "TrackTitle": "Eye Colo",
+            "TrackComposer": "Pat Thomas",
+            "MBID": "54e9ca8a-cc83-419d-a114-522b026f4150",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Sweet Talks featuring A.B. Crentsil",
+            "TrackTitle": "Fakye Me",
+            "TrackComposer": "A.B. Crentsil",
+            "MBID": "d852b4c6-b0a1-450f-956a-1f3017e16f63",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Hot Jam",
+            "TrackTitle": "My Name Is Joe",
+            "TrackComposer": "Joe Mensah",
+            "MBID": "34c94d49-0be8-4dcb-bf32-229b4742122d",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Gary Husband",
+            "TrackTitle": "Sulley",
+            "TrackComposer": "Oscar Sulley",
+            "MBID": "6f92ddf8-178d-42ef-806a-d270955bb278",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Township Gang",
+            "TrackTitle": "Africa, Africa, Africa",
+            "TrackComposer": "Bob Pinodo",
+            "MBID": "609cdaef-fcc5-44d6-a642-56d7f4ccdf07",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Matthew Ryan",
+            "TrackTitle": "Watch Your Step",
+            "TrackComposer": "Itadi",
+            "MBID": "9e44611f-ba72-45f1-a104-e196d88b5d9f",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Henri Dikongu\u00e9",
+            "TrackTitle": "Ndedi Namba",
+            "TrackComposer": "Guy Lobe",
+            "MBID": "5c877e40-ef41-4ad7-bf78-ebdb347cc6ff",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Frej Larsson feat. Aida Samb & Muhammed Faal",
+            "TrackTitle": "Fate Womala",
+            "TrackComposer": "J. O. B. Orkest",
+            "MBID": "f754a953-160d-46a8-8af5-8aae47e6f3fa",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Grupo Exploraci\u00f3n",
+            "TrackTitle": "Agbe",
+            "TrackComposer": "Roger Damawuzan",
+            "MBID": "135d2c1e-c422-4c42-badd-9dc4120db565",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Gryllus Vilmos",
+            "TrackTitle": "Tigris",
+            "TrackComposer": "Tigris",
+            "MBID": "6fe039fa-7abb-4f1c-b7ee-cda5a64e0958",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Bowser and Blue",
+            "TrackTitle": "I Am a Man",
+            "TrackComposer": "The Ogyaps",
+            "MBID": "a93615d7-072b-4de4-a77a-7261eb549e87",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Tony Sarfo & His Afrosibi Gang",
+            "TrackTitle": "Little Angel",
+            "TrackComposer": "Tony Sarfo",
+            "MBID": "a8f7e1ab-d276-45a5-bb9f-675429d253a8",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Thunder in the Valley",
+            "TrackTitle": "Thunder in the Valley",
+            "TrackComposer": "The Stormmers",
+            "MBID": "ba412241-0de0-4387-9933-0cc03aac9976",
+            "Category": "Songs occuring most on playlists on youtube for this genre"
+        },
+        {
+            "TrackArtist": "Dariusz Jackowski",
+            "TrackTitle": "Houngan",
+            "TrackComposer": "Orchestre Poly-Rythmo de Cotonou",
+            "MBID": "21bb5d1d-19c1-4052-bf65-68ac08501495",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Rikki Ililonga",
+            "TrackTitle": "Stop Dreaming Mr. D",
+            "TrackComposer": "Rikki Ililonga",
+            "MBID": "73efa9f9-3e2d-4889-96e5-c1b1e1d4d32e",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Hank Williams",
+            "TrackTitle": "Mind Your Own Business",
+            "TrackComposer": "Laolu Akins",
+            "MBID": "99ee9d0a-3604-4a9e-b292-51a83527ffb1",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Seyoum G\u00e8br\u00e8y\u00e8s",
+            "TrackTitle": "Muziqa Muziqa",
+            "TrackComposer": "Girma B\u00e8y\u00e8n\u00e8",
+            "MBID": "25be14f5-de99-475e-84f9-69cb84de2ba9",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "B.D. Foxmoor",
+            "TrackTitle": "When the Gun Talks",
+            "TrackComposer": "The Sweet Talks",
+            "MBID": "dc750fd8-b632-4f43-8923-3a73de4874f4",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Oomph!",
+            "TrackTitle": "The World Is Yours",
+            "TrackComposer": "The Black Mirrors",
+            "MBID": "c6fc79d6-6422-4615-a4f4-b07164774036",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Poto Doudongo",
+            "TrackTitle": "Bolingo",
+            "TrackComposer": "Joe Mensah",
+            "MBID": "080c3df8-5978-40f0-935f-0b1518635093",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Exium",
+            "TrackTitle": "Togo Togo",
+            "TrackComposer": "Togo All Stars",
+            "MBID": "f0f1da6d-e1d0-4f61-9a78-582bc3dea965",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Heron",
+            "TrackTitle": "Take Me Back Home",
+            "TrackComposer": "Itadi",
+            "MBID": "3ad76c98-9716-482d-bbc9-9bf5419cb452",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Roger Damawuzan",
+            "TrackTitle": "Wait for Me",
+            "TrackComposer": "Roger Damawuzan",
+            "MBID": "840f16e2-841e-4215-b0bd-b479e7e76fc6",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Banda Comunale",
+            "TrackTitle": "Bukom Mashie",
+            "TrackComposer": "Oscar Sulley",
+            "MBID": "1134a2f2-3c77-485d-9fa5-7326d1652698",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "My Soundtracked Life",
+            "TrackTitle": "Nigeria",
+            "TrackComposer": "Chief Chekwas",
+            "MBID": "0a1d3228-a661-4a42-8a8b-8156532df947",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Nomoreloss feat. Puffy Tee",
+            "TrackTitle": "Ifeoma",
+            "TrackComposer": "Felix Liberty",
+            "MBID": "80c6eec0-b83f-4b74-ab73-5a4361464d3a",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Thank-You for Astronauts",
+            "TrackTitle": "Black Children",
+            "TrackComposer": "Black Children",
+            "MBID": "e2817ffb-0acc-4d7d-8ad1-0252932d6143",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Digital Orchestra",
+            "TrackTitle": "Bisso na bisso",
+            "TrackComposer": "Joe Bisso",
+            "MBID": "8d978387-79a4-49a4-941b-dc7e7453def6",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Segun Bucknor",
+            "TrackTitle": "Adanri Sogbasogba",
+            "TrackComposer": "Segun Bucknor",
+            "MBID": "922cf369-30b3-4770-a377-6f557d8cfd63",
+            "Category": "Songs occuring most on playlists on spotify for this genre"
+        },
+        {
+            "TrackArtist": "Piirpauke",
+            "TrackTitle": "Kantele",
+            "TrackComposer": "Goteh, Malilima, Mumba, Tembo",
+            "MBID": "44a75272-dc4f-445d-88fe-8346887d2bfb",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Rikki Ililonga",
+            "TrackTitle": "Stop Dreaming Mr. D",
+            "TrackComposer": "Rikki Ililonga",
+            "MBID": "51c0a605-2430-4493-aca3-05b14447b612",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "BLO",
+            "TrackTitle": "We Are Out Together",
+            "TrackComposer": "Laolu Akins",
+            "MBID": "41126bb7-705d-4575-aa9c-4ac97da01864",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Lucy Pearl",
+            "TrackTitle": "Don\u2019t Mess With Man",
+            "TrackComposer": "Joni Haastrup",
+            "MBID": "687ba35d-51d6-4d35-a878-c9f8e7aa56f5",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Mahmoud Ahmed",
+            "TrackTitle": "Atawurulegn l\u00e9la",
+            "TrackComposer": "Mahmoud Ahmed",
+            "MBID": "b29d8194-72b4-4740-be31-1a7b5cf2fb75",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Uchpa",
+            "TrackTitle": "Kusi Kusun",
+            "TrackComposer": "The Sweet Talks",
+            "MBID": "c23ace1b-957e-47a6-8279-fc7ab418b7c0",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "The Psychedelic Aliens",
+            "TrackTitle": "Hijacking",
+            "TrackComposer": "The Psychedelic Aliens",
+            "MBID": "3a2f44b4-d251-4cf1-9afd-aa1877ed8f89",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Morris Lane & His Orchestra",
+            "TrackTitle": "Joe's Beat",
+            "TrackComposer": "Joe Mensah",
+            "MBID": "c9bae77c-9ff7-4b02-ab29-750053a40e17",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Barcelona",
+            "TrackTitle": "Get Up, Get Up, Get Up",
+            "TrackComposer": "Itadi",
+            "MBID": "29c20ed2-9f16-4895-aa81-08b4f941a081",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Tea Cozies",
+            "TrackTitle": "Loxo",
+            "TrackComposer": "Roger Damawuzan",
+            "MBID": "f6942215-bf1a-477e-bda5-b414c536befe",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Pierre Perret",
+            "TrackTitle": "C\u2019est bon c\u2019est bon",
+            "TrackComposer": "Chico Et Ses Chikelettes",
+            "MBID": "f367b228-cad7-4b79-aa5d-1db32ffc9842",
+            "Category": "Songs occuring most on playlists on deezer for this genre"
+        },
+        {
+            "TrackArtist": "Tony Allen",
+            "TrackTitle": "Road Safety",
+            "TrackComposer": "Tony Allen",
+            "MBID": "921e32c8-cfcb-4d0c-b957-2ba2859d79d9",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "VHS Dreams",
+            "TrackTitle": "We Live (In a Society)",
+            "TrackComposer": "Marijata",
+            "MBID": "43a0dac6-5549-4bb0-82ad-be8165107507",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Amanaz",
+            "TrackTitle": "Green Apple",
+            "TrackComposer": "Amanaz",
+            "MBID": "8ffc4944-528b-496d-89d5-e9efcae6dee7",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Rikki Ililonga",
+            "TrackTitle": "Sunshine Love",
+            "TrackComposer": "Rikki Ililonga",
+            "MBID": "19b19ce2-3918-4583-aca4-2e64c8be0abc",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Rob Hodge",
+            "TrackTitle": "Thank You",
+            "TrackComposer": "Rob 'Roy' Raindorf",
+            "MBID": "d877ad07-13d4-40bf-a150-236960a0921d",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Osibisa",
+            "TrackTitle": "Fire",
+            "TrackComposer": "Osibisa",
+            "MBID": "e16a6b8f-9f98-4396-93c3-adad741306c8",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Mahmoud Ahmed",
+            "TrackTitle": "B\u00e8lomi b\u00e8nna",
+            "TrackComposer": "Mahmoud Ahmed",
+            "MBID": "07f83d7a-e263-48e9-aa1a-44d7efba4c1a",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Pinar Toprak",
+            "TrackTitle": "Kem Sweet Talks Ona",
+            "TrackComposer": "The Sweet Talks",
+            "MBID": "82dca881-d48b-4668-b188-7a68cf35eb59",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "The African Brothers International Band",
+            "TrackTitle": "Nkrabea Pt 2",
+            "TrackComposer": "Nana Kwame Ampadu",
+            "MBID": "75894045-e75a-4d9e-8ca0-6127ea2dbc54",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Gnonnas Pedro",
+            "TrackTitle": "Yiri yiri boum",
+            "TrackComposer": "Gnonnas Pedro",
+            "MBID": "d83807f9-334f-46b5-8190-59d3a2895592",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Jovi",
+            "TrackTitle": "Man Pass Man",
+            "TrackComposer": "Geraldo Pino",
+            "MBID": "87208088-d212-44a5-b9fc-c0956bf2758c",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "ElectroNobody",
+            "TrackTitle": "Aliens Dreams",
+            "TrackComposer": "The Psychedelic Aliens",
+            "MBID": "70485d7b-4059-4218-b815-30b8c405729d",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "\u4e45\u5b9d\u7559\u7406\u5b50",
+            "TrackTitle": "MY LOVE,MY SOUL",
+            "TrackComposer": "Joe Mensah",
+            "MBID": "d4d3ab9e-1ac4-475e-a3cf-b3dae1bbd2b4",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Itadi",
+            "TrackTitle": "Ayala",
+            "TrackComposer": "Itadi",
+            "MBID": "31d6ca49-9d63-4aab-8d46-22785deaf80e",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Mateus Aleluia",
+            "TrackTitle": "Mawu",
+            "TrackComposer": "Roger Damawuzan",
+            "MBID": "6ba7d994-1809-443e-a68c-78656fb117ea",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Gyedu-Blay Ambolley",
+            "TrackTitle": "Brokos",
+            "TrackComposer": "Gyedu-Blay Ambolley",
+            "MBID": "7b329fc9-8fd8-49a1-a735-e839167fcb27",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Opambuo International Band of Ghana",
+            "TrackTitle": "Odo Yewu",
+            "TrackComposer": "Pax Nicholas",
+            "MBID": "d7d21104-0f20-4426-95f6-94c281c62f29",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "DJ Design",
+            "TrackTitle": "Never Be the Same",
+            "TrackComposer": "The Apostles",
+            "MBID": "d048fa05-95f8-4d4b-a43d-092dcb8f4124",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Astral Project",
+            "TrackTitle": "O.F.O.",
+            "TrackComposer": "Ofo The Black Company",
+            "MBID": "2dcf0f86-373b-4b4f-9eb2-a91640e2153c",
+            "Category": "Songs occuring most on playlists on soundcloud for this genre"
+        },
+        {
+            "TrackArtist": "Hossam Ramzy",
+            "TrackTitle": "Olulu",
+            "TrackComposer": "Mike Ejeagha",
+            "MBID": "162388b2-3649-48ad-96fd-7b9eccd42aa2",
             "Category": "Songs occuring most on playlists on soundcloud for this genre"
         }
     ]
