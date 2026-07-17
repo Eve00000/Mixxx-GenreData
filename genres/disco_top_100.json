@@ -2,7 +2,7 @@
     "SearchField": "Disco Top 100",
     "Category": "",
     "Focus": "artist",
-    "RefreshRate": 7,
+    "RefreshRate": 0,
     "AppendMode": "clear",
     "Timestamp": "2026-07-15T19:23:41Z",
     "TotalTracks": 448,
