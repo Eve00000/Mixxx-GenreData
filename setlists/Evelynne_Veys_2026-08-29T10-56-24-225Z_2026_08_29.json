@@ -1,0 +1,29 @@
+{
+    "PlaylistName": "Evelynne_Veys_2026-08-29T10-56-24-225Z_2026_08_29",
+    "PlaylistTitle": "2026-08-29",
+    "PlaylistDescription": "",
+    "PlaylistStyle": "",
+    "PlaylistUserName": "Evelynne Veys",
+    "PlaylistUserEmail": "eve@mixxx.org",
+    "PlaylistCreationDate": "2026-08-29T10:56:24.225Z",
+    "Timestamp": "2026-08-29T10:56:24.225Z",
+    "Category": "AutoDJ",
+    "Focus": "position",
+    "TotalTracks": 2,
+    "Tracks": [
+        {
+            "TrackArtist": "Tina Turner",
+            "TrackTitle": "Private Dancer",
+            "TrackComposer": "",
+            "MBID": "",
+            "OriginalPosition": 1
+        },
+        {
+            "TrackArtist": "Pink Floyd",
+            "TrackTitle": "Money",
+            "TrackComposer": "",
+            "MBID": "",
+            "OriginalPosition": 2
+        }
+    ]
+}
