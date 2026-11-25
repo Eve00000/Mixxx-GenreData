@@ -1,0 +1,86 @@
+name: Mixxx Now Playing Uplink (Keep Supabase Alive Growing List)
+
+on:
+  schedule:
+    # Every 10 minutes
+    - cron: '10,30,50 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write # needed to commit the state file back
+
+jobs:
+  uplink:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Build growing list and POST to Vercel
+        env:
+          USER_ID: ${{ secrets.MIXXX_USER_ID }}
+          UPLINK_URL: ${{ secrets.UPLINK_URL }}
+          NOWPLAYING_FILE: NowPlaying.txt
+          STATE_FILE: .uplink-state
+        run: |
+          set -euo pipefail
+
+          [ -f "$NOWPLAYING_FILE" ] || { echo "❌ $NOWPLAYING_FILE missing"; exit 1; }
+
+          # Extract all unique tracks in file order
+          mapfile -t TRACKS < <(awk -F' \\| ' '
+            /^#/ { next }
+            NF >= 2 {
+              t = $NF
+              gsub(/^[[:space:]]+|[[:space:]]+$/, "", t)
+              if (t != "") print t
+            }
+          ' "$NOWPLAYING_FILE" | awk '!seen[$0]++')
+
+          TOTAL=${#TRACKS[@]}
+          echo "📀 File contains $TOTAL unique tracks"
+          [ "$TOTAL" -gt 0 ] || { echo "❌ No tracks found"; exit 1; }
+
+          # How many were already uploaded? (persisted across runs)
+          COUNT=0
+          [ -f "$STATE_FILE" ] && COUNT=$(cat "$STATE_FILE" | tr -dc '0-9')
+          COUNT=${COUNT:-0}
+          echo "📤 Already uploaded: $COUNT"
+
+          # Advance by one (and stop at total)
+          NEXT=$((COUNT + 1))
+          [ "$NEXT" -gt "$TOTAL" ] && NEXT=$TOTAL
+          echo "➡️  Uploading first $NEXT tracks"
+
+          # Build the growing list
+          CONTENT=""
+          for ((i=0; i<NEXT; i++)); do
+            CONTENT+="${TRACKS[$i]}"$'\n'
+          done
+
+          echo "----- payload -----"
+          printf '%s' "$CONTENT"
+          echo "-------------------"
+
+          # POST to Vercel uplink
+          HTTP_CODE=$(curl -s -o /tmp/resp.txt -w "%{http_code}" \
+            -X POST "$UPLINK_URL" \
+            -H "Content-Type: application/json" \
+            -d "$(jq -n --arg uid "$USER_ID" --arg c "$CONTENT" '{userId:$uid, content:$c}')")
+
+          echo "HTTP $HTTP_CODE"
+          echo "Response: $(cat /tmp/resp.txt)"
+          [ "$HTTP_CODE" -ge 200 ] && [ "$HTTP_CODE" -lt 300 ] || { echo "❌ Uplink failed"; exit 1; }
+
+          # Persist new count
+          echo "$NEXT" > "$STATE_FILE"
+          echo "✅ Uploaded $NEXT / $TOTAL tracks"
+
+      - name: Commit state back to repo
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add .uplink-state
+          git diff --staged --quiet && echo "No change" && exit 0
+          git commit -m "chore: uplink state → $(cat .uplink-state)"
+          git push
